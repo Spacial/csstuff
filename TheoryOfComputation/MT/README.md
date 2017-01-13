@@ -2,7 +2,7 @@
 
 ## JFLAP Exercises
 
-These machines are from Marcos Castilho site (http://inf.ufpr.br/castilho/ci703):
+These machines are from Marcos Castilho site (http://www.inf.ufpr.br/marcos/ci703/):
  * 1-mt_sl13_ex3_1.jff
  * 1-mt_sl13_ex3_2.jff
  * 1-mt_sl13_ex3_3.jff
