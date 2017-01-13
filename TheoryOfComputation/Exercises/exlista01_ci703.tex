@@ -1,0 +1,107 @@
+% Copyright 2016 Jacson Querubin <spacial@gmail.com>
+% Todo código LaTeX está sob GPL v3 ou superior
+\documentclass[a4paper,12pt]{article}
+%\documentclass[a4paper,12pt]{scrartcl}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+% \usepackage{verbatim}
+\usepackage[brazil]{babel}
+\usepackage[scaled=0.9]{helvet}		% Sans Serif
+\usepackage{courier}			% Verbatim, Listings, etc
+% fonte usada no corpo do texto (descomente apenas uma)
+\usepackage{newtxtext,newtxmath}	% Times (se não tiver, use mathptmx)
+%\usepackage{lmodern}			% Computer Modern (fonte clássico LaTeX)
+%\usepackage{kpfonts}			% Kepler/Palatino (idem, use mathpazo)
+%\renewcommand{\familydefault}{\sfdefault} % Arial/Helvética (leia abaixo)
+\usepackage{hyperref}
+
+\title{1ª Lista de Teoria da Computação - CI703}
+\author{Jacson Querubin}
+\date{18/09/2016}
+
+\pdfinfo{%
+  /Title    (Lista de exercícios de Teoria da Computação)
+  /Author   (Jacson Querubin)
+  /Creator  (Jacson Querubin)
+  /Producer (Jacson Querubin)
+  /Subject  ()
+  /Keywords ()
+}
+
+\newcommand{\alfabeto}[3][\ast]{$\{$#2#3$\}^{#1}$}
+\newcommand{\abimpar}[4][\ast]{$\{$#2$\}^{#1}\{$#3$\}\{$#4$\}^{#1}$}
+\begin{document}
+\maketitle
+
+\begin{enumerate}
+	\item Qual é o número de prefixos, sufixos e subpalavras de uma palavra tamanho $n$?
+		\textbf{Resposta}:\\ 
+		\hspace*{55pt}$  n = vu  $\\
+		\hspace*{35pt}\textit{Prefixos}: $ v \mid v = \{n-n(\lambda), n-(n-1), \ldots, n\} \therefore $   $ \mid v\mid = n+1$; \\
+		\hspace*{35pt}\textit{Sufixos}: $ u \mid u = \{n-n(\lambda), n-(n-1), \ldots, n\} \therefore $    $ \mid u\mid = n+1$; \\
+		\hspace*{35pt}\textit{Total de subpalavras}: \\
+		\hspace*{55pt}$\;  \mid n \mid = 0 = \lambda  (a)$ \\
+		\hspace*{55pt} Soma-se todos as possiblidades de tamanho de prefixos$/$sufixos (descarta-se metade por sobreposição), mais a menor subpalavra existente: $1 (\lambda$ foi tratado em $a) = \sum_{i=1}^{n}v_{i}$, onde $v_{i}$ é a subpalavra de tamanho $i$, portanto: \\ 
+		\hspace*{55pt} $ \dfrac{n}{2}(n+1) + 1$  
+
+	\item Descreva mais formalmente as seguintes linguagens sobre o alfabeto \texttt{\{0,1\}}:
+	\begin{enumerate}
+ 		\item O conjunto das palavras com, no mínimo, um \texttt{0};
+		\newline \textbf{Resposta}: \texttt{$\{$1$\}^{\ast}\{$0$\}\{$0,1$\}^{\ast}$   }
+  		\item O conjunto das palavras de tamanho ímpar;
+		\newline \textbf{Resposta}: \texttt{$\{$0,1$\}^{+}\{$00,01,10,11$\}^{\ast}$   }
+  		\item O conjunto das palavras com um prefixo de um ou mais \texttt{0}'s seguido (imediatamente) de um sufixo de zero ou mais \texttt{1}'s;
+  		\newline \textbf{Resposta}: \texttt{$\{$0$\}^{+}\{$1$\}^{\ast}$   }
+		\item O conjunto dos palíndromos que não contenham símbolos consecutivos idênticos;
+		\newline \textbf{Resposta}: \texttt{\abimpar[n]{01}{0}{10} $\cup$ \abimpar[n]{10}{1}{10} $\cup$ $ \{$010$,$101$,$0$,$1$\}$  }
+  		\item O conjunto das palavras de tamanho par cuja primeira metade é idêntica à segunda.
+		\newline \textbf{Resposta}: \texttt{$($\alfabeto[n]{0,}{1}$)^{2}$}
+		\\
+  		Procure ser bem preciso e conciso.
+ 	\end{enumerate}
+ 	\item  Expresse as linguagens a seguir utilizando operações sobre conjuntos finitos de palavras de \texttt{\{0,1\}$^{\ast}$}. Considere o alfabeto como sendo \texttt{\{0,1\}}.
+ 	\begin{enumerate}
+		\item O conjunto das palavras de 10 símbolos;
+		\newline \textbf{Resposta}: $\{$ \texttt{\alfabeto[n]{0,}{1}} $\mid n = 10 \}$
+		\item O conjunto das palavras que têm 1 a 200 símbolos;
+		\newline \textbf{Resposta}: $\{$ \texttt{\alfabeto[n]{0,}{1}} $\mid 1 \leq n \leq 200 \}$
+		\item O Conjunto das palavras que não têm \texttt{00} como prefixo, mas têm \texttt{00} como sufixo;
+		\newline \textbf{Resposta}: $( U \cap $\texttt{\alfabeto{0,}{1}\alfabeto[]{00}{}} $) -$ \texttt{\alfabeto[]{00}{}\alfabeto{0,}{1}}
+		\item O conjunto das palavras em que todo \texttt{0} é seguido de dois \texttt{1}'s consecutivos;
+		\newline \textit{Exemplos}: $\lambda$, \texttt{1}, \texttt{1011111}, \texttt{11011101111};
+		\newline \textbf{Resposta}: \texttt{$($\alfabeto{1,}{011}$)$}
+		 %\texttt{$($\alfabeto{}{1}\alfabeto{0}{11}$)^{\ast}$\alfabeto{1}{} } 
+		\item O conjunto das palavras com número par de \texttt{0}'s ou ímpar de \texttt{1}'s (ou ambos);
+		\newline \textbf{Resposta}: $ ($\texttt{\alfabeto{1,}{00}$) \cup ($\alfabeto{}{0}\alfabeto[]{1}{}\alfabeto{11,}{0}}$) $
+		% incompleto: $ U - [($\texttt{\alfabeto{}{1}\alfabeto[]{0}{}\alfabeto{00}{1}}$) \cap ($\alfabeto{}{0}\alfabeto{11}{}$)] $ 
+		\item O conjunto das palavras que contêm um ou dois \texttt{1}'s cujo tamanho é múltiplo de 3. 
+		\newline \textbf{Resposta}: $\{ ($\texttt{\alfabeto[i]{}{0}\alfabeto[]{}{1}\alfabeto[j]{0}{}$) \cup ($\alfabeto[m]{}{0}\alfabeto[]{}{1}\alfabeto[n]{0}{}\alfabeto[]{}{1}\alfabeto[o]{0}{}}$) \mid i+j+1 = n $ $\vee m+n+o+2 = n$, $n$ mod $3 = 0 \}$
+	\end{enumerate}
+	\item Sejam A, B e C linguagens sobre um alfabeto $\Sigma$. Mostre que:
+		\begin{enumerate}
+		\item $ A ( B \cup C ) = (AB) \cup (AC) $ . 
+		\item  nem sempre $ A (B \cap C) = (AB) \cap (AC) $.
+		\end{enumerate}
+	\item Mostre que se $\lambda \in L$ então $L^{+} = L^{\ast}$ e se $ \lambda \notin L$ então $ L^{+} = L^{\ast} - \{ \lambda \} $.
+	\item Quando $L^{\ast}$ é finita?
+	\item Seja $ L^{R} = \{ \omega^{R} \mid \omega \in L\}$, onde $L$ é uma linguagem. Para que linguagens $L$, $L^{R} = L$?    
+	\item Prove que $L^{\ast}  = \cup_{n \in N} L^{n}$. (\textit{Sugestão}: para provar que $L^{\ast} \subseteq \cup_{n \in N} L^{n}$, use indução sobre $\mid \omega \mid$, e para provar que $\cup_{n \in N} L^{n} \subseteq L^{\ast}$, use indução sobre $n$.) 
+	\item Prove por indução que:
+		\begin{enumerate}
+                \item $L^{\ast}L^{\ast}=L^{\ast}$ 
+                \item $(L^{\ast})^{\ast}=L^{\ast}$
+		\item $(L_{1}\cup L_{2})^{\ast} L_{1}^{\ast} = ( L_{1}\cup L_{2})^{\ast}$
+                \item $(L_{1}\cup L_{2})^{\ast} = ( L_{1}^{\ast}L_{2}^{\ast})^{\ast}$
+		\end{enumerate}
+	\item Em que condições $L_{1}^{\ast} \cup L_{2}^{\ast} = ( L_{1} \cup L_{2})^{\ast}$ ?
+	\item Dê definições recursivas para as seguintes linguagens:
+               \begin{enumerate}
+		\item\texttt{\{0\}$^{\ast}$\{1\}$^{\ast}$}
+		\item\texttt{$\{$0$^{n}$1$^{n} \mid n \in N \}$} 
+		\item\texttt{$\{ \omega \in \{$0,1$\}^{\ast} \mid$} contém \texttt{00$\}$} 	
+		\item\texttt{$\{$0$^{0}$10$^{1}$10$^{2}$1$\ldots$0$^{n}$1 $ \mid n \in N \}$ }
+
+		\end{enumerate}
+\end{enumerate}
+
+\end{document}

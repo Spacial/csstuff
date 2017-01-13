@@ -1,0 +1,109 @@
+\section{Exercícios Sudkamp Pg. 293}
+
+10) Let L be the set of palindromes over ${a, b}$.\\
+
+\begin{enumerate}
+  \item[a)] Build a standard Turing machine that accepts L.%$ \{ a^{i}b^{i} \quad | \quad i \geqslant 0 \} \cup a^{*} \cup b^{*} $ \\
+     \begin{center}
+	\begin{tikzpicture}[->,>=stealth',shorten >=1pt,auto,node distance=3.25cm,semithick,bend angle=45]
+	\node[initial,state] 		(q0)             		{$q_{0}$};
+	\node[state] 			(q1) [right of=q0] 		{$q_{1}$};
+	\node[state]         		(q2) [above of=q0] 		{$q_{2}$};
+	\node[state]	         	(q3) [above of=q1] 		{$q_{3}$};
+	\node[state] 			(q4) [below of=q0]   		{$q_{4}$};
+	\node[state] 			(q5) [below of=q1] 		{$q_{5}$};
+	\node[state]         		(q6) [right of=q1] 		{$q_{6}$}; 
+	\node[state]         		(q7) [right of=q6] 		{$q_{7}$};
+	\node[state]         		(q8) [below right of=q7] 	{$q_{8}$}; 
+	\node[state,accepting]         	(q9) [above right of=q7] 	{$q_{9}$};
+	\path (q0) edge 	     node {$B/B, R$} 								(q1)
+	      (q1) edge   	     node {$a/X, R$} 								(q2)
+		   edge [below left] node {$b/Y, R$} 								(q4)
+		   edge [bend left]  node {\begin{tabular}{c}$Y/Y, R$ \\ $X/X, R$ \end{tabular}} 		(q7)
+	      (q2) edge [loop above] node {\begin{tabular}{c}$a/a, R$ \\ $b/b, R$\end{tabular}} 		(q2)
+		   edge   	     node {\begin{tabular}{c}$Y/Y, L$ \\ $X/X, L$ \\ $B/B, L$\end{tabular}} 	(q3)
+	      (q3) edge [above left] node {$a/X, L$} 								(q6)
+		   edge [bend left]  node {\begin{tabular}{c}$Y/Y, R$ \\ $X/X, R$ \end{tabular}} 		(q7)
+	      (q4) edge [loop below] node {\begin{tabular}{c}$a/a, R$ \\ $b/b, R$\end{tabular}} 		(q4)
+		   edge [below]	     node {\begin{tabular}{c}$Y/Y, L$ \\ $X/X, L$ \\ $B/B, L$\end{tabular}} 	(q5)
+	      (q5) edge [above left]node {$b/Y, L$} 								(q6)
+		   edge [bend right, below] node {\begin{tabular}{c}$Y/Y, R$ \\ $X/X, R$ \end{tabular}} 	(q7)
+	      (q6) edge   	     node {\begin{tabular}{c}$Y/Y, R$ \\ $X/X, R$ \end{tabular}} 		(q1)
+		   edge [loop right] node {\begin{tabular}{c}$b/b, L$ \\ $a/a, L$ \end{tabular}} 		(q8)
+	      (q7) edge [below left]     node {$B/B, L$} 							(q8)
+	           edge [loop above] node {\begin{tabular}{c}$Y/Y, R$ \\ $X/X, R$ \end{tabular}} 		(q7)
+ 	      (q8) edge [below right]node {$B/B, R$} 								(q9)
+		   edge [loop below] node {\begin{tabular}{c}$Y/b, L$ \\ $X/a, L$ \end{tabular}} 		(q8);
+      \end{tikzpicture}
+   \end{center}
+  \item[b)] Build a two-tape machine that accepts $L$ in which the computation with input $u$ should take no more than \textit{3 length(u) + 4 transitions}. %$ \{ a^{i}b^{j}c^{k} \quad | \quad i = j \quad ou \quad j = k \} $ \\
+     \begin{center}
+	\begin{tikzpicture}[->,>=stealth',shorten >=1pt,auto,node distance=4cm,
+                    semithick]
+	\node[initial,state] 		(q0)             	{$q_{0}$};
+	\node[state] 			(q1) [above of=q0] 	{$q_{1}$};
+	\node[state]         		(q2) [right of=q1] 	{$q_{2}$};
+	\node[state]         		(q3) [right of=q2] 	{$q_{3}$};
+	\node[state,accepting]         	(q4) [below of=q3] 	{$q_{4}$};
+	\node[state]         		(q5) [below of=q2] 	{$q_{5}$};
+	\path (q0) edge   	     node {$B/B, R; B/B, R$} 	(q1)
+ 	      (q1) edge [loop above] node {\begin{tabular}{c}$a/a, R; B/a, R$\\$b/b, R; B/b, R$\end{tabular}} 	(q1)
+ 	           edge   	     node {$B/B, S; B/B, L$} 	(q2)
+ 	      (q2) edge [loop above] node {\begin{tabular}{c}$B/B, S; a/a, L$\\$B/B, S; b/b, L$\end{tabular}} 	(q2)
+ 	           edge   	     node {$B/B, L; B/B, R$} 	(q3)
+ 	      (q3) edge [loop above] node {\begin{tabular}{c}$a/a, L; a/a, R$\\$b/b, L; b/b, R$\end{tabular}} 	(q3)
+ 	           edge   	     node {$B/B, S; B/B, S$} 	(q4)
+ 	           edge [bend right, left] node {\begin{tabular}{c}$a/a, R; b/b, R$\\$b/b, R; a/a, R$\end{tabular}} 	(q5);
+      \end{tikzpicture}
+   \end{center}
+%    \item[h)] $ \{ a^{i}b^{j} \quad | \quad i \neq j \} $ \\
+%      \begin{center}
+% 	\begin{tikzpicture}[->,>=stealth',shorten >=1pt,auto,node distance=2.8cm,
+%                     semithick]
+% 	\node[initial,state] 		(q0)             	{$q_{0}$};
+% 	\node[state,accepting] 		(q1) [right of=q0] 	{$q_{1}$};
+% 	\node[state]         		(q2) [right of=q1] 	{$q_{2}$};
+% 	\node[state,accepting]         	(q3) [right of=q2] 	{$q_{3}$};
+% 	\node[state,accepting]         	(q4) [below right of=q1] 	{$q_{4}$};
+% 	\path (q0) edge   	     node {$a, \lambda/Z$} 			(q1)
+% 	      (q1) edge [loop above] node {{$a, \lambda/X, b, X/\lambda$}} 			(q1)
+% % 		   edge [loop above] node {}			(q1)
+% 		   edge 	     node {$\lambda, X/\lambda$} 		(q4)
+% 		   edge 	     node {$b, Z/\lambda$} 			(q2)
+% 	      (q2) edge 	     node {$b, \lambda/\lambda$} 		(q3)
+% 	      (q3) edge [loop right] node {$b, \lambda/\lambda$} 		(q3)
+% 	      (q4) edge [loop below] node {$\lambda, X/\lambda$} 		(q4);
+%       \end{tikzpicture}
+%    \end{center}
+ \end{enumerate}
+
+11) Construct a two-tape Turing machine that accepts strings in which each $a$ is followed by an increasing number of $b's$, that is, the strings are of the form: \newline
+ 
+ \begin{center}
+  $ab^{n_1}ab^{n_2}\ldots ab^{n_k}, k > 0, $\newline where $n_1 < n_2 < \ldots < n_k$
+ \end{center}
+
+ \begin{center}
+	\begin{tikzpicture}[->,>=stealth',shorten >=1pt,auto,node distance=4cm,
+                    semithick]
+	\node[initial,state] 		(q0)             	{$q_{0}$};
+	\node[state] 			(q1) [right of=q0] 	{$q_{1}$};
+	\node[state]         		(q2) [right of=q1] 	{$q_{2}$};
+	\node[state]         		(q3) [right of=q2] 	{$q_{3}$};
+	\node[state]         		(q5) [below of=q1] 	{$q_{5}$};
+	\node[state,accepting]         	(q4) [right of=q5] 	{$q_{4}$};
+	\path (q0) edge   	     node {$B/B, R; B/B, R$} 	(q1)
+ 	      (q1) edge   	     node {$a/a, R; B/B, S$} 	(q2)
+ 	      (q2) edge [loop above] node {\begin{tabular}{c}$b/b, R; b/b, R$\\$b/b, R; B/b, R$\end{tabular}} 	(q2)
+ 	           edge [bend left] node {$a/a, R; B/B, L$} 	(q3)
+ 	           edge   	     node {$B/B, S; B/B, S$} 	(q4)
+ 	           edge [bend right, left] node {\begin{tabular}{c}$a/a, R; b/b, R$\\$b/b, R; a/a, R$\end{tabular}} 	(q5)
+ 	      (q3) edge [loop above] node {$b/b, S; b/b, L$} 	(q3)
+ 	           edge [bend left, below] node {$B/B, S; B/B, S$} 	(q4)
+ 	           edge [bend left]  node {$b/b, S; B/B, R$} 	(q2);
+      \end{tikzpicture}
+   \end{center}
+ 
+ %$\{ w \in {a,b}^{*} \quad |\quad w $ tem prefixo contendo mais $b's$ do que $a's \}$
+ 
+

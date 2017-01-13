@@ -1,0 +1,44 @@
+% Copyright 2016 Jacson Querubin <spacial@gmail.com>
+% Todo código LaTeX está sob GPL v3 ou superior
+\documentclass[a4paper,12pt]{article}
+%\documentclass[a4paper,12pt]{scrartcl}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+% \usepackage{verbatim}
+\usepackage[portuges]{babel}
+\usepackage[scaled=0.9]{helvet}		% Sans Serif
+\usepackage{courier}			% Verbatim, Listings, etc
+% fonte usada no corpo do texto (descomente apenas uma)
+\usepackage{newtxtext,newtxmath}	% Times (se não tiver, use mathptmx)
+\usepackage{lmodern}			% Computer Modern (fonte clássico LaTeX)
+% \usepackage{kpfonts}			% Kepler/Palatino (idem, use mathpazo)
+%\renewcommand{\familydefault}{\sfdefault} % Arial/Helvética (leia abaixo)
+\usepackage{hyperref}
+\usepackage{mathtools}
+\usepackage{pgf}
+\usepackage{tikz}
+\usepackage{longtable}
+\usetikzlibrary{arrows,automata}
+
+\title{Lista de exercícios de Teoria da Computação - CI703}
+\author{Jacson Querubin}
+\date{07/12/2016}
+
+\pdfinfo{%
+  /Title    (Lista de exercícios de Teoria da Computação - CI703)
+  /Author   (Jacson Querubin)
+  /Creator  (Jacson Querubin)
+  /Producer (Jacson Querubin)
+  /Subject  ()
+  /Keywords (computation, automata, grammar, gramática)
+}
+
+\newcommand{\alfabeto}[3][\ast]{$\{$#2#3$\}^{#1}$}
+\newcommand{\abimpar}[4][\ast]{$\{$#2$\}^{#1}\{$#3$\}\{$#4$\}^{#1}$}
+
+\begin{document}
+\maketitle
+
+\input{./lista04sec.tex}
+
+\end{document}

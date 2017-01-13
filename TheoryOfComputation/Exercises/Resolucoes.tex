@@ -1,0 +1,63 @@
+% Copyright 2016 Jacson Querubin <spacial@gmail.com>
+% Todo código LaTeX está sob GPL v3 ou superior
+\documentclass[a4paper,12pt]{article}
+%\documentclass[a4paper,12pt]{scrartcl}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+% \usepackage{verbatim}
+\usepackage[portuges]{babel}
+\usepackage{pgf}
+\usepackage{tikz}
+\usetikzlibrary{arrows,automata}
+
+
+\title{Exercícios de Teoria da Computação}
+\author{Jacson Querubin}
+\date{\today}
+
+\pdfinfo{%
+  /Title    (ExerciciosTeoria da Computação)
+  /Author   (Jacson Querubin)
+  /Creator  (Jacson Querubin)
+  /Producer (Jacson Querubin)
+  /Subject  ()
+  /Keywords ()
+}
+
+\begin{document}
+\maketitle
+
+\begin{itemize}
+  \item Palavras com num número par de \texttt{0}'s e contendo um ou dois \texttt{1}'s. 
+  \newline
+\begin{center}
+    \begin{tikzpicture}[->,>=stealth',shorten >=1pt,auto,node distance=2.8cm,
+		      semithick]
+%     \tikzstyle{every state}=[fill=gray,draw=none,text=white]
+
+    \node[initial,state] (A)                    {$q_0$};
+    \node[accepting,state]         (B) [right of=A] 	{$q_1$};
+    \node[state,accepting]         (D) [right of=B] 	{$q_2$};
+    \node[state]         (C) [below of=A] 	{$q_3$};
+    \node[state]         (E) [below of=B]       {$q_4$};
+    \node[state]         (F) [below of=D]       {$q_5$};
+    \node[state]         (G) [right of=D]       {$q_6$};
+    \path (A) edge              node {1} (B)
+	      edge [bend left]  node {0} (C)
+	  (B) edge 		node {1} (D)
+	      edge [bend left]  node {0} (E)
+	  (C) edge              node {1} (E)
+	      edge [bend left]  node {0} (A)
+	  (D) edge 		node {1} (G)
+	      edge [bend left]  node {0} (F)
+	  (E) edge              node {1} (F)
+	      edge [bend left]  node {0} (B)
+	  (F) edge 		node {1} (G)
+	      edge [bend left]  node {0} (D)	  
+	  (G) edge [loop right]	node {1,0} (G);
+	  
+  \end{tikzpicture}\end{center}
+\end{itemize}
+
+
+\end{document}

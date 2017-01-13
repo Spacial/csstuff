@@ -1,0 +1,42 @@
+\section{Gramáticas Regulares e Autômatos Finitos}
+
+Veremos como obter um $ GR \leftrightarrow AR $\\
+
+Exemplo:\\
+
+\begin{itemize}
+ \item[] $G = (V, \Sigma, P, S)$
+ \item[] $V = \{S,A\}$
+ \item[] $\Sigma = \{a,b\}$
+ \item[] $P:$\\
+    \begin{itemize}
+     \item[] $S \rightarrow$ \texttt{a}S | \texttt{a}A
+     \item[] $A \rightarrow$ \texttt{b}A | \texttt{b}
+    \end{itemize}
+ \item[] Isto produz o seguinte AF:\newline
+    \begin{center}
+	\begin{tikzpicture}[->,>=stealth',shorten >=1pt,auto,node distance=2.8cm,
+                    semithick]
+	\node[initial,state] 		(S)             	{$S$};
+	\node[state]         		(A) [right of=S] 	{$A$};
+	\node[state,accepting]         	(Z) [right of=A] 	{$Z$};
+	\path (S) edge [loop above] node {a} (S)
+		  edge   	    node {a} (A)
+	      (A) edge [loop above] node {b} (A)
+		  edge  	    node {b} (Z);
+      \end{tikzpicture}
+   \end{center}
+
+\end{itemize}
+
+
+\section{Derivação mais à esquerda}
+
+As derivações são: \\
+
+\begin{itemize}
+ \item $V \xRightarrow[L]{*} w$ : derivação à esquerda;
+ \item $V \xRightarrow[R]{*} w$ : derivação à direira;
+\end{itemize}
+
+s

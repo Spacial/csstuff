@@ -1,0 +1,314 @@
+\section{Exemplos de Gramáticas e Linguagnes}
+
+\begin{itemize}
+  \item Gramáticas são usadas para \underline{gerar} linguagens.
+  \item Relação entre gramáticas e linguagens:
+   \begin{itemize}
+     \item[$\rightarrow$] Especificar uma linguagem e construir uma gramática que a gere.
+     \item[$\rightarrow$] Dada uma gramática, qual a linguagem gerada por ela?
+   \end{itemize}
+  \item É preciso ter experiência para fazer estas duas tarefas!
+\end{itemize}
+
+\subsection{Exemplos}
+
+\textbf{\underline{Exemplo 1}}:\\
+   \[
+%     \begin{Huge} \{ \end{Huge} 
+%     \begin{tabular}{l c l}
+      P:\left\{
+      \begin{array}{l c l}
+        S & \rightarrow & \ \texttt{a}S\texttt{a} \quad | \quad \texttt{a}B\texttt{a} \\
+	B & \rightarrow & \ \texttt{b}B  \quad | \quad \texttt{b}  \\
+      \end{array}
+      \right.
+  \]
+\begin{center}
+  {\color{red} $ L(G) = ${\Huge ?} }
+  \makebox[\linewidth]{\rule{\paperwidth/2}{0.4pt}}
+  \vspace{1cm}
+  {\color{blue} $ L(G) = \{ a^{n}b^{m}a^{n} \quad | \quad n \ > \ 0, \ m \ > \ 0 \}$ }
+\end{center}
+
+\textbf{\underline{Exemplo 2}}:\\
+
+\begin{center}
+  $ L(G) = \{ a^{n}b^{m}c^{m}d^{2n} \ | \ n \geqslant \ 0,\  m  \ > \ 0 \}$ \\
+  \vspace{1cm}
+  {\color{red} $ G = ${\Huge ?} } \newline
+  \makebox[\linewidth]{\rule{\paperwidth/2}{0.4pt}}
+\end{center}
+{\color{blue}
+\begin{flushleft}
+    $\begin{array}{l c l }
+      G & = & (V, \Sigma, P, S) \\
+      V & = & \{S, A\} \\
+      \Sigma & = & \{a, b, c, d\} \\
+    \end{array}$  
+  \[
+    P:\left\{
+      \begin{array}{l c l}
+        S & \rightarrow & \ \texttt{a}S\texttt{dd} \quad | \quad A \\
+	A & \rightarrow & \ \texttt{b}A\texttt{c} \quad | \quad \texttt{bc}  \\
+      \end{array}
+      \right.
+   \]  
+\end{flushleft}
+}
+\vspace{1cm}
+\textbf{\underline{Exemplo 3}}:\\
+
+\begin{center}
+Uma palavra $w$ é um palíndrome se: \\
+$ w = w^{r} $ \\
+construa uma gramática que gere o conjunto de palíndromes sobre $\{a, b\}$.
+  \makebox[\linewidth]{\rule{\paperwidth/2}{0.4pt}}
+\end{center}
+{\color{blue}
+\begin{flushleft}
+    $\begin{array}{l c l }
+      G & = & (V, \Sigma, P, S) \\
+      V & = & \{S, A\} \\
+      \Sigma & = & \{a, b\} \\
+    \end{array}$  
+  \[
+    P:\left\{
+      \begin{array}{l c l}
+        S & \rightarrow & \ \texttt{a} \quad | \quad \texttt{b} \quad | \quad \lambda \\
+	S & \rightarrow & \ \texttt{a}S\texttt{a} \quad | \quad \texttt{b}S\texttt{b} \\
+      \end{array}
+      \right.
+   \]  
+\end{flushleft}
+}
+
+\vspace{1cm}
+\textbf{\underline{Exemplo 4}}:\\
+
+\begin{center}
+   $G = ( \{S\}, \{a, b\}, P, S) $\\
+   \[
+    P:\left\{
+      \begin{array}{l c l}
+        S & \rightarrow & \ \texttt{a}S\texttt{b} \quad | \quad \texttt{a}S\texttt{bb} \quad | \quad \lambda \\
+      \end{array}
+      \right.
+   \]
+    {\color{red} $ L(G) = ${\Huge ?} }
+    \makebox[\linewidth]{\rule{\paperwidth/2}{0.4pt}}
+    \vspace{1cm}
+   {\color{blue}
+   $ L(G) = \{ \ a^{n}b^{m} \quad | \quad 0 \ \leqslant \ n \ \leqslant \ m \ \leqslant \ 2n \}$ \\
+   }
+\end{center}
+\vspace{1cm}
+\textbf{\underline{Exemplo 5}}:\\
+   \[
+      P:\left\{
+      \begin{array}{l c l}
+        S & \rightarrow & \ \texttt{ab}S\texttt{c}B \quad | \quad \lambda \\
+	B & \rightarrow & \ \texttt{b}B  \quad | \quad \texttt{b}  \\
+      \end{array}
+      \right.
+  \]
+\begin{center}
+  {\color{red} $ L(G) = ${\Huge ?} }
+  \makebox[\linewidth]{\rule{\paperwidth/2}{0.4pt}}
+  \vspace{1cm}
+  {\color{blue} $ L(G) = \{$ enumere alguns aqui $\}$\\
+   $ L(G) = \{ \ (ab)^{n}(cb^{m_n})^{n} \quad | \quad n \ \geqslant \ 0, \ m_n \ > \ 0 \}$ }
+\end{center}
+\vspace{1cm}
+\textbf{\underline{Exemplo 6}}:\\
+   \[
+      G_1:\left\{
+      \begin{array}{l c l}
+        S & \rightarrow & \ AB \\
+        A & \rightarrow & \ \texttt{a}A \quad | \quad \texttt{a}  \\
+	B & \rightarrow & \ \texttt{b}B \quad | \quad \lambda  \\
+      \end{array}
+      \right.\] \[
+      G_2:\left\{
+      \begin{array}{l c l}
+        S & \rightarrow & \ \texttt{a}S \quad | \quad \texttt{a}B \\
+	B & \rightarrow & \ \texttt{b}B \quad | \quad \lambda  \\
+      \end{array}
+      \right.
+  \]
+\begin{center}
+  {\color{red} $ L(G_1) = ${\Huge ?}\\
+               $ L(G_2) = ${\Huge ?} }
+  \makebox[\linewidth]{\rule{\paperwidth/2}{0.4pt}}
+  \vspace{1cm}
+  {\color{blue} $ L(G_1) = L(G_2) = \{ \ a^{+}b^{*} \}$ }
+\end{center}
+
+\vspace{1cm}
+\textbf{\underline{Exemplo 7}}:\\
+
+\begin{center}
+$L$ é definida pela ER: \\
+$ a^{*}ba^{*}ba^{*} $ \\ (palavras que contêm exatamente dois b's) \\
+dar duas gramáticas $G_1$ e $G_1$ que gerem $L$.\\
+  \makebox[\linewidth]{\rule{\paperwidth/2}{0.4pt}}
+\end{center}
+{\color{blue}
+\begin{flushleft}
+   \[
+      G_1:\left\{
+      \begin{array}{l c l}
+        S & \rightarrow & \ AbAbA \\
+        A & \rightarrow & \ \texttt{a}A \quad | \quad \lambda  \\
+      \end{array}
+      \right.\] \[
+      G_2:\left\{
+      \begin{array}{l c l}
+        S & \rightarrow & \ \texttt{a}S \quad | \quad \texttt{b}A \\
+	A & \rightarrow & \ \texttt{a}A \quad | \quad \texttt{b}C  \\
+	C & \rightarrow & \ \texttt{a}C \quad | \quad \lambda  \\
+      \end{array}
+      \right.
+  \]
+\end{flushleft}
+}
+
+\vspace{1cm}
+\textbf{\underline{Exemplo 8}}:\\
+
+\begin{center}
+modificar o exemplo 7 para gerar palavras de {\color{red}\underline{pelo menos}} dois b's) \\
+  \makebox[\linewidth]{\rule{\paperwidth/2}{0.4pt}}
+\end{center}
+{\color{blue}
+\begin{flushleft}
+   \[
+      G_1:\left\{
+      \begin{array}{l c l}
+        S & \rightarrow & \ AbAbA \\
+        A & \rightarrow & \ \texttt{a}A \quad | \quad {\color{red}\underline{ \texttt{b}A}} \quad | \quad \lambda  \\
+      \end{array}
+      \right.\] \[
+      G_2:\left\{
+      \begin{array}{l c l}
+        S & \rightarrow & \ \texttt{a}S \quad | \quad \texttt{b}A \\
+	A & \rightarrow & \ \texttt{a}A \quad | \quad \texttt{b}C  \\
+	C & \rightarrow & \ \texttt{a}C \quad | \quad {\color{red}\underline{ \texttt{b}C}} \quad | \quad \lambda  \\
+      \end{array}
+      \right.
+  \]
+\end{flushleft}
+}
+
+\vspace{1cm}
+\textbf{\underline{Exemplo 9}}:\\
+
+\begin{center}
+Gerar a linguagem de palavras de tamanho par sobre $\{a, b\}$\\
+  \makebox[\linewidth]{\rule{\paperwidth/2}{0.4pt}}
+\end{center}
+{\color{blue}
+\begin{flushleft}
+   \[
+      G:\left\{
+      \begin{array}{l c l}
+        S & \rightarrow & \ \texttt{a}O  \quad | \quad \texttt{b}O\quad | \quad \lambda  \\
+        O & \rightarrow & \ \texttt{a}S \quad | \quad \texttt{b}S \\
+      \end{array}
+      \right.
+  \]
+\end{flushleft}
+}
+
+
+\vspace{1cm}
+\textbf{\underline{Exemplo 10}}:\\
+
+\begin{center}
+$L$ é a linguagem sobre $\{a, b\}$ com um $n^{o}$ par de b's\\
+  \makebox[\linewidth]{\rule{\paperwidth/2}{0.4pt}}
+\end{center}
+{\color{blue}
+\begin{flushleft}
+   \[
+      P:\left\{
+      \begin{array}{l c l}
+        S & \rightarrow & \ \texttt{a}S  \quad | \quad \texttt{b}I\quad | \quad \lambda  \\
+        I & \rightarrow & \ \texttt{a}I \quad | \quad \texttt{b}S \\
+      \end{array}
+      \right.
+  \]
+     \[
+      P^{'}:\left\{
+      \begin{array}{l c l}
+        S & \rightarrow & \ \texttt{a}S  \quad | \quad \texttt{b}I\quad | \quad \lambda  \\
+        I & \rightarrow & \ \texttt{a}I \quad | \quad \texttt{b}S \quad | \quad \texttt{b}C\\
+        C & \rightarrow & \ \texttt{a}C \quad | \quad \lambda \\
+      \end{array}
+      \right.
+  \]
+\end{flushleft}
+}
+
+\vspace{1cm}
+\textbf{\underline{Exemplo 11}}:\\
+
+\begin{center}
+$L$ é a linguagem sobre $\{a, b\}$ com um $n^{o}$ par de a's e um $n^{o}$ par de b's\\
+  \makebox[\linewidth]{\rule{\paperwidth/2}{0.4pt}}
+\end{center}
+{\color{blue}
+\begin{flushleft}
+   \[
+      P:\left\{
+      \begin{array}{l c l}
+        S & \rightarrow & \ \texttt{a}B \quad | \quad \texttt{b}A\quad | \quad \lambda  \\
+        A & \rightarrow & \ \texttt{a}C \quad | \quad \texttt{b}S \\
+        B & \rightarrow & \ \texttt{a}S \quad | \quad \texttt{b}C \\
+        C & \rightarrow & \ \texttt{a}A \quad | \quad \texttt{b}B \\
+      \end{array}
+      \right.
+  \]
+\begin{center}
+\begin{tabular}{l | c c}
+  & a's & b's\\
+  \hline
+S & par & par\\
+A & par & Impar\\
+B & impar & par\\
+C & impar & impar
+\end{tabular}
+\end{center}
+
+\end{flushleft}
+}
+
+\vspace{1cm}
+\textbf{\underline{Exemplo 12}}:\\
+
+\begin{center}
+Linguagem sobre $\{a, b, c\}$ de todas as palavras que não contém a subpalavra \texttt{abc}\\
+  \makebox[\linewidth]{\rule{\paperwidth/2}{0.4pt}}
+\end{center}
+{\color{blue}
+\begin{flushleft}
+   \[
+      P:\left\{
+      \begin{array}{l c l}
+        S & \rightarrow & \ \texttt{a}A \quad | \quad \texttt{b}S \quad | \quad \texttt{c}S \quad | \quad \lambda  \\
+        A & \rightarrow & \ \texttt{a}A \quad | \quad \texttt{b}B \quad | \quad \texttt{c}S \quad | \quad \lambda  \\
+        B & \rightarrow & \ \texttt{a}A \quad | \quad \texttt{b}S \quad | \quad \lambda  \\
+      \end{array}
+      \right.
+  \]
+\begin{center}
+\begin{itemize}
+ \item S - Estaca Zero
+ \item A - Já colocou um \texttt{a}
+ \item B - Já colocou um \texttt{ab}
+\end{itemize}
+
+\end{center}
+
+\end{flushleft}
+}
+

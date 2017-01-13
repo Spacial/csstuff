@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Created with JFLAP 6.4.--><structure>
+	<empty_string>u03BB</empty_string>
+	<turing_final>true</turing_final>
+	<undo_amount>50</undo_amount>
+	<turing_accept_by_final_state>true</turing_accept_by_final_state>
+	<turing_accept_by_halt>false</turing_accept_by_halt>
+	<turing_allow_stay_on_transition>true</turing_allow_stay_on_transition>
+</structure>

@@ -1,0 +1,71 @@
+\section{Exercícios Sudkamp Pg. 253}
+
+3) \textit{Construct PDAs that accept each of the following languages.}\\
+
+\begin{enumerate}
+ \item[f)] $ \{ a^{i}b^{i} \quad | \quad i \geqslant 0 \} \cup a^{*} \cup b^{*} $ \\
+     \begin{center}
+	\begin{tikzpicture}[->,>=stealth',shorten >=1pt,auto,node distance=2.8cm,
+                    semithick]
+	\node[initial,state] 		(q0)             		{$q_{0}$};
+	\node[state,accepting] 		(q1) [above right of=q0] 		{$q_{1}$};
+	\node[state,accepting]         	(q2) [below right of=q0] 		{$q_{2}$};
+	\node[state,accepting]         	(q3) [right of=q0] 		{$q_{3}$};
+	\path (q0) edge [loop below] node {$a, \lambda/X$} (q0)
+		   edge   	    node {$\lambda, \lambda/\lambda$} (q1)
+		   edge   	    node {$\lambda, \lambda/\lambda$} (q2)
+		   edge   	    node {$\lambda, \lambda/\lambda$} (q3)
+	      (q1) edge [loop above] node {$a, \lambda/\lambda$} (q1)
+	      (q2) edge [loop below] node {$b, \lambda/\lambda$} (q2)
+	      (q3) edge [loop right] node {$b, X/\lambda$} (q3);
+      \end{tikzpicture}
+   \end{center}
+    \item[g)] $ \{ a^{i}b^{j}c^{k} \quad | \quad i = j \quad ou \quad j = k \} $ \\
+     \begin{center}
+	\begin{tikzpicture}[->,>=stealth',shorten >=1pt,auto,node distance=2.8cm,
+                    semithick]
+	\node[initial,state, accepting] (q0)             		{$q_{0}$};
+	\node[state] 			(q1) [above right of=q0] 	{$q_{1}$};
+	\node[state,accepting]         	(q2) [right of=q1] 		{$q_{2}$};
+	\node[state,accepting]         	(q3) [right of=q2] 		{$q_{3}$};
+	\node[state,accepting]         	(q4) [below right of=q0] 	{$q_{4}$};
+	\node[state]         		(q5) [right of=q4] 		{$q_{5}$};
+	\node[state,accepting]         	(q6) [right of=q5] 		{$q_{6}$};
+	\path (q0) edge   	     node {$\lambda, \lambda/\lambda$} 	(q1)
+		   edge   	     node {$\lambda, \lambda/\lambda$} 	(q4)
+	      (q1) edge [loop above] node {$a, \lambda/I$} 		(q1)
+		   edge 	     node {$b, I/\lambda$} 		(q2)
+	      (q2) edge [loop above] node {$b, I/\lambda$} 		(q2)
+		   edge 	     node {$c, \lambda/\lambda$} 	(q3)
+	      (q3) edge [loop right] node {$c, \lambda/\lambda$} 	(q3)
+	      (q4) edge [loop below] node {$a, \lambda/\lambda$} 	(q4)
+		   edge 	     node {$b, \lambda/J$} 		(q5)
+	      (q5) edge [loop below] node {$b, \lambda/J$} 		(q5)
+		   edge 	     node {$c, J/\lambda$} 		(q6)
+	      (q6) edge [loop right] node {$c, J/\lambda$} 		(q6);
+      \end{tikzpicture}
+   \end{center}
+   \item[h)] $ \{ a^{i}b^{j} \quad | \quad i \neq j \} $ \\
+     \begin{center}
+	\begin{tikzpicture}[->,>=stealth',shorten >=1pt,auto,node distance=2.8cm,
+                    semithick]
+	\node[initial,state] 		(q0)             	{$q_{0}$};
+	\node[state,accepting] 		(q1) [right of=q0] 	{$q_{1}$};
+	\node[state]         		(q2) [right of=q1] 	{$q_{2}$};
+	\node[state,accepting]         	(q3) [right of=q2] 	{$q_{3}$};
+	\node[state,accepting]         	(q4) [below right of=q1] 	{$q_{4}$};
+	\path (q0) edge   	     node {$a, \lambda/Z$} 			(q1)
+	      (q1) edge [loop above] node {{$a, \lambda/X, b, X/\lambda$}} 			(q1)
+% 		   edge [loop above] node {}			(q1)
+		   edge 	     node {$\lambda, X/\lambda$} 		(q4)
+		   edge 	     node {$b, Z/\lambda$} 			(q2)
+	      (q2) edge 	     node {$b, \lambda/\lambda$} 		(q3)
+	      (q3) edge [loop right] node {$b, \lambda/\lambda$} 		(q3)
+	      (q4) edge [loop below] node {$\lambda, X/\lambda$} 		(q4);
+      \end{tikzpicture}
+   \end{center}
+ \end{enumerate}
+
+ 10) $\{ w \in {a,b}^{*} \quad |\quad w $ tem prefixo contendo mais $b's$ do que $a's \}$
+ 
+

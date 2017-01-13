@@ -1,0 +1,81 @@
+% Copyright 2016 Jacson Querubin <spacial@gmail.com>
+% Todo código LaTeX está sob GPL v3 ou superior
+\documentclass[a4paper,12pt]{article}
+%\documentclass[a4paper,12pt]{scrartcl}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+% \usepackage{verbatim}
+\usepackage[portuges]{babel}
+\usepackage[scaled=0.9]{helvet}		% Sans Serif
+\usepackage{courier}			% Verbatim, Listings, etc
+% fonte usada no corpo do texto (descomente apenas uma)
+\usepackage{newtxtext,newtxmath}	% Times (se não tiver, use mathptmx)
+%\usepackage{lmodern}			% Computer Modern (fonte clássico LaTeX)
+%\usepackage{kpfonts}			% Kepler/Palatino (idem, use mathpazo)
+%\renewcommand{\familydefault}{\sfdefault} % Arial/Helvética (leia abaixo)
+
+
+\title{1ª Lista de Teoria da Computação - CI703}
+\author{Jacson Querubin}
+\date{18/09/2016}
+
+\pdfinfo{%
+  /Title    (Resumo de Teoria da Computação)
+  /Author   (Jacson Querubin)
+  /Creator  (Jacson Querubin)
+  /Producer (Jacson Querubin)
+  /Subject  ()
+  /Keywords ()
+}
+
+\begin{document}
+\maketitle
+
+\begin{enumerate}
+	\item Qual é o número de prefixos, sufixos e subpalavras de uma palavra tamanho $n$?
+	\item Descreva mais formalmente as seguintes linguagens sobre o alfabeto \texttt{\{0,1\}}:
+	\begin{enumerate}
+ 		\item O conjunto das palavras com, no mínimo, um \texttt{0};
+  		\item o conjunto das palavras de tamanho ímpar;
+  		\item O conjunto das palavras com um prefixo de um ou mais \texttt{0}'s seguido (imediatamente) de um sufixo de zero ou mais \texttt{1}'s;
+  		\item O conjunto dos palíndromos que não contenham símbolos consecutivos idênticos;
+  		\item O conunto das palavras de tamanho par cuja primeira metade é idêntica à segunda.\\
+  		Procure ser bem preciso e conciso.
+ 	\end{enumerate}
+ 	\item  Expresse as linguagens a seguir utilizando operações sobre conjuntos finitos de palavras de \texttt{\{0,1\}$^{\ast}$}. Considere o alfabeto como sendo \texttt{\{0,1\}}.
+ 	\begin{enumerate}
+		\item O conjunto das palavras de 10 símbolos;
+		\item O conjunto das palavras que têm 1 a 200 símbolos;
+		\item O Conjunto das palavras que não têm \texttt{00} como prefixo, mas têm \texttt{00} como sufixo;
+		\item O conjunto das palavras em que todo \texttt{0} é seguido de dois \texttt{1}'s consecutivos.\newline
+		Exemplos: $\lambda$, \texttt{1}, \texttt{1011111}, \texttt{11011101111}.
+		\item O conjunto das palavras com número par de \texttt{0}'s ou ímpar de \texttt{1}'s (ou ambos);
+		\item O conjunto das palavras que contêm um ou dois \texttt{1}'s cujo tamanho é múltiplo de 3. 
+	\end{enumerate}
+	\item Sejam A, B e C linguagens sobre um alfabeto $\Sigma$. Mostre que:
+		\begin{enumerate}
+		\item $ A ( B \cup C ) = (AB) \cup (AC) $ . 
+		\item  nem sempre $ A (B \cap C) = (AB) \cap (AC) $.
+		\end{enumerate}
+	\item Mostre que se $\lambda \in L$ então $L^{+} = L^{\ast}$ e se $ \lambda \notin L$ então $ L^{+} = L^{\ast} - \{ \lambda \} $.
+	\item Quando $L^{\ast}$ é finita?
+	\item Seja $ L^{R} = \{ \omega^{R} \mid \omega \in L\}$, onde $L$ é uma linguagem. Para que linguagens $L$, $L^{R} = L$?    
+	\item Prove que $L^{\ast}  = \cup_{n \in N} L^{n}$.(\textit{Sugestão}: para provar que $L^{\ast} \subseteq \cup_{n \in N} L^{n}$, use indução sobre $\mid \omega \mid$, e para provar que $ cup_{n \in N} L^{n} \subseteq L^{\ast} $, use indução sobre $n$.) 
+	\item Prove por indução que:
+		\begin{enumerate}
+                \item $L^{\ast}L^{\ast}=L^{\ast}$ 
+                \item $(L^{\ast})^{\ast}=L^{\ast}$
+		\item $(L_{1}\cup L_{2})^{\ast} L_{1}^{\ast} = ( L_{1}\cup L_{2})^{\ast}$
+                \item $(L_{1}\cup L_{2})^{\ast} = ( L_{1}^{\ast}L_{2}^{\ast})^{\ast}$
+		\end{enumerate}
+	\item Em que condições $L_{1}^{\ast} \cup L_{2}^{\ast} = ( L_{1} \cup L_{2})^{\ast}$ ?
+	\item Dê definições recursivas para as seguintes linguagens:
+               \begin{enumerate}
+		\item\texttt{\{0\}$^{\ast}$\{1\}$^{\ast}$}
+		\item\texttt{$\{$0$^{n}$1$^{n} \mid n \in N \}$} 
+		\item\texttt{$\{ \omega \in \{$0,1$\}^{\ast} \mid$} contém \texttt{00$\}$} 	
+		\item\texttt{$\{$0$^{0}$10$^{1}$10$^{2}$1$\ldots$0$^{n}$1 $ \mid n \in N \}$ }
+		\end{enumerate}
+\end{enumerate}
+
+\end{document}
