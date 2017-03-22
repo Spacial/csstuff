@@ -17,10 +17,6 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-//#include <assert.h>
-//#include <limits.h>
-//#include <stdbool.h>
-
 
 int main(){
     int n = 1, total =  0, g1 = 0;
@@ -28,8 +24,8 @@ int main(){
     float s, min = 450.0;
     float s1 = 0.0, s2 = 0.0;
     float s3 = 0.0, s4 = 0.0;
-    while (n){
-        scanf("%d %f\n",&n,&s);
+    while (n >= 0){
+        scanf("%d;%f\n",&n,&s);
 //        printf("%d %f",n,s);
         if ((s >= 0.0) && (s <= (3 * min))) {
             g1++;
@@ -53,10 +49,10 @@ int main(){
         }
     }
     printf("\n***** População total: %d", total);
-    printf("\nTotal do G1: %d , média salarial: %f", (100*g1)/total, (s1/g1));
-    printf("\nTotal do G2: %d , média salarial: %f", (100*g2)/total, (s2/g2));
-    printf("\nTotal do G3: %d , média salarial: %f", (100*g3)/total, (s3/g3));
-    printf("\nTotal do G4: %d , média salarial: %f", (100*g4)/total, (s4/g4));
+    printf("\nTotal do G1: %d %%, média salarial: %f", (100*g1)/total, (s1/g1));
+    printf("\nTotal do G2: %d %%, média salarial: %f", (100*g2)/total, (s2/g2));
+    printf("\nTotal do G3: %d %%, média salarial: %f", (100*g3)/total, (s3/g3));
+    printf("\nTotal do G4: %d %%, média salarial: %f", (100*g4)/total, (s4/g4));
     printf("\n");
     return 0;
 }

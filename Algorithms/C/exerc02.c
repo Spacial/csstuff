@@ -21,28 +21,27 @@ figura 2 (abaixo).
 #include <limits.h>
 #include <stdbool.h>
 
-void numEsq(int n, int max){
-    printf("%d",n);
-    if (n == max)
-        return;
-     else {
-        numEsq(n+1,max);
-        printf("%d",n);
-    }
-}
+void numEsq(int n, int max);
 
 int main(){
-    int n,i;
-    scanf("%d",&n);
+    int n;
+    n=9;
     for(int i=1; i <= n; i++) {
-        char *brancos;
-        *brancos= '\n';
         for(int j=(n-i); j > 0; j--){
-            strchr(brancos, ' ');
+            printf(" ");
         }
-        printf("%s",brancos);
         numEsq(1,i);
         printf("\n");
     }
     return 0;
+}
+
+void numEsq(int n, int max){
+    printf("%d",n);
+    if (n == max)
+        return;
+    else {
+        numEsq(n+1,max);
+        printf("%d",n);
+    }
 }

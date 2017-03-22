@@ -21,6 +21,21 @@ que, em todo o programa, não apareçam mais do que três comandos de impress
 #include <limits.h>
 #include <stdbool.h>
 
+void numEsq(int n, int max);
+
+int main(){
+    int n;
+// caso queira ler da entrada
+//    scanf("%d",&n);
+// fixado em 9 (pcausa do exercicio)
+    n=9;
+    for(int i=1; i <= n; i++) {
+        numEsq(1,i);
+        printf("\n");
+    }
+    return 0;
+}
+
 void numEsq(int n, int max){
     printf("%d",n);
     if (n == max)
@@ -30,40 +45,3 @@ void numEsq(int n, int max){
         printf("%d",n);
     }
 }
-
-int main(){
-    int n,i;
-    scanf("%d",&n);
-    for(int i=1; i <= n; i++) {
-        numEsq(1,i);
-        printf("\n");
-    }
-    return 0;
-}
-
-
-
-//#include <stdlib.h>
-//#include <stdio.h>
-//
-//#define MAX 10
-//
-//int main(int argc, char **argv){
-//    printf("Hello World!");
-//    return 0;
-//}
-//#define __STDC_WANT_LIB_EXT2__ 1
-//
-//#include <stdio.h>
-//#include <stdlib.h>
-
-//void get_y_or_n(void) {
-//    char *response = NULL;
-//    size_t len;
-//    puts("Continue? [y] n: ");
-//    if ((getline(&response, &len, stdin) < 0) || (len && response[0] == 'n')) {
-//        free(response);
-//        exit(0);
-//    }
-//    free(response);
-// }
