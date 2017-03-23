@@ -36,7 +36,7 @@
 
 #define DEBUG 0
 
-#define TAMANHO 10
+#define TAMANHO 20
 
 void mostra(int *seq, int tam);
 
