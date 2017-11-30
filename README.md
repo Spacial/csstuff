@@ -7,3 +7,11 @@ Computer Science Stuff
 ## Data
 
 Some thoughts about data licensing: [The CRAPL: An academic-strength open source license](http://matt.might.net/articles/crapl/)
+
+## Programming
+
+### Python
+
+#### Presentations
+
+* [Miguel Grinberg - Asynchronous Python for the Complete Beginner](https://speakerdeck.com/pycon2017/miguel-grinberg-asynchronous-python-for-the-complete-beginner) 
