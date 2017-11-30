@@ -12,6 +12,9 @@ Some thoughts about data licensing: [The CRAPL: An academic-strength open source
 
 ### Python
 
+[Think Python](http://greenteapress.com/wp/think-python-2e/) by [AllenDowney](https://github.com/AllenDowney), including [repo](https://github.com/AllenDowney/ThinkPython2)
+ 
+
 #### Presentations
 
 * [Miguel Grinberg - Asynchronous Python for the Complete Beginner](https://speakerdeck.com/pycon2017/miguel-grinberg-asynchronous-python-for-the-complete-beginner) 
