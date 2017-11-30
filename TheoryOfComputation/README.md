@@ -7,6 +7,11 @@ You have on directories/files:
  * MT : Turing machines answers in JFLAP format, for studies.
  * links.md : Some useful links about the topic.
  
+ # Complexity
+ 
+ [Think Complexity](http://greenteapress.com/wp/think-complexity-2e/) by [AllenDowney](https://github.com/AllenDowney), including [repo](https://github.com/AllenDowney/ThinkComplexity2)
+ 
+ 
 (PT-BR)
 # Recursos de linguagens, autômatos e máquinas
 
