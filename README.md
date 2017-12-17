@@ -18,7 +18,6 @@ Some thoughts about data licensing: [The CRAPL: An academic-strength open source
 ### Python
 
 [Think Python](http://greenteapress.com/wp/think-python-2e/) by [AllenDowney](https://github.com/AllenDowney), including [repo](https://github.com/AllenDowney/ThinkPython2)
- 
 
 #### Presentations
 
@@ -28,6 +27,10 @@ Some thoughts about data licensing: [The CRAPL: An academic-strength open source
 
 * [Vampire is a theorem prover, that is, a system able to prove theorems](https://vprover.github.io/).
 
+# Math
+
+* A [list](https://github.com/Spacial/csstuff/math.md) of math links.
+
 ## On-line Services
 
-* Some (useful)[https://github.com/spacial/UsefulSites.md] on-line services.
+* Some [useful](https://github.com/spacial/csstuff/UsefulSites.md) on-line services.
