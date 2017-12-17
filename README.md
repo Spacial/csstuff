@@ -8,6 +8,7 @@ Computer Science Stuff is
 # Computer Science general
 
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+
 ## Data
 
 Some thoughts about data licensing: [The CRAPL: An academic-strength open source license](http://matt.might.net/articles/crapl/)
@@ -26,3 +27,7 @@ Some thoughts about data licensing: [The CRAPL: An academic-strength open source
 ## Theorems
 
 * [Vampire is a theorem prover, that is, a system able to prove theorems](https://vprover.github.io/).
+
+## On-line Services
+
+* Some (useful)[https://github.com/spacial/UsefulSites.md] on-line services.
