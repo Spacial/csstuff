@@ -29,8 +29,8 @@ Some thoughts about data licensing: [The CRAPL: An academic-strength open source
 
 # Math
 
-* A [list](https://github.com/Spacial/csstuff/math.md) of math links.
+* A [list](https://github.com/Spacial/csstuff/blob/master/math.md) of math links.
 
 ## On-line Services
 
-* Some [useful](https://github.com/spacial/csstuff/UsefulSites.md) on-line services.
+* Some [useful](https://github.com/Spacial/csstuff/blob/master/UsefulSites.md) on-line services.
