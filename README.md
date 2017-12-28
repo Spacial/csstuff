@@ -11,9 +11,15 @@ Computer Science Stuff is
 
 ## Data
 
-Some thoughts about data licensing: [The CRAPL: An academic-strength open source license](http://matt.might.net/articles/crapl/)
+* Some thoughts about data licensing: [The CRAPL: An academic-strength open source license](http://matt.might.net/articles/crapl/)
+
+## Databases
+
+* [Readings in Database Systems](http://www.redbook.io)
 
 ## Programming
+
+* [Modern B-Tree Techniques](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.219.7269&rep=rep1&type=pdf) by Goetz Graefe
 
 ### Python
 
