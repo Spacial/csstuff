@@ -53,3 +53,7 @@ Computer Science Stuff is
 * [](https://github.com/danluu/fs-errors/)
 http://timdettmers.com/2017/12/21/deep-learning-hardware-limbo/
 http://www.dspguide.com/pdfbook.htm
+
+# Graphics
+
+* [This is a collection of simple to more involved examples to scripting in Blender with Python.](https://github.com/njanakiev/blender-scripting/blob/master/README.md#phyllotaxis-flower)
