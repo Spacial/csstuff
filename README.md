@@ -57,3 +57,7 @@ http://www.dspguide.com/pdfbook.htm
 # Graphics
 
 * [This is a collection of simple to more involved examples to scripting in Blender with Python.](https://github.com/njanakiev/blender-scripting/blob/master/README.md#phyllotaxis-flower)
+
+# Articles
+
+* [Renders papers from Arxiv as responsive web pages so you don't have to squint at a PDF.](https://github.com/arxiv-vanity/arxiv-vanity)
