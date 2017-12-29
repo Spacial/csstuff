@@ -27,6 +27,10 @@ Computer Science Stuff is
 * [Detecting Chrome Headless](http://antoinevastel.github.io/bot%20detection/2017/08/05/detect-chrome-headless.html)
 * [Minimal PDF](https://brendanzagaeski.appspot.com/0004.html)
 
+### Machine Learning
+
+* [Theories of Deep Learning (STATS 385)](https://stats385.github.io/readings)
+
 ### Python
 
 [Think Python](http://greenteapress.com/wp/think-python-2e/) by [AllenDowney](https://github.com/AllenDowney), including [repo](https://github.com/AllenDowney/ThinkPython2)
