@@ -27,6 +27,14 @@ Computer Science Stuff is
 * [Detecting Chrome Headless](http://antoinevastel.github.io/bot%20detection/2017/08/05/detect-chrome-headless.html)
 * [Minimal PDF](https://brendanzagaeski.appspot.com/0004.html)
 
+### API
+
+* [Useful checklist for building good Python library APIs, based on "How to make a good library API" PyCon 2017 talk](https://github.com/vintasoftware/python-api-checklist/)
+
+### NLP
+
+* [Industrial-strength Natural Language Processing (NLP) with Python and Cython ](https://github.com/explosion/spaCy/)
+
 ### Machine Learning
 
 * [Theories of Deep Learning (STATS 385)](https://stats385.github.io/readings)
@@ -51,6 +59,7 @@ Computer Science Stuff is
 ## On-line Services
 
 * Some [useful](https://github.com/Spacial/csstuff/blob/master/UsefulSites.md) on-line services.
+* [](https://colab.research.google.com/notebook)
 
 # Filesystems
 
