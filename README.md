@@ -79,3 +79,4 @@ http://www.dspguide.com/pdfbook.htm
 # Statistics
 
 * [hrbrmstr’s Year In Review](https://rud.is/rpubs/2017-year-in-review/) (Using R, and other stuffs)
+* [Linear regression by hand](https://dsgazette.com/2018/01/10/linear-regression-by-hand/)
