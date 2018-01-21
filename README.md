@@ -38,6 +38,7 @@ Computer Science Stuff is
 ### Machine Learning
 
 * [Theories of Deep Learning (STATS 385)](https://stats385.github.io/readings)
+* [Deep Learning Hardware Limbo](http://timdettmers.com/2017/12/21/deep-learning-hardware-limbo/)
 
 ### Python
 
@@ -47,11 +48,6 @@ Computer Science Stuff is
 #### Presentations
 
 * [Miguel Grinberg - Asynchronous Python for the Complete Beginner](https://speakerdeck.com/pycon2017/miguel-grinberg-asynchronous-python-for-the-complete-beginner) 
-
-## Theorems
-
-* [Vampire is a theorem prover, that is, a system able to prove theorems](https://vprover.github.io/).
-* This project contains an extended "Standard Library" for Coq called [coq-std++](https://gitlab.mpi-sws.org/robbertkrebbers/coq-stdpp)
 
 # Math
 
@@ -64,22 +60,18 @@ Computer Science Stuff is
 
 # Filesystems
 
-* [](https://github.com/danluu/fs-errors/)
-http://timdettmers.com/2017/12/21/deep-learning-hardware-limbo/
+* [Reproducing resuts from old papers on modern filesystems](https://github.com/danluu/fs-errors/)
+
 http://www.dspguide.com/pdfbook.htm
 
 # Graphics
 
 * [This is a collection of simple to more involved examples to scripting in Blender with Python.](https://github.com/njanakiev/blender-scripting/blob/master/README.md#phyllotaxis-flower)
+* [Visualization of colors in an image through a 3D scatterplot](https://github.com/Overv/ColorScatterPlot)
 
 # Articles
 
 * [Renders papers from Arxiv as responsive web pages so you don't have to squint at a PDF.](https://github.com/arxiv-vanity/arxiv-vanity)
 
-# Statistics
-
-* [hrbrmstr’s Year In Review](https://rud.is/rpubs/2017-year-in-review/) (Using R, and other stuffs)
-* [Linear regression by hand](https://dsgazette.com/2018/01/10/linear-regression-by-hand/)
 
 
-https://github.com/Overv/ColorScatterPlot
