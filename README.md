@@ -41,7 +41,7 @@ Computer Science Stuff is
 
 ### Python
 
-[Think Python](http://greenteapress.com/wp/think-python-2e/) by [AllenDowney](https://github.com/AllenDowney), including [repo](https://github.com/AllenDowney/ThinkPython2)
+* [Think Python](http://greenteapress.com/wp/think-python-2e/) by [AllenDowney](https://github.com/AllenDowney), including [repo](https://github.com/AllenDowney/ThinkPython2)
 * [An O(ND) Difference Algorithm and Its Variations](http://blog.robertelder.org/diff-algorithm/)
 
 #### Presentations
@@ -59,7 +59,7 @@ Computer Science Stuff is
 ## On-line Services
 
 * Some [useful](https://github.com/Spacial/csstuff/blob/master/UsefulSites.md) on-line services.
-* [](https://colab.research.google.com/notebook)
+* Google [colab](https://colab.research.google.com/notebook)
 
 # Filesystems
 
@@ -74,3 +74,7 @@ http://www.dspguide.com/pdfbook.htm
 # Articles
 
 * [Renders papers from Arxiv as responsive web pages so you don't have to squint at a PDF.](https://github.com/arxiv-vanity/arxiv-vanity)
+
+# Statistics
+
+* [hrbrmstr’s Year In Review](https://rud.is/rpubs/2017-year-in-review/) (Using R, and other stuffs)
