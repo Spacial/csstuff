@@ -1,5 +1,10 @@
 # Some useful links about math
 
+## Theorems
+
+* [Vampire is a theorem prover, that is, a system able to prove theorems](https://vprover.github.io/).
+* This project contains an extended "Standard Library" for Coq called [coq-std++](https://gitlab.mpi-sws.org/robbertkrebbers/coq-stdpp)
+
 ## Algebra
 
  * [Symmetry, Algebra and the Monster](https://www.quantamagazine.org/symmetry-algebra-and-the-monster-20170817/)
@@ -12,6 +17,8 @@
 
 * [Modes, Medians and Means: A Unifying Perspective](http://www.johnmyleswhite.com/notebook/2013/03/22/modes-medians-and-means-an-unifying-perspective/)
 * [Taking control of animations in R and demystifying them in the process](https://www.data-imaginist.com/2017/animating-the-logo/?utm_content=bufferd418f)
+* [hrbrmstr’s Year In Review](https://rud.is/rpubs/2017-year-in-review/) (Using R, and other stuffs)
+* [Linear regression by hand](https://dsgazette.com/2018/01/10/linear-regression-by-hand/)
 
 ## Calculus
 
@@ -25,6 +32,10 @@
 ## Discretionary Math
 
 * [Elliptic Curve Cryptography](https://www.johannes-bauer.com/compsci/ecc/)
+
+# Signal Processing
+
+* [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/pdfbook.htm)
 
 ## Coding
 
