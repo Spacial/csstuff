@@ -27,9 +27,21 @@ Computer Science Stuff is
 * [Detecting Chrome Headless](http://antoinevastel.github.io/bot%20detection/2017/08/05/detect-chrome-headless.html)
 * [Minimal PDF](https://brendanzagaeski.appspot.com/0004.html)
 
+### API
+
+* [Useful checklist for building good Python library APIs, based on "How to make a good library API" PyCon 2017 talk](https://github.com/vintasoftware/python-api-checklist/)
+
+### NLP
+
+* [Industrial-strength Natural Language Processing (NLP) with Python and Cython ](https://github.com/explosion/spaCy/)
+
+### Machine Learning
+
+* [Theories of Deep Learning (STATS 385)](https://stats385.github.io/readings)
+
 ### Python
 
-[Think Python](http://greenteapress.com/wp/think-python-2e/) by [AllenDowney](https://github.com/AllenDowney), including [repo](https://github.com/AllenDowney/ThinkPython2)
+* [Think Python](http://greenteapress.com/wp/think-python-2e/) by [AllenDowney](https://github.com/AllenDowney), including [repo](https://github.com/AllenDowney/ThinkPython2)
 * [An O(ND) Difference Algorithm and Its Variations](http://blog.robertelder.org/diff-algorithm/)
 
 #### Presentations
@@ -39,6 +51,7 @@ Computer Science Stuff is
 ## Theorems
 
 * [Vampire is a theorem prover, that is, a system able to prove theorems](https://vprover.github.io/).
+* This project contains an extended "Standard Library" for Coq called [coq-std++](https://gitlab.mpi-sws.org/robbertkrebbers/coq-stdpp)
 
 # Math
 
@@ -47,9 +60,26 @@ Computer Science Stuff is
 ## On-line Services
 
 * Some [useful](https://github.com/Spacial/csstuff/blob/master/UsefulSites.md) on-line services.
+* Google [colab](https://colab.research.google.com/notebook)
 
 # Filesystems
 
 * [](https://github.com/danluu/fs-errors/)
 http://timdettmers.com/2017/12/21/deep-learning-hardware-limbo/
 http://www.dspguide.com/pdfbook.htm
+
+# Graphics
+
+* [This is a collection of simple to more involved examples to scripting in Blender with Python.](https://github.com/njanakiev/blender-scripting/blob/master/README.md#phyllotaxis-flower)
+
+# Articles
+
+* [Renders papers from Arxiv as responsive web pages so you don't have to squint at a PDF.](https://github.com/arxiv-vanity/arxiv-vanity)
+
+# Statistics
+
+* [hrbrmstr’s Year In Review](https://rud.is/rpubs/2017-year-in-review/) (Using R, and other stuffs)
+* [Linear regression by hand](https://dsgazette.com/2018/01/10/linear-regression-by-hand/)
+
+
+https://github.com/Overv/ColorScatterPlot
