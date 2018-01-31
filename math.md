@@ -51,6 +51,7 @@
 
 * [The Corpus Christi Prime](https://friendlyfieldsandopenmaps.com/2017/09/08/the-corpus-christi-prime/)
 * [Blockchains from the ground up: Part 1](http://johnmathews.eu/blockchain-introduction.html)
+* [Modular Multiplication around a Circle](https://codepen.io/erikterwan/pen/MQWZga?editors=0010)
 
 ## General
 
