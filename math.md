@@ -57,3 +57,4 @@
 ## General
 
 * [https://www.bloomberg.com/view/articles/2017-06-07/a-mathematician-s-secret-we-re-not-all-geniuses](https://www.bloomberg.com/view/articles/2017-06-07/a-mathematician-s-secret-we-re-not-all-geniuses)
+* [Quantum Mechanics without the maths or philosophy](http://www.articlesbyaphysicist.com/quantummechanics1.html)
