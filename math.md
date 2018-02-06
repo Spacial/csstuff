@@ -19,16 +19,17 @@
 * [Taking control of animations in R and demystifying them in the process](https://www.data-imaginist.com/2017/animating-the-logo/?utm_content=bufferd418f)
 * [hrbrmstr’s Year In Review](https://rud.is/rpubs/2017-year-in-review/) (Using R, and other stuffs)
 * [Linear regression by hand](https://dsgazette.com/2018/01/10/linear-regression-by-hand/)
+* [What's so hard about histograms?](https://tinlizzie.org/histograms/)
+* [Paradoxes of Probability and Other Statistical Strangeness](http://quillette.com/2017/05/26/paradoxes-probability-statistical-strangeness/)
+* [Kyle Walker](https://gist.github.com/walkerke) Gist, a lot of R scripts and interesting stuff [github](https://github.com/walkerke/tidycensus)
 
 ## Calculus
 
 * [Solving Logistic Regression with Newton's Method](http://thelaziestprogrammer.com/sharrington/math-of-machine-learning/solving-logreg-newtons-method)
 
-## Statistics
+## Physics
 
-* [What's so hard about histograms?](https://tinlizzie.org/histograms/)
-* [Paradoxes of Probability and Other Statistical Strangeness](http://quillette.com/2017/05/26/paradoxes-probability-statistical-strangeness/)
-* [Kyle Walker](https://gist.github.com/walkerke) Gist, a lot of R scripts and interesting stuff [github](https://github.com/walkerke/tidycensus)
+* [Quantum mechanics for programmers](http://www.articlesbyaphysicist.com/quantum4prog.html)
 
 ## Discretionary Math
 
