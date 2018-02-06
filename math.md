@@ -28,6 +28,7 @@
 
 * [What's so hard about histograms?](https://tinlizzie.org/histograms/)
 * [Paradoxes of Probability and Other Statistical Strangeness](http://quillette.com/2017/05/26/paradoxes-probability-statistical-strangeness/)
+* [Kyle Walker](https://gist.github.com/walkerke) Gist, a lot of R scripts and interesting stuff [github](https://github.com/walkerke/tidycensus)
 
 ## Discretionary Math
 
