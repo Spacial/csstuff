@@ -48,6 +48,7 @@
 * [Slight Street Sign Modifications Can Completely Fool Machine Learning Algorithms](https://spectrum.ieee.org/cars-that-think/transportation/sensors/slight-street-sign-modifications-can-fool-machine-learning-algorithms)
 * [Over 150 of the Best Machine Learning, NLP, and Python Tutorials I’ve Found](https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
 * [A Primer on Bézier Curves](https://www.jasondavies.com/animated-bezier/) and [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/)
+* [Double Pendulum Visualization](https://jnafzig.github.io/2018/02/05/double-pendulum.html), [repo](https://github.com/jnafzig/HamiltonianSolver)
 
 ## Fun
 
