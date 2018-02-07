@@ -26,6 +26,12 @@ Computer Science Stuff is
 * [Modular visual interface for GDB in Python](https://github.com/cyrus-and/gdb-dashboard)
 * [Detecting Chrome Headless](http://antoinevastel.github.io/bot%20detection/2017/08/05/detect-chrome-headless.html)
 * [Minimal PDF](https://brendanzagaeski.appspot.com/0004.html)
+* some twitter [thread](https://www.twitter.com/TartanLlama/status/960807058164547584) by Simon Brand
+
+## Compilers
+
+* [LLVM for Grad Students](http://www.cs.cornell.edu/~asampson/blog/llvm.html)
+* A text file that is also a [executable](http://www.cs.cmu.edu/~tom7/abc/paper.txt) (both are a paper, actually)
 
 ### API
 
