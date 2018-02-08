@@ -27,6 +27,7 @@ Computer Science Stuff is
 * [Detecting Chrome Headless](http://antoinevastel.github.io/bot%20detection/2017/08/05/detect-chrome-headless.html)
 * [Minimal PDF](https://brendanzagaeski.appspot.com/0004.html)
 * some twitter [thread](https://www.twitter.com/TartanLlama/status/960807058164547584) by Simon Brand
+* [Exercises for people learning the C programming language](https://github.com/AllenDowney/ExercisesInC) by Allen B. Downey
 
 ## Compilers
 
