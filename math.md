@@ -23,6 +23,7 @@
 * [Paradoxes of Probability and Other Statistical Strangeness](http://quillette.com/2017/05/26/paradoxes-probability-statistical-strangeness/)
 * [Kyle Walker](https://gist.github.com/walkerke) Gist, a lot of R scripts and interesting stuff [github](https://github.com/walkerke/tidycensus)
 * [I wrote some code that automatically checks visualizations for non-colorblind safe colors. Here's how it works](https://www.vis4.net/blog/2018/02/automate-colorblind-checking/)
+* [The 2017 Atlas of Sustainable Development Goals: a new visual guide to data and development](http://blogs.worldbank.org/opendata/2017-atlas-sustainable-development-goals-new-visual-guide-data-and-development?cid=ECR_TT_worldbank_EN_EXT)
 
 ## Calculus
 
