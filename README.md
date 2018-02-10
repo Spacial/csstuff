@@ -52,6 +52,10 @@ Computer Science Stuff is
 * [Think Python](http://greenteapress.com/wp/think-python-2e/) by [AllenDowney](https://github.com/AllenDowney), including [repo](https://github.com/AllenDowney/ThinkPython2)
 * [An O(ND) Difference Algorithm and Its Variations](http://blog.robertelder.org/diff-algorithm/)
 
+### Haskell
+
+* [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
+
 #### Presentations
 
 * [Miguel Grinberg - Asynchronous Python for the Complete Beginner](https://speakerdeck.com/pycon2017/miguel-grinberg-asynchronous-python-for-the-complete-beginner) 
@@ -75,6 +79,7 @@ http://www.dspguide.com/pdfbook.htm
 
 * [This is a collection of simple to more involved examples to scripting in Blender with Python.](https://github.com/njanakiev/blender-scripting/blob/master/README.md#phyllotaxis-flower)
 * [Visualization of colors in an image through a 3D scatterplot](https://github.com/Overv/ColorScatterPlot)
+* [A single-header ANSI C gui library](https://github.com/vurtun/nuklear)
 
 # Articles
 
