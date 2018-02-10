@@ -57,6 +57,7 @@
 * [The Corpus Christi Prime](https://friendlyfieldsandopenmaps.com/2017/09/08/the-corpus-christi-prime/)
 * [Blockchains from the ground up: Part 1](http://johnmathews.eu/blockchain-introduction.html)
 * [Modular Multiplication around a Circle](https://codepen.io/erikterwan/pen/MQWZga?editors=0010)
+* [Recreating the Vertigo poster](https://www.johndcook.com/blog/2017/02/14/recreating-the-vertigo-poster/)
 
 ## General
 
