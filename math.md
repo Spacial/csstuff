@@ -59,6 +59,10 @@
 * [Modular Multiplication around a Circle](https://codepen.io/erikterwan/pen/MQWZga?editors=0010)
 * [Recreating the Vertigo poster](https://www.johndcook.com/blog/2017/02/14/recreating-the-vertigo-poster/)
 
+### Music
+
+* [The Mystery and Music of Kaprekar Constant- 6174](http://arabale.com/blog/2014/4/29/the-mystery-and-music-of-kaprekar-constant-6174)
+
 ## General
 
 * [https://www.bloomberg.com/view/articles/2017-06-07/a-mathematician-s-secret-we-re-not-all-geniuses](https://www.bloomberg.com/view/articles/2017-06-07/a-mathematician-s-secret-we-re-not-all-geniuses)
