@@ -64,6 +64,10 @@ Computer Science Stuff is
 
 * A [list](https://github.com/Spacial/csstuff/blob/master/math.md) of math links.
 
+# Physics
+
+* [Physics Travel Guide](https://physicstravelguide.com)
+
 ## On-line Services
 
 * Some [useful](https://github.com/Spacial/csstuff/blob/master/UsefulSites.md) on-line services.
@@ -85,5 +89,10 @@ http://www.dspguide.com/pdfbook.htm
 
 * [Renders papers from Arxiv as responsive web pages so you don't have to squint at a PDF.](https://github.com/arxiv-vanity/arxiv-vanity)
 
+# Studies
 
+* [List of Computer Science related contacts for PhD applicants from US-banned countries](https://docs.google.com/document/d/17r18cKaMSeZF4fI7UZYV0QwCvdbEb3vy3BMNZfgbgzI/edit#heading=h.9vx4cr9i0i09)
 
+# General
+
+* [The Sublimated Grief of the Left Behind](http://erinbartram.com/uncategorized/the-sublimated-grief-of-the-left-behind/)
