@@ -53,6 +53,7 @@
 * [A Primer on Bézier Curves](https://www.jasondavies.com/animated-bezier/) and [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/)
 * [Double Pendulum Visualization](https://jnafzig.github.io/2018/02/05/double-pendulum.html), [repo](https://github.com/jnafzig/HamiltonianSolver)
 * [Randomness and Perlin Noise](http://makeyourownalgorithmicart.blogspot.com.br/2018/02/randomness-and-perlin-noise.html)
+* [An interactive, explorable explanation about the peculiar magic of sound waves](https://github.com/joshwcomeau/waveforms)
 
 
 ## Fun
