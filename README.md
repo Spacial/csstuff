@@ -87,6 +87,7 @@ http://www.dspguide.com/pdfbook.htm
 * [This is a collection of simple to more involved examples to scripting in Blender with Python.](https://github.com/njanakiev/blender-scripting/blob/master/README.md#phyllotaxis-flower)
 * [Visualization of colors in an image through a 3D scatterplot](https://github.com/Overv/ColorScatterPlot)
 * [A single-header ANSI C gui library](https://github.com/vurtun/nuklear)
+* [RPi GPU](https://github.com/simonjhall/challenge)
 
 # Articles
 
