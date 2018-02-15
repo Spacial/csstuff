@@ -28,6 +28,8 @@ Computer Science Stuff is
 * [Minimal PDF](https://brendanzagaeski.appspot.com/0004.html)
 * some twitter [thread](https://www.twitter.com/TartanLlama/status/960807058164547584) by Simon Brand
 * [Exercises for people learning the C programming language](https://github.com/AllenDowney/ExercisesInC) by Allen B. Downey
+* [Prettier is an opinionated code formatter](https://github.com/prettier/prettier)
+* [Go references](https://standupdev.com/wiki/doku.php?id=go_references)
 
 ## Compilers
 
@@ -67,6 +69,7 @@ Computer Science Stuff is
 # Physics
 
 * [Physics Travel Guide](https://physicstravelguide.com)
+* [An interactive, explorable explanation about the peculiar magic of sound waves.](https://github.com/joshwcomeau/waveforms)
 
 ## On-line Services
 
