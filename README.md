@@ -31,6 +31,7 @@ Computer Science Stuff is
 * [Exercises for people learning the C programming language](https://github.com/AllenDowney/ExercisesInC) by Allen B. Downey
 * [Prettier is an opinionated code formatter](https://github.com/prettier/prettier)
 * [Go references](https://standupdev.com/wiki/doku.php?id=go_references)
+* [Learning to program is getting harder](http://allendowney.blogspot.com.br/2018/02/learning-to-program-is-getting-harder.html)
 
 ## Compilers
 
@@ -104,7 +105,9 @@ Computer Science Stuff is
 # General
 
 * [The Sublimated Grief of the Left Behind](http://erinbartram.com/uncategorized/the-sublimated-grief-of-the-left-behind/)
+* [The professional learning platform](https://www.soyoulearn.com)
 
 # Fun
 
 * [animations with JS](https://state-animations-amsterdam.surge.sh)
+* [3D engine entirely made of MS Excel formulae : Enjoy this Doom.xls file](https://www.gamasutra.com/blogs/CBel/20180208/308549/3D_engine_entirely_made_of_MS_Excel_formulae__Enjoy_this_Doomxls_file_.php)
