@@ -80,8 +80,6 @@ Computer Science Stuff is
 
 * [Reproducing resuts from old papers on modern filesystems](https://github.com/danluu/fs-errors/)
 
-http://www.dspguide.com/pdfbook.htm
-
 # Graphics
 
 * [This is a collection of simple to more involved examples to scripting in Blender with Python.](https://github.com/njanakiev/blender-scripting/blob/master/README.md#phyllotaxis-flower)
@@ -100,3 +98,7 @@ http://www.dspguide.com/pdfbook.htm
 # General
 
 * [The Sublimated Grief of the Left Behind](http://erinbartram.com/uncategorized/the-sublimated-grief-of-the-left-behind/)
+
+# Fun
+
+* [animations with JS](https://state-animations-amsterdam.surge.sh)
