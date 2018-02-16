@@ -8,7 +8,8 @@
 ## Algebra
 
  * [Symmetry, Algebra and the Monster](https://www.quantamagazine.org/symmetry-algebra-and-the-monster-20170817/)
- * [http://web.calstatela.edu/curvebank/tricurve/tricurve.htm](http://web.calstatela.edu/curvebank/tricurve/tricurve.htm) and [Tiling with Tricurves](http://paulbourke.net/geometry/tricurves/)
+ * [Tricurves](http://web.calstatela.edu/curvebank/tricurve/tricurve.htm) and [Tiling with Tricurves](http://paulbourke.net/geometry/tricurves/)
+ * [Graphical Linear Algebra](https://graphicallinearalgebra.net)
 
 ## Matrices
 
