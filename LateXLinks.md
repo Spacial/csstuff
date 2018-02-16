@@ -8,6 +8,11 @@
 
 * [Mirroring text in LaTeX](http://texblog.org/2013/11/19/mirroring-text-in-latex/)
 
+# Tables
+
+* [LaTeX Table Generator](https://www.tablesgenerator.com/)
+
+
 # Diagrams
 
 ## UML
