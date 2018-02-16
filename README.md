@@ -9,6 +9,7 @@ Computer Science Stuff is
 
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 * [Great Theoretical Ideas in Computer Science](http://www.cs.cmu.edu/~aada/courses/15251f15/www/schedule.html)
+* [Accidentally Turing-Complete](http://beza1e1.tuxen.de/articles/accidentally_turing_complete.html)
 
 ## Data
 
@@ -61,6 +62,7 @@ Computer Science Stuff is
 #### Presentations
 
 * [Miguel Grinberg - Asynchronous Python for the Complete Beginner](https://speakerdeck.com/pycon2017/miguel-grinberg-asynchronous-python-for-the-complete-beginner) 
+* [The Future of Python Dependency Management](https://speakerdeck.com/kennethreitz/the-future-of-python-dependency-management)
 
 # Math
 
@@ -70,6 +72,10 @@ Computer Science Stuff is
 
 * [Physics Travel Guide](https://physicstravelguide.com)
 * [An interactive, explorable explanation about the peculiar magic of sound waves.](https://github.com/joshwcomeau/waveforms)
+
+# Astronomy
+
+* [HORIZONS Web-Interface](https://ssd.jpl.nasa.gov/horizons.cgi?CGISESSID=f7047642ea793b6fabbd2a9e97319842&s_body=1#top)
 
 ## On-line Services
 
