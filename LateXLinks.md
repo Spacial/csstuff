@@ -7,6 +7,7 @@
 # Text
 
 * [Mirroring text in LaTeX](http://texblog.org/2013/11/19/mirroring-text-in-latex/)
+* [Using colours in LaTeX](https://www.sharelatex.com/learn/Using_colours_in_LaTeX)
 
 # Tables
 
