@@ -18,6 +18,6 @@
 
 # General
 
- * [https://www.overleaf.com/blog/500-whats-in-a-name-a-guide-to-the-many-flavours-of-tex#.WQsuiYFv-Ef](https://www.overleaf.com/blog/500-whats-in-a-name-a-guide-to-the-many-flavours-of-tex#.WQsuiYFv-Ef)
+ * [What's in a Name: A Guide to the Many Flavours of TeX](https://www.overleaf.com/blog/500-whats-in-a-name-a-guide-to-the-many-flavours-of-tex#.WQsuiYFv-Ef)
  * [The tikzpeople package](http://mirror.hmc.edu/ctan/graphics/pgf/contrib/tikzpeople/tikzpeople.pdf)
  * [Automatic Acronym List in LaTeX](https://www.overleaf.com/latex/examples/automatic-acronym-list-in-latex/dzvxfzpsjrmm#.WQSGfYFv-Ef)
