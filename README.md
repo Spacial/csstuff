@@ -33,6 +33,10 @@ Computer Science Stuff is
 * [Go references](https://standupdev.com/wiki/doku.php?id=go_references)
 * [Learning to program is getting harder](http://allendowney.blogspot.com.br/2018/02/learning-to-program-is-getting-harder.html)
 
+## Hardware 
+
+* [Ariane is a 6-stage RISC-V CPU](https://github.com/pulp-platform/ariane)
+
 ## Compilers
 
 * [LLVM for Grad Students](http://www.cs.cornell.edu/~asampson/blog/llvm.html)
