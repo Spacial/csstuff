@@ -23,21 +23,47 @@ Computer Science Stuff is
 ## Programming
 
 * [Modern B-Tree Techniques](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.219.7269&rep=rep1&type=pdf) by Goetz Graefe
-* [How to Program an NES game in C](https://nesdoug.com)
-* [Modular visual interface for GDB in Python](https://github.com/cyrus-and/gdb-dashboard)
 * [Detecting Chrome Headless](http://antoinevastel.github.io/bot%20detection/2017/08/05/detect-chrome-headless.html)
 * [Minimal PDF](https://brendanzagaeski.appspot.com/0004.html)
-* some twitter [thread](https://www.twitter.com/TartanLlama/status/960807058164547584) by Simon Brand
-* [Exercises for people learning the C programming language](https://github.com/AllenDowney/ExercisesInC) by Allen B. Downey
 * [Prettier is an opinionated code formatter](https://github.com/prettier/prettier)
-* [Go references](https://standupdev.com/wiki/doku.php?id=go_references)
 * [Learning to program is getting harder](http://allendowney.blogspot.com.br/2018/02/learning-to-program-is-getting-harder.html)
 * [Awesome cheatsheets for popular programming languages, frameworks and development tools](https://github.com/eon01/awesome-cheatsheets)
-* [Python Plotting for Exploratory Data Analysis](http://pythonplot.com)
+
+
+### C/C++
+
+* [Exercises for people learning the C programming language](https://github.com/AllenDowney/ExercisesInC) by Allen B. Downey
+* some twitter [thread](https://www.twitter.com/TartanLlama/status/960807058164547584) by Simon Brand
+* [How to Program an NES game in C](https://nesdoug.com)
 
 ### Git
 
  * [Pro Git book](https://git-scm.com/book/en/v2), written by Scott Chacon and Ben Straub ([github](https://github.com/progit/progit2) repo)
+ 
+ ### Python
+
+* [Think Python](http://greenteapress.com/wp/think-python-2e/) by [AllenDowney](https://github.com/AllenDowney), including [repo](https://github.com/AllenDowney/ThinkPython2)
+* [An O(ND) Difference Algorithm and Its Variations](http://blog.robertelder.org/diff-algorithm/)
+* [Modular visual interface for GDB in Python](https://github.com/cyrus-and/gdb-dashboard)
+* [The Jupyter Notebooks behind: "A Whirlwind Tour of Python"](https://github.com/jakevdp/WhirlwindTourOfPython)
+* [Violencia Rio de Janeiro](https://github.com/rogeriochaves/notebooks/blob/master/Violencia%20Rio%20de%20Janeiro.ipynb) (pt-br)
+* [Python+Processing code for creating a dotmap of every person in Brazil, color-coded by race](https://github.com/zynphull/RacialDotMap-Brazil/) 
+* [Python & Async Simplified](https://www.aeracode.org/2018/02/19/python-async-simplified/)
+* [Python Plotting for Exploratory Data Analysis](http://pythonplot.com)
+
+#### Presentations
+
+* [Miguel Grinberg - Asynchronous Python for the Complete Beginner](https://speakerdeck.com/pycon2017/miguel-grinberg-asynchronous-python-for-the-complete-beginner) 
+* [The Future of Python Dependency Management](https://speakerdeck.com/kennethreitz/the-future-of-python-dependency-management)
+
+### Haskell
+
+* [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
+
+### Go
+
+* [Go references](https://standupdev.com/wiki/doku.php?id=go_references)
+
 
 ## Hardware 
 
@@ -61,24 +87,6 @@ Computer Science Stuff is
 * [Theories of Deep Learning (STATS 385)](https://stats385.github.io/readings)
 * [Deep Learning Hardware Limbo](http://timdettmers.com/2017/12/21/deep-learning-hardware-limbo/)
 * [Deep learning signal classification using rtl-sdr dongle](https://github.com/randaller/cnn-rtlsdr)
-
-### Python
-
-* [Think Python](http://greenteapress.com/wp/think-python-2e/) by [AllenDowney](https://github.com/AllenDowney), including [repo](https://github.com/AllenDowney/ThinkPython2)
-* [An O(ND) Difference Algorithm and Its Variations](http://blog.robertelder.org/diff-algorithm/)
-* [The Jupyter Notebooks behind: "A Whirlwind Tour of Python"](https://github.com/jakevdp/WhirlwindTourOfPython)
-* [Violencia Rio de Janeiro](https://github.com/rogeriochaves/notebooks/blob/master/Violencia%20Rio%20de%20Janeiro.ipynb) (pt-br)
-* [Python+Processing code for creating a dotmap of every person in Brazil, color-coded by race](https://github.com/zynphull/RacialDotMap-Brazil/) 
-* [Python & Async Simplified](https://www.aeracode.org/2018/02/19/python-async-simplified/)
-
-### Haskell
-
-* [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
-
-#### Presentations
-
-* [Miguel Grinberg - Asynchronous Python for the Complete Beginner](https://speakerdeck.com/pycon2017/miguel-grinberg-asynchronous-python-for-the-complete-beginner) 
-* [The Future of Python Dependency Management](https://speakerdeck.com/kennethreitz/the-future-of-python-dependency-management)
 
 # Math
 
