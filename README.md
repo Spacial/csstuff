@@ -59,6 +59,8 @@ Computer Science Stuff is
 
 * [Think Python](http://greenteapress.com/wp/think-python-2e/) by [AllenDowney](https://github.com/AllenDowney), including [repo](https://github.com/AllenDowney/ThinkPython2)
 * [An O(ND) Difference Algorithm and Its Variations](http://blog.robertelder.org/diff-algorithm/)
+* [The Jupyter Notebooks behind: "A Whirlwind Tour of Python"](https://github.com/jakevdp/WhirlwindTourOfPython)
+* [Violencia Rio de Janeiro](https://github.com/rogeriochaves/notebooks/blob/master/Violencia%20Rio%20de%20Janeiro.ipynb) (pt-br)
 
 ### Haskell
 
@@ -77,6 +79,7 @@ Computer Science Stuff is
 
 * [Physics Travel Guide](https://physicstravelguide.com)
 * [An interactive, explorable explanation about the peculiar magic of sound waves.](https://github.com/joshwcomeau/waveforms)
+* [This program generates bitmaps that are locally similar to the input bitmap](https://github.com/mxgmn/WaveFunctionCollapse)
 
 # Astronomy
 
@@ -105,6 +108,7 @@ Computer Science Stuff is
 # Studies
 
 * [List of Computer Science related contacts for PhD applicants from US-banned countries](https://docs.google.com/document/d/17r18cKaMSeZF4fI7UZYV0QwCvdbEb3vy3BMNZfgbgzI/edit#heading=h.9vx4cr9i0i09)
+* [Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 
 ## Writing
 
