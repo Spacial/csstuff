@@ -35,6 +35,10 @@ Computer Science Stuff is
 * [Awesome cheatsheets for popular programming languages, frameworks and development tools](https://github.com/eon01/awesome-cheatsheets)
 * [Python Plotting for Exploratory Data Analysis](http://pythonplot.com)
 
+### Git
+
+ * [Pro Git book](https://git-scm.com/book/en/v2), written by Scott Chacon and Ben Straub ([github](https://github.com/progit/progit2) repo)
+
 ## Hardware 
 
 * [Ariane is a 6-stage RISC-V CPU](https://github.com/pulp-platform/ariane)
