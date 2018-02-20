@@ -32,6 +32,8 @@ Computer Science Stuff is
 * [Prettier is an opinionated code formatter](https://github.com/prettier/prettier)
 * [Go references](https://standupdev.com/wiki/doku.php?id=go_references)
 * [Learning to program is getting harder](http://allendowney.blogspot.com.br/2018/02/learning-to-program-is-getting-harder.html)
+* [Awesome cheatsheets for popular programming languages, frameworks and development tools](https://github.com/eon01/awesome-cheatsheets)
+* [Python Plotting for Exploratory Data Analysis](http://pythonplot.com)
 
 ## Hardware 
 
@@ -54,6 +56,7 @@ Computer Science Stuff is
 
 * [Theories of Deep Learning (STATS 385)](https://stats385.github.io/readings)
 * [Deep Learning Hardware Limbo](http://timdettmers.com/2017/12/21/deep-learning-hardware-limbo/)
+* [Deep learning signal classification using rtl-sdr dongle](https://github.com/randaller/cnn-rtlsdr)
 
 ### Python
 
@@ -61,6 +64,8 @@ Computer Science Stuff is
 * [An O(ND) Difference Algorithm and Its Variations](http://blog.robertelder.org/diff-algorithm/)
 * [The Jupyter Notebooks behind: "A Whirlwind Tour of Python"](https://github.com/jakevdp/WhirlwindTourOfPython)
 * [Violencia Rio de Janeiro](https://github.com/rogeriochaves/notebooks/blob/master/Violencia%20Rio%20de%20Janeiro.ipynb) (pt-br)
+* [Python+Processing code for creating a dotmap of every person in Brazil, color-coded by race](https://github.com/zynphull/RacialDotMap-Brazil/) 
+* [Python & Async Simplified](https://www.aeracode.org/2018/02/19/python-async-simplified/)
 
 ### Haskell
 
@@ -118,6 +123,7 @@ Computer Science Stuff is
 
 * [The Sublimated Grief of the Left Behind](http://erinbartram.com/uncategorized/the-sublimated-grief-of-the-left-behind/)
 * [The professional learning platform](https://www.soyoulearn.com)
+* [poor man's kafka](https://github.com/jackdoe/rochefort)
 
 # Fun
 
