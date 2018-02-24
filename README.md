@@ -50,6 +50,7 @@ Computer Science Stuff is
 * [Python+Processing code for creating a dotmap of every person in Brazil, color-coded by race](https://github.com/zynphull/RacialDotMap-Brazil/) 
 * [Python & Async Simplified](https://www.aeracode.org/2018/02/19/python-async-simplified/)
 * [Python Plotting for Exploratory Data Analysis](http://pythonplot.com)
+* [A curated list of awesome Python frameworks, libraries, software and resources](https://github.com/vinta/awesome-python#authentication)
 
 #### Presentations
 
@@ -87,6 +88,20 @@ Computer Science Stuff is
 * [Theories of Deep Learning (STATS 385)](https://stats385.github.io/readings)
 * [Deep Learning Hardware Limbo](http://timdettmers.com/2017/12/21/deep-learning-hardware-limbo/)
 * [Deep learning signal classification using rtl-sdr dongle](https://github.com/randaller/cnn-rtlsdr)
+* [This is the code](https://github.com/llSourcell/Landing-a-SpaceX-Falcon-Heavy-Rocket) for "Landing a SpaceX Falcon Heavy Rocket" By Siraj Raval on Youtube
+
+#### Python
+
+*Frameworks for Neural Networks and Deep Learning. See: [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning).*
+
+* [Caffe](https://github.com/BVLC/caffe) - A fast open framework for deep learning..
+* [Keras](https://github.com/fchollet/keras) - A high-level neural networks library and capable of running on top of either TensorFlow or Theano.
+* [MXNet](https://github.com/dmlc/mxnet) - A deep learning framework designed for both efficiency and flexibility.
+* [Neupy](http://neupy.com/pages/home.html) - Running and testing different Artificial Neural Networks algorithms.
+* [Pytorch](http://pytorch.org/) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+* [Serpent.AI](https://github.com/SerpentAI/SerpentAI) - Game agent framework. Use any video game as a deep learning sandbox.
+* [TensorFlow](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
+* [Theano](https://github.com/Theano/Theano) - A library for fast numerical computation.
 
 # Math
 
@@ -130,6 +145,16 @@ Computer Science Stuff is
 ## Writing
 
  * [Write Clearly and Concisely](http://sites.ieee.org/pcs/communication-resources-for-engineers/style/write-clearly-and-concisely/) by IEEE
+
+# Philosophy
+
+* [The Philosophy of Computer Science](https://plato.stanford.edu/entries/computer-science/)
+* Luciano Floridi recommends the best books on the [Philosophy of Information](https://fivebooks.com/best-books/luciano-floridi-philosophy-information/)
+  * Republic - by Plato
+  * Meditations on First Philosophy - by  René Descartes
+  * Critique of Pure Reason - by Immanuel Kant
+  * The Essential Turing - by Alan Turing
+  * The Postmodern Condition - by Jean-Francois Lyotard
 
 # General
 
