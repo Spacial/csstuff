@@ -31,6 +31,10 @@
 
 * [Solving Logistic Regression with Newton's Method](http://thelaziestprogrammer.com/sharrington/math-of-machine-learning/solving-logreg-newtons-method)
 
+## Topology
+
+* [Isometries of Hyperbolic 3-Space	](https://www.shadertoy.com/view/MstcWr)
+
 ## Physics
 
 * [Quantum mechanics for programmers](http://www.articlesbyaphysicist.com/quantum4prog.html)
@@ -56,6 +60,9 @@
 * [Randomness and Perlin Noise](http://makeyourownalgorithmicart.blogspot.com.br/2018/02/randomness-and-perlin-noise.html)
 * [An interactive, explorable explanation about the peculiar magic of sound waves](https://github.com/joshwcomeau/waveforms)
 
+# Graph Theory
+
+* [How to think in graphs: an illustrative introduction to Graph Theory and its applications](https://medium.freecodecamp.org/i-dont-understand-graph-theory-1c96572a1401)
 
 ## Fun
 
