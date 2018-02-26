@@ -51,6 +51,7 @@ Computer Science Stuff is
 * [Python & Async Simplified](https://www.aeracode.org/2018/02/19/python-async-simplified/)
 * [Python Plotting for Exploratory Data Analysis](http://pythonplot.com)
 * [A curated list of awesome Python frameworks, libraries, software and resources](https://github.com/vinta/awesome-python#authentication)
+* [Coconut Lang](https://github.com/evhub/coconut)
 
 #### Presentations
 
