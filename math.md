@@ -26,6 +26,9 @@
 * [Kyle Walker](https://gist.github.com/walkerke) Gist, a lot of R scripts and interesting stuff [github](https://github.com/walkerke/tidycensus)
 * [I wrote some code that automatically checks visualizations for non-colorblind safe colors. Here's how it works](https://www.vis4.net/blog/2018/02/automate-colorblind-checking/)
 * [The 2017 Atlas of Sustainable Development Goals: a new visual guide to data and development](http://blogs.worldbank.org/opendata/2017-atlas-sustainable-development-goals-new-visual-guide-data-and-development?cid=ECR_TT_worldbank_EN_EXT)
+* [These are the best books](https://qz.com/1206229/this-is-the-best-book-for-learning-modern-statistics-its-free/) for learning modern statistics—and they’re all free
+  * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
+  * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
 ## Calculus
 
@@ -59,6 +62,7 @@
 * [Double Pendulum Visualization](https://jnafzig.github.io/2018/02/05/double-pendulum.html), [repo](https://github.com/jnafzig/HamiltonianSolver)
 * [Randomness and Perlin Noise](http://makeyourownalgorithmicart.blogspot.com.br/2018/02/randomness-and-perlin-noise.html)
 * [An interactive, explorable explanation about the peculiar magic of sound waves](https://github.com/joshwcomeau/waveforms)
+* [A collection of Jupyter notebook explorations for NASA's Space Math examples.](https://github.com/dynamicwebpaige/spacemath)
 
 # Graph Theory
 
@@ -70,6 +74,7 @@
 * [Blockchains from the ground up: Part 1](http://johnmathews.eu/blockchain-introduction.html)
 * [Modular Multiplication around a Circle](https://codepen.io/erikterwan/pen/MQWZga?editors=0010)
 * [Recreating the Vertigo poster](https://www.johndcook.com/blog/2017/02/14/recreating-the-vertigo-poster/)
+* [Hexagon-hard-way.swift](https://gist.github.com/mxcl/8a2d9c1b1c0063f2a71e24f9fe045d43)
 
 ### Music
 
