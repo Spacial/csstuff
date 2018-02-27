@@ -80,6 +80,11 @@ Computer Science Stuff is
 
 * [Useful checklist for building good Python library APIs, based on "How to make a good library API" PyCon 2017 talk](https://github.com/vintasoftware/python-api-checklist/)
 
+
+## Artificial Intelligence
+
+* [Lisp code](https://github.com/norvig/paip-lisp) for the textbook "Paradigms of Artificial Intelligence Programming"
+
 ### NLP
 
 * [Industrial-strength Natural Language Processing (NLP) with Python and Cython ](https://github.com/explosion/spaCy/)
@@ -103,6 +108,10 @@ Computer Science Stuff is
 * [Serpent.AI](https://github.com/SerpentAI/SerpentAI) - Game agent framework. Use any video game as a deep learning sandbox.
 * [TensorFlow](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
 * [Theano](https://github.com/Theano/Theano) - A library for fast numerical computation.
+
+# Linear Programming
+
+* [PHPSimplex](http://www.phpsimplex.com/simplex/)
 
 # Math
 
@@ -146,6 +155,10 @@ Computer Science Stuff is
 ## Writing
 
  * [Write Clearly and Concisely](http://sites.ieee.org/pcs/communication-resources-for-engineers/style/write-clearly-and-concisely/) by IEEE
+
+# Privacy
+
+* ["Polisis: Automated Analysis and Presentation of Privacy Policies Using Deep Learning"](https://pribot.org/polisis)
 
 # Philosophy
 
