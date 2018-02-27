@@ -29,6 +29,7 @@
 * [These are the best books](https://qz.com/1206229/this-is-the-best-book-for-learning-modern-statistics-its-free/) for learning modern statistics—and they’re all free
   * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
   * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+* [What's the significance of 0.05 significance?](http://www.p-value.info/2013/01/whats-significance-of-005-significance_6.html)
 
 ## Calculus
 
