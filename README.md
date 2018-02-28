@@ -96,6 +96,10 @@ Computer Science Stuff is
 * [Deep learning signal classification using rtl-sdr dongle](https://github.com/randaller/cnn-rtlsdr)
 * [This is the code](https://github.com/llSourcell/Landing-a-SpaceX-Falcon-Heavy-Rocket) for "Landing a SpaceX Falcon Heavy Rocket" By Siraj Raval on Youtube
 
+### RNN
+
+* [Handwriting Synthesis](https://github.com/sjvasquez/handwriting-synthesis)
+
 #### Python
 
 *Frameworks for Neural Networks and Deep Learning. See: [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning).*
