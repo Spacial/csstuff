@@ -28,7 +28,7 @@ Computer Science Stuff is
 * [Prettier is an opinionated code formatter](https://github.com/prettier/prettier)
 * [Learning to program is getting harder](http://allendowney.blogspot.com.br/2018/02/learning-to-program-is-getting-harder.html)
 * [Awesome cheatsheets for popular programming languages, frameworks and development tools](https://github.com/eon01/awesome-cheatsheets)
-
+* [A Programmable Programming Language](https://cacm.acm.org/magazines/2018/3/225475-a-programmable-programming-language/fulltext)
 
 ### C/C++
 
