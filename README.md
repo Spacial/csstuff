@@ -1,6 +1,6 @@
 # Computer Science Stuff
 
-Computer Science Stuff is
+Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 * **TheoryOfComputation** : Some resources about the topic (tex files and JFLAP files).
 * **Algorithms** : Some stuff about design, analisys and general in algorithms science.
@@ -11,10 +11,16 @@ Computer Science Stuff is
 * [Great Theoretical Ideas in Computer Science](http://www.cs.cmu.edu/~aada/courses/15251f15/www/schedule.html)
 * [Accidentally Turing-Complete](http://beza1e1.tuxen.de/articles/accidentally_turing_complete.html)
 
-## Data
+## Data Structures
+
+* [Data Structures for  Coding Interviews](https://www.interviewcake.com/article/python/data-structures-coding-interview)
+
+### Data Science
 
 * Some thoughts about data licensing: [The CRAPL: An academic-strength open source license](http://matt.might.net/articles/crapl/)
-* [Data Structures for  Coding Interviews](https://www.interviewcake.com/article/python/data-structures-coding-interview)
+* [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
+
+
 
 ## Databases
 
@@ -57,6 +63,7 @@ Computer Science Stuff is
 
 * [Miguel Grinberg - Asynchronous Python for the Complete Beginner](https://speakerdeck.com/pycon2017/miguel-grinberg-asynchronous-python-for-the-complete-beginner) 
 * [The Future of Python Dependency Management](https://speakerdeck.com/kennethreitz/the-future-of-python-dependency-management)
+* [Beautiful folds](https://github.com/Gabriel439/slides/blob/master/munihac/foldmap.md) commonly arise in parallel/distributed programming
 
 ### Haskell
 
@@ -88,6 +95,7 @@ Computer Science Stuff is
 ### NLP
 
 * [Industrial-strength Natural Language Processing (NLP) with Python and Cython ](https://github.com/explosion/spaCy/)
+* [Understanding word vectors](https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469)
 
 ### Machine Learning
 
