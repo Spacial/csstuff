@@ -19,6 +19,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * Some thoughts about data licensing: [The CRAPL: An academic-strength open source license](http://matt.might.net/articles/crapl/)
 * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
+* [Knitr Engine for Neo4j](https://github.com/ThinkR-open/rmd4j)
 
 
 
