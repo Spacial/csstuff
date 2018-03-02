@@ -31,3 +31,4 @@
 # Templates
 
 * [A minimal & modern LaTeX template for your (bachelor's | master's | doctoral) thesis](https://github.com/Submanifold/latex-mimosis)
+* [LaTeX files for the Deep Learning book notation](https://github.com/goodfeli/dlbook_notation)
