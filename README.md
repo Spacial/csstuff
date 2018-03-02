@@ -15,9 +15,6 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [Data Structures for  Coding Interviews](https://www.interviewcake.com/article/python/data-structures-coding-interview)
 
-
-
-
 ## Databases
 
 * [Readings in Database Systems](http://www.redbook.io)
@@ -31,6 +28,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Learning to program is getting harder](http://allendowney.blogspot.com.br/2018/02/learning-to-program-is-getting-harder.html)
 * [Awesome cheatsheets for popular programming languages, frameworks and development tools](https://github.com/eon01/awesome-cheatsheets)
 * [A Programmable Programming Language](https://cacm.acm.org/magazines/2018/3/225475-a-programmable-programming-language/fulltext)
+* [Flow](https://github.com/facebook/flow): Adds static typing to JavaScript to improve developer productivity and code quality.
 
 ### C/C++
 
