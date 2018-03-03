@@ -250,6 +250,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 ## Writing
 
  * [Write Clearly and Concisely](http://sites.ieee.org/pcs/communication-resources-for-engineers/style/write-clearly-and-concisely/) by IEEE
+ * [GENERAL RESEARCH AND WRITING RESOURCES AND GUIDES](https://riozones.wordpress.com/2018/02/25/general-research-and-writing-resources-and-guides/)
 
 # Privacy
 
