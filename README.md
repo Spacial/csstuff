@@ -237,6 +237,9 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Visualization of colors in an image through a 3D scatterplot](https://github.com/Overv/ColorScatterPlot)
 * [A single-header ANSI C gui library](https://github.com/vurtun/nuklear)
 * [RPi GPU](https://github.com/simonjhall/challenge)
+* [Perceptual image hashing for PHP](https://github.com/jenssegers/imagehash)
+* [Code](https://github.com/igul222/PixelVAE) for the models in "PixelVAE: A Latent Variable Model for Natural Images" [article](https://arxiv.org/abs/1611.05013)
+* [Build a machine learning image classifier from photos on your hard drive very quickly](https://blog.machinebox.io/how-anyone-can-build-a-machine-learning-image-classifier-from-photos-on-your-hard-drive-very-5c20c6f2764f)
 
 # Articles
 
