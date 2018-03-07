@@ -117,7 +117,6 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 # Math
 
-
 ## Theorems
 
 * [Vampire is a theorem prover, that is, a system able to prove theorems](https://vprover.github.io/).
@@ -155,6 +154,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
 * [Knitr Engine for Neo4j](https://github.com/ThinkR-open/rmd4j)
 * [Interacting with the History of DataViz](http://infowetrust.com/scroll/)
+* [A whirlwind introduction to dataflow graphs](https://fgiesen.wordpress.com/2018/03/05/a-whirlwind-introduction-to-dataflow-graphs/)
 
 ## Calculus
 
