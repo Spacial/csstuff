@@ -16,6 +16,7 @@
 # Math
 
 * [MathJax basic tutorial and quick reference](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
+* [The Mathpix](https://mathpix.com/) desktop app allows users to take screenshots of math equations and paste the extracted Latex
 
 # Diagrams
 
