@@ -36,10 +36,14 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * some twitter [thread](https://www.twitter.com/TartanLlama/status/960807058164547584) by Simon Brand
 * [How to Program an NES game in C](https://nesdoug.com)
 
-### Git
+### Version Control
 
- * [Pro Git book](https://git-scm.com/book/en/v2), written by Scott Chacon and Ben Straub ([github](https://github.com/progit/progit2) repo)
- * [git-sizer](https://github.com/github/git-sizer/): Compute various size metrics for a Git repository, flagging those that might cause problems ( [article](https://blog.github.com/2018-03-05-measuring-the-many-sizes-of-a-git-repository/))
+* **GIT**:
+  * [Pro Git book](https://git-scm.com/book/en/v2), written by Scott Chacon and Ben Straub ([github](https://github.com/progit/progit2) repo)
+  * [git-sizer](https://github.com/github/git-sizer/): Compute various size metrics for a Git repository, flagging those that might cause problems ( [article](https://blog.github.com/2018-03-05-measuring-the-many-sizes-of-a-git-repository/))
+* **Mercurial**:
+  * [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos. 
+
  
  ### Python
 
@@ -102,6 +106,11 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 ### RNN
 
 * [Handwriting Synthesis](https://github.com/sjvasquez/handwriting-synthesis)
+
+### Computer Vision
+
+* [Computer Vision Workshop](https://github.com/CatalystCode/CVWorkshop)
+* [Visual Object Tagging Tool](https://github.com/CatalystCode/CVWorkshop): An electron app for building end to end Object Detection Models from Images and Videos. 
 
 #### Python
 
@@ -241,6 +250,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Perceptual image hashing for PHP](https://github.com/jenssegers/imagehash)
 * [Code](https://github.com/igul222/PixelVAE) for the models in "PixelVAE: A Latent Variable Model for Natural Images" [article](https://arxiv.org/abs/1611.05013)
 * [Build a machine learning image classifier from photos on your hard drive very quickly](https://blog.machinebox.io/how-anyone-can-build-a-machine-learning-image-classifier-from-photos-on-your-hard-drive-very-5c20c6f2764f)
+* [Littlewolf](https://github.com/glouw/littlewolf): The tiny wolfenstein like software graphics engine 
 
 # Articles
 
