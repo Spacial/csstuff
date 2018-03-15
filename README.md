@@ -282,6 +282,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
   * Critique of Pure Reason - by Immanuel Kant
   * The Essential Turing - by Alan Turing
   * The Postmodern Condition - by Jean-Francois Lyotard
+ * [where](https://whereisscihub.herokuapp.com/) is Sci-Hub?
 
 # General
 
