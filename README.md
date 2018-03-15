@@ -102,6 +102,8 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Deep Learning Hardware Limbo](http://timdettmers.com/2017/12/21/deep-learning-hardware-limbo/)
 * [Deep learning signal classification using rtl-sdr dongle](https://github.com/randaller/cnn-rtlsdr)
 * [This is the code](https://github.com/llSourcell/Landing-a-SpaceX-Falcon-Heavy-Rocket) for "Landing a SpaceX Falcon Heavy Rocket" By Siraj Raval on Youtube
+* [pytorch](https://github.com/pytorch/pytorch): Tensors and Dynamic neural networks in Python with strong GPU acceleration a ([tour](http://blog.christianperone.com/2018/03/pytorch-internal-architecture-tour/))
+* [How I implemented iPhone X’s FaceID using Deep Learning in Python.](https://towardsdatascience.com/how-i-implemented-iphone-xs-faceid-using-deep-learning-in-python-d5dbaa128e1d), [repo](https://github.com/normandipalo/faceID_beta)
 
 ### RNN
 
@@ -203,7 +205,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Randomness and Perlin Noise](http://makeyourownalgorithmicart.blogspot.com.br/2018/02/randomness-and-perlin-noise.html)
 * [An interactive, explorable explanation about the peculiar magic of sound waves](https://github.com/joshwcomeau/waveforms)
 * [A collection of Jupyter notebook explorations for NASA's Space Math examples.](https://github.com/dynamicwebpaige/spacemath)
-
+* [tandem](https://github.com/typeintandem/tandem): Typing in Tandem. Decentralized, cross-editor, collaborative text-editing!
 ## Fun
 
 * [The Corpus Christi Prime](https://friendlyfieldsandopenmaps.com/2017/09/08/the-corpus-christi-prime/)
@@ -251,6 +253,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Code](https://github.com/igul222/PixelVAE) for the models in "PixelVAE: A Latent Variable Model for Natural Images" [article](https://arxiv.org/abs/1611.05013)
 * [Build a machine learning image classifier from photos on your hard drive very quickly](https://blog.machinebox.io/how-anyone-can-build-a-machine-learning-image-classifier-from-photos-on-your-hard-drive-very-5c20c6f2764f)
 * [Littlewolf](https://github.com/glouw/littlewolf): The tiny wolfenstein like software graphics engine 
+* [IMG2PNG](http://bjj.mmedia.is/utils/img2png/): This is a utility which can convert lots of different PDS files and FITS files to PNGs, including 16 bit PNGs when applicable.
 
 # Articles
 
