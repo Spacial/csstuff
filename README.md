@@ -233,6 +233,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 # Astronomy
 
 * [HORIZONS Web-Interface](https://ssd.jpl.nasa.gov/horizons.cgi?CGISESSID=f7047642ea793b6fabbd2a9e97319842&s_body=1#top)
+* [Creating an animation demonstrating astronomical parallax in IDL](https://github.com/jradavenport/plx_gif)
 
 ## On-line Services
 
