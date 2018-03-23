@@ -30,6 +30,10 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [A Programmable Programming Language](https://cacm.acm.org/magazines/2018/3/225475-a-programmable-programming-language/fulltext)
 * [Flow](https://github.com/facebook/flow): Adds static typing to JavaScript to improve developer productivity and code quality.
 
+### APIs
+
+* [public-apis](https://github.com/toddmotto/public-apis): A collective list of public JSON APIs for use in web development. 
+
 ### C/C++
 
 * [Exercises for people learning the C programming language](https://github.com/AllenDowney/ExercisesInC) by Allen B. Downey
@@ -167,6 +171,8 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Knitr Engine for Neo4j](https://github.com/ThinkR-open/rmd4j)
 * [Interacting with the History of DataViz](http://infowetrust.com/scroll/)
 * [A whirlwind introduction to dataflow graphs](https://fgiesen.wordpress.com/2018/03/05/a-whirlwind-introduction-to-dataflow-graphs/)
+* [Data Science with Python](https://sandipanweb.wordpress.com/2017/12/16/data-science-with-python-exploratory-analysis-with-movie-ratings-and-fraud-detection-with-credit-card-transactions/): Exploratory Analysis with Movie-Ratings and Fraud Detection with Credit-Card Transactions
+* [A Compendium of Clean Graphs in R](http://shinyapps.org/apps/RGraphCompendium/index.php)
 
 ## Calculus
 
@@ -206,6 +212,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [An interactive, explorable explanation about the peculiar magic of sound waves](https://github.com/joshwcomeau/waveforms)
 * [A collection of Jupyter notebook explorations for NASA's Space Math examples.](https://github.com/dynamicwebpaige/spacemath)
 * [tandem](https://github.com/typeintandem/tandem): Typing in Tandem. Decentralized, cross-editor, collaborative text-editing!
+
 ## Fun
 
 * [The Corpus Christi Prime](https://friendlyfieldsandopenmaps.com/2017/09/08/the-corpus-christi-prime/)
