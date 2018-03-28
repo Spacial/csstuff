@@ -45,6 +45,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * **GIT**:
   * [Pro Git book](https://git-scm.com/book/en/v2), written by Scott Chacon and Ben Straub ([github](https://github.com/progit/progit2) repo)
   * [git-sizer](https://github.com/github/git-sizer/): Compute various size metrics for a Git repository, flagging those that might cause problems ( [article](https://blog.github.com/2018-03-05-measuring-the-many-sizes-of-a-git-repository/))
+  * [git-semantics](https://github.com/kewitz/git-semantics): Git hook to ensure semantic commit messages. 
 * **Mercurial**:
   * [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos. 
 
@@ -164,6 +165,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
   * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
   * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 * [What's the significance of 0.05 significance?](http://www.p-value.info/2013/01/whats-significance-of-005-significance_6.html)
+* [brms](https://github.com/paul-buerkner/brms): R package for Bayesian generalized multivariate non-linear multilevel models using Stan 
 
 ### Data Science
 
