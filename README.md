@@ -135,6 +135,9 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 # Math
 
+* [Free-Math](https://github.com/jaltekruse/Free-Math): An offline React web application for managing digital math homework
+* [Complex polynomial toy](https://math.berkeley.edu/~kmill/toys/roots/roots.html): an interactive program for domain coloring of polynomials and for experimenting with the idea behind a proof that every non-constant polynomial has at least one complex root.
+
 ## Theorems
 
 * [Vampire is a theorem prover, that is, a system able to prove theorems](https://vprover.github.io/).
@@ -176,6 +179,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [A whirlwind introduction to dataflow graphs](https://fgiesen.wordpress.com/2018/03/05/a-whirlwind-introduction-to-dataflow-graphs/)
 * [Data Science with Python](https://sandipanweb.wordpress.com/2017/12/16/data-science-with-python-exploratory-analysis-with-movie-ratings-and-fraud-detection-with-credit-card-transactions/): Exploratory Analysis with Movie-Ratings and Fraud Detection with Credit-Card Transactions
 * [A Compendium of Clean Graphs in R](http://shinyapps.org/apps/RGraphCompendium/index.php)
+* [pyjanitor](https://github.com/ericmjl/pyjanitor): Python implementation of R package Janitor
 
 #### Graphs
 
@@ -220,6 +224,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [An interactive, explorable explanation about the peculiar magic of sound waves](https://github.com/joshwcomeau/waveforms)
 * [A collection of Jupyter notebook explorations for NASA's Space Math examples.](https://github.com/dynamicwebpaige/spacemath)
 * [tandem](https://github.com/typeintandem/tandem): Typing in Tandem. Decentralized, cross-editor, collaborative text-editing!
+* [Oni: Modern Modal Editing - powered by Neovim](https://github.com/onivim/oni)
 
 ## Fun
 
