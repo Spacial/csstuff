@@ -169,6 +169,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
   * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 * [What's the significance of 0.05 significance?](http://www.p-value.info/2013/01/whats-significance-of-005-significance_6.html)
 * [brms](https://github.com/paul-buerkner/brms): R package for Bayesian generalized multivariate non-linear multilevel models using Stan 
+* [Análise questionário - tipos básicos de variáveis e gráficos](http://www.leg.ufpr.br/~paulojus/prppg/questionario/), [Validação dos Dados - Qualidade da Água](http://www.leg.ufpr.br/~paulojus/prppg/aula03-iqa.html) e [Análise questionário - tipos básicos de variáveis e gráficos](http://www.leg.ufpr.br/~paulojus/prppg/aula03-quest.html)
 
 ### Data Science
 
@@ -180,6 +181,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Data Science with Python](https://sandipanweb.wordpress.com/2017/12/16/data-science-with-python-exploratory-analysis-with-movie-ratings-and-fraud-detection-with-credit-card-transactions/): Exploratory Analysis with Movie-Ratings and Fraud Detection with Credit-Card Transactions
 * [A Compendium of Clean Graphs in R](http://shinyapps.org/apps/RGraphCompendium/index.php)
 * [pyjanitor](https://github.com/ericmjl/pyjanitor): Python implementation of R package Janitor
+* [Dask tutorial](https://github.com/dask/dask-tutorial)
 
 #### Graphs
 
@@ -315,6 +317,8 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [The Sublimated Grief of the Left Behind](http://erinbartram.com/uncategorized/the-sublimated-grief-of-the-left-behind/)
 * [The professional learning platform](https://www.soyoulearn.com)
 * [poor man's kafka](https://github.com/jackdoe/rochefort)
+* [Writing the perfect question](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/)
+* [future ex-another-scihub](https://sci-bay.org/)
 
 # Fun
 
