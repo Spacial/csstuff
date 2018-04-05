@@ -284,11 +284,16 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [List of Computer Science related contacts for PhD applicants from US-banned countries](https://docs.google.com/document/d/17r18cKaMSeZF4fI7UZYV0QwCvdbEb3vy3BMNZfgbgzI/edit#heading=h.9vx4cr9i0i09)
 * [Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
+* [Free technical resources for faculty, students, and Microsoft developer advocates for use in computer science learning forums](https://github.com/MSFTImagine/computerscience)
 
 ## Writing
 
  * [Write Clearly and Concisely](http://sites.ieee.org/pcs/communication-resources-for-engineers/style/write-clearly-and-concisely/) by IEEE
  * [GENERAL RESEARCH AND WRITING RESOURCES AND GUIDES](https://riozones.wordpress.com/2018/02/25/general-research-and-writing-resources-and-guides/)
+
+# UX/UI
+
+* [Guide to User Research (UXR)](http://guidetouxr.com/?lipi=urn:li:page:d_flagship3_feed;oGD6c4rDTo62VTIhUxhb4w%3D%3D)
 
 # Privacy
 
