@@ -86,6 +86,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [LLVM for Grad Students](http://www.cs.cornell.edu/~asampson/blog/llvm.html)
 * A text file that is also a [executable](http://www.cs.cmu.edu/~tom7/abc/paper.txt) (both are a paper, actually)
+* [moustique](https://github.com/matt-42/moustique): C++14 high performance non-blocking network IO (based on epoll + boost.context)
 
 ### API
 
@@ -118,7 +119,8 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 ### Computer Vision
 
 * [Computer Vision Workshop](https://github.com/CatalystCode/CVWorkshop)
-* [Visual Object Tagging Tool](https://github.com/CatalystCode/CVWorkshop): An electron app for building end to end Object Detection Models from Images and Videos. 
+* [Visual Object Tagging Tool](https://github.com/CatalystCode/CVWorkshop): An electron app for building end to end Object Detection Models from Images and Videos
+* [OpenSimpleLidar](https://github.com/iliasam/OpenSimpleLidar): Open Hardware scanning laser rangefinder ([howto](https://hackaday.io/project/20628-open-simple-lidar))
 
 #### Python
 
@@ -137,6 +139,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [Free-Math](https://github.com/jaltekruse/Free-Math): An offline React web application for managing digital math homework
 * [Complex polynomial toy](https://math.berkeley.edu/~kmill/toys/roots/roots.html): an interactive program for domain coloring of polynomials and for experimenting with the idea behind a proof that every non-constant polynomial has at least one complex root.
+* [3blue1brown](https://github.com/3b1b/manim): Animation engine for explanatory math videos
 
 ## Theorems
 
