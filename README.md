@@ -19,6 +19,11 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [Readings in Database Systems](http://www.redbook.io)
 
+## Networks
+
+* [Prototool](https://github.com/uber/prototool): Your Swiss Army Knife for Protocol Buffers. 
+
+
 ## Programming
 
 * [Modern B-Tree Techniques](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.219.7269&rep=rep1&type=pdf) by Goetz Graefe
