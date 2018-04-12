@@ -329,6 +329,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [poor man's kafka](https://github.com/jackdoe/rochefort)
 * [Writing the perfect question](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/)
 * [future ex-another-scihub](https://sci-bay.org/)
+* [The end of an error?](https://www.the-tls.co.uk/articles/public/the-end-of-an-error-peer-review/)
 
 # Fun
 
