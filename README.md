@@ -23,7 +23,6 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [Prototool](https://github.com/uber/prototool): Your Swiss Army Knife for Protocol Buffers. 
 
-
 ## Programming
 
 * [Modern B-Tree Techniques](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.219.7269&rep=rep1&type=pdf) by Goetz Graefe
@@ -54,7 +53,6 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * **Mercurial**:
   * [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos. 
 
- 
  ### Python
 
 * [Think Python](http://greenteapress.com/wp/think-python-2e/) by [AllenDowney](https://github.com/AllenDowney), including [repo](https://github.com/AllenDowney/ThinkPython2)
@@ -67,6 +65,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Python Plotting for Exploratory Data Analysis](http://pythonplot.com)
 * [A curated list of awesome Python frameworks, libraries, software and resources](https://github.com/vinta/awesome-python#authentication)
 * [Coconut Lang](https://github.com/evhub/coconut)
+* [Python 3.7: Introducing Data Classes](https://blog.jetbrains.com/pycharm/2018/04/python-37-introducing-data-class/)
 
 #### Presentations
 
@@ -98,7 +97,6 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [Useful checklist for building good Python library APIs, based on "How to make a good library API" PyCon 2017 talk](https://github.com/vintasoftware/python-api-checklist/)
 
-
 ## Artificial Intelligence
 
 * [Lisp code](https://github.com/norvig/paip-lisp) for the textbook "Paradigms of Artificial Intelligence Programming"
@@ -128,6 +126,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Visual Object Tagging Tool](https://github.com/CatalystCode/CVWorkshop): An electron app for building end to end Object Detection Models from Images and Videos
 * [OpenSimpleLidar](https://github.com/iliasam/OpenSimpleLidar): Open Hardware scanning laser rangefinder ([howto](https://hackaday.io/project/20628-open-simple-lidar))
 * [Monitoring Road Traffic with Python](http://andrew.carterlunn.co.uk/programming/2017/08/24/monitoring-road-traffic-with-python.html)
+* [MUNIT](https://github.com/nvlabs/munit): Multimodal UNsupervised Image-to-image Translation
 
 #### Python
 
@@ -194,11 +193,13 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [A Compendium of Clean Graphs in R](http://shinyapps.org/apps/RGraphCompendium/index.php)
 * [pyjanitor](https://github.com/ericmjl/pyjanitor): Python implementation of R package Janitor
 * [Dask tutorial](https://github.com/dask/dask-tutorial)
+* [Using R with Jupyter Notebooks](http://blog.revolutionanalytics.com/2015/09/using-r-with-jupyter-notebooks.html)
 
 #### Graphs
 
 * [10 Different Kinds of Graphs for Your Data](https://blog.udemy.com/different-kinds-of-graphs/)
 * [Data visualisation](http://r4ds.had.co.nz/visualize.html)
+* [12 Data Visualisation Tools for Excel: Bringing Data to Life](https://www.redpixie.com/blog/excel-data)
 * Data Visualization Type Catalogs (by [Yuri Engelhardt](https://twitter.com/YuriEngelhardt/status/988111328937238533)): 
   * [Classic](https://datavizcatalogue.com)  
   * [Thorough](http://datavizproject.com)  
@@ -208,6 +209,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
   * [Searched](http://visualizationuniverse.com/charts)
   * [Tools](http://chartmaker.visualisingdata.com)
   * [Weird](https://xeno.graphics) 
+* [HyperTools: A Python toolbox for visualizing and manipulating high-dimensional data](http://www.gitxiv.com/posts/XDraMgyHkYFaAerRu/hypertools-a-python-toolbox-for-visualizing-and-manipulating) ([repo](https://github.com/ContextLab/hypertools-paper-notebooks))
 
 ## Calculus
 
