@@ -199,6 +199,15 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [10 Different Kinds of Graphs for Your Data](https://blog.udemy.com/different-kinds-of-graphs/)
 * [Data visualisation](http://r4ds.had.co.nz/visualize.html)
+* Data Visualization Type Catalogs (by [Yuri Engelhardt](https://twitter.com/YuriEngelhardt/status/988111328937238533)): 
+  * [Classic](https://datavizcatalogue.com)  
+  * [Thorough](http://datavizproject.com)  
+  * [R](https://www.r-graph-gallery.com)  
+  * [Python](https://python-graph-gallery.com)  
+  * [FT Vocab](http://ft.com/vocabulary)  
+  * [Searched](http://visualizationuniverse.com/charts)
+  * [Tools](http://chartmaker.visualisingdata.com)
+  * [Weird](https://xeno.graphics) 
 
 ## Calculus
 
