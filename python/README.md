@@ -10,7 +10,11 @@
 
 # PyPI
 
- * [Do zero à publicação de um pacote de distribuição no PyPI](https://speakerdeck.com/ayharano/do-zero-a-publicacao-de-um-pacote-de-distribuicao-no-pypi) por [Alexandre Harano](https://alexandre.harano.net.br)
+* [Do zero à publicação de um pacote de distribuição no PyPI](https://speakerdeck.com/ayharano/do-zero-a-publicacao-de-um-pacote-de-distribuicao-no-pypi) por [Alexandre Harano](https://alexandre.harano.net.br)
+ 
+ # Robotics
+ 
+* [PythonRobotics](https://atsushisakai.github.io/PythonRobotics/) ([github](https://github.com/AtsushiSakai/PythonRobotics))
 
 ## Fun
 
