@@ -210,6 +210,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
   * [Tools](http://chartmaker.visualisingdata.com)
   * [Weird](https://xeno.graphics) 
 * [HyperTools: A Python toolbox for visualizing and manipulating high-dimensional data](http://www.gitxiv.com/posts/XDraMgyHkYFaAerRu/hypertools-a-python-toolbox-for-visualizing-and-manipulating) ([repo](https://github.com/ContextLab/hypertools-paper-notebooks))
+* [OpenSubdiv](http://graphics.pixar.com/opensubdiv/docs/intro.html) ([github](https://github.com/PixarAnimationStudios/OpenSubdiv)): is a set of open source libraries that implement high performance subdivision surface (subdiv) evaluation on massively parallel CPU and GPU architectures.
 
 ## Calculus
 
