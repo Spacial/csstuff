@@ -37,3 +37,11 @@
 
 * [A minimal & modern LaTeX template for your (bachelor's | master's | doctoral) thesis](https://github.com/Submanifold/latex-mimosis)
 * [LaTeX files for the Deep Learning book notation](https://github.com/goodfeli/dlbook_notation)
+
+# Resources
+
+## Daily Questions
+
+* [LaTeX arrows](http://www.sascha-frank.com/Arrow/latex-arrows.html)
+* [What commands are there for horizontal spacing?](https://tex.stackexchange.com/questions/74353/what-commands-are-there-for-horizontal-spacing)
+
