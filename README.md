@@ -147,6 +147,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Free-Math](https://github.com/jaltekruse/Free-Math): An offline React web application for managing digital math homework
 * [Complex polynomial toy](https://math.berkeley.edu/~kmill/toys/roots/roots.html): an interactive program for domain coloring of polynomials and for experimenting with the idea behind a proof that every non-constant polynomial has at least one complex root.
 * [3blue1brown](https://github.com/3b1b/manim): Animation engine for explanatory math videos
+* [Project Euler](https://projecteuler.net/) is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. (dica da [pgrangeiro](https://github.com/pgrangeiro)) 
 
 ## Theorems
 
