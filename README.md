@@ -76,6 +76,10 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [The Future of Python Dependency Management](https://speakerdeck.com/kennethreitz/the-future-of-python-dependency-management)
 * [Beautiful folds](https://github.com/Gabriel439/slides/blob/master/munihac/foldmap.md) commonly arise in parallel/distributed programming
 
+### Scala
+
+ * [Implicits, type classes, and extension methods, part 1: with type classes in mind](https://kubuszok.com/2018/implicits-type-classes-and-extension-methods-part-1/)
+
 ### Haskell
 
 * [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
