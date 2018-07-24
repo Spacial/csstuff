@@ -11,6 +11,7 @@
 * [How to use pipenv in your python project](https://jcutrer.com/howto/dev/python/pipenv-pipfile)
 * [Working with Binary Data in Python](https://www.devdungeon.com/content/working-binary-data-python)
 * [Timeit in Python with Examples](https://www.geeksforgeeks.org/timeit-python-examples/)
+* [Tutorial: Getting started with Quantum Computing](http://dataespresso.com/en/2018/07/22/Tutorial-Generating-random-numbers-with-a-quantum-computer-Python/)
 
 # PyPI
 
