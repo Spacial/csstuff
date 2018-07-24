@@ -43,6 +43,9 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Exercises for people learning the C programming language](https://github.com/AllenDowney/ExercisesInC) by Allen B. Downey
 * some twitter [thread](https://www.twitter.com/TartanLlama/status/960807058164547584) by Simon Brand
 * [How to Program an NES game in C](https://nesdoug.com)
+* Intel frameworks about memmory:
+  * [Persistent Memory Development Kit](https://github.com/pmem/pmdk)
+  * The [memkind](https://github.com/memkind/memkind) library is a user extensible heap manager built on top of jemalloc which enables control of memory characteristics and a partitioning of the heap between kinds of memory.
 
 ### Version Control
 
