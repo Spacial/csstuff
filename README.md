@@ -134,6 +134,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [OpenSimpleLidar](https://github.com/iliasam/OpenSimpleLidar): Open Hardware scanning laser rangefinder ([howto](https://hackaday.io/project/20628-open-simple-lidar))
 * [Monitoring Road Traffic with Python](http://andrew.carterlunn.co.uk/programming/2017/08/24/monitoring-road-traffic-with-python.html)
 * [MUNIT](https://github.com/nvlabs/munit): Multimodal UNsupervised Image-to-image Translation
+* [Pythia](https://github.com/facebookresearch/pythia): A software suite for Visual Question Answering 
 
 #### Python
 
@@ -189,6 +190,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [brms](https://github.com/paul-buerkner/brms): R package for Bayesian generalized multivariate non-linear multilevel models using Stan 
 * [Análise questionário - tipos básicos de variáveis e gráficos](http://www.leg.ufpr.br/~paulojus/prppg/questionario/), [Validação dos Dados - Qualidade da Água](http://www.leg.ufpr.br/~paulojus/prppg/aula03-iqa.html) e [Análise questionário - tipos básicos de variáveis e gráficos](http://www.leg.ufpr.br/~paulojus/prppg/aula03-quest.html)
 * [Análises e tutoriais das bases de dados abertos da Secretaria Municipal de Educação em formato aberto](https://github.com/prefeiturasp/dados-educacao)
+* [termgraph](https://github.com/mkaz/termgraph): a python command-line tool which draws basic graphs in the terminal 
 
 ### Data Science
 
