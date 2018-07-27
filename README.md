@@ -337,6 +337,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 # Privacy
 
 * ["Polisis: Automated Analysis and Presentation of Privacy Policies Using Deep Learning"](https://pribot.org/polisis)
+* [On the Engineer's Responsibility in Protecting Privacy](https://www.rand.org/pubs/papers/P3829.html), by Paul Baran
 
 # Philosophy
 
