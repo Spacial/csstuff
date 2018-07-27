@@ -329,15 +329,23 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
  * [Write Clearly and Concisely](http://sites.ieee.org/pcs/communication-resources-for-engineers/style/write-clearly-and-concisely/) by IEEE
  * [GENERAL RESEARCH AND WRITING RESOURCES AND GUIDES](https://riozones.wordpress.com/2018/02/25/general-research-and-writing-resources-and-guides/)
+ * [The Best Textbooks on Every Subject](https://www.lesswrong.com/posts/xg3hXCYQPJkwHyik2/the-best-textbooks-on-every-subject)
 
 # UX/UI
 
 * [Guide to User Research (UXR)](http://guidetouxr.com/?lipi=urn:li:page:d_flagship3_feed;oGD6c4rDTo62VTIhUxhb4w%3D%3D)
 
+## web
+
+* [pyppeteer](https://pypi.org/project/pyppeteer/): Headless chrome/chromium automation library (unofficial port of puppeteer)
+
+
 # Privacy
 
 * ["Polisis: Automated Analysis and Presentation of Privacy Policies Using Deep Learning"](https://pribot.org/polisis)
+* [Data Transfer Project](https://datatransferproject.dev/)
 * [On the Engineer's Responsibility in Protecting Privacy](https://www.rand.org/pubs/papers/P3829.html), by Paul Baran
+
 
 # Philosophy
 
@@ -358,8 +366,16 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Writing the perfect question](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/)
 * [future ex-another-scihub](https://sci-bay.org/)
 * [The end of an error?](https://www.the-tls.co.uk/articles/public/the-end-of-an-error-peer-review/)
+* [telepost](https://telepost.io/):Grow your Telegram channel generating a blog from it
+* [Programando na Gringa](https://github.com/lbighetti/programando-na-gringa): Tudo sobre trabalho no exterior 
+* [ai-jobs](https://ai-jobs.ch/): The AI job site for Switzerland
 
 # Fun
 
 * [animations with JS](https://state-animations-amsterdam.surge.sh)
 * [3D engine entirely made of MS Excel formulae : Enjoy this Doom.xls file](https://www.gamasutra.com/blogs/CBel/20180208/308549/3D_engine_entirely_made_of_MS_Excel_formulae__Enjoy_this_Doomxls_file_.php)
+* [magabot](https://github.com/cverna/magabot): Twitter bot that retweets magazine articles 
+
+# News
+* [A Science Fair with $1.6 Million in Prizes](https://blog.mozilla.org/blog/2018/07/19/a-science-fair-with-1-6-million-in-prizes/)
+* [18 Best IDEs for C/C++ Programming or Source Code Editors on Linux](https://www.tecmint.com/best-linux-ide-editors-source-code-editors/)
