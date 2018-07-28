@@ -76,6 +76,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [A curated list of awesome Python frameworks, libraries, software and resources](https://github.com/vinta/awesome-python#authentication)
 * [Coconut Lang](https://github.com/evhub/coconut)
 * [Python 3.7: Introducing Data Classes](https://blog.jetbrains.com/pycharm/2018/04/python-37-introducing-data-class/)
+* [Replacing 90s C Linux Utilities With Python](https://matt.sh/netmatt)
 
 #### Presentations
 
