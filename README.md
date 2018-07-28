@@ -307,6 +307,10 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Creating an animation demonstrating astronomical parallax in IDL](https://github.com/jradavenport/plx_gif)
 * [Computing a final Tiangong-1 pass with Python](http://rhodesmill.org/brandon/2018/tiangong/)
 
+# Chemistry
+
+* [Periodic Table – Royal Society of Chemistry](http://www.rsc.org/periodic-table/)
+
 ## On-line Services
 
 * Some [useful](https://github.com/Spacial/csstuff/blob/master/UsefulSites.md) on-line services.
