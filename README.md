@@ -46,13 +46,20 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * Intel frameworks about memmory:
   * [Persistent Memory Development Kit](https://github.com/pmem/pmdk)
   * The [memkind](https://github.com/memkind/memkind) library is a user extensible heap manager built on top of jemalloc which enables control of memory characteristics and a partitioning of the heap between kinds of memory.
+* [MODERN C++ FOR C PROGRAMMERS: PART 1](https://ds9a.nl/articles/posts/c++-1/) has [PART 5](https://ds9a.nl/articles/posts/cpp-5/) already.
+
+#### KDE/Qt
+
+* [Qt-CMake-HelloWorld](https://github.com/jasondegraw/Qt-CMake-HelloWorld): A Simple Qt5 Program Built with CMake
+* [Atelier](https://github.com/kde/atelier): Open Source 3D Printing Host - User Interface
 
 ### Version Control
 
 * **GIT**:
   * [Pro Git book](https://git-scm.com/book/en/v2), written by Scott Chacon and Ben Straub ([github](https://github.com/progit/progit2) repo)
   * [git-sizer](https://github.com/github/git-sizer/): Compute various size metrics for a Git repository, flagging those that might cause problems ( [article](https://blog.github.com/2018-03-05-measuring-the-many-sizes-of-a-git-repository/))
-  * [git-semantics](https://github.com/kewitz/git-semantics): Git hook to ensure semantic commit messages. 
+  * [git-semantics](https://github.com/kewitz/git-semantics): Git hook to ensure semantic commit messages.
+  * [10 Common Git Problems and How to Fix Them](https://citizen428.net/10-common-git-problems-and-how-to-fix-them-e8d809299f08)
 * **Mercurial**:
   * [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos. 
 
@@ -88,11 +95,14 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [Go references](https://standupdev.com/wiki/doku.php?id=go_references)
 
-
 ## Hardware 
 
 * [Ariane is a 6-stage RISC-V CPU](https://github.com/pulp-platform/ariane)
 * [Effects of CPU caches](https://medium.com/@minimarcel/effect-of-cpu-caches-57db81490a7f)
+
+### Eletrocnics
+
+* [Circuit Simulator](https://www.falstad.com/circuit/circuitjs.html) version 2.1.15js by pfalstad.
 
 ## Compilers
 
@@ -336,6 +346,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 # UX/UI
 
 * [Guide to User Research (UXR)](http://guidetouxr.com/?lipi=urn:li:page:d_flagship3_feed;oGD6c4rDTo62VTIhUxhb4w%3D%3D)
+* [The Encyclopedia of Human-Computer Interaction, 2nd Ed.](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed)
 
 ## web
 
