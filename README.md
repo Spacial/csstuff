@@ -372,6 +372,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
   * The Essential Turing - by Alan Turing
   * The Postmodern Condition - by Jean-Francois Lyotard
  * [where](https://whereisscihub.herokuapp.com/) is Sci-Hub?
+* [Was Wittgenstein Right? - The New York Times](https://opinionator.blogs.nytimes.com/2013/03/03/was-wittgenstein-right/)
 
 # General
 
@@ -382,8 +383,14 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [future ex-another-scihub](https://sci-bay.org/)
 * [The end of an error?](https://www.the-tls.co.uk/articles/public/the-end-of-an-error-peer-review/)
 * [telepost](https://telepost.io/):Grow your Telegram channel generating a blog from it
+
+## Jobs
+
 * [Programando na Gringa](https://github.com/lbighetti/programando-na-gringa): Tudo sobre trabalho no exterior 
 * [ai-jobs](https://ai-jobs.ch/): The AI job site for Switzerland
+* [PoDeixar - O Canadá por quem vive no Canadá](https://www.canadaagora.com/podeixar)
+* [Start a Career at Klarna - Klarna Careers](https://www.klarna.com/careers/)
+
 
 # Fun
 
