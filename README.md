@@ -134,6 +134,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [How I implemented iPhone X’s FaceID using Deep Learning in Python.](https://towardsdatascience.com/how-i-implemented-iphone-xs-faceid-using-deep-learning-in-python-d5dbaa128e1d), [repo](https://github.com/normandipalo/faceID_beta)
 * [deepmind](https://deepmind.com/blog/learning-to-generate-images/): Learning to write programs that generate images
 * [Prior Convictions: Black-Box Adversarial Attacks with Bandits and Priors](https://arxiv.org/abs/1807.07978)
+* [Image-OutPainting](https://github.com/bendangnuksung/Image-OutPainting): Keras Implementation of Painting outside the box
 
 ### RNN
 
