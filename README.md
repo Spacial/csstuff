@@ -78,6 +78,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Coconut Lang](https://github.com/evhub/coconut)
 * [Python 3.7: Introducing Data Classes](https://blog.jetbrains.com/pycharm/2018/04/python-37-introducing-data-class/)
 * [Replacing 90s C Linux Utilities With Python](https://matt.sh/netmatt)
+* [Freezing Python’s Dependency Hell in 2018](https://tech.instacart.com/freezing-pythons-dependency-hell-in-2018-f1076d625241?gi=945babc43d8)
 
 #### Presentations
 
@@ -218,6 +219,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [pyjanitor](https://github.com/ericmjl/pyjanitor): Python implementation of R package Janitor
 * [Dask tutorial](https://github.com/dask/dask-tutorial)
 * [Using R with Jupyter Notebooks](http://blog.revolutionanalytics.com/2015/09/using-r-with-jupyter-notebooks.html)
+* [When Is Haskell More Useful Than R Or Python In Data Science?](https://www.forbes.com/sites/quora/2018/01/24/when-is-haskell-more-useful-than-r-or-python-in-data-science/#1daa23e69e47)
 
 #### Graphs
 
@@ -396,7 +398,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [ai-jobs](https://ai-jobs.ch/): The AI job site for Switzerland
 * [PoDeixar - O Canadá por quem vive no Canadá](https://www.canadaagora.com/podeixar)
 * [Start a Career at Klarna - Klarna Careers](https://www.klarna.com/careers/)
-
+* [+100 Startup Directories to Submit Your Startup](https://www.eggradients.com/startup-directory)
 
 # Fun
 
