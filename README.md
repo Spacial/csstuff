@@ -25,6 +25,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 ## Programming
 
+* (pt-br) A [análise de algoritmos](https://www.ime.usp.br/~pf/analise_de_algoritmos/) estuda a correção e o desempenho de algoritmos.
 * [Modern B-Tree Techniques](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.219.7269&rep=rep1&type=pdf) by Goetz Graefe
 * [Detecting Chrome Headless](http://antoinevastel.github.io/bot%20detection/2017/08/05/detect-chrome-headless.html)
 * [Minimal PDF](https://brendanzagaeski.appspot.com/0004.html)
