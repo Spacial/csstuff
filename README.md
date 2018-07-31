@@ -372,7 +372,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * ["Polisis: Automated Analysis and Presentation of Privacy Policies Using Deep Learning"](https://pribot.org/polisis)
 * [Data Transfer Project](https://datatransferproject.dev/)
 * [On the Engineer's Responsibility in Protecting Privacy](https://www.rand.org/pubs/papers/P3829.html), by Paul Baran
-
+* [Cwtch](https://git.openprivacy.ca/cwtch.im/cwtch): Privacy Preserving Infrastructure for Asynchronous, Decentralized and Metadata Resistant Applications
 
 # Philosophy
 
