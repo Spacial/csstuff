@@ -376,6 +376,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Data Transfer Project](https://datatransferproject.dev/)
 * [On the Engineer's Responsibility in Protecting Privacy](https://www.rand.org/pubs/papers/P3829.html), by Paul Baran
 * [Cwtch](https://git.openprivacy.ca/cwtch.im/cwtch): Privacy Preserving Infrastructure for Asynchronous, Decentralized and Metadata Resistant Applications
+* [BurnBox](https://github.com/mhmughees/burnbox): Self-Revocable Encryption in a World Of Compelled Access
 
 # Philosophy
 
