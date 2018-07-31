@@ -137,6 +137,8 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [deepmind](https://deepmind.com/blog/learning-to-generate-images/): Learning to write programs that generate images
 * [Prior Convictions: Black-Box Adversarial Attacks with Bandits and Priors](https://arxiv.org/abs/1807.07978)
 * [Image-OutPainting](https://github.com/bendangnuksung/Image-OutPainting): Keras Implementation of Painting outside the box
+* [Machine Learning for Drummers](http://blog.petersobot.com/machine-learning-for-drummers)
+* [Learning Dexterity](https://blog.openai.com/learning-dexterity/)
 
 ### RNN
 
@@ -405,7 +407,11 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [animations with JS](https://state-animations-amsterdam.surge.sh)
 * [3D engine entirely made of MS Excel formulae : Enjoy this Doom.xls file](https://www.gamasutra.com/blogs/CBel/20180208/308549/3D_engine_entirely_made_of_MS_Excel_formulae__Enjoy_this_Doomxls_file_.php)
 * [magabot](https://github.com/cverna/magabot): Twitter bot that retweets magazine articles 
+* [http://augmentingcognition.com/ltm.html](http://augmentingcognition.com/ltm.html)
 
 # News
 * [A Science Fair with $1.6 Million in Prizes](https://blog.mozilla.org/blog/2018/07/19/a-science-fair-with-1-6-million-in-prizes/)
 * [18 Best IDEs for C/C++ Programming or Source Code Editors on Linux](https://www.tecmint.com/best-linux-ide-editors-source-code-editors/)
+* [Frankl - Open science on the blockchain](https://frankl.io/)
+
+
