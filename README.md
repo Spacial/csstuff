@@ -412,6 +412,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [3D engine entirely made of MS Excel formulae : Enjoy this Doom.xls file](https://www.gamasutra.com/blogs/CBel/20180208/308549/3D_engine_entirely_made_of_MS_Excel_formulae__Enjoy_this_Doomxls_file_.php)
 * [magabot](https://github.com/cverna/magabot): Twitter bot that retweets magazine articles 
 * [http://augmentingcognition.com/ltm.html](http://augmentingcognition.com/ltm.html)
+* [Bootable CD + retro game in a tweet](https://www.quaxio.com/bootable_cd_retro_game_tweet/)
 
 # News
 * [A Science Fair with $1.6 Million in Prizes](https://blog.mozilla.org/blog/2018/07/19/a-science-fair-with-1-6-million-in-prizes/)
