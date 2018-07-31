@@ -26,6 +26,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 ## Programming
 
 * (pt-br) A [análise de algoritmos](https://www.ime.usp.br/~pf/analise_de_algoritmos/) estuda a correção e o desempenho de algoritmos.
+* (pt-br) [Como aprender qualquer linguagem de programação (em 4 slides)](https://speakerdeck.com/ramalho/como-aprender-qualquer-linguagem-de-programacao-em-4-slides)
 * [Modern B-Tree Techniques](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.219.7269&rep=rep1&type=pdf) by Goetz Graefe
 * [Detecting Chrome Headless](http://antoinevastel.github.io/bot%20detection/2017/08/05/detect-chrome-headless.html)
 * [Minimal PDF](https://brendanzagaeski.appspot.com/0004.html)
@@ -34,6 +35,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Awesome cheatsheets for popular programming languages, frameworks and development tools](https://github.com/eon01/awesome-cheatsheets)
 * [A Programmable Programming Language](https://cacm.acm.org/magazines/2018/3/225475-a-programmable-programming-language/fulltext)
 * [Flow](https://github.com/facebook/flow): Adds static typing to JavaScript to improve developer productivity and code quality.
+
 
 ### APIs
 
