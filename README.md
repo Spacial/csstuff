@@ -95,6 +95,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Python 3.7: Introducing Data Classes](https://blog.jetbrains.com/pycharm/2018/04/python-37-introducing-data-class/)
 * [Replacing 90s C Linux Utilities With Python](https://matt.sh/netmatt)
 * [Freezing Python’s Dependency Hell in 2018](https://tech.instacart.com/freezing-pythons-dependency-hell-in-2018-f1076d625241?gi=945babc43d8)
+* [robinhood/faust: Python Stream Processing](https://github.com/robinhood/faust)
 
 #### Presentations
 
