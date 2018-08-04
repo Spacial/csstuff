@@ -10,6 +10,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 * [Great Theoretical Ideas in Computer Science](http://www.cs.cmu.edu/~aada/courses/15251f15/www/schedule.html)
 * [Accidentally Turing-Complete](http://beza1e1.tuxen.de/articles/accidentally_turing_complete.html)
+* [Modern SAT solvers: fast, neat and underused (part 1 of N) — The Coding Nest](https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/)
 
 ## Data Structures
 
@@ -53,6 +54,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
   * [Persistent Memory Development Kit](https://github.com/pmem/pmdk)
   * The [memkind](https://github.com/memkind/memkind) library is a user extensible heap manager built on top of jemalloc which enables control of memory characteristics and a partitioning of the heap between kinds of memory.
 * [MODERN C++ FOR C PROGRAMMERS: PART 1](https://ds9a.nl/articles/posts/c++-1/) has [PART 5](https://ds9a.nl/articles/posts/cpp-5/) already.
+* [cs01/gdbgui](https://github.com/cs01/gdbgui/): Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 
 #### KDE/Qt
 
@@ -266,6 +268,8 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 ## Signal Processing
 
 * [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/pdfbook.htm)
+* [Spectrogram Tool | FFT: Fun with Fourier Transforms | Adafruit Learning System](https://learn.adafruit.com/fft-fun-with-fourier-transforms/spectrogram)
+* [PyWavelets - Discrete Wavelet Transform in Python — PyWavelets Documentation](https://pywavelets.readthedocs.io/en/0.2.2/)
 
 ## Graph Theory
 
