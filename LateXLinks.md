@@ -20,6 +20,8 @@
 
 # Diagrams
 
+* [tikz-network](https://github.com/hackl/tikz-network): A tool to visualize complex networks in LaTeX.
+
 ## UML
 
 * [Diagramas UML no LaTeX com TikZ-UML ](https://latexbr.blogspot.com.br/2013/03/diagramas-uml-no-latex-com-tikz-uml.html)
