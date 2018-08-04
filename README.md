@@ -322,6 +322,10 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Creating an animation demonstrating astronomical parallax in IDL](https://github.com/jradavenport/plx_gif)
 * [Computing a final Tiangong-1 pass with Python](http://rhodesmill.org/brandon/2018/tiangong/)
 
+## NASA
+
+* [Tindallgrams](http://tindallgrams.net/): In 1966, as the American space program was working furiously towards a moon landing, Howard W. “Bill” Tindall, Jr., an expert on orbital mechanics, was sent by NASA to MIT to oversee the development of software for the spacecraft guidance systems.
+
 # Chemistry
 
 * [Periodic Table – Royal Society of Chemistry](http://www.rsc.org/periodic-table/)
@@ -347,6 +351,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Littlewolf](https://github.com/glouw/littlewolf): The tiny wolfenstein like software graphics engine 
 * [IMG2PNG](http://bjj.mmedia.is/utils/img2png/): This is a utility which can convert lots of different PDS files and FITS files to PNGs, including 16 bit PNGs when applicable.
 * [Color](http://jamie-wong.com/post/color/): From Hexcodes to Eyeballs
+* [Filament](https://google.github.io/filament/Filament.md.html): Filament is a physically based rendering (PBR) engine for Android. 
 
 ## Games
 
