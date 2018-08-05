@@ -185,6 +185,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Complex polynomial toy](https://math.berkeley.edu/~kmill/toys/roots/roots.html): an interactive program for domain coloring of polynomials and for experimenting with the idea behind a proof that every non-constant polynomial has at least one complex root.
 * [3blue1brown](https://github.com/3b1b/manim): Animation engine for explanatory math videos
 * [Project Euler](https://projecteuler.net/) is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. (dica da [pgrangeiro](https://github.com/pgrangeiro)) 
+* [fxsolver](https://www.fxsolver.com): a free algebraic equation solver coupled to a large formula database, based on the need to quickly solve mathematical formulas without messing around with programming languages or spreadsheet software.
 
 ## Theorems
 
@@ -262,6 +263,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [Isometries of Hyperbolic 3-Space	](https://www.shadertoy.com/view/MstcWr)
 * [Generating Random Points in a Sphere](https://karthikkaranth.me/blog/generating-random-points-in-a-sphere/) by [Karthik Karanth](https://github.com/medakk)
+* [Polyhedra Viewer](https://polyhedra.tessera.li/)
 
 ## Linear Programming
 
