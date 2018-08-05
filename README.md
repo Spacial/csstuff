@@ -71,6 +71,8 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
  * [Go references](https://standupdev.com/wiki/doku.php?id=go_references)
 * Lisp:
  * [Ferret](https://github.com/nakkaya/ferret) is a free software lisp implementation for real time embedded control systems.
+* PHP:
+ * [A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem](https://github.com/chiraggude/awesome-laravel)
 
 ### Version Control
 
