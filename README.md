@@ -79,6 +79,8 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
   * [git-sizer](https://github.com/github/git-sizer/): Compute various size metrics for a Git repository, flagging those that might cause problems ( [article](https://blog.github.com/2018-03-05-measuring-the-many-sizes-of-a-git-repository/))
   * [git-semantics](https://github.com/kewitz/git-semantics): Git hook to ensure semantic commit messages.
   * [10 Common Git Problems and How to Fix Them](https://citizen428.net/10-common-git-problems-and-how-to-fix-them-e8d809299f08)
+  * [GitHub - jesseduffield/lazygit: simple terminal UI for git commands](https://github.com/jesseduffield/lazygit)
+
 * **Mercurial**:
   * [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos. 
 
@@ -109,6 +111,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [Ariane is a 6-stage RISC-V CPU](https://github.com/pulp-platform/ariane)
 * [Effects of CPU caches](https://medium.com/@minimarcel/effect-of-cpu-caches-57db81490a7f)
+* [Introduction to Computer Organization](http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html) with x86-64 Assembly Language \& GNU/Linux, by [Robert G. Plantz](http://bob.cs.sonoma.edu/index.html)
 
 ### Eletrocnics
 
@@ -256,6 +259,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 ## Topology
 
 * [Isometries of Hyperbolic 3-Space	](https://www.shadertoy.com/view/MstcWr)
+* [Generating Random Points in a Sphere](https://karthikkaranth.me/blog/generating-random-points-in-a-sphere/) by [Karthik Karanth](https://github.com/medakk)
 
 ## Linear Programming
 
@@ -391,6 +395,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [On the Engineer's Responsibility in Protecting Privacy](https://www.rand.org/pubs/papers/P3829.html), by Paul Baran
 * [Cwtch](https://git.openprivacy.ca/cwtch.im/cwtch): Privacy Preserving Infrastructure for Asynchronous, Decentralized and Metadata Resistant Applications
 * [BurnBox](https://github.com/mhmughees/burnbox): Self-Revocable Encryption in a World Of Compelled Access
+* (pt-br)[Mapa da Informação](http://mapadainformacao.com.br/)
 
 # Philosophy
 
