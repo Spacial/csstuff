@@ -235,6 +235,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Dask tutorial](https://github.com/dask/dask-tutorial)
 * [Using R with Jupyter Notebooks](http://blog.revolutionanalytics.com/2015/09/using-r-with-jupyter-notebooks.html)
 * [When Is Haskell More Useful Than R Or Python In Data Science?](https://www.forbes.com/sites/quora/2018/01/24/when-is-haskell-more-useful-than-r-or-python-in-data-science/#1daa23e69e47)
+* [](https://towardsdatascience.com/data-science-with-python-intro-to-data-visualization-and-matplotlib-5f799b7c6d82)
 
 #### Graphs
 
