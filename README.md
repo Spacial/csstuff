@@ -119,6 +119,10 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [Circuit Simulator](https://www.falstad.com/circuit/circuitjs.html) version 2.1.15js by pfalstad.
 
+### Memmory 
+
+* [Myths Programmers Believe about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
+
 ## Compilers
 
 * [LLVM for Grad Students](http://www.cs.cornell.edu/~asampson/blog/llvm.html)
@@ -151,10 +155,12 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Image-OutPainting](https://github.com/bendangnuksung/Image-OutPainting): Keras Implementation of Painting outside the box
 * [Machine Learning for Drummers](http://blog.petersobot.com/machine-learning-for-drummers)
 * [Learning Dexterity](https://blog.openai.com/learning-dexterity/)
+* [Evolving Floorplans](http://www.joelsimon.net/evo_floorplans.html)
 
 ### RNN
 
 * [Handwriting Synthesis](https://github.com/sjvasquez/handwriting-synthesis)
+* [OpenNMT](https://github.com/opennmt/opennmt): Open-Source Neural Machine Translation
 
 ### Computer Vision
 
@@ -236,6 +242,10 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Using R with Jupyter Notebooks](http://blog.revolutionanalytics.com/2015/09/using-r-with-jupyter-notebooks.html)
 * [When Is Haskell More Useful Than R Or Python In Data Science?](https://www.forbes.com/sites/quora/2018/01/24/when-is-haskell-more-useful-than-r-or-python-in-data-science/#1daa23e69e47)
 * [Data Science with Python: Intro to Data Visualization and Matplotlib](https://towardsdatascience.com/data-science-with-python-intro-to-data-visualization-and-matplotlib-5f799b7c6d82)
+
+#### Luna
+
+* [Luna](https://www.luna-lang.org/) is a data processing and visualization environment built on a principle that people need an immediate connection to what they are building. [github repo](https://github.com/luna/luna), [studio](https://github.com/luna/luna-studio) (IDE) and [docs](https://luna-lang.gitbooks.io/docs/content/interface.html)
 
 #### Graphs
 
@@ -334,6 +344,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 ## NASA
 
 * [Tindallgrams](http://tindallgrams.net/): In 1966, as the American space program was working furiously towards a moon landing, Howard W. “Bill” Tindall, Jr., an expert on orbital mechanics, was sent by NASA to MIT to oversee the development of software for the spacecraft guidance systems.
+* [JPL Open Source Rover Project](https://github.com/nasa-jpl/open-source-rover): A build-it-yourself, 6-wheel rover based on the rovers on Mars! 
 
 # Chemistry
 
@@ -366,10 +377,10 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [toy](https://github.com/hugoam/toy): the thin c++ game engine - [toyengine](https://hugoam.github.io/toy-io/).
 
-
 # Articles
 
 * [Renders papers from Arxiv as responsive web pages so you don't have to squint at a PDF.](https://github.com/arxiv-vanity/arxiv-vanity)
+* [How to Read an RFC](https://www.mnot.net/blog/2018/07/31/read_rfc)
 
 # Studies
 
