@@ -412,6 +412,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Cwtch](https://git.openprivacy.ca/cwtch.im/cwtch): Privacy Preserving Infrastructure for Asynchronous, Decentralized and Metadata Resistant Applications
 * [BurnBox](https://github.com/mhmughees/burnbox): Self-Revocable Encryption in a World Of Compelled Access
 * (pt-br)[Mapa da Informação](http://mapadainformacao.com.br/)
+* [Why You Need a Network-Wide Ad-Blocker (Part 1)](https://blog.cryptoaustralia.org.au/2018/08/06/why-you-need-network-wide-ad-blocker-pi-hole/)
 
 # Philosophy
 
