@@ -133,6 +133,10 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [Useful checklist for building good Python library APIs, based on "How to make a good library API" PyCon 2017 talk](https://github.com/vintasoftware/python-api-checklist/)
 
+## Distributed Systems
+
+* [CharmPy](https://charmpy.readthedocs.io/en/latest/) is a high-level parallel and distributed programming framework with a simple and powerful API, based on migratable Python objects and remote method invocation; built on top of an adaptive C/C++ runtime system providing speed, scalability and dynamic load balancing.
+
 ## Artificial Intelligence
 
 * [Lisp code](https://github.com/norvig/paip-lisp) for the textbook "Paradigms of Artificial Intelligence Programming"
@@ -197,6 +201,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [Vampire is a theorem prover, that is, a system able to prove theorems](https://vprover.github.io/).
 * This project contains an extended "Standard Library" for Coq called [coq-std++](https://gitlab.mpi-sws.org/robbertkrebbers/coq-stdpp)
+* [1/0 = 0](https://www.hillelwayne.com/post/divide-by-zero/)
 
 ## Algebra
 
@@ -345,6 +350,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [Tindallgrams](http://tindallgrams.net/): In 1966, as the American space program was working furiously towards a moon landing, Howard W. “Bill” Tindall, Jr., an expert on orbital mechanics, was sent by NASA to MIT to oversee the development of software for the spacecraft guidance systems.
 * [JPL Open Source Rover Project](https://github.com/nasa-jpl/open-source-rover): A build-it-yourself, 6-wheel rover based on the rovers on Mars! 
+* [Illustris](https://www.cfa.harvard.edu/imagelist/2014-10) [Simulation of the Universe](https://www.youtube.com/watch?v=A23Ro3kiB1E)
 
 # Chemistry
 
