@@ -2,8 +2,12 @@
 
 Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+* [Academic Torrents](http://academictorrents.com/): We've designed a distributed system for sharing enormous datasets - for researchers, by researchers. The result is a scalable, secure, and fault-tolerant repository for data, with blazing fast download speeds. 
+
 * **TheoryOfComputation** : Some resources about the topic (tex files and JFLAP files).
 * **Algorithms** : Some stuff about design, analisys and general in algorithms science.
+
+# Research
 
 # Computer Science general
 
@@ -101,7 +105,8 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Python 3.7: Introducing Data Classes](https://blog.jetbrains.com/pycharm/2018/04/python-37-introducing-data-class/)
 * [Replacing 90s C Linux Utilities With Python](https://matt.sh/netmatt)
 * [Freezing Python’s Dependency Hell in 2018](https://tech.instacart.com/freezing-pythons-dependency-hell-in-2018-f1076d625241?gi=945babc43d8)
-* [robinhood/faust: Python Stream Processing](https://github.com/robinhood/faust)
+* [faust](https://github.com/robinhood/faust): Python Stream Processing
+* [How to escape async/await hell – freeCodeCamp](https://medium.freecodecamp.org/avoiding-the-async-await-hell-c77a0fb71c4c)
 
 #### Presentations
 
@@ -118,6 +123,9 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 ### Eletrocnics
 
 * [Circuit Simulator](https://www.falstad.com/circuit/circuitjs.html) version 2.1.15js by pfalstad.
+* [node-lib](https://github.com/diefarbe/node-lib/): A node library for manipulating color on the Das Keyboard 5Q
+* [Blink an LED With Arduino in Tinkercad: 6 Steps (with Pictures)](https://www.instructables.com/id/Blink-an-LED-With-Arduino-in-Tinkercad/)
+* [Tomu](https://tomu.im/) - A tiny ARM microprocessor which fits in your USB port.
 
 ### Memmory 
 
@@ -174,6 +182,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Monitoring Road Traffic with Python](http://andrew.carterlunn.co.uk/programming/2017/08/24/monitoring-road-traffic-with-python.html)
 * [MUNIT](https://github.com/nvlabs/munit): Multimodal UNsupervised Image-to-image Translation
 * [Pythia](https://github.com/facebookresearch/pythia): A software suite for Visual Question Answering 
+* [PyImageSearch](https://www.pyimagesearch.com/)- Be awesome at OpenCV, Python, deep learning, and computer vision. [Tracking multiple objects with OpenCV](https://www.pyimagesearch.com/2018/08/06/tracking-multiple-objects-with-opencv/)
 
 #### Python
 
@@ -196,6 +205,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [3blue1brown](https://github.com/3b1b/manim): Animation engine for explanatory math videos
 * [Project Euler](https://projecteuler.net/) is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. (dica da [pgrangeiro](https://github.com/pgrangeiro)) 
 * [fxsolver](https://www.fxsolver.com): a free algebraic equation solver coupled to a large formula database, based on the need to quickly solve mathematical formulas without messing around with programming languages or spreadsheet software.
+* [WELL-ROUNDED FACTS ABOUT SPHERES](https://people.ucsc.edu/~weissman/MathClubTalk2009.pdf) by Martin H. Weissman
 
 ## Theorems
 
@@ -274,6 +284,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 ## Calculus
 
 * [Solving Logistic Regression with Newton's Method](http://thelaziestprogrammer.com/sharrington/math-of-machine-learning/solving-logreg-newtons-method)
+* [Functional Bits: Lambda Calculus based Algorithmic Information Theory](https://tromp.github.io/cl/LC.pdf)
 
 ## Topology
 
@@ -345,6 +356,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [HORIZONS Web-Interface](https://ssd.jpl.nasa.gov/horizons.cgi?CGISESSID=f7047642ea793b6fabbd2a9e97319842&s_body=1#top)
 * [Creating an animation demonstrating astronomical parallax in IDL](https://github.com/jradavenport/plx_gif)
 * [Computing a final Tiangong-1 pass with Python](http://rhodesmill.org/brandon/2018/tiangong/)
+* [HST imaging of four gravitationally lensed quasars](https://arxiv.org/pdf/1807.03553.pdf)
 
 ## NASA
 
@@ -360,6 +372,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * Some [useful](https://github.com/Spacial/csstuff/blob/master/UsefulSites.md) on-line services.
 * Google [colab](https://colab.research.google.com/notebook)
+* [Memex](https://worldbrain.io/#) - your photographic memory for the web. Open-Source. Private. [repo](https://github.com/WorldBrain/Memex)
 
 # Filesystems
 
@@ -462,5 +475,5 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [A Science Fair with $1.6 Million in Prizes](https://blog.mozilla.org/blog/2018/07/19/a-science-fair-with-1-6-million-in-prizes/)
 * [18 Best IDEs for C/C++ Programming or Source Code Editors on Linux](https://www.tecmint.com/best-linux-ide-editors-source-code-editors/)
 * [Frankl - Open science on the blockchain](https://frankl.io/)
-
+* [https://litepaper.com/resources/hyperledger](https://litepaper.com/resources/hyperledger)
 
