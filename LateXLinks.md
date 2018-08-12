@@ -34,6 +34,8 @@
  * [The tikzpeople package](http://mirror.hmc.edu/ctan/graphics/pgf/contrib/tikzpeople/tikzpeople.pdf)
  * [Automatic Acronym List in LaTeX](https://www.overleaf.com/latex/examples/automatic-acronym-list-in-latex/dzvxfzpsjrmm#.WQSGfYFv-Ef)
  * [LaTeX for the humanities](https://www.overleaf.com/blog/636-guest-blog-post-latex-for-the-humanities#.WrUK3RRVXxQ.twitter)
+* [makecite](https://github.com/adrn/makecite): Generate latex + bibtex citation commands by looking at what packages are imported
+
 
 # Templates
 
