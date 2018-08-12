@@ -357,6 +357,12 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Creating an animation demonstrating astronomical parallax in IDL](https://github.com/jradavenport/plx_gif)
 * [Computing a final Tiangong-1 pass with Python](http://rhodesmill.org/brandon/2018/tiangong/)
 * [HST imaging of four gravitationally lensed quasars](https://arxiv.org/pdf/1807.03553.pdf)
+* (pt-br) Estrela Gêmeas:
+  * [Astrônomos da USP descobrem super-Netuno e super-Terra em estrela gêmea do Sol](https://jornal.usp.br/ciencias/ciencias-exatas-e-da-terra/astronomos-da-usp-descobrem-super-netuno-e-super-terra-em-estrela-gemea-do-sol/)
+  * [Identificada a estrela gêmea do Sol mais velha conhecida até hoje](https://www.eso.org/public/brazil/news/eso1337/)
+  * [HR 6060: THE CLOSEST EVER SOLAR TWIN?](https://drive.google.com/file/d/1lXenWQCZi3fu11QMtemdFjeSOColYXs4/view)
+  * [A study of likeness: The solar twin 18 Sco and the Sun](https://docs.wixstatic.com/ugd/db5c77_92c10a6f92324e798387d2b117028de0.pdf)
+  * [18 Scorpii](https://pt.wikipedia.org/wiki/18_Scorpii)
 
 ## NASA
 
