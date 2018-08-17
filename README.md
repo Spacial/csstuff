@@ -172,6 +172,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Machine Learning for Drummers](http://blog.petersobot.com/machine-learning-for-drummers)
 * [Learning Dexterity](https://blog.openai.com/learning-dexterity/)
 * [Evolving Floorplans](http://www.joelsimon.net/evo_floorplans.html)
+* [PyPDFOCR](https://github.com/virantha/pypdfocr): Python script to do PDF OCR conversion using Tesseract 
 
 ### RNN
 
@@ -187,6 +188,8 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [MUNIT](https://github.com/nvlabs/munit): Multimodal UNsupervised Image-to-image Translation
 * [Pythia](https://github.com/facebookresearch/pythia): A software suite for Visual Question Answering 
 * [PyImageSearch](https://www.pyimagesearch.com/)- Be awesome at OpenCV, Python, deep learning, and computer vision. [Tracking multiple objects with OpenCV](https://www.pyimagesearch.com/2018/08/06/tracking-multiple-objects-with-opencv/)
+* [Introduction to Computer Vision by Intel](https://software.intel.com/en-us/articles/introduction-to-computer-vision):
+ * [Video-Analytics-OpenCV](https://github.com/intel-iot-devkit/Video-Analytics-OpenCV): Python video analytics samples with OpenCV* 
 
 #### Python
 
