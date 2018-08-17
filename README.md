@@ -41,6 +41,10 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [A Programmable Programming Language](https://cacm.acm.org/magazines/2018/3/225475-a-programmable-programming-language/fulltext)
 * [Flow](https://github.com/facebook/flow): Adds static typing to JavaScript to improve developer productivity and code quality.
 
+### IDEs
+
+* [geany-dark-scheme](https://github.com/Wayn0/geany-dark-scheme): Dark syntax theme for the Geany text editor. 
+
 ### Formal Methods
 
 * [Augmenting Agile with Formal Methods](https://www.hillelwayne.com/post/augmenting-agile/)
@@ -413,6 +417,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 * [Free technical resources for faculty, students, and Microsoft developer advocates for use in computer science learning forums](https://github.com/MSFTImagine/computerscience)
 * [Getting Access to Paywalled Papers](http://holly.witteman.ca/index.php/2017/12/11/getting-access-to-paywalled-papers/)
+* (pt-br) [10 livros (e + 10 artigos) sobre métodos digitais de pesquisa](https://www.ibpad.com.br/blog/10-livros-e-10-artigos-sobre-metodos-digitais-de-pesquisa/)
 
 ## Writing
 
@@ -460,6 +465,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [future ex-another-scihub](https://sci-bay.org/)
 * [The end of an error?](https://www.the-tls.co.uk/articles/public/the-end-of-an-error-peer-review/)
 * [telepost](https://telepost.io/):Grow your Telegram channel generating a blog from it
+* [pbspro](https://github.com/pbspro/pbspro): An HPC workload manager and job scheduler for desktops, clusters, and clouds.
 
 ## Jobs
 
