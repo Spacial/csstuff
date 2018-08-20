@@ -40,6 +40,8 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Awesome cheatsheets for popular programming languages, frameworks and development tools](https://github.com/eon01/awesome-cheatsheets)
 * [A Programmable Programming Language](https://cacm.acm.org/magazines/2018/3/225475-a-programmable-programming-language/fulltext)
 * [Flow](https://github.com/facebook/flow): Adds static typing to JavaScript to improve developer productivity and code quality.
+* [Context Switching](http://artsy.github.io/blog/2018/08/10/On-Context-Switching/)
+* [Prettier](https://prettier.io/): Prettier is an opinionated code formatter
 
 ### IDEs
 
@@ -89,7 +91,9 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
   * [git-sizer](https://github.com/github/git-sizer/): Compute various size metrics for a Git repository, flagging those that might cause problems ( [article](https://blog.github.com/2018-03-05-measuring-the-many-sizes-of-a-git-repository/))
   * [git-semantics](https://github.com/kewitz/git-semantics): Git hook to ensure semantic commit messages.
   * [10 Common Git Problems and How to Fix Them](https://citizen428.net/10-common-git-problems-and-how-to-fix-them-e8d809299f08)
-  * [GitHub - jesseduffield/lazygit: simple terminal UI for git commands](https://github.com/jesseduffield/lazygit)
+  * [lazygit](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands
+  * [husky](https://github.com/typicode/husky): Git hooks made easy 
+  * [lint-staged](https://github.com/okonet/lint-staged): Run linters on git staged files 
 
 * **Mercurial**:
   * [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos. 
@@ -123,6 +127,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Ariane is a 6-stage RISC-V CPU](https://github.com/pulp-platform/ariane)
 * [Effects of CPU caches](https://medium.com/@minimarcel/effect-of-cpu-caches-57db81490a7f)
 * [Introduction to Computer Organization](http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html) with x86-64 Assembly Language \& GNU/Linux, by [Robert G. Plantz](http://bob.cs.sonoma.edu/index.html)
+* [XNU/ARM64](https://github.com/Darm64/XNU): Research into porting the XNU kernel to ARM devices. 
 
 ### Eletrocnics
 
@@ -148,6 +153,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 ## Distributed Systems
 
 * [CharmPy](https://charmpy.readthedocs.io/en/latest/) is a high-level parallel and distributed programming framework with a simple and powerful API, based on migratable Python objects and remote method invocation; built on top of an adaptive C/C++ runtime system providing speed, scalability and dynamic load balancing.
+* [FASTER](https://github.com/Microsoft/FASTER): Fast key-value store from Microsoft Research 
 
 ## Artificial Intelligence
 
