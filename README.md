@@ -284,7 +284,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [Luna](https://www.luna-lang.org/) is a data processing and visualization environment built on a principle that people need an immediate connection to what they are building. [github repo](https://github.com/luna/luna), [studio](https://github.com/luna/luna-studio) (IDE) and [docs](https://luna-lang.gitbooks.io/docs/content/interface.html)
 
-#### Graphs
+#### Graphics
 
 * [10 Different Kinds of Graphs for Your Data](https://blog.udemy.com/different-kinds-of-graphs/)
 * [Data visualisation](http://r4ds.had.co.nz/visualize.html)
@@ -332,6 +332,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [How to think in graphs: an illustrative introduction to Graph Theory and its applications](https://medium.freecodecamp.org/i-dont-understand-graph-theory-1c96572a1401)
 * [Havel-Hakimi](http://jacquerie.github.io/hh/)
+* [6.886 Graph Analytics Spring 2018](https://people.csail.mit.edu/jshun/6886-s18/)
 
 ## Coding
 
