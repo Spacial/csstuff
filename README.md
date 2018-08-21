@@ -15,6 +15,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Great Theoretical Ideas in Computer Science](http://www.cs.cmu.edu/~aada/courses/15251f15/www/schedule.html)
 * [Accidentally Turing-Complete](http://beza1e1.tuxen.de/articles/accidentally_turing_complete.html)
 * [Modern SAT solvers: fast, neat and underused (part 1 of N) — The Coding Nest](https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/)
+* Computer Science: [An Interdisciplinary Approach](https://introcs.cs.princeton.edu/java/home/)
 
 ## Data Structures
 
@@ -128,13 +129,18 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Effects of CPU caches](https://medium.com/@minimarcel/effect-of-cpu-caches-57db81490a7f)
 * [Introduction to Computer Organization](http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html) with x86-64 Assembly Language \& GNU/Linux, by [Robert G. Plantz](http://bob.cs.sonoma.edu/index.html)
 * [XNU/ARM64](https://github.com/Darm64/XNU): Research into porting the XNU kernel to ARM devices. 
+* [Why use an FPGA instead of a CPU or GPU?](https://blog.esciencecenter.nl/why-use-an-fpga-instead-of-a-cpu-or-gpu-b234cd4f309c)
 
-### Eletrocnics
+### Eletronics
 
 * [Circuit Simulator](https://www.falstad.com/circuit/circuitjs.html) version 2.1.15js by pfalstad.
 * [node-lib](https://github.com/diefarbe/node-lib/): A node library for manipulating color on the Das Keyboard 5Q
 * [Blink an LED With Arduino in Tinkercad: 6 Steps (with Pictures)](https://www.instructables.com/id/Blink-an-LED-With-Arduino-in-Tinkercad/)
 * [Tomu](https://tomu.im/) - A tiny ARM microprocessor which fits in your USB port.
+
+## Operating Systems
+
+* [User-space RCU](https://lwn.net/Articles/573424/)
 
 ### Memmory 
 
@@ -196,6 +202,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [PyImageSearch](https://www.pyimagesearch.com/)- Be awesome at OpenCV, Python, deep learning, and computer vision. [Tracking multiple objects with OpenCV](https://www.pyimagesearch.com/2018/08/06/tracking-multiple-objects-with-opencv/)
 * [Introduction to Computer Vision by Intel](https://software.intel.com/en-us/articles/introduction-to-computer-vision):
  * [Video-Analytics-OpenCV](https://github.com/intel-iot-devkit/Video-Analytics-OpenCV): Python video analytics samples with OpenCV* 
+* [GesturesGAN](https://github.com/Ha0Tang/GestureGAN)
 
 #### Python
 
@@ -255,6 +262,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Análise questionário - tipos básicos de variáveis e gráficos](http://www.leg.ufpr.br/~paulojus/prppg/questionario/), [Validação dos Dados - Qualidade da Água](http://www.leg.ufpr.br/~paulojus/prppg/aula03-iqa.html) e [Análise questionário - tipos básicos de variáveis e gráficos](http://www.leg.ufpr.br/~paulojus/prppg/aula03-quest.html)
 * [Análises e tutoriais das bases de dados abertos da Secretaria Municipal de Educação em formato aberto](https://github.com/prefeiturasp/dados-educacao)
 * [termgraph](https://github.com/mkaz/termgraph): a python command-line tool which draws basic graphs in the terminal 
+* [Markov Chains](http://setosa.io/ev/markov-chains/): Explained Visually
 
 ### Data Science
 
@@ -270,6 +278,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Using R with Jupyter Notebooks](http://blog.revolutionanalytics.com/2015/09/using-r-with-jupyter-notebooks.html)
 * [When Is Haskell More Useful Than R Or Python In Data Science?](https://www.forbes.com/sites/quora/2018/01/24/when-is-haskell-more-useful-than-r-or-python-in-data-science/#1daa23e69e47)
 * [Data Science with Python: Intro to Data Visualization and Matplotlib](https://towardsdatascience.com/data-science-with-python-intro-to-data-visualization-and-matplotlib-5f799b7c6d82)
+* [Linear compression in python: PCA vs unsupervised feature selection – EFavDB](http://efavdb.com/unsupervised-feature-selection-in-python-with-linselect/)
 
 #### Luna
 
@@ -336,7 +345,8 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Double Pendulum Visualization](https://jnafzig.github.io/2018/02/05/double-pendulum.html), [repo](https://github.com/jnafzig/HamiltonianSolver)
 * [Randomness and Perlin Noise](http://makeyourownalgorithmicart.blogspot.com.br/2018/02/randomness-and-perlin-noise.html)
 * [An interactive, explorable explanation about the peculiar magic of sound waves](https://github.com/joshwcomeau/waveforms)
-* [A collection of Jupyter notebook explorations for NASA's Space Math examples.](https://github.com/dynamicwebpaige/spacemath)
+* [Tiny Wayland compositor](https://gist.github.com/SirCmpwn/ae4d1cdcca97ffeb2c35f0878d75dc17)
+
 * [tandem](https://github.com/typeintandem/tandem): Typing in Tandem. Decentralized, cross-editor, collaborative text-editing!
 * [Oni: Modern Modal Editing - powered by Neovim](https://github.com/onivim/oni)
 
@@ -382,6 +392,11 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Tindallgrams](http://tindallgrams.net/): In 1966, as the American space program was working furiously towards a moon landing, Howard W. “Bill” Tindall, Jr., an expert on orbital mechanics, was sent by NASA to MIT to oversee the development of software for the spacecraft guidance systems.
 * [JPL Open Source Rover Project](https://github.com/nasa-jpl/open-source-rover): A build-it-yourself, 6-wheel rover based on the rovers on Mars! 
 * [Illustris](https://www.cfa.harvard.edu/imagelist/2014-10) [Simulation of the Universe](https://www.youtube.com/watch?v=A23Ro3kiB1E)
+* [A collection of Jupyter notebook explorations for NASA's Space Math examples.](https://github.com/dynamicwebpaige/spacemath)
+
+## SpaceX
+
+* [SpaceX-API](https://github.com/r-spacex/SpaceX-API): Open Source REST API for rocket, core, capsule, pad, and launch data
 
 # Chemistry
 
@@ -427,6 +442,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Free technical resources for faculty, students, and Microsoft developer advocates for use in computer science learning forums](https://github.com/MSFTImagine/computerscience)
 * [Getting Access to Paywalled Papers](http://holly.witteman.ca/index.php/2017/12/11/getting-access-to-paywalled-papers/)
 * (pt-br) [10 livros (e + 10 artigos) sobre métodos digitais de pesquisa](https://www.ibpad.com.br/blog/10-livros-e-10-artigos-sobre-metodos-digitais-de-pesquisa/)
+* [OpenStax](https://openstax.org/)
 
 ## Writing
 
@@ -483,6 +499,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [PoDeixar - O Canadá por quem vive no Canadá](https://www.canadaagora.com/podeixar)
 * [Start a Career at Klarna - Klarna Careers](https://www.klarna.com/careers/)
 * [+100 Startup Directories to Submit Your Startup](https://www.eggradients.com/startup-directory)
+* [Highly Skilled Eligible Occupations List - DBEI](https://dbei.gov.ie/en/What-We-Do/Workplace-and-Skills/Employment-Permits/Employment-Permit-Eligibility/Highly-Skilled-Eligible-Occupations-List/)
 
 # Fun
 
@@ -491,8 +508,10 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [magabot](https://github.com/cverna/magabot): Twitter bot that retweets magazine articles 
 * [http://augmentingcognition.com/ltm.html](http://augmentingcognition.com/ltm.html)
 * [Bootable CD + retro game in a tweet](https://www.quaxio.com/bootable_cd_retro_game_tweet/)
+* [Zachtronics | EXAPUNKS](http://www.zachtronics.com/exapunks/)
 
 # News
+
 * [A Science Fair with $1.6 Million in Prizes](https://blog.mozilla.org/blog/2018/07/19/a-science-fair-with-1-6-million-in-prizes/)
 * [18 Best IDEs for C/C++ Programming or Source Code Editors on Linux](https://www.tecmint.com/best-linux-ide-editors-source-code-editors/)
 * [Frankl - Open science on the blockchain](https://frankl.io/)
