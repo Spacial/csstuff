@@ -9,6 +9,10 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 # Research
 
+* [The Practice of Reproducible Research](https://www.practicereproducibleresearch.org/)
+* [A toolkit for data transparency takes shape](https://www.nature.com/articles/d41586-018-05990-5) and [Developing a modern data workflow for living data](https://www.biorxiv.org/content/early/2018/06/12/344804)
+* [PortalData](https://github.com/weecology/PortalData) (Official Repo of the Portal Project Data) and [livedat](https://github.com/weecology/livedat) (Template for living data workflow ).
+
 # Computer Science general
 
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
@@ -19,7 +23,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 ## Data Structures
 
-* [Data Structures for  Coding Interviews](https://www.interviewcake.com/article/python/data-structures-coding-interview)
+* [Data Structures for Coding Interviews](https://www.interviewcake.com/article/python/data-structures-coding-interview)
 
 ## Databases
 
@@ -279,6 +283,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [When Is Haskell More Useful Than R Or Python In Data Science?](https://www.forbes.com/sites/quora/2018/01/24/when-is-haskell-more-useful-than-r-or-python-in-data-science/#1daa23e69e47)
 * [Data Science with Python: Intro to Data Visualization and Matplotlib](https://towardsdatascience.com/data-science-with-python-intro-to-data-visualization-and-matplotlib-5f799b7c6d82)
 * [Linear compression in python: PCA vs unsupervised feature selection – EFavDB](http://efavdb.com/unsupervised-feature-selection-in-python-with-linselect/)
+* [Data Carpentry](https://datacarpentry.org/) develops and teaches workshops on the fundamental data skills needed to conduct research.
 
 #### Luna
 
