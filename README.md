@@ -408,6 +408,10 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [Periodic Table – Royal Society of Chemistry](http://www.rsc.org/periodic-table/)
 
+# Biology
+
+* [Bioinformatics Algorithms | MOOC Bestseller | Phillip Compeau & Pavel Pevzner](http://bioinformaticsalgorithms.com/)
+
 ## On-line Services
 
 * Some [useful](https://github.com/Spacial/csstuff/blob/master/UsefulSites.md) on-line services.
@@ -506,6 +510,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Start a Career at Klarna - Klarna Careers](https://www.klarna.com/careers/)
 * [+100 Startup Directories to Submit Your Startup](https://www.eggradients.com/startup-directory)
 * [Highly Skilled Eligible Occupations List - DBEI](https://dbei.gov.ie/en/What-We-Do/Workplace-and-Skills/Employment-Permits/Employment-Permit-Eligibility/Highly-Skilled-Eligible-Occupations-List/)
+* [linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions): Collection of Linux Sysadmin/DevOps interview questions
 
 # Fun
 
