@@ -55,6 +55,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 ### Formal Methods
 
 * [Augmenting Agile with Formal Methods](https://www.hillelwayne.com/post/augmenting-agile/)
+* [Open Petri Nets (Part 1) | Azimuth](https://johncarlosbaez.wordpress.com/2018/08/15/open-petri-nets-part-1/)
 
 ### APIs
 
