@@ -233,6 +233,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Project Euler](https://projecteuler.net/) is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. (dica da [pgrangeiro](https://github.com/pgrangeiro)) 
 * [fxsolver](https://www.fxsolver.com): a free algebraic equation solver coupled to a large formula database, based on the need to quickly solve mathematical formulas without messing around with programming languages or spreadsheet software.
 * [WELL-ROUNDED FACTS ABOUT SPHERES](https://people.ucsc.edu/~weissman/MathClubTalk2009.pdf) by Martin H. Weissman
+* [Nonlinear Dynamics and Chaos](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V&app=desktop) - Steven Strogatz, Cornell University
 
 ## Theorems
 
