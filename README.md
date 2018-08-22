@@ -88,6 +88,8 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
  * [Ferret](https://github.com/nakkaya/ferret) is a free software lisp implementation for real time embedded control systems.
 * PHP:
  * [A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem](https://github.com/chiraggude/awesome-laravel)
+* Rust:
+ * [Awesome Rust](https://github.com/rust-unofficial/awesome-rust): A curated list of Rust code and resources.
 
 ### Version Control
 
@@ -99,7 +101,6 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
   * [lazygit](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands
   * [husky](https://github.com/typicode/husky): Git hooks made easy 
   * [lint-staged](https://github.com/okonet/lint-staged): Run linters on git staged files 
-
 * **Mercurial**:
   * [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos. 
 
@@ -412,6 +413,10 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [Bioinformatics Algorithms | MOOC Bestseller | Phillip Compeau & Pavel Pevzner](http://bioinformaticsalgorithms.com/)
 
+# Geography
+
+* [IRIS: mww8.2 Fiji Islands Region](http://ds.iris.edu/ds/nodes/dmc/tools/event/10937540)
+
 ## On-line Services
 
 * Some [useful](https://github.com/Spacial/csstuff/blob/master/UsefulSites.md) on-line services.
@@ -520,6 +525,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [http://augmentingcognition.com/ltm.html](http://augmentingcognition.com/ltm.html)
 * [Bootable CD + retro game in a tweet](https://www.quaxio.com/bootable_cd_retro_game_tweet/)
 * [Zachtronics | EXAPUNKS](http://www.zachtronics.com/exapunks/)
+* [The short history of the "about:" URL](http://www.montulli.org/lou/about_urls)
 
 # News
 
