@@ -234,6 +234,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [fxsolver](https://www.fxsolver.com): a free algebraic equation solver coupled to a large formula database, based on the need to quickly solve mathematical formulas without messing around with programming languages or spreadsheet software.
 * [WELL-ROUNDED FACTS ABOUT SPHERES](https://people.ucsc.edu/~weissman/MathClubTalk2009.pdf) by Martin H. Weissman
 * [Nonlinear Dynamics and Chaos](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V&app=desktop) - Steven Strogatz, Cornell University
+* [1 million prime UMAP layout](https://gist.github.com/johnhw/dfc7b8b8519aac530ac97da226c17bd5)
 
 ## Theorems
 
@@ -367,6 +368,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Modular Multiplication around a Circle](https://codepen.io/erikterwan/pen/MQWZga?editors=0010)
 * [Recreating the Vertigo poster](https://www.johndcook.com/blog/2017/02/14/recreating-the-vertigo-poster/)
 * [Hexagon-hard-way.swift](https://gist.github.com/mxcl/8a2d9c1b1c0063f2a71e24f9fe045d43)
+* [Introducing the Aqua Screenshot Library](https://512pixels.net/2018/08/introducing-the-aqua-screenshot-library/)
 
 ### Music
 
