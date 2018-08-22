@@ -32,6 +32,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 ## Networks
 
 * [Prototool](https://github.com/uber/prototool): Your Swiss Army Knife for Protocol Buffers. 
+* [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
 
 ## Programming
 
@@ -462,9 +463,10 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 ## Writing
 
- * [Write Clearly and Concisely](http://sites.ieee.org/pcs/communication-resources-for-engineers/style/write-clearly-and-concisely/) by IEEE
- * [GENERAL RESEARCH AND WRITING RESOURCES AND GUIDES](https://riozones.wordpress.com/2018/02/25/general-research-and-writing-resources-and-guides/)
- * [The Best Textbooks on Every Subject](https://www.lesswrong.com/posts/xg3hXCYQPJkwHyik2/the-best-textbooks-on-every-subject)
+* [Write Clearly and Concisely](http://sites.ieee.org/pcs/communication-resources-for-engineers/style/write-clearly-and-concisely/) by IEEE
+* [GENERAL RESEARCH AND WRITING RESOURCES AND GUIDES](https://riozones.wordpress.com/2018/02/25/general-research-and-writing-resources-and-guides/)
+* [The Best Textbooks on Every Subject](https://www.lesswrong.com/posts/xg3hXCYQPJkwHyik2/the-best-textbooks-on-every-subject)
+* [Five common writing mistakes new scientists make](https://contemplativemammoth.com/2018/08/21/five-common-writing-mistakes-new-scientists-make/)
 
 # UX/UI
 
@@ -533,5 +535,5 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [A Science Fair with $1.6 Million in Prizes](https://blog.mozilla.org/blog/2018/07/19/a-science-fair-with-1-6-million-in-prizes/)
 * [18 Best IDEs for C/C++ Programming or Source Code Editors on Linux](https://www.tecmint.com/best-linux-ide-editors-source-code-editors/)
 * [Frankl - Open science on the blockchain](https://frankl.io/)
-* [https://litepaper.com/resources/hyperledger](https://litepaper.com/resources/hyperledger)
-
+* [Hyperledger](https://www.hyperledger.org/) is an open source collaborative effort created to advance cross-industry blockchain technologies.
+* [Information Disorder: The Definitional Toolbox](https://firstdraftnews.org/infodisorder-definitional-toolbox/)
