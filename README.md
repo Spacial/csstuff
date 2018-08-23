@@ -123,6 +123,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Freezing Python’s Dependency Hell in 2018](https://tech.instacart.com/freezing-pythons-dependency-hell-in-2018-f1076d625241?gi=945babc43d8)
 * [faust](https://github.com/robinhood/faust): Python Stream Processing
 * [How to escape async/await hell – freeCodeCamp](https://medium.freecodecamp.org/avoiding-the-async-await-hell-c77a0fb71c4c)
+* [black](https://github.com/ambv/black/): The uncompromising Python code formatter 
 
 #### Presentations
 
@@ -312,6 +313,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [OpenSubdiv](http://graphics.pixar.com/opensubdiv/docs/intro.html) ([github](https://github.com/PixarAnimationStudios/OpenSubdiv)): is a set of open source libraries that implement high performance subdivision surface (subdiv) evaluation on massively parallel CPU and GPU architectures.
 * [How does JPEG actually work?](https://blogs.msdn.microsoft.com/devdev/2006/04/12/how-does-jpeg-actually-work/)
 * [BPG Image format](https://bellard.org/bpg/)
+* [Blender-power-sequencer](https://github.com/GDquest/Blender-power-sequencer/): Video editing add-on for Blender 
 
 ## Calculus
 
@@ -449,6 +451,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 ## Games
 
 * [toy](https://github.com/hugoam/toy): the thin c++ game engine - [toyengine](https://hugoam.github.io/toy-io/).
+* [Craft](https://github.com/fogleman/Craft): A simple Minecraft clone written in C using modern OpenGL (shaders).
 
 # Articles
 
