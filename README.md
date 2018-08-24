@@ -229,10 +229,10 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 # Math
 
 * Good channels:
- * [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/): 3blue1brown, by Grant Sanderson, is some combination of math and entertainment, depending on your disposition ([site](https://www.3blue1brown.com/)) and [manim](https://github.com/3b1b/manim)(Animation engine for explanatory math videos).
- * [LeiosOS](https://www.youtube.com/user/LeiosOS): I'm starting a new project, and I hope you guys find it useful! It's called the arcane algorithm archive and is an archive to all the arcane algorithms we cover. [site](https://www.algorithm-archive.org/) and [github](https://github.com/algorithm-archivists/algorithm-archive).
- * [Think Twice](https://www.youtube.com/channel/UC9yt3wz-6j19RwD5m5f6HSg).
- * [Welch Labs](https://www.youtube.com/user/Taylorns34): Math, Science, and Machine Learning resources. [site](http://www.welchlabs.com/) and [github](https://github.com/stephencwelch).
+   * [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/): 3blue1brown, by Grant Sanderson, is some combination of math and entertainment, depending on your disposition ([site](https://www.3blue1brown.com/)) and [manim](https://github.com/3b1b/manim)(Animation engine for explanatory math videos).
+   * [LeiosOS](https://www.youtube.com/user/LeiosOS): I'm starting a new project, and I hope you guys find it useful! It's called the arcane algorithm archive and is an archive to all the arcane algorithms we cover. [site](https://www.algorithm-archive.org/) and [github](https://github.com/algorithm-archivists/algorithm-archive).
+   * [Think Twice](https://www.youtube.com/channel/UC9yt3wz-6j19RwD5m5f6HSg).
+   * [Welch Labs](https://www.youtube.com/user/Taylorns34): Math, Science, and Machine Learning resources. [site](http://www.welchlabs.com/) and [github](https://github.com/stephencwelch).
 * [INFINITY PLUS ONE](https://infinityplusonemath.wordpress.com/): 
 * [Free-Math](https://github.com/jaltekruse/Free-Math): An offline React web application for managing digital math homework
 * [Complex polynomial toy](https://math.berkeley.edu/~kmill/toys/roots/roots.html): an interactive program for domain coloring of polynomials and for experimenting with the idea behind a proof that every non-constant polynomial has at least one complex root.
