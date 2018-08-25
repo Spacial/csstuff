@@ -474,6 +474,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [Renders papers from Arxiv as responsive web pages so you don't have to squint at a PDF.](https://github.com/arxiv-vanity/arxiv-vanity)
 * [How to Read an RFC](https://www.mnot.net/blog/2018/07/31/read_rfc)
+* [How to Read a Paper Efficiently (By Prof. Pete Carr)](https://www.youtube.com/watch?v=IeaD0ZaUJ3Y)
 
 # Studies
 
@@ -483,6 +484,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Getting Access to Paywalled Papers](http://holly.witteman.ca/index.php/2017/12/11/getting-access-to-paywalled-papers/)
 * (pt-br) [10 livros (e + 10 artigos) sobre métodos digitais de pesquisa](https://www.ibpad.com.br/blog/10-livros-e-10-artigos-sobre-metodos-digitais-de-pesquisa/)
 * [OpenStax](https://openstax.org/)
+
 
 ## Writing
 
