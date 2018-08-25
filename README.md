@@ -201,6 +201,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [Handwriting Synthesis](https://github.com/sjvasquez/handwriting-synthesis)
 * [OpenNMT](https://github.com/opennmt/opennmt): Open-Source Neural Machine Translation
+* [vid2vid](https://github.com/NVIDIA/vid2vid): Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
 
 ### Computer Vision
 
@@ -467,6 +468,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [toy](https://github.com/hugoam/toy): the thin c++ game engine - [toyengine](https://hugoam.github.io/toy-io/).
 * [Craft](https://github.com/fogleman/Craft): A simple Minecraft clone written in C using modern OpenGL (shaders).
+* [An Oral History of ‘GoldenEye 007’ on the N64 – MEL Magazine](https://melmagazine.com/an-oral-history-of-goldeneye-007-on-the-n64-129844f1c5ab)
 
 # Articles
 
@@ -558,3 +560,9 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Frankl - Open science on the blockchain](https://frankl.io/)
 * [Hyperledger](https://www.hyperledger.org/) is an open source collaborative effort created to advance cross-industry blockchain technologies.
 * [Information Disorder: The Definitional Toolbox](https://firstdraftnews.org/infodisorder-definitional-toolbox/)
+* [The Paradox of Karl Popper - Scientific American Blog Network](https://blogs.scientificamerican.com/cross-check/the-paradox-of-karl-popper/)
+* [[1808.07531] Sarcasm Analysis using Conversation Context](https://arxiv.org/abs/1808.07531)
+* [Survival Of The Sluggish: Scientists Find An Upside To A Low Metabolism : NPR](https://www.npr.org/2018/08/24/641623213/survival-of-the-sluggish-scientists-find-an-upside-to-a-low-metabolism)
+* [Your Office Life Is Destroying Your Butt – MEL Magazine](https://melmagazine.com/your-office-life-is-destroying-your-butt-b0b19a08cf3d)
+* [Toward Decolonizing Gender - McCOID - 1996 - American Anthropologist - Wiley Online Library](https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1525/aa.1996.98.2.02a00080)
+* [An important final message about Benzos from Cassandra Narburgh, RIP](http://www.badbenzos.com/)
