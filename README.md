@@ -28,6 +28,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 ## Databases
 
 * [Readings in Database Systems](http://www.redbook.io)
+* [tkvdb](https://github.com/vmxdev/tkvdb): Trie key-value database
 
 ## Networks
 
@@ -138,6 +139,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Introduction to Computer Organization](http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html) with x86-64 Assembly Language \& GNU/Linux, by [Robert G. Plantz](http://bob.cs.sonoma.edu/index.html)
 * [XNU/ARM64](https://github.com/Darm64/XNU): Research into porting the XNU kernel to ARM devices. 
 * [Why use an FPGA instead of a CPU or GPU?](https://blog.esciencecenter.nl/why-use-an-fpga-instead-of-a-cpu-or-gpu-b234cd4f309c)
+* [NandGame](http://nandgame.com/): Build a computer from scratch. <- [Build a Fun CPU in Your Browser](https://hackaday.com/2018/08/20/build-a-fun-cpu-in-your-browser/)
 
 ### Eletronics
 
@@ -193,6 +195,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Learning Dexterity](https://blog.openai.com/learning-dexterity/)
 * [Evolving Floorplans](http://www.joelsimon.net/evo_floorplans.html)
 * [PyPDFOCR](https://github.com/virantha/pypdfocr): Python script to do PDF OCR conversion using Tesseract 
+* [Artwork Personalization at Netflix – Netflix TechBlog – Medium](https://medium.com/netflix-techblog/artwork-personalization-c589f074ad76)
 
 ### RNN
 
@@ -253,6 +256,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
  * [Symmetry, Algebra and the Monster](https://www.quantamagazine.org/symmetry-algebra-and-the-monster-20170817/)
  * [Tricurves](http://web.calstatela.edu/curvebank/tricurve/tricurve.htm) and [Tiling with Tricurves](http://paulbourke.net/geometry/tricurves/)
  * [Graphical Linear Algebra](https://graphicallinearalgebra.net)
+ * [Set Theory and Algebra in Computer Science A Gentle Introduction to Mathematical Modeling](https://pdfs.semanticscholar.org/d106/6b6de601c1d7d5af25af3f7091bc7ad3ad51.pdf)
 
 ## Matrices
 
@@ -295,6 +299,9 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Data Science with Python: Intro to Data Visualization and Matplotlib](https://towardsdatascience.com/data-science-with-python-intro-to-data-visualization-and-matplotlib-5f799b7c6d82)
 * [Linear compression in python: PCA vs unsupervised feature selection – EFavDB](http://efavdb.com/unsupervised-feature-selection-in-python-with-linselect/)
 * [Data Carpentry](https://datacarpentry.org/) develops and teaches workshops on the fundamental data skills needed to conduct research.
+* [Building a dataset for the São Paulo Subway operation](https://towardsdatascience.com/building-a-dataset-for-the-são-paulo-subway-operation-2d8c5a430688)
+* [sp-subway-scraper](https://github.com/douglasnavarro/sp-subway-scraper): This web scraper builds a dataset for São Paulo subway operation status. [Dataset](https://drive.google.com/drive/folders/1vXVWAJHnpvW9UaNSybqdEPZ8EaXIVYGF)
+* (pt-br)[genero-ruas-mapa](https://github.com/bplmp/genero-ruas-mapa): Mapa interativo de gênero de ruas brasileiras usando vector tiles
 
 #### Luna
 
@@ -364,9 +371,10 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Randomness and Perlin Noise](http://makeyourownalgorithmicart.blogspot.com.br/2018/02/randomness-and-perlin-noise.html)
 * [An interactive, explorable explanation about the peculiar magic of sound waves](https://github.com/joshwcomeau/waveforms)
 * [Tiny Wayland compositor](https://gist.github.com/SirCmpwn/ae4d1cdcca97ffeb2c35f0878d75dc17)
-
 * [tandem](https://github.com/typeintandem/tandem): Typing in Tandem. Decentralized, cross-editor, collaborative text-editing!
-* [Oni: Modern Modal Editing - powered by Neovim](https://github.com/onivim/oni)
+* [Oni](https://github.com/onivim/oni): Modern Modal Editing - powered by Neovim
+* [pyodide](https://github.com/iodide-project/pyodide): The Python scientific stack, compiled to WebAssembly
+
 
 ## Fun
 
@@ -412,6 +420,8 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [JPL Open Source Rover Project](https://github.com/nasa-jpl/open-source-rover): A build-it-yourself, 6-wheel rover based on the rovers on Mars! 
 * [Illustris](https://www.cfa.harvard.edu/imagelist/2014-10) [Simulation of the Universe](https://www.youtube.com/watch?v=A23Ro3kiB1E)
 * [A collection of Jupyter notebook explorations for NASA's Space Math examples.](https://github.com/dynamicwebpaige/spacemath)
+* [Just Another Day on Aerosol Earth](https://earthobservatory.nasa.gov/images/92654/just-another-day-on-aerosol-earth)
+* [Earth at Night](https://earthobservatory.nasa.gov/Features/NightLights)
 
 ## SpaceX
 
