@@ -125,12 +125,14 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [faust](https://github.com/robinhood/faust): Python Stream Processing
 * [How to escape async/await hell – freeCodeCamp](https://medium.freecodecamp.org/avoiding-the-async-await-hell-c77a0fb71c4c)
 * [black](https://github.com/ambv/black/): The uncompromising Python code formatter 
+* [The Future of Notebooks: Lessons from JupyterCon](http://willcrichton.net/notes/lessons-from-jupytercon/)
 
 #### Presentations
 
 * [Miguel Grinberg - Asynchronous Python for the Complete Beginner](https://speakerdeck.com/pycon2017/miguel-grinberg-asynchronous-python-for-the-complete-beginner) 
 * [The Future of Python Dependency Management](https://speakerdeck.com/kennethreitz/the-future-of-python-dependency-management)
 * [Beautiful folds](https://github.com/Gabriel439/slides/blob/master/munihac/foldmap.md) commonly arise in parallel/distributed programming
+* [I Don't like notebooks](https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/preview?slide=id.g362da58057_0_1)
 
 ## Hardware 
 
