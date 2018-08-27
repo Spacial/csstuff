@@ -20,6 +20,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Accidentally Turing-Complete](http://beza1e1.tuxen.de/articles/accidentally_turing_complete.html)
 * [Modern SAT solvers: fast, neat and underused (part 1 of N) — The Coding Nest](https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/)
 * Computer Science: [An Interdisciplinary Approach](https://introcs.cs.princeton.edu/java/home/)
+* [A Guide to Teaching Computing to Adults in Informal Settings](https://computinged.wordpress.com/2018/08/27/a-guide-to-teaching-computing-to-adults-in-informal-settings/) (and [here](http://teachtogether.tech/en/partner/))
 
 ## Data Structures
 
@@ -29,6 +30,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [Readings in Database Systems](http://www.redbook.io)
 * [tkvdb](https://github.com/vmxdev/tkvdb): Trie key-value database
+* [Real world SSD wearout](https://blog.okmeter.io/real-world-ssd-wearout-a3396a35c663)
 
 ## Networks
 
@@ -53,6 +55,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 ### IDEs
 
 * [geany-dark-scheme](https://github.com/Wayn0/geany-dark-scheme): Dark syntax theme for the Geany text editor. 
+* [vscodium](https://github.com/VSCodium/vscodium): binary releases of VS Code without MS branding/telemetry/licensing 
 
 ### Formal Methods
 
@@ -198,6 +201,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Evolving Floorplans](http://www.joelsimon.net/evo_floorplans.html)
 * [PyPDFOCR](https://github.com/virantha/pypdfocr): Python script to do PDF OCR conversion using Tesseract 
 * [Artwork Personalization at Netflix – Netflix TechBlog – Medium](https://medium.com/netflix-techblog/artwork-personalization-c589f074ad76)
+* [Google Vizier](https://ai.google/research/pubs/pub46180): A Service for Black-Box Optimization
 
 ### RNN
 
@@ -260,6 +264,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
  * [Tricurves](http://web.calstatela.edu/curvebank/tricurve/tricurve.htm) and [Tiling with Tricurves](http://paulbourke.net/geometry/tricurves/)
  * [Graphical Linear Algebra](https://graphicallinearalgebra.net)
  * [Set Theory and Algebra in Computer Science A Gentle Introduction to Mathematical Modeling](https://pdfs.semanticscholar.org/d106/6b6de601c1d7d5af25af3f7091bc7ad3ad51.pdf)
+* [Viviani](https://www.geogebra.org/m/phxkpwde): 
 
 ## Matrices
 
@@ -329,6 +334,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [How does JPEG actually work?](https://blogs.msdn.microsoft.com/devdev/2006/04/12/how-does-jpeg-actually-work/)
 * [BPG Image format](https://bellard.org/bpg/)
 * [Blender-power-sequencer](https://github.com/GDquest/Blender-power-sequencer/): Video editing add-on for Blender 
+* [Pseudo-bandlimited pixel art filtering in 3D – a mathematical derivation](http://themaister.net/blog/2018/08/25/pseudo-bandlimited-pixel-art-filtering-in-3d-a-mathematical-derivation/) [github](https://github.com/Themaister/Granite)
 
 ## Calculus
 
