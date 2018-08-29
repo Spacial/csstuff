@@ -31,6 +31,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Readings in Database Systems](http://www.redbook.io)
 * [tkvdb](https://github.com/vmxdev/tkvdb): Trie key-value database
 * [Real world SSD wearout](https://blog.okmeter.io/real-world-ssd-wearout-a3396a35c663)
+* [litetree](https://github.com/aergoio/litetree): SQLite with Branches 
 
 ## Networks
 
@@ -76,6 +77,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
   * The [memkind](https://github.com/memkind/memkind) library is a user extensible heap manager built on top of jemalloc which enables control of memory characteristics and a partitioning of the heap between kinds of memory.
 * [MODERN C++ FOR C PROGRAMMERS: PART 1](https://ds9a.nl/articles/posts/c++-1/) has [PART 5](https://ds9a.nl/articles/posts/cpp-5/) already.
 * [cs01/gdbgui](https://github.com/cs01/gdbgui/): Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
+* [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines): The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++ 
 
 #### KDE/Qt
 
@@ -145,6 +147,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [XNU/ARM64](https://github.com/Darm64/XNU): Research into porting the XNU kernel to ARM devices. 
 * [Why use an FPGA instead of a CPU or GPU?](https://blog.esciencecenter.nl/why-use-an-fpga-instead-of-a-cpu-or-gpu-b234cd4f309c)
 * [NandGame](http://nandgame.com/): Build a computer from scratch. <- [Build a Fun CPU in Your Browser](https://hackaday.com/2018/08/20/build-a-fun-cpu-in-your-browser/)
+* [darkriscv](https://github.com/darklife/darkriscv): opensouce RISC-V implemented from scratch in one night! 
 
 ### Eletronics
 
@@ -202,6 +205,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [PyPDFOCR](https://github.com/virantha/pypdfocr): Python script to do PDF OCR conversion using Tesseract 
 * [Artwork Personalization at Netflix – Netflix TechBlog – Medium](https://medium.com/netflix-techblog/artwork-personalization-c589f074ad76)
 * [Google Vizier](https://ai.google/research/pubs/pub46180): A Service for Black-Box Optimization
+* [Notes on installing CUDA, CuDNN and Tensorflow on Manjaro](https://leblancfg.com/installing-cuda-cudnn-tensorflow-nvidia-gtx960.html)
 
 ### RNN
 
@@ -384,7 +388,6 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Oni](https://github.com/onivim/oni): Modern Modal Editing - powered by Neovim
 * [pyodide](https://github.com/iodide-project/pyodide): The Python scientific stack, compiled to WebAssembly
 
-
 ## Fun
 
 * [The Corpus Christi Prime](https://friendlyfieldsandopenmaps.com/2017/09/08/the-corpus-christi-prime/)
@@ -478,6 +481,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [toy](https://github.com/hugoam/toy): the thin c++ game engine - [toyengine](https://hugoam.github.io/toy-io/).
 * [Craft](https://github.com/fogleman/Craft): A simple Minecraft clone written in C using modern OpenGL (shaders).
 * [An Oral History of ‘GoldenEye 007’ on the N64 – MEL Magazine](https://melmagazine.com/an-oral-history-of-goldeneye-007-on-the-n64-129844f1c5ab)
+* [CivJS](https://github.com/Venerons/CivJS): A JavaScript 4X Game 
 
 # Articles
 
@@ -493,6 +497,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Getting Access to Paywalled Papers](http://holly.witteman.ca/index.php/2017/12/11/getting-access-to-paywalled-papers/)
 * (pt-br) [10 livros (e + 10 artigos) sobre métodos digitais de pesquisa](https://www.ibpad.com.br/blog/10-livros-e-10-artigos-sobre-metodos-digitais-de-pesquisa/)
 * [OpenStax](https://openstax.org/)
+* [What You Need to Know Before Considering a PhD](http://www.fast.ai/2018/08/27/grad-school/)
 
 ## Writing
 
@@ -510,6 +515,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 ## web
 
 * [pyppeteer](https://pypi.org/project/pyppeteer/): Headless chrome/chromium automation library (unofficial port of puppeteer)
+* [RSSHub](https://docs.rsshub.app/en/) is a lightweight and extensible RSS feed aggregator, it's able to generate feeds from pretty much everything.
 
 # Privacy
 
@@ -553,6 +559,8 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [+100 Startup Directories to Submit Your Startup](https://www.eggradients.com/startup-directory)
 * [Highly Skilled Eligible Occupations List - DBEI](https://dbei.gov.ie/en/What-We-Do/Workplace-and-Skills/Employment-Permits/Employment-Permit-Eligibility/Highly-Skilled-Eligible-Occupations-List/)
 * [linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions): Collection of Linux Sysadmin/DevOps interview questions
+* [BriteCore Applicant Manager](http://britecore-applicant-manager.s3-website-us-east-1.amazonaws.com/eliasoef02m0moqmczxkcppsv) and [ProductDevelopmentProject](https://github.com/IntuitiveWebSolutions/ProductDevelopmentProject)
+* [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills)
 
 # Fun
 
