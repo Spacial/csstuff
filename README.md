@@ -206,6 +206,8 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Artwork Personalization at Netflix – Netflix TechBlog – Medium](https://medium.com/netflix-techblog/artwork-personalization-c589f074ad76)
 * [Google Vizier](https://ai.google/research/pubs/pub46180): A Service for Black-Box Optimization
 * [Notes on installing CUDA, CuDNN and Tensorflow on Manjaro](https://leblancfg.com/installing-cuda-cudnn-tensorflow-nvidia-gtx960.html)
+* [privateml](https://github.com/mortendahl/privateml): Various material around private machine learning, some associated with blog
+* [NALU](https://github.com/Nilabhra/NALU): Neural Arithmetic Logic Units 
 
 ### RNN
 
@@ -475,6 +477,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [IMG2PNG](http://bjj.mmedia.is/utils/img2png/): This is a utility which can convert lots of different PDS files and FITS files to PNGs, including 16 bit PNGs when applicable.
 * [Color](http://jamie-wong.com/post/color/): From Hexcodes to Eyeballs
 * [Filament](https://google.github.io/filament/Filament.md.html): Filament is a physically based rendering (PBR) engine for Android. 
+* [svgs2ttf](https://github.com/pteromys/svgs2ttf): Bundle SVG images into a TTF via FontForge. 
 
 ## Games
 
