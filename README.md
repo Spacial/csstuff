@@ -320,6 +320,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Building a dataset for the São Paulo Subway operation](https://towardsdatascience.com/building-a-dataset-for-the-são-paulo-subway-operation-2d8c5a430688)
 * [sp-subway-scraper](https://github.com/douglasnavarro/sp-subway-scraper): This web scraper builds a dataset for São Paulo subway operation status. [Dataset](https://drive.google.com/drive/folders/1vXVWAJHnpvW9UaNSybqdEPZ8EaXIVYGF)
 * (pt-br)[genero-ruas-mapa](https://github.com/bplmp/genero-ruas-mapa): Mapa interativo de gênero de ruas brasileiras usando vector tiles
+* (pt-br) [code:Nation](https://www.codenation.com.br/) Uma startup de Florianópolis, Santa Catarina, apaixonada por ajudar desenvolvedores de software a darem os próximos passos de suas jornadas em direção à carreira que desejam alcançar.
 
 #### Luna
 
