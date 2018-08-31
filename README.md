@@ -179,6 +179,10 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [CharmPy](https://charmpy.readthedocs.io/en/latest/) is a high-level parallel and distributed programming framework with a simple and powerful API, based on migratable Python objects and remote method invocation; built on top of an adaptive C/C++ runtime system providing speed, scalability and dynamic load balancing.
 * [FASTER](https://github.com/Microsoft/FASTER): Fast key-value store from Microsoft Research 
 
+## Pattern Recognition
+
+* [annoy](https://github.com/spotify/annoy): Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk 
+
 ## Artificial Intelligence
 
 * [Lisp code](https://github.com/norvig/paip-lisp) for the textbook "Paradigms of Artificial Intelligence Programming"
@@ -564,6 +568,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions): Collection of Linux Sysadmin/DevOps interview questions
 * [BriteCore Applicant Manager](http://britecore-applicant-manager.s3-website-us-east-1.amazonaws.com/eliasoef02m0moqmczxkcppsv) and [ProductDevelopmentProject](https://github.com/IntuitiveWebSolutions/ProductDevelopmentProject)
 * [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills)
+* [System Administrator](https://gist.github.com/reyk/c534f207b28920d9a75e810d6553e688): Hands-on experience with OpenBSD and Linux administration.
 
 # Fun
 
