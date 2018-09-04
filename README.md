@@ -2,8 +2,6 @@
 
 Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-* [Academic Torrents](http://academictorrents.com/): We've designed a distributed system for sharing enormous datasets - for researchers, by researchers. The result is a scalable, secure, and fault-tolerant repository for data, with blazing fast download speeds. 
-
 * **TheoryOfComputation** : Some resources about the topic (tex files and JFLAP files).
 * **Algorithms** : Some stuff about design, analisys and general in algorithms science.
 
@@ -12,6 +10,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [The Practice of Reproducible Research](https://www.practicereproducibleresearch.org/)
 * [A toolkit for data transparency takes shape](https://www.nature.com/articles/d41586-018-05990-5) and [Developing a modern data workflow for living data](https://www.biorxiv.org/content/early/2018/06/12/344804)
 * [PortalData](https://github.com/weecology/PortalData) (Official Repo of the Portal Project Data) and [livedat](https://github.com/weecology/livedat) (Template for living data workflow ).
+* [Academic Torrents](http://academictorrents.com/): We've designed a distributed system for sharing enormous datasets - for researchers, by researchers. The result is a scalable, secure, and fault-tolerant repository for data, with blazing fast download speeds.
 
 # Computer Science general
 
@@ -67,6 +66,11 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [public-apis](https://github.com/toddmotto/public-apis): A collective list of public JSON APIs for use in web development. 
 
+### Assembly
+
+* [x86-64 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/~ed/x86.html) By Ed Jorgensen
+* [ Linux Assembly libraries project](http://linasm.sourceforge.net/)
+
 ### C/C++
 
 * [Exercises for people learning the C programming language](https://github.com/AllenDowney/ExercisesInC) by Allen B. Downey
@@ -109,6 +113,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
   * [lazygit](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands
   * [husky](https://github.com/typicode/husky): Git hooks made easy 
   * [lint-staged](https://github.com/okonet/lint-staged): Run linters on git staged files 
+  * 6 [Github](https://www.cyberciti.biz/open-source/github-alternatives-open-source-seflt-hosted/) alternatives that are open source and self-hosted
 * **Mercurial**:
   * [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos. 
 
@@ -322,6 +327,10 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * (pt-br)[genero-ruas-mapa](https://github.com/bplmp/genero-ruas-mapa): Mapa interativo de gênero de ruas brasileiras usando vector tiles
 * (pt-br) [code:Nation](https://www.codenation.com.br/) Uma startup de Florianópolis, Santa Catarina, apaixonada por ajudar desenvolvedores de software a darem os próximos passos de suas jornadas em direção à carreira que desejam alcançar.
 
+#### Datasets
+
+* [County_Level_Election_Results_12-16](https://github.com/tonmcg/County_Level_Election_Results_12-16): US president county-level election results for 2012 and 2016 
+
 #### Luna
 
 * [Luna](https://www.luna-lang.org/) is a data processing and visualization environment built on a principle that people need an immediate connection to what they are building. [github repo](https://github.com/luna/luna), [studio](https://github.com/luna/luna-studio) (IDE) and [docs](https://luna-lang.gitbooks.io/docs/content/interface.html)
@@ -518,12 +527,13 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [Guide to User Research (UXR)](http://guidetouxr.com/?lipi=urn:li:page:d_flagship3_feed;oGD6c4rDTo62VTIhUxhb4w%3D%3D)
 * [The Encyclopedia of Human-Computer Interaction, 2nd Ed.](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed)
-* [GNU Unifont Glyphs](http://www.unifoundry.com/unifont/index.html)
+* [GNU Unifont Glyphs](http://www.unifoundry.com/unifont/index.html
 
 ## web
 
 * [pyppeteer](https://pypi.org/project/pyppeteer/): Headless chrome/chromium automation library (unofficial port of puppeteer)
 * [RSSHub](https://docs.rsshub.app/en/) is a lightweight and extensible RSS feed aggregator, it's able to generate feeds from pretty much everything.
+* guardian [frontend](https://github.com/guardian/frontend): Source for theguardian.com
 
 # Privacy
 
