@@ -534,6 +534,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [pyppeteer](https://pypi.org/project/pyppeteer/): Headless chrome/chromium automation library (unofficial port of puppeteer)
 * [RSSHub](https://docs.rsshub.app/en/) is a lightweight and extensible RSS feed aggregator, it's able to generate feeds from pretty much everything.
 * guardian [frontend](https://github.com/guardian/frontend): Source for theguardian.com
+* [proven](https://github.com/dschep/proven): An alternative to Twitter's verified accounts powered by Keybase. 
 
 # Privacy
 
