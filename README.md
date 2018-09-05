@@ -187,6 +187,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 ## Pattern Recognition
 
 * [annoy](https://github.com/spotify/annoy): Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk 
+* [tesseract](https://github.com/tesseract-ocr/tesseract): Tesseract Open Source OCR Engine (main repository) 
 
 ## Artificial Intelligence
 
@@ -217,6 +218,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Notes on installing CUDA, CuDNN and Tensorflow on Manjaro](https://leblancfg.com/installing-cuda-cudnn-tensorflow-nvidia-gtx960.html)
 * [privateml](https://github.com/mortendahl/privateml): Various material around private machine learning, some associated with blog
 * [NALU](https://github.com/Nilabhra/NALU): Neural Arithmetic Logic Units 
+* [GAN Lab](https://poloclub.github.io/ganlab/): Play with Generated Adversarial Networks (GANs) in your browser! [repo](https://github.com/poloclub/ganlab)
 
 ### RNN
 
@@ -332,6 +334,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 #### Datasets
 
 * [County_Level_Election_Results_12-16](https://github.com/tonmcg/County_Level_Election_Results_12-16): US president county-level election results for 2012 and 2016 
+* [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 
 #### Luna
 
