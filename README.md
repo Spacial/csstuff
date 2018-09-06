@@ -31,6 +31,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [tkvdb](https://github.com/vmxdev/tkvdb): Trie key-value database
 * [Real world SSD wearout](https://blog.okmeter.io/real-world-ssd-wearout-a3396a35c663)
 * [litetree](https://github.com/aergoio/litetree): SQLite with Branches 
+* [lmdb-embeddings](https://github.com/ThoughtRiver/lmdb-embeddings): Fast word vectors with little memory usage in Python 
 
 ## Networks
 
@@ -219,6 +220,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [privateml](https://github.com/mortendahl/privateml): Various material around private machine learning, some associated with blog
 * [NALU](https://github.com/Nilabhra/NALU): Neural Arithmetic Logic Units 
 * [GAN Lab](https://poloclub.github.io/ganlab/): Play with Generated Adversarial Networks (GANs) in your browser! [repo](https://github.com/poloclub/ganlab)
+* [MTNT](http://www.cs.cmu.edu/~pmichel1/mtnt/): Machine Translation of Noisy Text. [github](https://github.com/pmichel31415/mtnt)
 
 ### RNN
 
@@ -268,6 +270,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [WELL-ROUNDED FACTS ABOUT SPHERES](https://people.ucsc.edu/~weissman/MathClubTalk2009.pdf) by Martin H. Weissman
 * [Nonlinear Dynamics and Chaos](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V&app=desktop) - Steven Strogatz, Cornell University
 * [1 million prime UMAP layout](https://gist.github.com/johnhw/dfc7b8b8519aac530ac97da226c17bd5)
+* [A First Course in Differential Equations for Scientists and Engineers](http://people.uncw.edu/hermanr/mat361/ODEBook/) by Dr. R. L. Herman
 
 ## Theorems
 
