@@ -32,6 +32,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Real world SSD wearout](https://blog.okmeter.io/real-world-ssd-wearout-a3396a35c663)
 * [litetree](https://github.com/aergoio/litetree): SQLite with Branches 
 * [lmdb-embeddings](https://github.com/ThoughtRiver/lmdb-embeddings): Fast word vectors with little memory usage in Python 
+* [litetree](https://github.com/aergoio/litetree): SQLite with Branches
 
 ## Networks
 
@@ -137,6 +138,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [How to escape async/await hell – freeCodeCamp](https://medium.freecodecamp.org/avoiding-the-async-await-hell-c77a0fb71c4c)
 * [black](https://github.com/ambv/black/): The uncompromising Python code formatter 
 * [The Future of Notebooks: Lessons from JupyterCon](http://willcrichton.net/notes/lessons-from-jupytercon/)
+* [python tutorials](https://nealcaren.github.io/python-tutorials/)
 
 #### Presentations
 
@@ -184,6 +186,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [CharmPy](https://charmpy.readthedocs.io/en/latest/) is a high-level parallel and distributed programming framework with a simple and powerful API, based on migratable Python objects and remote method invocation; built on top of an adaptive C/C++ runtime system providing speed, scalability and dynamic load balancing.
 * [FASTER](https://github.com/Microsoft/FASTER): Fast key-value store from Microsoft Research 
+* [porcupine](https://github.com/anishathalye/porcupine/): A fast linearizability checker written in Go
 
 ## Pattern Recognition
 
@@ -221,6 +224,9 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [NALU](https://github.com/Nilabhra/NALU): Neural Arithmetic Logic Units 
 * [GAN Lab](https://poloclub.github.io/ganlab/): Play with Generated Adversarial Networks (GANs) in your browser! [repo](https://github.com/poloclub/ganlab)
 * [MTNT](http://www.cs.cmu.edu/~pmichel1/mtnt/): Machine Translation of Noisy Text. [github](https://github.com/pmichel31415/mtnt)
+* [frugally-deep](https://github.com/Dobiasd/frugally-deep): Header-only library for using Keras models in C++.
+* [60_Days_RL_Challenge](https://github.com/andri27-ts/60_Days_RL_Challenge): Learn Deep Reinforcement Learning in depth in 60 days
+* [colorization-pytorch](https://github.com/richzhang/colorization-pytorch): PyTorch reimplementation of Interactive Deep Colorization
 
 ### RNN
 
@@ -289,6 +295,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 ## Matrices
 
 * [Matrices from a geometric perspective](http://www.coranac.com/documents/geomatrix/)
+* [pycm](https://github.com/sepandhaghighi/pycm): Multi-class confusion matrix library in Python.
 
 ## Statistics
 
@@ -310,6 +317,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Análises e tutoriais das bases de dados abertos da Secretaria Municipal de Educação em formato aberto](https://github.com/prefeiturasp/dados-educacao)
 * [termgraph](https://github.com/mkaz/termgraph): a python command-line tool which draws basic graphs in the terminal 
 * [Markov Chains](http://setosa.io/ev/markov-chains/): Explained Visually
+* [imager](https://dahtah.github.io/imager/imager.html): an R package for image processing
 
 ### Data Science
 
@@ -363,6 +371,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [BPG Image format](https://bellard.org/bpg/)
 * [Blender-power-sequencer](https://github.com/GDquest/Blender-power-sequencer/): Video editing add-on for Blender 
 * [Pseudo-bandlimited pixel art filtering in 3D – a mathematical derivation](http://themaister.net/blog/2018/08/25/pseudo-bandlimited-pixel-art-filtering-in-3d-a-mathematical-derivation/) [github](https://github.com/Themaister/Granite)
+* [ImageMagick creates huge temporary files · Issue #395 · ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick/issues/395)
 
 ## Calculus
 
@@ -500,6 +509,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Color](http://jamie-wong.com/post/color/): From Hexcodes to Eyeballs
 * [Filament](https://google.github.io/filament/Filament.md.html): Filament is a physically based rendering (PBR) engine for Android. 
 * [svgs2ttf](https://github.com/pteromys/svgs2ttf): Bundle SVG images into a TTF via FontForge. 
+* [Field Play](https://anvaka.github.io/fieldplay/?cx=7.5099&cy=0.05370000000000008&w=8.5428&h=8.5428&dt=0.01&fo=0.998&dp=0.009&cm=1)
 
 ## Games
 
@@ -507,6 +517,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Craft](https://github.com/fogleman/Craft): A simple Minecraft clone written in C using modern OpenGL (shaders).
 * [An Oral History of ‘GoldenEye 007’ on the N64 – MEL Magazine](https://melmagazine.com/an-oral-history-of-goldeneye-007-on-the-n64-129844f1c5ab)
 * [CivJS](https://github.com/Venerons/CivJS): A JavaScript 4X Game 
+* [Sol-R](https://github.com/favreau/Sol-R): Open-Source CUDA/OpenCL Speed Of Light Ray-tracer
 
 # Articles
 
@@ -579,6 +590,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 ## Jobs
 
+* [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade): Tools of The Trade, from Hacker News.
 * [Programando na Gringa](https://github.com/lbighetti/programando-na-gringa): Tudo sobre trabalho no exterior 
 * [ai-jobs](https://ai-jobs.ch/): The AI job site for Switzerland
 * [PoDeixar - O Canadá por quem vive no Canadá](https://www.canadaagora.com/podeixar)
@@ -599,6 +611,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Bootable CD + retro game in a tweet](https://www.quaxio.com/bootable_cd_retro_game_tweet/)
 * [Zachtronics | EXAPUNKS](http://www.zachtronics.com/exapunks/)
 * [The short history of the "about:" URL](http://www.montulli.org/lou/about_urls)
+* [smelvetica](https://github.com/tholman/smelvetica#how-do-i-install-it): Smelvetica is Helvetica for your best friends, or your worst enemies.
 
 # News
 
