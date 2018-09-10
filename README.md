@@ -403,6 +403,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [How to think in graphs: an illustrative introduction to Graph Theory and its applications](https://medium.freecodecamp.org/i-dont-understand-graph-theory-1c96572a1401)
 * [Havel-Hakimi](http://jacquerie.github.io/hh/)
 * [6.886 Graph Analytics Spring 2018](https://people.csail.mit.edu/jshun/6886-s18/)
+* [d3-dag](https://github.com/erikbrinkman/d3-dag): Layout algorithms for visualizing directed acylic graphs
 
 ## Coding
 
