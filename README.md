@@ -459,6 +459,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
   * [HR 6060: THE CLOSEST EVER SOLAR TWIN?](https://drive.google.com/file/d/1lXenWQCZi3fu11QMtemdFjeSOColYXs4/view)
   * [A study of likeness: The solar twin 18 Sco and the Sun](https://docs.wixstatic.com/ugd/db5c77_92c10a6f92324e798387d2b117028de0.pdf)
   * [18 Scorpii](https://pt.wikipedia.org/wiki/18_Scorpii)
+* [How to draw a Black Hole](http://rantonels.github.io/starless/)
 
 ## NASA
 
