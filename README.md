@@ -139,6 +139,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [black](https://github.com/ambv/black/): The uncompromising Python code formatter 
 * [The Future of Notebooks: Lessons from JupyterCon](http://willcrichton.net/notes/lessons-from-jupytercon/)
 * [python tutorials](https://nealcaren.github.io/python-tutorials/)
+* [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): All Algorithms implemented in Python
 
 #### Presentations
 
@@ -246,6 +247,8 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Introduction to Computer Vision by Intel](https://software.intel.com/en-us/articles/introduction-to-computer-vision):
  * [Video-Analytics-OpenCV](https://github.com/intel-iot-devkit/Video-Analytics-OpenCV): Python video analytics samples with OpenCV* 
 * [GesturesGAN](https://github.com/Ha0Tang/GestureGAN)
+* [Analyze a Soccer Game Using Tensorflow Object Detection and OpenCV](https://opendatascience.com/analyze-a-soccer-game-using-tensorflow-object-detection-and-opencv/) - Open Data Science - Your News Source for AI, Machine Learning & more
+* [soccer_realtime.ipynb](https://github.com/priya-dwivedi/Deep-Learning/blob/master/soccer_team_prediction/soccer_realtime.ipynb) · priya-dwivedi/Deep-Learning
 
 #### Python
 
@@ -341,6 +344,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * (pt-br) [code:Nation](https://www.codenation.com.br/) Uma startup de Florianópolis, Santa Catarina, apaixonada por ajudar desenvolvedores de software a darem os próximos passos de suas jornadas em direção à carreira que desejam alcançar.
 * [Learning Python for Social Scientists](https://nealcaren.github.io/python-tutorials/)
 * [How well does population density predict U.S. voting outcomes?](https://beta.observablehq.com/@jake-low/how-well-does-population-density-predict-u-s-voting-outcome)
+* [jupytext](https://github.com/mwouts/jupytext): Jupyter notebooks as Markdown documents, Julia, Python or R scripts
 
 #### Datasets
 
@@ -536,6 +540,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * (pt-br) [10 livros (e + 10 artigos) sobre métodos digitais de pesquisa](https://www.ibpad.com.br/blog/10-livros-e-10-artigos-sobre-metodos-digitais-de-pesquisa/)
 * [OpenStax](https://openstax.org/)
 * [What You Need to Know Before Considering a PhD](http://www.fast.ai/2018/08/27/grad-school/)
+* [Build a better Bookshelf](https://huytd.github.io/build-a-better-bookshelf.html)
 
 ## Writing
 
@@ -556,6 +561,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [RSSHub](https://docs.rsshub.app/en/) is a lightweight and extensible RSS feed aggregator, it's able to generate feeds from pretty much everything.
 * guardian [frontend](https://github.com/guardian/frontend): Source for theguardian.com
 * [proven](https://github.com/dschep/proven): An alternative to Twitter's verified accounts powered by Keybase. 
+* [umbrella](https://github.com/thi-ng/umbrella): ⛱ Mono-repository of ~50 TypeScript/ES6 projects for modern web development
 
 # Privacy
 
@@ -628,3 +634,10 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Your Office Life Is Destroying Your Butt – MEL Magazine](https://melmagazine.com/your-office-life-is-destroying-your-butt-b0b19a08cf3d)
 * [Toward Decolonizing Gender - McCOID - 1996 - American Anthropologist - Wiley Online Library](https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1525/aa.1996.98.2.02a00080)
 * [An important final message about Benzos from Cassandra Narburgh, RIP](http://www.badbenzos.com/)
+* [In Math Cram Sessions, Solving for Why - The New York Times](https://www.nytimes.com/2018/09/07/well/family/in-math-cram-sessions-solving-for-why.html)
+* [Machine Learning Confronts the Elephant in the Room | Quanta Magazine](https://www.quantamagazine.org/machine-learning-confronts-the-elephant-in-the-room-20180920/)
+* [Research Brief: Do images of the brain make us more likely to believe what we read?](https://twin-cities.umn.edu/news-events/research-brief-do-images-brain-make-us-more-likely-believe-what-we-read)
+
+# Gadgets
+
+* [NumWorks](https://www.numworks.com/specs/)
