@@ -84,6 +84,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [MODERN C++ FOR C PROGRAMMERS: PART 1](https://ds9a.nl/articles/posts/c++-1/) has [PART 5](https://ds9a.nl/articles/posts/cpp-5/) already.
 * [cs01/gdbgui](https://github.com/cs01/gdbgui/): Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 * [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines): The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++ 
+* [What’s the difference between an integer and a pointer?](https://blog.regehr.org/archives/1621) 
 
 #### KDE/Qt
 
@@ -157,6 +158,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Why use an FPGA instead of a CPU or GPU?](https://blog.esciencecenter.nl/why-use-an-fpga-instead-of-a-cpu-or-gpu-b234cd4f309c)
 * [NandGame](http://nandgame.com/): Build a computer from scratch. <- [Build a Fun CPU in Your Browser](https://hackaday.com/2018/08/20/build-a-fun-cpu-in-your-browser/)
 * [darkriscv](https://github.com/darklife/darkriscv): opensouce RISC-V implemented from scratch in one night! 
+* [The Zip CPU](https://github.com/ZipCPU/zipcpu): A small, light weight, RISC CPU soft core
 
 ### Eletronics
 
@@ -168,6 +170,8 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 ## Operating Systems
 
 * [User-space RCU](https://lwn.net/Articles/573424/)
+* [Incompatible Timesharing System](https://github.com/PDP-10/its): ITS, the Incompatible Timesharing System, is an operating system for the PDP-10 computer family. It was created by hackers at MIT in the 1960s. The MIT site was shut down in 1990, but enthusiasts continue to operate ITS systems to this day.
+* [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) 
 
 ### Memmory 
 
@@ -425,6 +429,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [tandem](https://github.com/typeintandem/tandem): Typing in Tandem. Decentralized, cross-editor, collaborative text-editing!
 * [Oni](https://github.com/onivim/oni): Modern Modal Editing - powered by Neovim
 * [pyodide](https://github.com/iodide-project/pyodide): The Python scientific stack, compiled to WebAssembly
+* [My journey into fractals](https://medium.com/@bananaft/my-journey-into-fractals-d25ebc6c4dc2)
 
 ## Fun
 
@@ -609,6 +614,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [BriteCore Applicant Manager](http://britecore-applicant-manager.s3-website-us-east-1.amazonaws.com/eliasoef02m0moqmczxkcppsv) and [ProductDevelopmentProject](https://github.com/IntuitiveWebSolutions/ProductDevelopmentProject)
 * [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills)
 * [System Administrator](https://gist.github.com/reyk/c534f207b28920d9a75e810d6553e688): Hands-on experience with OpenBSD and Linux administration.
+* [Crowd Hiring](https://writing.kemitchell.com/2018/09/21/Crowd-Hire.html): assurance contracts for short-term open software maintenance
 
 # Fun
 
@@ -637,6 +643,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [In Math Cram Sessions, Solving for Why - The New York Times](https://www.nytimes.com/2018/09/07/well/family/in-math-cram-sessions-solving-for-why.html)
 * [Machine Learning Confronts the Elephant in the Room | Quanta Magazine](https://www.quantamagazine.org/machine-learning-confronts-the-elephant-in-the-room-20180920/)
 * [Research Brief: Do images of the brain make us more likely to believe what we read?](https://twin-cities.umn.edu/news-events/research-brief-do-images-brain-make-us-more-likely-believe-what-we-read)
+* [A Proposed Alternative to Corporate Governance and the Theory of Shareholder Primacy](https://corpgov.law.harvard.edu/2018/09/12/a-proposed-alternative-to-corporate-governance-and-the-theory-of-shareholder-primacy/)
 
 # Gadgets
 
