@@ -56,6 +56,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Flow](https://github.com/facebook/flow): Adds static typing to JavaScript to improve developer productivity and code quality.
 * [Context Switching](http://artsy.github.io/blog/2018/08/10/On-Context-Switching/)
 * [Prettier](https://prettier.io/): Prettier is an opinionated code formatter
+* [Computer Systems](http://www.csapp.cs.cmu.edu): A Programmer's Perspective, 3/E (CS:APP3e)
 
 ### IDEs
 
@@ -90,6 +91,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [What’s the difference between an integer and a pointer?](https://blog.regehr.org/archives/1621) 
 * [Lifetime profile v1.0 posted](https://herbsutter.com/2018/09/20/lifetime-profile-v1-0-posted/) 
 * [FunctionSimSearch](https://github.com/googleprojectzero/functionsimsearch): Some C++ example code to demonstrate how to perform code similarity searches using SimHashing. 
+* Learn X in Y minutes: [Where X=c](https://learnxinyminutes.com/docs/c/)
 
 #### KDE/Qt
 
