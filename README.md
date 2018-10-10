@@ -40,6 +40,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [Prototool](https://github.com/uber/prototool): Your Swiss Army Knife for Protocol Buffers. 
 * [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
+* [Computer Networking](http://cnp3book.info.ucl.ac.be/): Principles, Protocols and Practice is an open-source ebook that explains the main principles of Computer Networking and the key protocols that are used on the Internet. 
 
 ## Programming
 
@@ -148,6 +149,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [python tutorials](https://nealcaren.github.io/python-tutorials/)
 * [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): All Algorithms implemented in Python
 * [Bowler](https://pybowler.io/): Safe code refactoring for modern Python
+* [wallaroo](https://github.com/WallarooLabs/wallaroo): Build and scale real-time data applications as easily as writing a Python script - by [wallaroo labs](https://www.wallaroolabs.com/)
 
 #### Presentations
 
@@ -180,6 +182,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [User-space RCU](https://lwn.net/Articles/573424/)
 * [Incompatible Timesharing System](https://github.com/PDP-10/its): ITS, the Incompatible Timesharing System, is an operating system for the PDP-10 computer family. It was created by hackers at MIT in the 1960s. The MIT site was shut down in 1990, but enthusiasts continue to operate ITS systems to this day.
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) 
+* [Realmode Assembly](https://0x00sec.org/t/realmode-assembly-writing-bootable-stuff-part-5/3667) - Writing bootable stuff
 
 ### Memmory 
 
@@ -241,6 +244,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [60_Days_RL_Challenge](https://github.com/andri27-ts/60_Days_RL_Challenge): Learn Deep Reinforcement Learning in depth in 60 days
 * [colorization-pytorch](https://github.com/richzhang/colorization-pytorch): PyTorch reimplementation of Interactive Deep Colorization
 * [Algorithmic Trading with ML & DL](https://gist.github.com/yhilpisch/b41d0e935128a65a611e87bcf3bff665)
+* [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition): The "Python Machine Learning (2nd edition)" book code repository and info resource 
 
 ### RNN
 
@@ -351,8 +355,6 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Data Science with Python: Intro to Data Visualization and Matplotlib](https://towardsdatascience.com/data-science-with-python-intro-to-data-visualization-and-matplotlib-5f799b7c6d82)
 * [Linear compression in python: PCA vs unsupervised feature selection – EFavDB](http://efavdb.com/unsupervised-feature-selection-in-python-with-linselect/)
 * [Data Carpentry](https://datacarpentry.org/) develops and teaches workshops on the fundamental data skills needed to conduct research.
-* [Building a dataset for the São Paulo Subway operation](https://towardsdatascience.com/building-a-dataset-for-the-são-paulo-subway-operation-2d8c5a430688)
-* [sp-subway-scraper](https://github.com/douglasnavarro/sp-subway-scraper): This web scraper builds a dataset for São Paulo subway operation status. [Dataset](https://drive.google.com/drive/folders/1vXVWAJHnpvW9UaNSybqdEPZ8EaXIVYGF)
 * (pt-br)[genero-ruas-mapa](https://github.com/bplmp/genero-ruas-mapa): Mapa interativo de gênero de ruas brasileiras usando vector tiles
 * (pt-br) [code:Nation](https://www.codenation.com.br/) Uma startup de Florianópolis, Santa Catarina, apaixonada por ajudar desenvolvedores de software a darem os próximos passos de suas jornadas em direção à carreira que desejam alcançar.
 * [Learning Python for Social Scientists](https://nealcaren.github.io/python-tutorials/)
@@ -364,6 +366,9 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [County_Level_Election_Results_12-16](https://github.com/tonmcg/County_Level_Election_Results_12-16): US president county-level election results for 2012 and 2016 
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch)
+* [Building a dataset for the São Paulo Subway operation](https://towardsdatascience.com/building-a-dataset-for-the-são-paulo-subway-operation-2d8c5a430688)
+* [sp-subway-scraper](https://github.com/douglasnavarro/sp-subway-scraper): This web scraper builds a dataset for São Paulo subway operation status. [Dataset](https://drive.google.com/drive/folders/1vXVWAJHnpvW9UaNSybqdEPZ8EaXIVYGF)
+* (pt-br)[Dados eleitorais do Brasil](https://jaironicolau.github.io/deb/)
 
 #### Luna
 
@@ -390,6 +395,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Blender-power-sequencer](https://github.com/GDquest/Blender-power-sequencer/): Video editing add-on for Blender 
 * [Pseudo-bandlimited pixel art filtering in 3D – a mathematical derivation](http://themaister.net/blog/2018/08/25/pseudo-bandlimited-pixel-art-filtering-in-3d-a-mathematical-derivation/) [github](https://github.com/Themaister/Granite)
 * [ImageMagick creates huge temporary files · Issue #395 · ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick/issues/395)
+* Introducing [dav1d](http://www.jbkempf.com/blog/post/2018/Introducing-dav1d): a new AV1 decoder
 
 ## Calculus
 
@@ -491,6 +497,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [A collection of Jupyter notebook explorations for NASA's Space Math examples.](https://github.com/dynamicwebpaige/spacemath)
 * [Just Another Day on Aerosol Earth](https://earthobservatory.nasa.gov/images/92654/just-another-day-on-aerosol-earth)
 * [Earth at Night](https://earthobservatory.nasa.gov/Features/NightLights)
+* [Where is Parker Solar Probe?](http://parkersolarprobe.jhuapl.edu/The-Mission/index.php#Where-Is-PSP)
 
 ## SpaceX
 
@@ -514,6 +521,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * Some [useful](https://github.com/Spacial/csstuff/blob/master/UsefulSites.md) on-line services.
 * Google [colab](https://colab.research.google.com/notebook)
 * [Memex](https://worldbrain.io/#) - your photographic memory for the web. Open-Source. Private. [repo](https://github.com/WorldBrain/Memex)
+* [Gist Good](https://github.com/graciano/gist-good): Organize and search your authored and starred gists.
 
 # Filesystems
 
@@ -559,6 +567,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [OpenStax](https://openstax.org/)
 * [What You Need to Know Before Considering a PhD](http://www.fast.ai/2018/08/27/grad-school/)
 * [Build a better Bookshelf](https://huytd.github.io/build-a-better-bookshelf.html)
+* [Sources of content for LingQ members](https://docs.google.com/spreadsheets/d/1b7AhbkgjgJ_DS_KNwcpNnUhIFzD52I2TyF5veaHWHiI/edit?hl=en&hl=en#gid=0): resources about a lot of languages. 
 
 ## Writing
 
@@ -660,6 +669,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [A Proposed Alternative to Corporate Governance and the Theory of Shareholder Primacy](https://corpgov.law.harvard.edu/2018/09/12/a-proposed-alternative-to-corporate-governance-and-the-theory-of-shareholder-primacy/)
 * [A Math Theory for Why People Hallucinate](https://www.quantamagazine.org/a-math-theory-for-why-people-hallucinate-20180730/)
 * [A Number Theorist Who Bridges Math and Time](https://www.quantamagazine.org/fields-medalist-akshay-venkatesh-bridges-math-and-time-20180801/)
+* [BrainNet](https://arxiv.org/abs/1809.08632): A Multi-Person Brain-to-Brain Interface for Direct Collaboration Between Brains
 
 # Gadgets
 
