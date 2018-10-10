@@ -36,11 +36,14 @@
  * [LaTeX for the humanities](https://www.overleaf.com/blog/636-guest-blog-post-latex-for-the-humanities#.WrUK3RRVXxQ.twitter)
 * [makecite](https://github.com/adrn/makecite): Generate latex + bibtex citation commands by looking at what packages are imported
 
-
 # Templates
 
 * [A minimal & modern LaTeX template for your (bachelor's | master's | doctoral) thesis](https://github.com/Submanifold/latex-mimosis)
 * [LaTeX files for the Deep Learning book notation](https://github.com/goodfeli/dlbook_notation)
+
+# Graphs
+
+* [TeX Live Database as Graph Database](https://www.preining.info/blog/2018/10/tex-live-database-as-graph-database/)
 
 # Resources
 
