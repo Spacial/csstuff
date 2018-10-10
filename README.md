@@ -20,6 +20,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Modern SAT solvers: fast, neat and underused (part 1 of N) — The Coding Nest](https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/)
 * Computer Science: [An Interdisciplinary Approach](https://introcs.cs.princeton.edu/java/home/)
 * [A Guide to Teaching Computing to Adults in Informal Settings](https://computinged.wordpress.com/2018/08/27/a-guide-to-teaching-computing-to-adults-in-informal-settings/) (and [here](http://teachtogether.tech/en/partner/))
+* [Platform Design](https://github.com/dcuartielles/platform-design) is the repository including the text created by D. Cuartielles for his doctoral dissertation published by Malmo University Press in 2018. 
 
 ## Data Structures
 
@@ -33,6 +34,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [litetree](https://github.com/aergoio/litetree): SQLite with Branches 
 * [lmdb-embeddings](https://github.com/ThoughtRiver/lmdb-embeddings): Fast word vectors with little memory usage in Python 
 * [litetree](https://github.com/aergoio/litetree): SQLite with Branches
+* [quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet): A quick reminder of all SQL queries and examples on how to use them. 
 
 ## Networks
 
@@ -86,6 +88,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines): The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++ 
 * [What’s the difference between an integer and a pointer?](https://blog.regehr.org/archives/1621) 
 * [Lifetime profile v1.0 posted](https://herbsutter.com/2018/09/20/lifetime-profile-v1-0-posted/) 
+* [FunctionSimSearch](https://github.com/googleprojectzero/functionsimsearch): Some C++ example code to demonstrate how to perform code similarity searches using SimHashing. 
 
 #### KDE/Qt
 
@@ -102,6 +105,8 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
  * [Go references](https://standupdev.com/wiki/doku.php?id=go_references)
 * Lisp:
  * [Ferret](https://github.com/nakkaya/ferret) is a free software lisp implementation for real time embedded control systems.
+* Perl:
+ * Larry Wall's [Very Own](http://www.wall.org/~larry/) Home Page
 * PHP:
  * [A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem](https://github.com/chiraggude/awesome-laravel)
 * Rust:
@@ -161,6 +166,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [NandGame](http://nandgame.com/): Build a computer from scratch. <- [Build a Fun CPU in Your Browser](https://hackaday.com/2018/08/20/build-a-fun-cpu-in-your-browser/)
 * [darkriscv](https://github.com/darklife/darkriscv): opensouce RISC-V implemented from scratch in one night! 
 * [The Zip CPU](https://github.com/ZipCPU/zipcpu): A small, light weight, RISC CPU soft core
+* [BubbleSort-ARM64](https://github.com/Billy-Ellis/BubbleSort-ARM64): Implementation of the BubbleSort algorithm written from scratch in ARM64 assembly 
 
 ### Eletronics
 
@@ -234,6 +240,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [frugally-deep](https://github.com/Dobiasd/frugally-deep): Header-only library for using Keras models in C++.
 * [60_Days_RL_Challenge](https://github.com/andri27-ts/60_Days_RL_Challenge): Learn Deep Reinforcement Learning in depth in 60 days
 * [colorization-pytorch](https://github.com/richzhang/colorization-pytorch): PyTorch reimplementation of Interactive Deep Colorization
+* [Algorithmic Trading with ML & DL](https://gist.github.com/yhilpisch/b41d0e935128a65a611e87bcf3bff665)
 
 ### RNN
 
@@ -351,6 +358,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Learning Python for Social Scientists](https://nealcaren.github.io/python-tutorials/)
 * [How well does population density predict U.S. voting outcomes?](https://beta.observablehq.com/@jake-low/how-well-does-population-density-predict-u-s-voting-outcome)
 * [jupytext](https://github.com/mwouts/jupytext): Jupyter notebooks as Markdown documents, Julia, Python or R scripts
+* [ferret](https://github.com/MontFerret/ferret): Declarative web scraping 
 
 #### Datasets
 
@@ -471,6 +479,9 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
   * [A study of likeness: The solar twin 18 Sco and the Sun](https://docs.wixstatic.com/ugd/db5c77_92c10a6f92324e798387d2b117028de0.pdf)
   * [18 Scorpii](https://pt.wikipedia.org/wiki/18_Scorpii)
 * [How to draw a Black Hole](http://rantonels.github.io/starless/)
+* Novo show de planetário: [O Sol, a Nossa Estrela Viva](https://www.eso.org/public/brazil/announcements/ann18064/)
+* [Livrinhos](http://www.tuimp.org/booklets/index/lang:pt)
+* [Software makes science better, but is it research?](https://figshare.com/articles/Software_makes_science_better_but_is_it_research_DotAstonomy_X_Presentation/7127723)
 
 ## NASA
 
@@ -602,6 +613,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [The end of an error?](https://www.the-tls.co.uk/articles/public/the-end-of-an-error-peer-review/)
 * [telepost](https://telepost.io/):Grow your Telegram channel generating a blog from it
 * [pbspro](https://github.com/pbspro/pbspro): An HPC workload manager and job scheduler for desktops, clusters, and clouds.
+* (pt-br) [Lista Maravilhosa de Projetos Open-Source](https://github.com/camilatigre/listamaravilhosaopensource): Lista com links de projetos open-source para os níveis: iniciante, intermediário e avançado. Dividido por linguagem e idiomas!
 
 ## Jobs
 
@@ -646,6 +658,8 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Machine Learning Confronts the Elephant in the Room | Quanta Magazine](https://www.quantamagazine.org/machine-learning-confronts-the-elephant-in-the-room-20180920/)
 * [Research Brief: Do images of the brain make us more likely to believe what we read?](https://twin-cities.umn.edu/news-events/research-brief-do-images-brain-make-us-more-likely-believe-what-we-read)
 * [A Proposed Alternative to Corporate Governance and the Theory of Shareholder Primacy](https://corpgov.law.harvard.edu/2018/09/12/a-proposed-alternative-to-corporate-governance-and-the-theory-of-shareholder-primacy/)
+* [A Math Theory for Why People Hallucinate](https://www.quantamagazine.org/a-math-theory-for-why-people-hallucinate-20180730/)
+* [A Number Theorist Who Bridges Math and Time](https://www.quantamagazine.org/fields-medalist-akshay-venkatesh-bridges-math-and-time-20180801/)
 
 # Gadgets
 
