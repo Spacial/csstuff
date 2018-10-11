@@ -92,6 +92,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Lifetime profile v1.0 posted](https://herbsutter.com/2018/09/20/lifetime-profile-v1-0-posted/) 
 * [FunctionSimSearch](https://github.com/googleprojectzero/functionsimsearch): Some C++ example code to demonstrate how to perform code similarity searches using SimHashing. 
 * Learn X in Y minutes: [Where X=c](https://learnxinyminutes.com/docs/c/)
+* [Projeto de Algoritmos (em C)](https://www.ime.usp.br/~pf/algoritmos/): Paulo Feofiloff
 
 #### KDE/Qt
 
