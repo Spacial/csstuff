@@ -12,6 +12,7 @@
 # Tables
 
 * [LaTeX Table Generator](https://www.tablesgenerator.com/)
+* [Wide figure/table in a twocolumn/multi-column document – texblog](https://texblog.org/2012/07/30/single-column-figuretable-in-a-two-multi-column-environment/)
 
 # Math
 
@@ -35,6 +36,7 @@
  * [Automatic Acronym List in LaTeX](https://www.overleaf.com/latex/examples/automatic-acronym-list-in-latex/dzvxfzpsjrmm#.WQSGfYFv-Ef)
  * [LaTeX for the humanities](https://www.overleaf.com/blog/636-guest-blog-post-latex-for-the-humanities#.WrUK3RRVXxQ.twitter)
 * [makecite](https://github.com/adrn/makecite): Generate latex + bibtex citation commands by looking at what packages are imported
+* [TinyTeX](https://yihui.name/tinytex/): A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live - Yihui Xie | 谢益辉
 
 # Templates
 
