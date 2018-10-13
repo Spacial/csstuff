@@ -25,6 +25,8 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 ## Data Structures
 
 * [Data Structures for Coding Interviews](https://www.interviewcake.com/article/python/data-structures-coding-interview)
+* [Masstree](https://www.the-paper-trail.org/post/masstree-paper-notes/): A cache-friendly mashup of tries and B-trees
+* [Columnstore and B+ tree](https://blog.acolyer.org/2018/09/28/columnstore-and-b-tree-are-hybrid-physical-designs-important/)– are hybrid physical designs important?
 
 ## Databases
 
@@ -35,6 +37,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [lmdb-embeddings](https://github.com/ThoughtRiver/lmdb-embeddings): Fast word vectors with little memory usage in Python 
 * [litetree](https://github.com/aergoio/litetree): SQLite with Branches
 * [quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet): A quick reminder of all SQL queries and examples on how to use them. 
+* [Optimizing BigQuery](https://medium.com/google-cloud/bigquery-optimized-cluster-your-tables-65e2f684594b): Cluster your tables – Google Cloud Platform
 
 ## Networks
 
@@ -57,6 +60,9 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Context Switching](http://artsy.github.io/blog/2018/08/10/On-Context-Switching/)
 * [Prettier](https://prettier.io/): Prettier is an opinionated code formatter
 * [Computer Systems](http://www.csapp.cs.cmu.edu): A Programmer's Perspective, 3/E (CS:APP3e)
+* [TechYaks](https://techyaks.com/)
+* [23 guidelines for writing readable code](https://alemil.com/guidelines-for-writing-readable-code)
+* [What is Systems Programming, Really?](http://willcrichton.net/notes/systems-programming/): Will Crichton
 
 ### IDEs
 
@@ -115,6 +121,8 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
  * [A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem](https://github.com/chiraggude/awesome-laravel)
 * Rust:
  * [Awesome Rust](https://github.com/rust-unofficial/awesome-rust): A curated list of Rust code and resources.
+* [How to visualize decision trees](http://explained.ai/decision-tree-viz/index.html)
+* [dafny](https://github.com/Microsoft/dafny): Dafny is a verification-aware programming language
 
 ### Version Control
 
@@ -127,6 +135,11 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
   * [husky](https://github.com/typicode/husky): Git hooks made easy 
   * [lint-staged](https://github.com/okonet/lint-staged): Run linters on git staged files 
   * 6 [Github](https://www.cyberciti.biz/open-source/github-alternatives-open-source-seflt-hosted/) alternatives that are open source and self-hosted
+  * [Git Submodules vs Git Subtrees](https://codewinsarguments.co/2016/05/01/git-submodules-vs-git-subtrees/) | Code Wins Arguments
+  * Sublime Merge:[Git, done Sublime](https://www.sublimemerge.com/)
+  * [Git Cheatsheet](https://ndpsoftware.com/git-cheatsheet.html#loc=workspace;)
+  * [gitx](https://github.com/codebasesaga/GitX): GitX‐modded
+  * (pt-br) [git](http://rogerdudler.github.io/git-guide/index.pt_BR.html): guia prático - sem complicação!
 * **Mercurial**:
   * [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos. 
 
@@ -153,6 +166,9 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): All Algorithms implemented in Python
 * [Bowler](https://pybowler.io/): Safe code refactoring for modern Python
 * [wallaroo](https://github.com/WallarooLabs/wallaroo): Build and scale real-time data applications as easily as writing a Python script - by [wallaroo labs](https://www.wallaroolabs.com/)
+* Free Educational eBook: [Learn How To Program in Python 3](https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python)
+* [Python Tools for Visual Studio](http://microsoft.github.io/PTVS/)
+* [Asterisks in Python: what they are and how to use them](http://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/)
 
 #### Presentations
 
@@ -172,6 +188,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [darkriscv](https://github.com/darklife/darkriscv): opensouce RISC-V implemented from scratch in one night! 
 * [The Zip CPU](https://github.com/ZipCPU/zipcpu): A small, light weight, RISC CPU soft core
 * [BubbleSort-ARM64](https://github.com/Billy-Ellis/BubbleSort-ARM64): Implementation of the BubbleSort algorithm written from scratch in ARM64 assembly 
+* Department of Computer Science and Technology: [Capability Hardware Enhanced RISC Instructions (CHERI)](https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/)
 
 ### Eletronics
 
@@ -186,6 +203,11 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Incompatible Timesharing System](https://github.com/PDP-10/its): ITS, the Incompatible Timesharing System, is an operating system for the PDP-10 computer family. It was created by hackers at MIT in the 1960s. The MIT site was shut down in 1990, but enthusiasts continue to operate ITS systems to this day.
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) 
 * [Realmode Assembly](https://0x00sec.org/t/realmode-assembly-writing-bootable-stuff-part-5/3667) - Writing bootable stuff
+* [MS-DOS](https://github.com/Microsoft/MS-DOS): The original sources of MS-DOS 1.25 and 2.0, for reference purposes
+* [Operating Systems](http://pages.cs.wisc.edu/~remzi/OSTEP/): Three Easy Pieces
+* [How Does an Intel Processor Boot?](https://binarydebt.wordpress.com/2018/10/06/how-does-an-x86-processor-boot/)
+* [interim](https://github.com/mntmn/interim): The Interim Operating System
+* [OpenBSD's unveil()](https://lwn.net/Articles/767137/)
 
 ### Memmory 
 
@@ -248,6 +270,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [colorization-pytorch](https://github.com/richzhang/colorization-pytorch): PyTorch reimplementation of Interactive Deep Colorization
 * [Algorithmic Trading with ML & DL](https://gist.github.com/yhilpisch/b41d0e935128a65a611e87bcf3bff665)
 * [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition): The "Python Machine Learning (2nd edition)" book code repository and info resource 
+* [hacking_slot_machines](https://github.com/tensor8/hacking_slot_machines)
 
 ### RNN
 
@@ -269,6 +292,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [GesturesGAN](https://github.com/Ha0Tang/GestureGAN)
 * [Analyze a Soccer Game Using Tensorflow Object Detection and OpenCV](https://opendatascience.com/analyze-a-soccer-game-using-tensorflow-object-detection-and-opencv/) - Open Data Science - Your News Source for AI, Machine Learning & more
 * [soccer_realtime.ipynb](https://github.com/priya-dwivedi/Deep-Learning/blob/master/soccer_team_prediction/soccer_realtime.ipynb) · priya-dwivedi/Deep-Learning
+* [reconhecimento-expressao-facial-debate](https://github.com/estadao/reconhecimento-expressao-facial-debate): Código para a matéria que analisa as expressões faciais dos candidatos à Presidência de 2018 durante o debate realizado na TV Gazeta
 
 #### Python
 
@@ -300,6 +324,9 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Nonlinear Dynamics and Chaos](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V&app=desktop) - Steven Strogatz, Cornell University
 * [1 million prime UMAP layout](https://gist.github.com/johnhw/dfc7b8b8519aac530ac97da226c17bd5)
 * [A First Course in Differential Equations for Scientists and Engineers](http://people.uncw.edu/hermanr/mat361/ODEBook/) by Dr. R. L. Herman
+* [Uncovering multiscale order in the prime numbers via scattering](http://iopscience.iop.org/article/10.1088/1742-5468/aad6be/meta) - IOPscience
+* [SageMath](https://www.sagemath.org/): Open-Source Mathematical Software System
+* [Trigonoparty!](https://ramesaliyev.com/trigonoparty/)
 
 ## Theorems
 
@@ -364,6 +391,8 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [How well does population density predict U.S. voting outcomes?](https://beta.observablehq.com/@jake-low/how-well-does-population-density-predict-u-s-voting-outcome)
 * [jupytext](https://github.com/mwouts/jupytext): Jupyter notebooks as Markdown documents, Julia, Python or R scripts
 * [ferret](https://github.com/MontFerret/ferret): Declarative web scraping 
+* [Redash helps you make sense of your data](https://redash.io/)
+* [spyder](https://github.com/spyder-ide/spyder): Official repository for Spyder - The Scientific Python Development Environment
 
 #### Datasets
 
@@ -399,6 +428,8 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Pseudo-bandlimited pixel art filtering in 3D – a mathematical derivation](http://themaister.net/blog/2018/08/25/pseudo-bandlimited-pixel-art-filtering-in-3d-a-mathematical-derivation/) [github](https://github.com/Themaister/Granite)
 * [ImageMagick creates huge temporary files · Issue #395 · ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick/issues/395)
 * Introducing [dav1d](http://www.jbkempf.com/blog/post/2018/Introducing-dav1d): a new AV1 decoder
+* [Nvidia drivers on Linux are trash!](https://nvidialinuxdriversaretrash.github.io/)
+* [Consistently Beautiful Visualizations with Altair Themes](https://towardsdatascience.com/consistently-beautiful-visualizations-with-altair-themes-c7f9f889602)
 
 ## Calculus
 
@@ -449,6 +480,9 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Oni](https://github.com/onivim/oni): Modern Modal Editing - powered by Neovim
 * [pyodide](https://github.com/iodide-project/pyodide): The Python scientific stack, compiled to WebAssembly
 * [My journey into fractals](https://medium.com/@bananaft/my-journey-into-fractals-d25ebc6c4dc2)
+* [vscodium](https://github.com/VSCodium/vscodium): binary releases of VS Code without MS branding/telemetry/licensing
+* [sourcegraph](https://github.com/sourcegraph/sourcegraph): Code search and intelligence, self-hosted and scalable
+* [trigonoparty](https://github.com/ramesaliyev/trigonoparty): Simple Trigonometry Visualisation with Pure JavaScript.
 
 ## Fun
 
@@ -467,6 +501,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [A Mathematician's Secret: We're Not All Geniuses](https://www.bloomberg.com/view/articles/2017-06-07/a-mathematician-s-secret-we-re-not-all-geniuses)
 * [Quantum Mechanics without the maths or philosophy](http://www.articlesbyaphysicist.com/quantummechanics1.html)
+* [cheatsheet-translation](https://github.com/shervinea/cheatsheet-translation): Translation of VIP cheatsheets
 
 # Physics
 
@@ -518,11 +553,12 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [IRIS: mww8.2 Fiji Islands Region](http://ds.iris.edu/ds/nodes/dmc/tools/event/10937540)
 * [S2Geometry](http://s2geometry.io/): S2 is a library for spherical geometry that aims to have the same robustness, flexibility, and performance as the very best planar geometry libraries [github](https://github.com/google/s2geometry).
+* [Advice From a Geographer](https://undark.org/article/book-review-bonnett-beyond-the-map/): Put Away the Map
 
 ## On-line Services
 
 * Some [useful](https://github.com/Spacial/csstuff/blob/master/UsefulSites.md) on-line services.
-* Google [colab](https://colab.research.google.com/notebook)
+* Google [colab](https://colab.research.google.com/notebook) and [Cloud Source](https://source.cloud.google.com/onboarding/welcome)
 * [Memex](https://worldbrain.io/#) - your photographic memory for the web. Open-Source. Private. [repo](https://github.com/WorldBrain/Memex)
 * [Gist Good](https://github.com/graciano/gist-good): Organize and search your authored and starred gists.
 
@@ -545,6 +581,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Filament](https://google.github.io/filament/Filament.md.html): Filament is a physically based rendering (PBR) engine for Android. 
 * [svgs2ttf](https://github.com/pteromys/svgs2ttf): Bundle SVG images into a TTF via FontForge. 
 * [Field Play](https://anvaka.github.io/fieldplay/?cx=7.5099&cy=0.05370000000000008&w=8.5428&h=8.5428&dt=0.01&fo=0.998&dp=0.009&cm=1)
+* [Linux Find Out Video Card GPU Memory RAM Size Using Command Line](https://www.cyberciti.biz/faq/howto-find-linux-vga-video-card-ram/)
 
 ## Games
 
@@ -571,6 +608,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [What You Need to Know Before Considering a PhD](http://www.fast.ai/2018/08/27/grad-school/)
 * [Build a better Bookshelf](https://huytd.github.io/build-a-better-bookshelf.html)
 * [Sources of content for LingQ members](https://docs.google.com/spreadsheets/d/1b7AhbkgjgJ_DS_KNwcpNnUhIFzD52I2TyF5veaHWHiI/edit?hl=en&hl=en#gid=0): resources about a lot of languages. 
+* [Why We Need More Than 'Learn At Your Own Pace'](https://blog.brainstation.io/why-we-need-more-than-learn-at-your-own-pace/)
 
 ## Writing
 
@@ -592,6 +630,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * guardian [frontend](https://github.com/guardian/frontend): Source for theguardian.com
 * [proven](https://github.com/dschep/proven): An alternative to Twitter's verified accounts powered by Keybase. 
 * [umbrella](https://github.com/thi-ng/umbrella): ⛱ Mono-repository of ~50 TypeScript/ES6 projects for modern web development
+* [FreshRSS](https://github.com/FreshRSS/FreshRSS): A free, self-hostable aggregator…
 
 # Privacy
 
@@ -613,7 +652,8 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
   * The Essential Turing - by Alan Turing
   * The Postmodern Condition - by Jean-Francois Lyotard
  * [where](https://whereisscihub.herokuapp.com/) is Sci-Hub?
-* [Was Wittgenstein Right? - The New York Times](https://opinionator.blogs.nytimes.com/2013/03/03/was-wittgenstein-right/)
+* [Was Wittgenstein Right?](https://opinionator.blogs.nytimes.com/2013/03/03/was-wittgenstein-right/) - The New York Times
+* [The Right to Read](https://www.gnu.org/philosophy/right-to-read.en.html): GNU Project - Free Software Foundation
 
 # General
 
@@ -626,6 +666,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [telepost](https://telepost.io/):Grow your Telegram channel generating a blog from it
 * [pbspro](https://github.com/pbspro/pbspro): An HPC workload manager and job scheduler for desktops, clusters, and clouds.
 * (pt-br) [Lista Maravilhosa de Projetos Open-Source](https://github.com/camilatigre/listamaravilhosaopensource): Lista com links de projetos open-source para os níveis: iniciante, intermediário e avançado. Dividido por linguagem e idiomas!
+* [ghuser.io](https://github.com/ghuser-io/ghuser.io): Better GitHub profiles
 
 ## Jobs
 
@@ -652,6 +693,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Zachtronics | EXAPUNKS](http://www.zachtronics.com/exapunks/)
 * [The short history of the "about:" URL](http://www.montulli.org/lou/about_urls)
 * [smelvetica](https://github.com/tholman/smelvetica#how-do-i-install-it): Smelvetica is Helvetica for your best friends, or your worst enemies.
+* [ghuser.io](https://ghuser.io/AurelienLourot)- Better GitHub profiles
 
 # News
 
@@ -673,7 +715,20 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [A Math Theory for Why People Hallucinate](https://www.quantamagazine.org/a-math-theory-for-why-people-hallucinate-20180730/)
 * [A Number Theorist Who Bridges Math and Time](https://www.quantamagazine.org/fields-medalist-akshay-venkatesh-bridges-math-and-time-20180801/)
 * [BrainNet](https://arxiv.org/abs/1809.08632): A Multi-Person Brain-to-Brain Interface for Direct Collaboration Between Brains
+* [In Math Cram Sessions, Solving for Why](https://www.nytimes.com/2018/09/07/well/family/in-math-cram-sessions-solving-for-why.html)
+* [Machine Learning Confronts the Elephant in the Room | Quanta Magazine](https://www.quantamagazine.org/machine-learning-confronts-the-elephant-in-the-room-20180920/)
+* [Octopuses given mood drug 'ecstasy' reveal genetic link to evolution of social behaviors in humans](https://phys.org/news/2018-09-octopuses-mood-drug-ecstasy-reveal.html)
+* [Research Brief: Do images of the brain make us more likely to believe what we read? | University of Minnesota Twin Cities](https://twin-cities.umn.edu/news-events/research-brief-do-images-brain-make-us-more-likely-believe-what-we-read)
+* [The Last of the Universe’s Ordinary Matter Has Been Found](https://www.quantamagazine.org/the-last-of-the-universes-ordinary-matter-has-been-found-20180910/) | Quanta Magazine
+* [Interplanetary-Postal-Service](https://github.com/s-macke/Interplanetary-Postal-Service/): Lunar lander type game with computational fluid dynamics
+* [Economics Nobel laureate Paul Romer is a Python programming convert](https://qz.com/1417145/economics-nobel-laureate-paul-romer-is-a-python-programming-convert/)
+* [Arthur C Clarke - Fractals - The Colors Of Infinity - YouTube](https://www.youtube.com/watch?v=Lk6QU94xAb8)
+* [In Search of a Better World: Karl Popper on Truth vs. Certainty and the Dangers of Relativism – Brain Pickings](https://www.brainpickings.org/2017/01/26/karl-popper-in-search-of-a-better-world-truth-certainty/)
+* [Interstellar Comet ’Oumuamua Might Not Actually Be a Comet | Quanta Magazine](https://www.quantamagazine.org/interstellar-comet-oumuamua-might-not-actually-be-a-comet-20181010/)
+* [Welcome to the Drone Valley - SWI swissinfo.ch](https://www.swissinfo.ch/eng/sci-tech/swiss-innovation_welcome-to-the-drone-valley/44375836)
+* [The secret intellectual history of mathematics | Aeon Essays](https://aeon.co/essays/the-secret-intellectual-history-of-mathematics)
 
 # Gadgets
 
 * [NumWorks](https://www.numworks.com/specs/)
+* [It's an Anker Charging Party In Today's Amazon Gold Box, Including USB-C Gear](https://kinjadeals.theinventory.com/its-an-anker-charging-party-in-todays-amazon-gold-box-1829208785)
