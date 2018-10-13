@@ -38,6 +38,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [litetree](https://github.com/aergoio/litetree): SQLite with Branches
 * [quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet): A quick reminder of all SQL queries and examples on how to use them. 
 * [Optimizing BigQuery](https://medium.com/google-cloud/bigquery-optimized-cluster-your-tables-65e2f684594b): Cluster your tables – Google Cloud Platform
+* [pgFormatter](https://github.com/darold/pgFormatter): A PostgreSQL SQL syntax beautifier that can work as a console program or as a CGI. On-line demo [site](http://sqlformat.darold.net/)
 
 ## Networks
 
@@ -121,6 +122,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
  * [A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem](https://github.com/chiraggude/awesome-laravel)
 * Rust:
  * [Awesome Rust](https://github.com/rust-unofficial/awesome-rust): A curated list of Rust code and resources.
+ * [PortingCToRust](https://wiki.alopex.li/PortingCToRust)
 * [How to visualize decision trees](http://explained.ai/decision-tree-viz/index.html)
 * [dafny](https://github.com/Microsoft/dafny): Dafny is a verification-aware programming language
 
@@ -208,6 +210,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [How Does an Intel Processor Boot?](https://binarydebt.wordpress.com/2018/10/06/how-does-an-x86-processor-boot/)
 * [interim](https://github.com/mntmn/interim): The Interim Operating System
 * [OpenBSD's unveil()](https://lwn.net/Articles/767137/)
+* [Realmode Assembly](https://0x00sec.org/t/realmode-assembly-writing-bootable-stuff-part-7/8798) - Writing bootable stuff - Part 7 - Programming - 0x00sec - The Home of the Hacker
 
 ### Memmory 
 
@@ -228,6 +231,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [CharmPy](https://charmpy.readthedocs.io/en/latest/) is a high-level parallel and distributed programming framework with a simple and powerful API, based on migratable Python objects and remote method invocation; built on top of an adaptive C/C++ runtime system providing speed, scalability and dynamic load balancing.
 * [FASTER](https://github.com/Microsoft/FASTER): Fast key-value store from Microsoft Research 
 * [porcupine](https://github.com/anishathalye/porcupine/): A fast linearizability checker written in Go
+* [DrTLAPlus](https://github.com/tlaplus/DrTLAPlus/):  learn an algorithm and protocol, study a specification
 
 ## Pattern Recognition
 
@@ -242,6 +246,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [Industrial-strength Natural Language Processing (NLP) with Python and Cython ](https://github.com/explosion/spaCy/)
 * [Understanding word vectors](https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469)
+* [allennlp](https://github.com/allenai/allennlp): An open-source NLP research library, built on PyTorch.
 
 ### Machine Learning
 
@@ -368,6 +373,8 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [termgraph](https://github.com/mkaz/termgraph): a python command-line tool which draws basic graphs in the terminal 
 * [Markov Chains](http://setosa.io/ev/markov-chains/): Explained Visually
 * [imager](https://dahtah.github.io/imager/imager.html): an R package for image processing
+* [arviz](https://github.com/arviz-devs/arviz): Python package to plot and analyse samples from probabilistic models
+* [anomaly detection](https://github.com/shubhomoydas/ad_examples): A collection of popular anomaly detection methods (iid/point-based and time series) including active learning for anomaly detection/discovery, description for diversity/explanation/interpretability. With a deeper analysis of incorporating label feedback with ensemble and tree-based detectors. Includes results-plots and illustrations for most approaches covered.
 
 ### Data Science
 
@@ -401,6 +408,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Building a dataset for the São Paulo Subway operation](https://towardsdatascience.com/building-a-dataset-for-the-são-paulo-subway-operation-2d8c5a430688)
 * [sp-subway-scraper](https://github.com/douglasnavarro/sp-subway-scraper): This web scraper builds a dataset for São Paulo subway operation status. [Dataset](https://drive.google.com/drive/folders/1vXVWAJHnpvW9UaNSybqdEPZ8EaXIVYGF)
 * (pt-br)[Dados eleitorais do Brasil](https://jaironicolau.github.io/deb/)
+* [CSV 1.1 ](https://csv11.github.io/) : Comma Separated (Named) Values, Version: 1.1
 
 #### Luna
 
@@ -631,6 +639,9 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [proven](https://github.com/dschep/proven): An alternative to Twitter's verified accounts powered by Keybase. 
 * [umbrella](https://github.com/thi-ng/umbrella): ⛱ Mono-repository of ~50 TypeScript/ES6 projects for modern web development
 * [FreshRSS](https://github.com/FreshRSS/FreshRSS): A free, self-hostable aggregator…
+* [molten API](https://moltenframework.com/v0.5.2/index.html): modern API framework — molten 0.6.0 documentation
+* [molten](https://github.com/Bogdanp/molten/): A minimal, extensible, fast and productive framework for building HTTP APIs with Python 3.6 and later.
+* [walt](https://github.com/ballercat/walt): Walt is a JavaScript-like syntax for WebAssembly text format
 
 # Privacy
 
@@ -682,6 +693,9 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills)
 * [System Administrator](https://gist.github.com/reyk/c534f207b28920d9a75e810d6553e688): Hands-on experience with OpenBSD and Linux administration.
 * [Crowd Hiring](https://writing.kemitchell.com/2018/09/21/Crowd-Hire.html): assurance contracts for short-term open software maintenance
+* [Ask HN: Who is hiring?](https://news.ycombinator.com/item?id=18113144)(October 2018)
+* [mirr](https://github.com/mzbat/mirr): This is the repository for the Mock Interview and Resume Review Workshop established at Derby Con 2015.
+* [Python Writer](https://docs.google.com/document/d/14uE_d4mU00gLJSZRrk0vSIWYi2BjcxD5oRJgGEEDdxU/) @ OneMonth.com - Documentos Google
 
 # Fun
 
