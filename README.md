@@ -401,6 +401,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [ferret](https://github.com/MontFerret/ferret): Declarative web scraping 
 * [Redash helps you make sense of your data](https://redash.io/)
 * [spyder](https://github.com/spyder-ide/spyder): Official repository for Spyder - The Scientific Python Development Environment
+* [RAPIDS](http://rapids.ai): Open GPU Data Science. The RAPIDS suite of software libraries gives you the freedom to execute end-to-end data science and analytics pipelines entirely on GPUs. It relies on NVIDIA® CUDA® primitives for low-level compute optimization, but exposes that GPU parallelism and high-bandwidth memory speed through user-friendly Python interfaces. [cuml](https://github.com/rapidsai/cuml) - RAPIDS Machine Learning Library.
 
 #### Datasets
 
@@ -743,6 +744,8 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Interstellar Comet ’Oumuamua Might Not Actually Be a Comet | Quanta Magazine](https://www.quantamagazine.org/interstellar-comet-oumuamua-might-not-actually-be-a-comet-20181010/)
 * [Welcome to the Drone Valley - SWI swissinfo.ch](https://www.swissinfo.ch/eng/sci-tech/swiss-innovation_welcome-to-the-drone-valley/44375836)
 * [The secret intellectual history of mathematics | Aeon Essays](https://aeon.co/essays/the-secret-intellectual-history-of-mathematics)
+* [Mathematicians confirm the possibility of data transfer via gravitational waves](https://phys.org/news/2018-10-mathematicians-possibility-gravitational.html)
+* [This Is The Real Reason We Haven’t Directly Detected Dark Matter](https://medium.com/starts-with-a-bang/this-is-the-real-reason-we-havent-directly-detected-dark-matter-3d04021b314e)
 
 # Gadgets
 
