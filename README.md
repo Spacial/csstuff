@@ -276,6 +276,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Algorithmic Trading with ML & DL](https://gist.github.com/yhilpisch/b41d0e935128a65a611e87bcf3bff665)
 * [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition): The "Python Machine Learning (2nd edition)" book code repository and info resource 
 * [hacking_slot_machines](https://github.com/tensor8/hacking_slot_machines)
+* [TensorFlow-Course](https://github.com/open-source-for-science/TensorFlow-Course): Simple and ready-to-use tutorials for TensorFlow
 
 ### RNN
 
@@ -617,6 +618,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Build a better Bookshelf](https://huytd.github.io/build-a-better-bookshelf.html)
 * [Sources of content for LingQ members](https://docs.google.com/spreadsheets/d/1b7AhbkgjgJ_DS_KNwcpNnUhIFzD52I2TyF5veaHWHiI/edit?hl=en&hl=en#gid=0): resources about a lot of languages. 
 * [Why We Need More Than 'Learn At Your Own Pace'](https://blog.brainstation.io/why-we-need-more-than-learn-at-your-own-pace/)
+* [Pinker Book Recommendations](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDca1iI1GgcMwBl65XRvJaAnZOv6sCjmAamy_7cioVMV4U_VnBksgZrIKTe5P4aneEXtion1ZA7iPe/pubhtml#)
 
 ## Writing
 
