@@ -21,6 +21,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * Computer Science: [An Interdisciplinary Approach](https://introcs.cs.princeton.edu/java/home/)
 * [A Guide to Teaching Computing to Adults in Informal Settings](https://computinged.wordpress.com/2018/08/27/a-guide-to-teaching-computing-to-adults-in-informal-settings/) (and [here](http://teachtogether.tech/en/partner/))
 * [Platform Design](https://github.com/dcuartielles/platform-design) is the repository including the text created by D. Cuartielles for his doctoral dissertation published by Malmo University Press in 2018. 
+* [z3](https://github.com/Z3Prover/z3): The Z3 Theorem Prover 
 
 ## Data Structures
 
@@ -277,6 +278,8 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition): The "Python Machine Learning (2nd edition)" book code repository and info resource 
 * [hacking_slot_machines](https://github.com/tensor8/hacking_slot_machines)
 * [TensorFlow-Course](https://github.com/open-source-for-science/TensorFlow-Course): Simple and ready-to-use tutorials for TensorFlow
+* [lip reading](https://github.com/astorfi/lip-reading-deeplearning): Cross Audio-Visual Recognition using 3D Architectures 
+* [pija](https://github.com/mattaereal/pija): Pornographic Images Jacking Algorithm 
 
 ### RNN
 
