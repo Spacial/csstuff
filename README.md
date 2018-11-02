@@ -1,18 +1,22 @@
 # Computer Science Stuff
 
-Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 * **TheoryOfComputation** : Some resources about the topic (tex files and JFLAP files).
 * **Algorithms** : Some stuff about design, analisys and general in algorithms science.
 
-# Research
+---
+
+## Research
 
 * [The Practice of Reproducible Research](https://www.practicereproducibleresearch.org/)
 * [A toolkit for data transparency takes shape](https://www.nature.com/articles/d41586-018-05990-5) and [Developing a modern data workflow for living data](https://www.biorxiv.org/content/early/2018/06/12/344804)
 * [PortalData](https://github.com/weecology/PortalData) (Official Repo of the Portal Project Data) and [livedat](https://github.com/weecology/livedat) (Template for living data workflow ).
 * [Academic Torrents](http://academictorrents.com/): We've designed a distributed system for sharing enormous datasets - for researchers, by researchers. The result is a scalable, secure, and fault-tolerant repository for data, with blazing fast download speeds.
 
-# Computer Science general
+---
+
+## Computer Science general
 
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 * [Great Theoretical Ideas in Computer Science](http://www.cs.cmu.edu/~aada/courses/15251f15/www/schedule.html)
@@ -23,13 +27,13 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Platform Design](https://github.com/dcuartielles/platform-design) is the repository including the text created by D. Cuartielles for his doctoral dissertation published by Malmo University Press in 2018. 
 * [z3](https://github.com/Z3Prover/z3): The Z3 Theorem Prover 
 
-## Data Structures
+### Data Structures
 
 * [Data Structures for Coding Interviews](https://www.interviewcake.com/article/python/data-structures-coding-interview)
 * [Masstree](https://www.the-paper-trail.org/post/masstree-paper-notes/): A cache-friendly mashup of tries and B-trees
 * [Columnstore and B+ tree](https://blog.acolyer.org/2018/09/28/columnstore-and-b-tree-are-hybrid-physical-designs-important/)– are hybrid physical designs important?
 
-## Databases
+### Databases
 
 * [Readings in Database Systems](http://www.redbook.io)
 * [tkvdb](https://github.com/vmxdev/tkvdb): Trie key-value database
@@ -41,13 +45,15 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Optimizing BigQuery](https://medium.com/google-cloud/bigquery-optimized-cluster-your-tables-65e2f684594b): Cluster your tables – Google Cloud Platform
 * [pgFormatter](https://github.com/darold/pgFormatter): A PostgreSQL SQL syntax beautifier that can work as a console program or as a CGI. On-line demo [site](http://sqlformat.darold.net/)
 
-## Networks
+### Networks
 
 * [Prototool](https://github.com/uber/prototool): Your Swiss Army Knife for Protocol Buffers. 
 * [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
 * [Computer Networking](http://cnp3book.info.ucl.ac.be/): Principles, Protocols and Practice is an open-source ebook that explains the main principles of Computer Networking and the key protocols that are used on the Internet. 
 
-## Programming
+---
+
+### Programming
 
 * (pt-br) A [análise de algoritmos](https://www.ime.usp.br/~pf/analise_de_algoritmos/) estuda a correção e o desempenho de algoritmos.
 * (pt-br) [Como aprender qualquer linguagem de programação (em 4 slides)](https://speakerdeck.com/ramalho/como-aprender-qualquer-linguagem-de-programacao-em-4-slides)
@@ -66,26 +72,27 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [23 guidelines for writing readable code](https://alemil.com/guidelines-for-writing-readable-code)
 * [What is Systems Programming, Really?](http://willcrichton.net/notes/systems-programming/): Will Crichton
 
-### IDEs
+#### IDEs
 
 * [geany-dark-scheme](https://github.com/Wayn0/geany-dark-scheme): Dark syntax theme for the Geany text editor. 
 * [vscodium](https://github.com/VSCodium/vscodium): binary releases of VS Code without MS branding/telemetry/licensing 
+* [awesome-vscode](https://github.com/viatsko/awesome-vscode): art A curated list of delightful VS Code packages and resources.
 
-### Formal Methods
+#### Formal Methods
 
 * [Augmenting Agile with Formal Methods](https://www.hillelwayne.com/post/augmenting-agile/)
 * [Open Petri Nets (Part 1) | Azimuth](https://johncarlosbaez.wordpress.com/2018/08/15/open-petri-nets-part-1/)
 
-### APIs
+#### APIs
 
 * [public-apis](https://github.com/toddmotto/public-apis): A collective list of public JSON APIs for use in web development. 
 
-### Assembly
+#### Assembly
 
 * [x86-64 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/~ed/x86.html) By Ed Jorgensen
-* [ Linux Assembly libraries project](http://linasm.sourceforge.net/)
+* [Linux Assembly libraries project](http://linasm.sourceforge.net/)
 
-### C/C++
+#### C/C++
 
 * [Exercises for people learning the C programming language](https://github.com/AllenDowney/ExercisesInC) by Allen B. Downey
 * some twitter [thread](https://www.twitter.com/TartanLlama/status/960807058164547584) by Simon Brand
@@ -101,20 +108,21 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [FunctionSimSearch](https://github.com/googleprojectzero/functionsimsearch): Some C++ example code to demonstrate how to perform code similarity searches using SimHashing. 
 * Learn X in Y minutes: [Where X=c](https://learnxinyminutes.com/docs/c/)
 * [Projeto de Algoritmos (em C)](https://www.ime.usp.br/~pf/algoritmos/): Paulo Feofiloff
-
-#### KDE/Qt
+  
+##### KDE/Qt
 
 * [Qt-CMake-HelloWorld](https://github.com/jasondegraw/Qt-CMake-HelloWorld): A Simple Qt5 Program Built with CMake
 * [Atelier](https://github.com/kde/atelier): Open Source 3D Printing Host - User Interface
 
-### Others
+#### Others
 
 * Scala:
- * [Implicits, type classes, and extension methods, part 1: with type classes in mind](https://kubuszok.com/2018/implicits-type-classes-and-extension-methods-part-1/)
+  * [Implicits, type classes, and extension methods, part 1: with type classes in mind](https://kubuszok.com/2018/implicits-type-classes-and-extension-methods-part-1/)
 * Haskell:
- * [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
+  * [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
 * Go:
- * [Go references](https://standupdev.com/wiki/doku.php?id=go_references)
+  * [Go references](https://standupdev.com/wiki/doku.php?id=go_references)
+  * [Awesome Go](https://github.com/avelino/awesome-go): A curated list of awesome Go frameworks, libraries and software
 * Lisp:
  * [Ferret](https://github.com/nakkaya/ferret) is a free software lisp implementation for real time embedded control systems.
 * Perl:
@@ -127,7 +135,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [How to visualize decision trees](http://explained.ai/decision-tree-viz/index.html)
 * [dafny](https://github.com/Microsoft/dafny): Dafny is a verification-aware programming language
 
-### Version Control
+#### Version Control
 
 * **GIT**:
   * [Pro Git book](https://git-scm.com/book/en/v2), written by Scott Chacon and Ben Straub ([github](https://github.com/progit/progit2) repo)
@@ -146,7 +154,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * **Mercurial**:
   * [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos. 
 
- ### Python
+#### Python
 
 * [Think Python](http://greenteapress.com/wp/think-python-2e/) by [AllenDowney](https://github.com/AllenDowney), including [repo](https://github.com/AllenDowney/ThinkPython2)
 * [An O(ND) Difference Algorithm and Its Variations](http://blog.robertelder.org/diff-algorithm/)
@@ -172,15 +180,18 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * Free Educational eBook: [Learn How To Program in Python 3](https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python)
 * [Python Tools for Visual Studio](http://microsoft.github.io/PTVS/)
 * [Asterisks in Python: what they are and how to use them](http://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/)
-
-#### Presentations
+* [dissect.cstruct](https://github.com/fox-it/dissect.cstruct): A no-nonsense c-like structure parsing library for Python 
+  
+##### Presentations
 
 * [Miguel Grinberg - Asynchronous Python for the Complete Beginner](https://speakerdeck.com/pycon2017/miguel-grinberg-asynchronous-python-for-the-complete-beginner) 
 * [The Future of Python Dependency Management](https://speakerdeck.com/kennethreitz/the-future-of-python-dependency-management)
 * [Beautiful folds](https://github.com/Gabriel439/slides/blob/master/munihac/foldmap.md) commonly arise in parallel/distributed programming
 * [I Don't like notebooks](https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/preview?slide=id.g362da58057_0_1)
 
-## Hardware 
+---
+
+### Hardware
 
 * [Ariane is a 6-stage RISC-V CPU](https://github.com/pulp-platform/ariane)
 * [Effects of CPU caches](https://medium.com/@minimarcel/effect-of-cpu-caches-57db81490a7f)
@@ -204,7 +215,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [User-space RCU](https://lwn.net/Articles/573424/)
 * [Incompatible Timesharing System](https://github.com/PDP-10/its): ITS, the Incompatible Timesharing System, is an operating system for the PDP-10 computer family. It was created by hackers at MIT in the 1960s. The MIT site was shut down in 1990, but enthusiasts continue to operate ITS systems to this day.
-* [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) 
+* [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [Realmode Assembly](https://0x00sec.org/t/realmode-assembly-writing-bootable-stuff-part-5/3667) - Writing bootable stuff
 * [MS-DOS](https://github.com/Microsoft/MS-DOS): The original sources of MS-DOS 1.25 and 2.0, for reference purposes
 * [Operating Systems](http://pages.cs.wisc.edu/~remzi/OSTEP/): Three Easy Pieces
@@ -212,8 +223,9 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [interim](https://github.com/mntmn/interim): The Interim Operating System
 * [OpenBSD's unveil()](https://lwn.net/Articles/767137/)
 * [Realmode Assembly](https://0x00sec.org/t/realmode-assembly-writing-bootable-stuff-part-7/8798) - Writing bootable stuff - Part 7 - Programming - 0x00sec - The Home of the Hacker
-
-### Memmory 
+* [Unikernels: No Longer an Academic Exercise](http://250bpm.com/blog:138)
+  
+### Memmory
 
 * [Myths Programmers Believe about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
 
@@ -230,14 +242,14 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 ## Distributed Systems
 
 * [CharmPy](https://charmpy.readthedocs.io/en/latest/) is a high-level parallel and distributed programming framework with a simple and powerful API, based on migratable Python objects and remote method invocation; built on top of an adaptive C/C++ runtime system providing speed, scalability and dynamic load balancing.
-* [FASTER](https://github.com/Microsoft/FASTER): Fast key-value store from Microsoft Research 
+* [FASTER](https://github.com/Microsoft/FASTER): Fast key-value store from Microsoft Research
 * [porcupine](https://github.com/anishathalye/porcupine/): A fast linearizability checker written in Go
 * [DrTLAPlus](https://github.com/tlaplus/DrTLAPlus/):  learn an algorithm and protocol, study a specification
 
 ## Pattern Recognition
 
-* [annoy](https://github.com/spotify/annoy): Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk 
-* [tesseract](https://github.com/tesseract-ocr/tesseract): Tesseract Open Source OCR Engine (main repository) 
+* [annoy](https://github.com/spotify/annoy): Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
+* [tesseract](https://github.com/tesseract-ocr/tesseract): Tesseract Open Source OCR Engine (main repository)
 
 ## Artificial Intelligence
 
@@ -245,7 +257,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 ### NLP
 
-* [Industrial-strength Natural Language Processing (NLP) with Python and Cython ](https://github.com/explosion/spaCy/)
+* [Industrial-strength Natural Language Processing (NLP) with Python and Cython](https://github.com/explosion/spaCy/)
 * [Understanding word vectors](https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469)
 * [allennlp](https://github.com/allenai/allennlp): An open-source NLP research library, built on PyTorch.
 
@@ -280,12 +292,15 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [TensorFlow-Course](https://github.com/open-source-for-science/TensorFlow-Course): Simple and ready-to-use tutorials for TensorFlow
 * [lip reading](https://github.com/astorfi/lip-reading-deeplearning): Cross Audio-Visual Recognition using 3D Architectures 
 * [pija](https://github.com/mattaereal/pija): Pornographic Images Jacking Algorithm 
+* [Create a containerized machine learning model](https://fedoramagazine.org/create-containerized-machine-learning-model/)
+* [vergml](https://github.com/vergeml/vergeml)
 
 ### RNN
 
 * [Handwriting Synthesis](https://github.com/sjvasquez/handwriting-synthesis)
 * [OpenNMT](https://github.com/opennmt/opennmt): Open-Source Neural Machine Translation
 * [vid2vid](https://github.com/NVIDIA/vid2vid): Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
+* [Playing Mortal Kombat with TensorFlow.js. Transfer learning and data augmentation ](https://blog.mgechev.com/2018/10/20/transfer-learning-tensorflow-js-data-augmentation-mobile-net/)
 
 ### Computer Vision
 
@@ -302,7 +317,8 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Analyze a Soccer Game Using Tensorflow Object Detection and OpenCV](https://opendatascience.com/analyze-a-soccer-game-using-tensorflow-object-detection-and-opencv/) - Open Data Science - Your News Source for AI, Machine Learning & more
 * [soccer_realtime.ipynb](https://github.com/priya-dwivedi/Deep-Learning/blob/master/soccer_team_prediction/soccer_realtime.ipynb) · priya-dwivedi/Deep-Learning
 * [reconhecimento-expressao-facial-debate](https://github.com/estadao/reconhecimento-expressao-facial-debate): Código para a matéria que analisa as expressões faciais dos candidatos à Presidência de 2018 durante o debate realizado na TV Gazeta
-
+* (pt-br)[Simples reconhecimento facial](https://github.com/saulocatharino/reconhecimento_facial)
+  
 #### Python
 
 *Frameworks for Neural Networks and Deep Learning. See: [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning).*
@@ -317,33 +333,33 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Turn TensorFlow functions into mathematical notations and diagrams](http://blog.varunajayasiri.com/ml/tf_for_beginners.html)
 * [Theano](https://github.com/Theano/Theano) - A library for fast numerical computation.
 
-# Math
+## Math
 
-* Good channels:
+ * Good channels:
    * [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/): 3blue1brown, by Grant Sanderson, is some combination of math and entertainment, depending on your disposition ([site](https://www.3blue1brown.com/)) and [manim](https://github.com/3b1b/manim)(Animation engine for explanatory math videos).
    * [LeiosOS](https://www.youtube.com/user/LeiosOS): I'm starting a new project, and I hope you guys find it useful! It's called the arcane algorithm archive and is an archive to all the arcane algorithms we cover. [site](https://www.algorithm-archive.org/) and [github](https://github.com/algorithm-archivists/algorithm-archive).
    * [Think Twice](https://www.youtube.com/channel/UC9yt3wz-6j19RwD5m5f6HSg).
    * [Welch Labs](https://www.youtube.com/user/Taylorns34): Math, Science, and Machine Learning resources. [site](http://www.welchlabs.com/) and [github](https://github.com/stephencwelch).
-* [INFINITY PLUS ONE](https://infinityplusonemath.wordpress.com/): 
-* [Free-Math](https://github.com/jaltekruse/Free-Math): An offline React web application for managing digital math homework
-* [Complex polynomial toy](https://math.berkeley.edu/~kmill/toys/roots/roots.html): an interactive program for domain coloring of polynomials and for experimenting with the idea behind a proof that every non-constant polynomial has at least one complex root.
-* [Project Euler](https://projecteuler.net/) is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. (dica da [pgrangeiro](https://github.com/pgrangeiro)) 
-* [fxsolver](https://www.fxsolver.com): a free algebraic equation solver coupled to a large formula database, based on the need to quickly solve mathematical formulas without messing around with programming languages or spreadsheet software.
-* [WELL-ROUNDED FACTS ABOUT SPHERES](https://people.ucsc.edu/~weissman/MathClubTalk2009.pdf) by Martin H. Weissman
-* [Nonlinear Dynamics and Chaos](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V&app=desktop) - Steven Strogatz, Cornell University
-* [1 million prime UMAP layout](https://gist.github.com/johnhw/dfc7b8b8519aac530ac97da226c17bd5)
-* [A First Course in Differential Equations for Scientists and Engineers](http://people.uncw.edu/hermanr/mat361/ODEBook/) by Dr. R. L. Herman
-* [Uncovering multiscale order in the prime numbers via scattering](http://iopscience.iop.org/article/10.1088/1742-5468/aad6be/meta) - IOPscience
-* [SageMath](https://www.sagemath.org/): Open-Source Mathematical Software System
-* [Trigonoparty!](https://ramesaliyev.com/trigonoparty/)
+ * [INFINITY PLUS ONE](https://infinityplusonemath.wordpress.com/): 
+ * [Free-Math](https://github.com/jaltekruse/Free-Math): An offline React web application  for managing digital math homework
+ * [Complex polynomial toy](https://math.berkeley.edu/~kmill/toys/roots/roots.html): an interactive program for domain coloring of polynomials and for experimenting with the idea behind a proof that every non-constant polynomial has at least one complex root.
+ * [Project Euler](https://projecteuler.net/) is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. (dica da [pgrangeiro](https://github.com/pgrangeiro)) 
+ * [fxsolver](https://www.fxsolver.com): a free algebraic equation solver coupled to a large formula database, based on the need to quickly solve mathematical formulas without messing around with programming languages or spreadsheet software.
+ * [WELL-ROUNDED FACTS ABOUT SPHERES](https://people.ucsc.edu/~weissman/MathClubTalk2009.pdf) by Martin H. Weissman
+ * [Nonlinear Dynamics and Chaos](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V&app=desktop) - Steven Strogatz, Cornell University
+ * [1 million prime UMAP layout](https://gist.github.com/johnhw/dfc7b8b8519aac530ac97da226c17bd5)
+ * [A First Course in Differential Equations for Scientists and Engineers](http://people.uncw.edu/hermanr/mat361/ODEBook/) by Dr. R. L. Herman
+ * [Uncovering multiscale order in the prime numbers via scattering](http://iopscience.iop.org/article/10.1088/1742-5468/aad6be/meta) - IOPscience
+ * [SageMath](https://www.sagemath.org/): Open-Source Mathematical Software System
+ * [Trigonoparty!](https://ramesaliyev.com/trigonoparty/)
 
-## Theorems
+### Theorems
 
 * [Vampire is a theorem prover, that is, a system able to prove theorems](https://vprover.github.io/).
 * This project contains an extended "Standard Library" for Coq called [coq-std++](https://gitlab.mpi-sws.org/robbertkrebbers/coq-stdpp)
 * [1/0 = 0](https://www.hillelwayne.com/post/divide-by-zero/)
 
-## Algebra
+### Algebra
 
  * [Symmetry, Algebra and the Monster](https://www.quantamagazine.org/symmetry-algebra-and-the-monster-20170817/)
  * [Tricurves](http://web.calstatela.edu/curvebank/tricurve/tricurve.htm) and [Tiling with Tricurves](http://paulbourke.net/geometry/tricurves/)
@@ -351,12 +367,12 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
  * [Set Theory and Algebra in Computer Science A Gentle Introduction to Mathematical Modeling](https://pdfs.semanticscholar.org/d106/6b6de601c1d7d5af25af3f7091bc7ad3ad51.pdf)
 * [Viviani](https://www.geogebra.org/m/phxkpwde): 
 
-## Matrices
+### Matrices
 
 * [Matrices from a geometric perspective](http://www.coranac.com/documents/geomatrix/)
 * [pycm](https://github.com/sepandhaghighi/pycm): Multi-class confusion matrix library in Python.
 
-## Statistics
+### Statistics
 
 * [Modes, Medians and Means: A Unifying Perspective](http://www.johnmyleswhite.com/notebook/2013/03/22/modes-medians-and-means-an-unifying-perspective/)
 * [Taking control of animations in R and demystifying them in the process](https://www.data-imaginist.com/2017/animating-the-logo/?utm_content=bufferd418f)
@@ -444,39 +460,39 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Nvidia drivers on Linux are trash!](https://nvidialinuxdriversaretrash.github.io/)
 * [Consistently Beautiful Visualizations with Altair Themes](https://towardsdatascience.com/consistently-beautiful-visualizations-with-altair-themes-c7f9f889602)
 
-## Calculus
+### Calculus
 
 * [Solving Logistic Regression with Newton's Method](http://thelaziestprogrammer.com/sharrington/math-of-machine-learning/solving-logreg-newtons-method)
 * [Functional Bits: Lambda Calculus based Algorithmic Information Theory](https://tromp.github.io/cl/LC.pdf)
 
-## Topology
+### Topology
 
 * [Isometries of Hyperbolic 3-Space	](https://www.shadertoy.com/view/MstcWr)
 * [Generating Random Points in a Sphere](https://karthikkaranth.me/blog/generating-random-points-in-a-sphere/) by [Karthik Karanth](https://github.com/medakk)
 * [Polyhedra Viewer](https://polyhedra.tessera.li/)
 
-## Linear Programming
+### Linear Programming
 
 * [PHPSimplex](http://www.phpsimplex.com/simplex/)
 
-## Discretionary Math
+### Discretionary Math
 
 * [Elliptic Curve Cryptography](https://www.johannes-bauer.com/compsci/ecc/)
 
-## Signal Processing
+### Signal Processing
 
 * [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/pdfbook.htm)
 * [Spectrogram Tool | FFT: Fun with Fourier Transforms | Adafruit Learning System](https://learn.adafruit.com/fft-fun-with-fourier-transforms/spectrogram)
 * [PyWavelets - Discrete Wavelet Transform in Python — PyWavelets Documentation](https://pywavelets.readthedocs.io/en/0.2.2/)
 
-## Graph Theory
+### Graph Theory
 
 * [How to think in graphs: an illustrative introduction to Graph Theory and its applications](https://medium.freecodecamp.org/i-dont-understand-graph-theory-1c96572a1401)
 * [Havel-Hakimi](http://jacquerie.github.io/hh/)
 * [6.886 Graph Analytics Spring 2018](https://people.csail.mit.edu/jshun/6886-s18/)
 * [d3-dag](https://github.com/erikbrinkman/d3-dag): Layout algorithms for visualizing directed acylic graphs
 
-## Coding
+### Coding
 
 * [computer graphics experiments](http://iquilezles.org/www/index.htm)
 * [The Mathematics of Machine Learning](https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568)
@@ -497,7 +513,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [sourcegraph](https://github.com/sourcegraph/sourcegraph): Code search and intelligence, self-hosted and scalable
 * [trigonoparty](https://github.com/ramesaliyev/trigonoparty): Simple Trigonometry Visualisation with Pure JavaScript.
 
-## Fun
+### Fun
 
 * [The Corpus Christi Prime](https://friendlyfieldsandopenmaps.com/2017/09/08/the-corpus-christi-prime/)
 * [Blockchains from the ground up: Part 1](http://johnmathews.eu/blockchain-introduction.html)
@@ -510,20 +526,20 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 
 * [The Mystery and Music of Kaprekar Constant- 6174](http://arabale.com/blog/2014/4/29/the-mystery-and-music-of-kaprekar-constant-6174)
 
-## General
+### General
 
 * [A Mathematician's Secret: We're Not All Geniuses](https://www.bloomberg.com/view/articles/2017-06-07/a-mathematician-s-secret-we-re-not-all-geniuses)
 * [Quantum Mechanics without the maths or philosophy](http://www.articlesbyaphysicist.com/quantummechanics1.html)
 * [cheatsheet-translation](https://github.com/shervinea/cheatsheet-translation): Translation of VIP cheatsheets
 
-# Physics
+## Physics
 
 * [Physics Travel Guide](https://physicstravelguide.com)
 * [An interactive, explorable explanation about the peculiar magic of sound waves.](https://github.com/joshwcomeau/waveforms)
 * [This program generates bitmaps that are locally similar to the input bitmap](https://github.com/mxgmn/WaveFunctionCollapse)
 * [Quantum mechanics for programmers](http://www.articlesbyaphysicist.com/quantum4prog.html)
 
-# Astronomy
+### Astronomy
 
 * [HORIZONS Web-Interface](https://ssd.jpl.nasa.gov/horizons.cgi?CGISESSID=f7047642ea793b6fabbd2a9e97319842&s_body=1#top)
 * [Creating an animation demonstrating astronomical parallax in IDL](https://github.com/jradavenport/plx_gif)
@@ -539,8 +555,9 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * Novo show de planetário: [O Sol, a Nossa Estrela Viva](https://www.eso.org/public/brazil/announcements/ann18064/)
 * [Livrinhos](http://www.tuimp.org/booklets/index/lang:pt)
 * [Software makes science better, but is it research?](https://figshare.com/articles/Software_makes_science_better_but_is_it_research_DotAstonomy_X_Presentation/7127723)
+* (2018) [Best Telescopes for the money](https://www.space.com/15693-telescopes-beginners-telescope-reviews-buying-guide.html)
 
-## NASA
+### NASA
 
 * [Tindallgrams](http://tindallgrams.net/): In 1966, as the American space program was working furiously towards a moon landing, Howard W. “Bill” Tindall, Jr., an expert on orbital mechanics, was sent by NASA to MIT to oversee the development of software for the spacecraft guidance systems.
 * [JPL Open Source Rover Project](https://github.com/nasa-jpl/open-source-rover): A build-it-yourself, 6-wheel rover based on the rovers on Mars! 
@@ -550,19 +567,20 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Earth at Night](https://earthobservatory.nasa.gov/Features/NightLights)
 * [Where is Parker Solar Probe?](http://parkersolarprobe.jhuapl.edu/The-Mission/index.php#Where-Is-PSP)
 
-## SpaceX
+#### SpaceX
 
 * [SpaceX-API](https://github.com/r-spacex/SpaceX-API): Open Source REST API for rocket, core, capsule, pad, and launch data
 
-# Chemistry
+## Chemistry
 
 * [Periodic Table – Royal Society of Chemistry](http://www.rsc.org/periodic-table/)
 
-# Biology
+## Biology
 
 * [Bioinformatics Algorithms | MOOC Bestseller | Phillip Compeau & Pavel Pevzner](http://bioinformaticsalgorithms.com/)
+* [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics): A curated list of awesome Bioinformatics libraries and software.  
 
-# Geography
+## Geography
 
 * [IRIS: mww8.2 Fiji Islands Region](http://ds.iris.edu/ds/nodes/dmc/tools/event/10937540)
 * [S2Geometry](http://s2geometry.io/): S2 is a library for spherical geometry that aims to have the same robustness, flexibility, and performance as the very best planar geometry libraries [github](https://github.com/google/s2geometry).
@@ -575,11 +593,11 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Memex](https://worldbrain.io/#) - your photographic memory for the web. Open-Source. Private. [repo](https://github.com/WorldBrain/Memex)
 * [Gist Good](https://github.com/graciano/gist-good): Organize and search your authored and starred gists.
 
-# Filesystems
+## Filesystems
 
 * [Reproducing resuts from old papers on modern filesystems](https://github.com/danluu/fs-errors/)
 
-# Graphics
+## Graphics
 
 * [This is a collection of simple to more involved examples to scripting in Blender with Python.](https://github.com/njanakiev/blender-scripting/blob/master/README.md#phyllotaxis-flower)
 * [Visualization of colors in an image through a 3D scatterplot](https://github.com/Overv/ColorScatterPlot)
@@ -604,13 +622,13 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [CivJS](https://github.com/Venerons/CivJS): A JavaScript 4X Game 
 * [Sol-R](https://github.com/favreau/Sol-R): Open-Source CUDA/OpenCL Speed Of Light Ray-tracer
 
-# Articles
+## Articles
 
 * [Renders papers from Arxiv as responsive web pages so you don't have to squint at a PDF.](https://github.com/arxiv-vanity/arxiv-vanity)
 * [How to Read an RFC](https://www.mnot.net/blog/2018/07/31/read_rfc)
 * [How to Read a Paper Efficiently (By Prof. Pete Carr)](https://www.youtube.com/watch?v=IeaD0ZaUJ3Y)
 
-# Studies
+## Studies
 
 * [List of Computer Science related contacts for PhD applicants from US-banned countries](https://docs.google.com/document/d/17r18cKaMSeZF4fI7UZYV0QwCvdbEb3vy3BMNZfgbgzI/edit#heading=h.9vx4cr9i0i09)
 * [Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
@@ -624,20 +642,21 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Why We Need More Than 'Learn At Your Own Pace'](https://blog.brainstation.io/why-we-need-more-than-learn-at-your-own-pace/)
 * [Pinker Book Recommendations](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDca1iI1GgcMwBl65XRvJaAnZOv6sCjmAamy_7cioVMV4U_VnBksgZrIKTe5P4aneEXtion1ZA7iPe/pubhtml#)
 
-## Writing
+### Writing
 
 * [Write Clearly and Concisely](http://sites.ieee.org/pcs/communication-resources-for-engineers/style/write-clearly-and-concisely/) by IEEE
 * [GENERAL RESEARCH AND WRITING RESOURCES AND GUIDES](https://riozones.wordpress.com/2018/02/25/general-research-and-writing-resources-and-guides/)
 * [The Best Textbooks on Every Subject](https://www.lesswrong.com/posts/xg3hXCYQPJkwHyik2/the-best-textbooks-on-every-subject)
 * [Five common writing mistakes new scientists make](https://contemplativemammoth.com/2018/08/21/five-common-writing-mistakes-new-scientists-make/)
 
-# UX/UI
+## UX/UI
 
 * [Guide to User Research (UXR)](http://guidetouxr.com/?lipi=urn:li:page:d_flagship3_feed;oGD6c4rDTo62VTIhUxhb4w%3D%3D)
 * [The Encyclopedia of Human-Computer Interaction, 2nd Ed.](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed)
-* [GNU Unifont Glyphs](http://www.unifoundry.com/unifont/index.html
+* [GNU Unifont Glyphs](http://www.unifoundry.com/unifont/index.html)
+* [Awesome Accessibility](https://github.com/brunopulis/awesome-a11y): A curate list about A11Y
 
-## web
+### web
 
 * [pyppeteer](https://pypi.org/project/pyppeteer/): Headless chrome/chromium automation library (unofficial port of puppeteer)
 * [RSSHub](https://docs.rsshub.app/en/) is a lightweight and extensible RSS feed aggregator, it's able to generate feeds from pretty much everything.
@@ -649,7 +668,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [molten](https://github.com/Bogdanp/molten/): A minimal, extensible, fast and productive framework for building HTTP APIs with Python 3.6 and later.
 * [walt](https://github.com/ballercat/walt): Walt is a JavaScript-like syntax for WebAssembly text format
 
-# Privacy
+## Privacy
 
 * ["Polisis: Automated Analysis and Presentation of Privacy Policies Using Deep Learning"](https://pribot.org/polisis)
 * [Data Transfer Project](https://datatransferproject.dev/)
@@ -659,7 +678,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * (pt-br)[Mapa da Informação](http://mapadainformacao.com.br/)
 * [Why You Need a Network-Wide Ad-Blocker (Part 1)](https://blog.cryptoaustralia.org.au/2018/08/06/why-you-need-network-wide-ad-blocker-pi-hole/)
 
-# Philosophy
+## Philosophy
 
 * [The Philosophy of Computer Science](https://plato.stanford.edu/entries/computer-science/)
 * Luciano Floridi recommends the best books on the [Philosophy of Information](https://fivebooks.com/best-books/luciano-floridi-philosophy-information/)
@@ -672,7 +691,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Was Wittgenstein Right?](https://opinionator.blogs.nytimes.com/2013/03/03/was-wittgenstein-right/) - The New York Times
 * [The Right to Read](https://www.gnu.org/philosophy/right-to-read.en.html): GNU Project - Free Software Foundation
 
-# General
+## General
 
 * [The Sublimated Grief of the Left Behind](http://erinbartram.com/uncategorized/the-sublimated-grief-of-the-left-behind/)
 * [The professional learning platform](https://www.soyoulearn.com)
@@ -685,7 +704,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * (pt-br) [Lista Maravilhosa de Projetos Open-Source](https://github.com/camilatigre/listamaravilhosaopensource): Lista com links de projetos open-source para os níveis: iniciante, intermediário e avançado. Dividido por linguagem e idiomas!
 * [ghuser.io](https://github.com/ghuser-io/ghuser.io): Better GitHub profiles
 
-## Jobs
+### Jobs
 
 * [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade): Tools of The Trade, from Hacker News.
 * [Programando na Gringa](https://github.com/lbighetti/programando-na-gringa): Tudo sobre trabalho no exterior 
@@ -702,8 +721,10 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Ask HN: Who is hiring?](https://news.ycombinator.com/item?id=18113144)(October 2018)
 * [mirr](https://github.com/mzbat/mirr): This is the repository for the Mock Interview and Resume Review Workshop established at Derby Con 2015.
 * [Python Writer](https://docs.google.com/document/d/14uE_d4mU00gLJSZRrk0vSIWYi2BjcxD5oRJgGEEDdxU/) @ OneMonth.com - Documentos Google
+* [Então você quer empreender? Aqui está tudo o que sei](https://medium.com/startup-da-real/ent%C3%A3o-voc%C3%AA-quer-empreender-aqui-est%C3%A1-tudo-o-que-sei-b6fac26f7999)
+* [ESO Recruitment](https://recruitment.eso.org/)
 
-# Fun
+## Fun
 
 * [animations with JS](https://state-animations-amsterdam.surge.sh)
 * [3D engine entirely made of MS Excel formulae : Enjoy this Doom.xls file](https://www.gamasutra.com/blogs/CBel/20180208/308549/3D_engine_entirely_made_of_MS_Excel_formulae__Enjoy_this_Doomxls_file_.php)
@@ -714,8 +735,9 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [The short history of the "about:" URL](http://www.montulli.org/lou/about_urls)
 * [smelvetica](https://github.com/tholman/smelvetica#how-do-i-install-it): Smelvetica is Helvetica for your best friends, or your worst enemies.
 * [ghuser.io](https://ghuser.io/AurelienLourot)- Better GitHub profiles
-
-# News
+* [Transforming Wikipedia into an accurate cultural knowledge quiz](https://medium.com/@mjbaldwin/transforming-wikipedia-into-an-accurate-cultural-knowledge-quiz-b0a0f74877c)
+  
+## News
 
 * [A Science Fair with $1.6 Million in Prizes](https://blog.mozilla.org/blog/2018/07/19/a-science-fair-with-1-6-million-in-prizes/)
 * [18 Best IDEs for C/C++ Programming or Source Code Editors on Linux](https://www.tecmint.com/best-linux-ide-editors-source-code-editors/)
@@ -750,7 +772,7 @@ Computer Science Stuff is  [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 * [Mathematicians confirm the possibility of data transfer via gravitational waves](https://phys.org/news/2018-10-mathematicians-possibility-gravitational.html)
 * [This Is The Real Reason We Haven’t Directly Detected Dark Matter](https://medium.com/starts-with-a-bang/this-is-the-real-reason-we-havent-directly-detected-dark-matter-3d04021b314e)
 
-# Gadgets
+## Gadgets
 
 * [NumWorks](https://www.numworks.com/specs/)
 * [It's an Anker Charging Party In Today's Amazon Gold Box, Including USB-C Gear](https://kinjadeals.theinventory.com/its-an-anker-charging-party-in-todays-amazon-gold-box-1829208785)
