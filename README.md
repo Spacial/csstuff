@@ -26,12 +26,15 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [A Guide to Teaching Computing to Adults in Informal Settings](https://computinged.wordpress.com/2018/08/27/a-guide-to-teaching-computing-to-adults-in-informal-settings/) (and [here](http://teachtogether.tech/en/partner/))
 * [Platform Design](https://github.com/dcuartielles/platform-design) is the repository including the text created by D. Cuartielles for his doctoral dissertation published by Malmo University Press in 2018.
 * [z3](https://github.com/Z3Prover/z3): The Z3 Theorem Prover
+* [Surprisingly Turing-Complete](https://www.gwern.net/Turing-complete#how-many-computers-are-in-your-computer)
 
 ### Data Structures
 
 * [Data Structures for Coding Interviews](https://www.interviewcake.com/article/python/data-structures-coding-interview)
 * [Masstree](https://www.the-paper-trail.org/post/masstree-paper-notes/): A cache-friendly mashup of tries and B-trees
 * [Columnstore and B+ tree](https://blog.acolyer.org/2018/09/28/columnstore-and-b-tree-are-hybrid-physical-designs-important/)– are hybrid physical designs important?
+* [Beating hash tables with trees?](https://www.the-paper-trail.org/post/art-paper-notes/) The ART-ful radix trie
+
 
 ### Databases
 
@@ -102,7 +105,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
   * [Persistent Memory Development Kit](https://github.com/pmem/pmdk)
   * The [memkind](https://github.com/memkind/memkind) library is a user extensible heap manager built on top of jemalloc which enables control of memory characteristics and a partitioning of the heap between kinds of memory.
 * [MODERN C++ FOR C PROGRAMMERS: PART 1](https://ds9a.nl/articles/posts/c++-1/) has [PART 5](https://ds9a.nl/articles/posts/cpp-5/) already.
-* [cs01/gdbgui](https://github.com/cs01/gdbgui/): Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
+* [gdbgui](https://github.com/cs01/gdbgui/): Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 * [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines): The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 * [What’s the difference between an integer and a pointer?](https://blog.regehr.org/archives/1621)
 * [Lifetime profile v1.0 posted](https://herbsutter.com/2018/09/20/lifetime-profile-v1-0-posted/)
@@ -110,6 +113,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * Learn X in Y minutes: [Where X=c](https://learnxinyminutes.com/docs/c/)
 * [Projeto de Algoritmos (em C)](https://www.ime.usp.br/~pf/algoritmos/): Paulo Feofiloff
 * mozilla [rr](https://github.com/mozilla/rr): is a lightweight tool for recording, replaying and debugging execution of applications (trees of processes and threads). Debugging extends gdb with very efficient reverse-execution, which in combination with standard gdb/x86 features like hardware data watchpoints, makes debugging much more fun.
+* [WinDbg-Samples](https://github.com/Microsoft/WinDbg-Samples): Sample extensions, scripts, and API uses for WinDbg.
 
 ##### KDE/Qt
 
@@ -139,6 +143,9 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 
 #### Version Control
 
+* [Meld](https://github.com/yousseb/meld/): Meld is a visual diff and merge tool targeted at developers. Meld helps you compare files, directories, and version controlled projects. It provides two- and three-way comparison of both files and directories, and supports many version control systems including Git, Mercurial, Bazaar and Subversion.
+* [kompare](https://github.com/KDE/kompare): Graphical File Differences Tool
+
 * **GIT**:
   * [Pro Git book](https://git-scm.com/book/en/v2), written by Scott Chacon and Ben Straub ([github](https://github.com/progit/progit2) repo)
   * [git-sizer](https://github.com/github/git-sizer/): Compute various size metrics for a Git repository, flagging those that might cause problems ( [article](https://blog.github.com/2018-03-05-measuring-the-many-sizes-of-a-git-repository/))
@@ -153,6 +160,8 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
   * [Git Cheatsheet](https://ndpsoftware.com/git-cheatsheet.html#loc=workspace;)
   * [gitx](https://github.com/codebasesaga/GitX): GitX‐modded
   * (pt-br) [git](http://rogerdudler.github.io/git-guide/index.pt_BR.html): guia prático - sem complicação!
+  * [gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service.
+
 * **Mercurial**:
   * [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos.
 
@@ -424,6 +433,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Redash helps you make sense of your data](https://redash.io/)
 * [spyder](https://github.com/spyder-ide/spyder): Official repository for Spyder - The Scientific Python Development Environment
 * [RAPIDS](http://rapids.ai): Open GPU Data Science. The RAPIDS suite of software libraries gives you the freedom to execute end-to-end data science and analytics pipelines entirely on GPUs. It relies on NVIDIA® CUDA® primitives for low-level compute optimization, but exposes that GPU parallelism and high-bandwidth memory speed through user-friendly Python interfaces. [cuml](https://github.com/rapidsai/cuml) - RAPIDS Machine Learning Library.
+* (pt-br) [Fatiou, passou: filtrando CSVs de gigabytes no terminal](http://turicas.info/slides/linha-de-comando/)
 
 #### Datasets
 
@@ -645,6 +655,8 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Sources of content for LingQ members](https://docs.google.com/spreadsheets/d/1b7AhbkgjgJ_DS_KNwcpNnUhIFzD52I2TyF5veaHWHiI/edit?hl=en&hl=en#gid=0): resources about a lot of languages.
 * [Why We Need More Than 'Learn At Your Own Pace'](https://blog.brainstation.io/why-we-need-more-than-learn-at-your-own-pace/)
 * [Pinker Book Recommendations](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDca1iI1GgcMwBl65XRvJaAnZOv6sCjmAamy_7cioVMV4U_VnBksgZrIKTe5P4aneEXtion1ZA7iPe/pubhtml#)
+* [Twenty things I wish I’d known when I started my PhD](https://www.nature.com/articles/d41586-018-07332-x)
+
 
 ### Writing
 
