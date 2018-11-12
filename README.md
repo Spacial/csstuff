@@ -114,7 +114,8 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Projeto de Algoritmos (em C)](https://www.ime.usp.br/~pf/algoritmos/): Paulo Feofiloff
 * mozilla [rr](https://github.com/mozilla/rr): is a lightweight tool for recording, replaying and debugging execution of applications (trees of processes and threads). Debugging extends gdb with very efficient reverse-execution, which in combination with standard gdb/x86 features like hardware data watchpoints, makes debugging much more fun.
 * [WinDbg-Samples](https://github.com/Microsoft/WinDbg-Samples): Sample extensions, scripts, and API uses for WinDbg.
-
+* [How to implement strings](http://beza1e1.tuxen.de/strings.html)
+  
 ##### KDE/Qt
 
 * [Qt-CMake-HelloWorld](https://github.com/jasondegraw/Qt-CMake-HelloWorld): A Simple Qt5 Program Built with CMake
@@ -145,7 +146,6 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 
 * [Meld](https://github.com/yousseb/meld/): Meld is a visual diff and merge tool targeted at developers. Meld helps you compare files, directories, and version controlled projects. It provides two- and three-way comparison of both files and directories, and supports many version control systems including Git, Mercurial, Bazaar and Subversion.
 * [kompare](https://github.com/KDE/kompare): Graphical File Differences Tool
-
 * **GIT**:
   * [Pro Git book](https://git-scm.com/book/en/v2), written by Scott Chacon and Ben Straub ([github](https://github.com/progit/progit2) repo)
   * [git-sizer](https://github.com/github/git-sizer/): Compute various size metrics for a Git repository, flagging those that might cause problems ( [article](https://blog.github.com/2018-03-05-measuring-the-many-sizes-of-a-git-repository/))
@@ -161,7 +161,6 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
   * [gitx](https://github.com/codebasesaga/GitX): GitX‐modded
   * (pt-br) [git](http://rogerdudler.github.io/git-guide/index.pt_BR.html): guia prático - sem complicação!
   * [gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service.
-
 * **Mercurial**:
   * [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos.
 
@@ -305,6 +304,8 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [pija](https://github.com/mattaereal/pija): Pornographic Images Jacking Algorithm
 * [Create a containerized machine learning model](https://fedoramagazine.org/create-containerized-machine-learning-model/)
 * [vergml](https://github.com/vergeml/vergeml)
+* [DeOldify](https://github.com/jantic/DeOldify): A Deep Learning based project for colorizing and restoring old images
+* [BERT](https://github.com/google-research/bert): TensorFlow code and pre-trained models for BERT 
 
 ### RNN
 
@@ -434,6 +435,9 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [spyder](https://github.com/spyder-ide/spyder): Official repository for Spyder - The Scientific Python Development Environment
 * [RAPIDS](http://rapids.ai): Open GPU Data Science. The RAPIDS suite of software libraries gives you the freedom to execute end-to-end data science and analytics pipelines entirely on GPUs. It relies on NVIDIA® CUDA® primitives for low-level compute optimization, but exposes that GPU parallelism and high-bandwidth memory speed through user-friendly Python interfaces. [cuml](https://github.com/rapidsai/cuml) - RAPIDS Machine Learning Library.
 * (pt-br) [Fatiou, passou: filtrando CSVs de gigabytes no terminal](http://turicas.info/slides/linha-de-comando/)
+* (pt-br) [codabr_2018](https://github.com/fernandascovino/codabr_2018): Resumo dos workshops do CODA.Br - by Fernanda Scovino
+* (pt-br) [Coda_workshop](https://github.com/Caaddss/coda.br_workshop): Tutorial que será apresentado no Coda.BR - by Caaddss
+* (pt-br) [Glória a Dadoxxx](https://drive.google.com/drive/folders/1-YuwHyurCSRvSnbnVu_iufmh7sAC1OOE): Oficina de dados - by Cecília do Lago
 
 #### Datasets
 
@@ -628,6 +632,10 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Field Play](https://anvaka.github.io/fieldplay/?cx=7.5099&cy=0.05370000000000008&w=8.5428&h=8.5428&dt=0.01&fo=0.998&dp=0.009&cm=1)
 * [Linux Find Out Video Card GPU Memory RAM Size Using Command Line](https://www.cyberciti.biz/faq/howto-find-linux-vga-video-card-ram/)
 
+### Augmented Reality
+
+* [ARKit + SceneKit Geometries Tutorial (Part 2)](https://medium.com/@maxxfrazer/arkit-scenekit-geometries-tutorial-part-2-ff315d8d7030), [github](https://github.com/maxxfrazer/SCNCustomGeometries-Part2)
+  
 ## Games
 
 * [toy](https://github.com/hugoam/toy): the thin c++ game engine - [toyengine](https://hugoam.github.io/toy-io/).
@@ -635,7 +643,8 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [An Oral History of ‘GoldenEye 007’ on the N64 – MEL Magazine](https://melmagazine.com/an-oral-history-of-goldeneye-007-on-the-n64-129844f1c5ab)
 * [CivJS](https://github.com/Venerons/CivJS): A JavaScript 4X Game
 * [Sol-R](https://github.com/favreau/Sol-R): Open-Source CUDA/OpenCL Speed Of Light Ray-tracer
-
+* [Araní](http://aranigame.com/home/)
+  
 ## Articles
 
 * [Renders papers from Arxiv as responsive web pages so you don't have to squint at a PDF.](https://github.com/arxiv-vanity/arxiv-vanity)
@@ -657,13 +666,13 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Pinker Book Recommendations](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDca1iI1GgcMwBl65XRvJaAnZOv6sCjmAamy_7cioVMV4U_VnBksgZrIKTe5P4aneEXtion1ZA7iPe/pubhtml#)
 * [Twenty things I wish I’d known when I started my PhD](https://www.nature.com/articles/d41586-018-07332-x)
 
-
 ### Writing
 
 * [Write Clearly and Concisely](http://sites.ieee.org/pcs/communication-resources-for-engineers/style/write-clearly-and-concisely/) by IEEE
 * [GENERAL RESEARCH AND WRITING RESOURCES AND GUIDES](https://riozones.wordpress.com/2018/02/25/general-research-and-writing-resources-and-guides/)
 * [The Best Textbooks on Every Subject](https://www.lesswrong.com/posts/xg3hXCYQPJkwHyik2/the-best-textbooks-on-every-subject)
 * [Five common writing mistakes new scientists make](https://contemplativemammoth.com/2018/08/21/five-common-writing-mistakes-new-scientists-make/)
+* [WHAT IS THE MORNING WRITING EFFECT?](https://www.gwern.net/Morning-writing)
 
 ## UX/UI
 
@@ -740,7 +749,8 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Então você quer empreender? Aqui está tudo o que sei](https://medium.com/startup-da-real/ent%C3%A3o-voc%C3%AA-quer-empreender-aqui-est%C3%A1-tudo-o-que-sei-b6fac26f7999)
 * [ESO Recruitment](https://recruitment.eso.org/)
 * [Creating Effective Job Adverts](https://blog.honest.work/creating-effective-job-adverts/)
-
+* [Tufts University](https://engineering.tufts.edu/computer-science-positions): Computer Science Employment Opportunities
+  
 ## Fun
 
 * [animations with JS](https://state-animations-amsterdam.surge.sh)
@@ -788,6 +798,8 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [The secret intellectual history of mathematics | Aeon Essays](https://aeon.co/essays/the-secret-intellectual-history-of-mathematics)
 * [Mathematicians confirm the possibility of data transfer via gravitational waves](https://phys.org/news/2018-10-mathematicians-possibility-gravitational.html)
 * [This Is The Real Reason We Haven’t Directly Detected Dark Matter](https://medium.com/starts-with-a-bang/this-is-the-real-reason-we-havent-directly-detected-dark-matter-3d04021b314e)
+* [New Proof Shows Infinite Curves Come in Two Types](https://www.quantamagazine.org/new-proof-shows-infinite-curves-come-in-two-types-20181107/)
+* [My Grandfather Thought He Solved a Cosmic Mystery](https://www.theatlantic.com/science/archive/2018/11/science-full-mavericks-like-my-grandfather-was-his-physics-theory-right/574573/)
 
 ## Gadgets
 
