@@ -138,6 +138,8 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * Rust:
   * [Awesome Rust](https://github.com/rust-unofficial/awesome-rust): A curated list of Rust code and resources.
   * [PortingCToRust](https://wiki.alopex.li/PortingCToRust)
+* JavaScript:
+  * [The JavaScript Handbook](https://jshandbook.com/)
 * [How to visualize decision trees](http://explained.ai/decision-tree-viz/index.html)
 * [dafny](https://github.com/Microsoft/dafny): Dafny is a verification-aware programming language
 
@@ -162,6 +164,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
   * (pt-br) [git](http://rogerdudler.github.io/git-guide/index.pt_BR.html): guia prático - sem complicação!
   * [gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service.
   * [A Git Horror Story](https://mikegerwitz.com/papers/git-horror-story): Repository Integrity With Signed Commits. How to use git securely (signing commits)
+  * [gitea](https://github.com/go-gitea/gitea): Git with a cup of tea, painless self-hosted git service
 * **Mercurial**:
   * [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos.
 
