@@ -719,7 +719,8 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [pbspro](https://github.com/pbspro/pbspro): An HPC workload manager and job scheduler for desktops, clusters, and clouds.
 * (pt-br) [Lista Maravilhosa de Projetos Open-Source](https://github.com/camilatigre/listamaravilhosaopensource): Lista com links de projetos open-source para os níveis: iniciante, intermediário e avançado. Dividido por linguagem e idiomas!
 * [ghuser.io](https://github.com/ghuser-io/ghuser.io): Better GitHub profiles
-
+* [MagicBox](https://github.com/unicef/magicbox): A platform that uses real-time data to inform life-saving humanitarian responses to emergency situations.
+  
 ### Jobs
 
 * [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade): Tools of The Trade, from Hacker News.
