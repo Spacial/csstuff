@@ -35,7 +35,6 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Columnstore and B+ tree](https://blog.acolyer.org/2018/09/28/columnstore-and-b-tree-are-hybrid-physical-designs-important/)– are hybrid physical designs important?
 * [Beating hash tables with trees?](https://www.the-paper-trail.org/post/art-paper-notes/) The ART-ful radix trie
 
-
 ### Databases
 
 * [Readings in Database Systems](http://www.redbook.io)
@@ -47,6 +46,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet): A quick reminder of all SQL queries and examples on how to use them.
 * [Optimizing BigQuery](https://medium.com/google-cloud/bigquery-optimized-cluster-your-tables-65e2f684594b): Cluster your tables – Google Cloud Platform
 * [pgFormatter](https://github.com/darold/pgFormatter): A PostgreSQL SQL syntax beautifier that can work as a console program or as a CGI. On-line demo [site](http://sqlformat.darold.net/)
+* [HikariCP](https://github.com/brettwooldridge/HikariCP): 光 HikariCP・A solid, high-performance, JDBC connection pool at last.
 
 ### Networks
 
@@ -139,6 +139,8 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * Rust:
   * [Awesome Rust](https://github.com/rust-unofficial/awesome-rust): A curated list of Rust code and resources.
   * [PortingCToRust](https://wiki.alopex.li/PortingCToRust)
+* JavaScript:
+  * [The JavaScript Handbook](https://jshandbook.com/)
 * [How to visualize decision trees](http://explained.ai/decision-tree-viz/index.html)
 * [dafny](https://github.com/Microsoft/dafny): Dafny is a verification-aware programming language
 
@@ -161,6 +163,8 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
   * [gitx](https://github.com/codebasesaga/GitX): GitX‐modded
   * (pt-br) [git](http://rogerdudler.github.io/git-guide/index.pt_BR.html): guia prático - sem complicação!
   * [gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service.
+  * [A Git Horror Story](https://mikegerwitz.com/papers/git-horror-story): Repository Integrity With Signed Commits. How to use git securely (signing commits)
+  * [gitea](https://github.com/go-gitea/gitea): Git with a cup of tea, painless self-hosted git service
 * **Mercurial**:
   * [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos.
 
@@ -270,14 +274,13 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Industrial-strength Natural Language Processing (NLP) with Python and Cython](https://github.com/explosion/spaCy/)
 * [Understanding word vectors](https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469)
 * [allennlp](https://github.com/allenai/allennlp): An open-source NLP research library, built on PyTorch.
-
+* [Distributed Translation Infrastructure](https://github.com/ivan-zapreev/Distributed-Translation-Infrastructure): The distributed statistical machine translation infrastructure consisting of load balancing, text pre/post-processing and translation services. Written in C++ 11 and utilises multicore CPUs by employing multi-threading, allows for secure SSL/TLS communications.
 ### Machine Learning
 
 * [Theories of Deep Learning (STATS 385)](https://stats385.github.io/readings)
 * [Deep Learning Hardware Limbo](http://timdettmers.com/2017/12/21/deep-learning-hardware-limbo/)
 * [Deep learning signal classification using rtl-sdr dongle](https://github.com/randaller/cnn-rtlsdr)
 * [This is the code](https://github.com/llSourcell/Landing-a-SpaceX-Falcon-Heavy-Rocket) for "Landing a SpaceX Falcon Heavy Rocket" By Siraj Raval on Youtube
-* [pytorch](https://github.com/pytorch/pytorch): Tensors and Dynamic neural networks in Python with strong GPU acceleration a ([tour](http://blog.christianperone.com/2018/03/pytorch-internal-architecture-tour/))
 * [How I implemented iPhone X’s FaceID using Deep Learning in Python.](https://towardsdatascience.com/how-i-implemented-iphone-xs-faceid-using-deep-learning-in-python-d5dbaa128e1d), [repo](https://github.com/normandipalo/faceID_beta)
 * [deepmind](https://deepmind.com/blog/learning-to-generate-images/): Learning to write programs that generate images
 * [Prior Convictions: Black-Box Adversarial Attacks with Bandits and Priors](https://arxiv.org/abs/1807.07978)
@@ -290,7 +293,6 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Google Vizier](https://ai.google/research/pubs/pub46180): A Service for Black-Box Optimization
 * [Notes on installing CUDA, CuDNN and Tensorflow on Manjaro](https://leblancfg.com/installing-cuda-cudnn-tensorflow-nvidia-gtx960.html)
 * [privateml](https://github.com/mortendahl/privateml): Various material around private machine learning, some associated with blog
-* [NALU](https://github.com/Nilabhra/NALU): Neural Arithmetic Logic Units
 * [GAN Lab](https://poloclub.github.io/ganlab/): Play with Generated Adversarial Networks (GANs) in your browser! [repo](https://github.com/poloclub/ganlab)
 * [MTNT](http://www.cs.cmu.edu/~pmichel1/mtnt/): Machine Translation of Noisy Text. [github](https://github.com/pmichel31415/mtnt)
 * [frugally-deep](https://github.com/Dobiasd/frugally-deep): Header-only library for using Keras models in C++.
@@ -307,12 +309,15 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [DeOldify](https://github.com/jantic/DeOldify): A Deep Learning based project for colorizing and restoring old images
 * [BERT](https://github.com/google-research/bert): TensorFlow code and pre-trained models for BERT 
 
-### RNN
+### NN
 
+* [pytorch](https://github.com/pytorch/pytorch): Tensors and Dynamic neural networks in Python with strong GPU acceleration a ([tour](http://blog.christianperone.com/2018/03/pytorch-internal-architecture-tour/))
 * [Handwriting Synthesis](https://github.com/sjvasquez/handwriting-synthesis)
 * [OpenNMT](https://github.com/opennmt/opennmt): Open-Source Neural Machine Translation
 * [vid2vid](https://github.com/NVIDIA/vid2vid): Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
 * [Playing Mortal Kombat with TensorFlow.js. Transfer learning and data augmentation](https://blog.mgechev.com/2018/10/20/transfer-learning-tensorflow-js-data-augmentation-mobile-net/)
+* [NEST](https://github.com/nest/nest-simulator): NEST is a simulator for spiking neural network models that focuses on the dynamics, size and structure of neural systems rather than on the exact morphology of individual neurons.
+* [NALU](https://github.com/Nilabhra/NALU): Neural Arithmetic Logic Units
 
 ### Computer Vision
 
@@ -491,6 +496,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 ### Linear Programming
 
 * [PHPSimplex](http://www.phpsimplex.com/simplex/)
+* [simplex-method](https://github.com/khalibartan/simplex-method): A python implementation for simplex method
 
 ### Discretionary Math
 
@@ -558,7 +564,6 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 
 ### Astronomy
 
-* [HORIZONS Web-Interface](https://ssd.jpl.nasa.gov/horizons.cgi?CGISESSID=f7047642ea793b6fabbd2a9e97319842&s_body=1#top)
 * [Creating an animation demonstrating astronomical parallax in IDL](https://github.com/jradavenport/plx_gif)
 * [Computing a final Tiangong-1 pass with Python](http://rhodesmill.org/brandon/2018/tiangong/)
 * [HST imaging of four gravitationally lensed quasars](https://arxiv.org/pdf/1807.03553.pdf)
@@ -577,6 +582,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 
 ### NASA
 
+* [HORIZONS Web-Interface](https://ssd.jpl.nasa.gov/horizons.cgi?CGISESSID=f7047642ea793b6fabbd2a9e97319842&s_body=1#top)
 * [Tindallgrams](http://tindallgrams.net/): In 1966, as the American space program was working furiously towards a moon landing, Howard W. “Bill” Tindall, Jr., an expert on orbital mechanics, was sent by NASA to MIT to oversee the development of software for the spacecraft guidance systems.
 * [JPL Open Source Rover Project](https://github.com/nasa-jpl/open-source-rover): A build-it-yourself, 6-wheel rover based on the rovers on Mars!
 * [Illustris](https://www.cfa.harvard.edu/imagelist/2014-10) [Simulation of the Universe](https://www.youtube.com/watch?v=A23Ro3kiB1E)
@@ -584,6 +590,8 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Just Another Day on Aerosol Earth](https://earthobservatory.nasa.gov/images/92654/just-another-day-on-aerosol-earth)
 * [Earth at Night](https://earthobservatory.nasa.gov/Features/NightLights)
 * [Where is Parker Solar Probe?](http://parkersolarprobe.jhuapl.edu/The-Mission/index.php#Where-Is-PSP)
+* [Open MCT](https://nasa.github.io/openmct/): is a next-generation mission control framework for visualization of data on desktop and mobile devices - [github](https://github.com/nasa/openmct)
+* [Sawppy](https://github.com/Roger-random/Sawppy_Rover): is a motorized model of Mars rovers Curiosity and Mars 2020. It faithfully reproduces the Rocker-Bogie suspension kinematics of real rovers and is intended to be a hardware platform for future software projects in autonomous operation. Go forth and boldly explore the back yard, Sawppy!
 
 #### SpaceX
 
@@ -728,6 +736,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [pbspro](https://github.com/pbspro/pbspro): An HPC workload manager and job scheduler for desktops, clusters, and clouds.
 * (pt-br) [Lista Maravilhosa de Projetos Open-Source](https://github.com/camilatigre/listamaravilhosaopensource): Lista com links de projetos open-source para os níveis: iniciante, intermediário e avançado. Dividido por linguagem e idiomas!
 * [ghuser.io](https://github.com/ghuser-io/ghuser.io): Better GitHub profiles
+* [MagicBox](https://github.com/unicef/magicbox): A platform that uses real-time data to inform life-saving humanitarian responses to emergency situations.
 
 ### Jobs
 
@@ -751,7 +760,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Creating Effective Job Adverts](https://blog.honest.work/creating-effective-job-adverts/)
 * [Tufts University](https://engineering.tufts.edu/computer-science-positions): Computer Science Employment Opportunities
   
-## Fun
+## General Fun
 
 * [animations with JS](https://state-animations-amsterdam.surge.sh)
 * [3D engine entirely made of MS Excel formulae : Enjoy this Doom.xls file](https://www.gamasutra.com/blogs/CBel/20180208/308549/3D_engine_entirely_made_of_MS_Excel_formulae__Enjoy_this_Doomxls_file_.php)
