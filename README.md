@@ -443,6 +443,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * (pt-br) [codabr_2018](https://github.com/fernandascovino/codabr_2018): Resumo dos workshops do CODA.Br - by Fernanda Scovino
 * (pt-br) [Coda_workshop](https://github.com/Caaddss/coda.br_workshop): Tutorial que será apresentado no Coda.BR - by Caaddss
 * (pt-br) [Glória a Dadoxxx](https://drive.google.com/drive/folders/1-YuwHyurCSRvSnbnVu_iufmh7sAC1OOE): Oficina de dados - by Cecília do Lago
+* (pt-br) [LIKE: UMA COLIGAÇÃO TIPO ASSIM](https://entrevistandodados.wordpress.com/2018/11/12/like-uma-coligacao-tipo-assim/)
 
 #### Datasets
 
