@@ -275,6 +275,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Understanding word vectors](https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469)
 * [allennlp](https://github.com/allenai/allennlp): An open-source NLP research library, built on PyTorch.
 * [Distributed Translation Infrastructure](https://github.com/ivan-zapreev/Distributed-Translation-Infrastructure): The distributed statistical machine translation infrastructure consisting of load balancing, text pre/post-processing and translation services. Written in C++ 11 and utilises multicore CPUs by employing multi-threading, allows for secure SSL/TLS communications.
+
 ### Machine Learning
 
 * [Theories of Deep Learning (STATS 385)](https://stats385.github.io/readings)
@@ -307,7 +308,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Create a containerized machine learning model](https://fedoramagazine.org/create-containerized-machine-learning-model/)
 * [vergml](https://github.com/vergeml/vergeml)
 * [DeOldify](https://github.com/jantic/DeOldify): A Deep Learning based project for colorizing and restoring old images
-* [BERT](https://github.com/google-research/bert): TensorFlow code and pre-trained models for BERT 
+* [BERT](https://github.com/google-research/bert): TensorFlow code and pre-trained models for BERT
 
 ### NN
 
@@ -695,7 +696,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [pyppeteer](https://pypi.org/project/pyppeteer/): Headless chrome/chromium automation library (unofficial port of puppeteer)
 * [RSSHub](https://docs.rsshub.app/en/) is a lightweight and extensible RSS feed aggregator, it's able to generate feeds from pretty much everything.
 * guardian [frontend](https://github.com/guardian/frontend): Source for theguardian.com
-* [proven](https://github.com/dschep/proven): An alternative to Twitter's verified accounts powered by Keybase. 
+* [proven](https://github.com/dschep/proven): An alternative to Twitter's verified accounts powered by Keybase.
 * [umbrella](https://github.com/thi-ng/umbrella): ⛱ Mono-repository of ~50 TypeScript/ES6 projects for modern web development
 * [FreshRSS](https://github.com/FreshRSS/FreshRSS): A free, self-hostable aggregator…
 * [molten API](https://moltenframework.com/v0.5.2/index.html): modern API framework — molten 0.6.0 documentation
@@ -742,7 +743,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 ### Jobs
 
 * [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade): Tools of The Trade, from Hacker News.
-* [Programando na Gringa](https://github.com/lbighetti/programando-na-gringa): Tudo sobre trabalho no exterior 
+* [Programando na Gringa](https://github.com/lbighetti/programando-na-gringa): Tudo sobre trabalho no exterior
 * [ai-jobs](https://ai-jobs.ch/): The AI job site for Switzerland
 * [PoDeixar - O Canadá por quem vive no Canadá](https://www.canadaagora.com/podeixar)
 * [Start a Career at Klarna - Klarna Careers](https://www.klarna.com/careers/)
@@ -765,7 +766,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 
 * [animations with JS](https://state-animations-amsterdam.surge.sh)
 * [3D engine entirely made of MS Excel formulae : Enjoy this Doom.xls file](https://www.gamasutra.com/blogs/CBel/20180208/308549/3D_engine_entirely_made_of_MS_Excel_formulae__Enjoy_this_Doomxls_file_.php)
-* [magabot](https://github.com/cverna/magabot): Twitter bot that retweets magazine articles 
+* [magabot](https://github.com/cverna/magabot): Twitter bot that retweets magazine articles
 * [http://augmentingcognition.com/ltm.html](http://augmentingcognition.com/ltm.html)
 * [Bootable CD + retro game in a tweet](https://www.quaxio.com/bootable_cd_retro_game_tweet/)
 * [Zachtronics | EXAPUNKS](http://www.zachtronics.com/exapunks/)
