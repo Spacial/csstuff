@@ -762,7 +762,8 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [ESO Recruitment](https://recruitment.eso.org/)
 * [Creating Effective Job Adverts](https://blog.honest.work/creating-effective-job-adverts/)
 * [Tufts University](https://engineering.tufts.edu/computer-science-positions): Computer Science Employment Opportunities
-  
+* [ADIDAS](https://careers.adidas-group.com/jobs)
+
 ## General Fun
 
 * [animations with JS](https://state-animations-amsterdam.surge.sh)
