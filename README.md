@@ -115,7 +115,8 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * mozilla [rr](https://github.com/mozilla/rr): is a lightweight tool for recording, replaying and debugging execution of applications (trees of processes and threads). Debugging extends gdb with very efficient reverse-execution, which in combination with standard gdb/x86 features like hardware data watchpoints, makes debugging much more fun.
 * [WinDbg-Samples](https://github.com/Microsoft/WinDbg-Samples): Sample extensions, scripts, and API uses for WinDbg.
 * [How to implement strings](http://beza1e1.tuxen.de/strings.html)
-  
+* [A Better Way to Implement Bit-Fields](https://andrewkelley.me/post/a-better-way-to-implement-bit-fields.html)
+* [The C++ Build Process Explained](https://github.com/green7ea/cpp-compilation/)
 ##### KDE/Qt
 
 * [Qt-CMake-HelloWorld](https://github.com/jasondegraw/Qt-CMake-HelloWorld): A Simple Qt5 Program Built with CMake
@@ -309,7 +310,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [vergml](https://github.com/vergeml/vergeml)
 * [DeOldify](https://github.com/jantic/DeOldify): A Deep Learning based project for colorizing and restoring old images
 * [BERT](https://github.com/google-research/bert): TensorFlow code and pre-trained models for BERT
-
+* [Real-Time Noise Suppression Using Deep Learning](https://devblogs.nvidia.com/nvidia-real-time-noise-suppression-deep-learning/). [Krisp](https://krisp.ai/download.html) app (use noise supression) by [2Hz](https://2hz.ai/index.html) (and how to use the [API](https://blog.2hz.ai/2018/10/01/step-by-step-guide-for-using-2hz-krisp-api/))
 ### NN
 
 * [pytorch](https://github.com/pytorch/pytorch): Tensors and Dynamic neural networks in Python with strong GPU acceleration a ([tour](http://blog.christianperone.com/2018/03/pytorch-internal-architecture-tour/))
