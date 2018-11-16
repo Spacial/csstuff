@@ -74,6 +74,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [TechYaks](https://techyaks.com/)
 * [23 guidelines for writing readable code](https://alemil.com/guidelines-for-writing-readable-code)
 * [What is Systems Programming, Really?](http://willcrichton.net/notes/systems-programming/): Will Crichton
+* [edabit](https://edabit.com/): We're like Duolingo for learning to code.
 
 #### IDEs
 
@@ -117,6 +118,8 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [How to implement strings](http://beza1e1.tuxen.de/strings.html)
 * [A Better Way to Implement Bit-Fields](https://andrewkelley.me/post/a-better-way-to-implement-bit-fields.html)
 * [The C++ Build Process Explained](https://github.com/green7ea/cpp-compilation/)
+* [C Portability Lessons from Weird Machines](https://begriffs.com/posts/2018-11-15-c-portability.html)
+
 ##### KDE/Qt
 
 * [Qt-CMake-HelloWorld](https://github.com/jasondegraw/Qt-CMake-HelloWorld): A Simple Qt5 Program Built with CMake
@@ -196,7 +199,8 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Python Tools for Visual Studio](http://microsoft.github.io/PTVS/)
 * [Asterisks in Python: what they are and how to use them](http://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/)
 * [dissect.cstruct](https://github.com/fox-it/dissect.cstruct): A no-nonsense c-like structure parsing library for Python
-  
+* [Type inference](https://eli.thegreenplace.net/2018/type-inference/)
+
 ##### Presentations
 
 * [Miguel Grinberg - Asynchronous Python for the Complete Beginner](https://speakerdeck.com/pycon2017/miguel-grinberg-asynchronous-python-for-the-complete-beginner)
@@ -311,6 +315,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [DeOldify](https://github.com/jantic/DeOldify): A Deep Learning based project for colorizing and restoring old images
 * [BERT](https://github.com/google-research/bert): TensorFlow code and pre-trained models for BERT
 * [Real-Time Noise Suppression Using Deep Learning](https://devblogs.nvidia.com/nvidia-real-time-noise-suppression-deep-learning/). [Krisp](https://krisp.ai/download.html) app (use noise supression) by [2Hz](https://2hz.ai/index.html) (and how to use the [API](https://blog.2hz.ai/2018/10/01/step-by-step-guide-for-using-2hz-krisp-api/))
+
 ### NN
 
 * [pytorch](https://github.com/pytorch/pytorch): Tensors and Dynamic neural networks in Python with strong GPU acceleration a ([tour](http://blog.christianperone.com/2018/03/pytorch-internal-architecture-tour/))
@@ -563,6 +568,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Physics Travel Guide](https://physicstravelguide.com)
 * [An interactive, explorable explanation about the peculiar magic of sound waves.](https://github.com/joshwcomeau/waveforms)
 * [This program generates bitmaps that are locally similar to the input bitmap](https://github.com/mxgmn/WaveFunctionCollapse)
+* [Walk through an infinite, procedurally generated city](https://github.com/marian42/wavefunctioncollapse)
 * [Quantum mechanics for programmers](http://www.articlesbyaphysicist.com/quantum4prog.html)
 
 ### Astronomy
