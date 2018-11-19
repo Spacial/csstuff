@@ -74,6 +74,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [TechYaks](https://techyaks.com/)
 * [23 guidelines for writing readable code](https://alemil.com/guidelines-for-writing-readable-code)
 * [What is Systems Programming, Really?](http://willcrichton.net/notes/systems-programming/): Will Crichton
+* [edabit](https://edabit.com/): We're like Duolingo for learning to code.
 
 #### IDEs
 
@@ -118,6 +119,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [A Better Way to Implement Bit-Fields](https://andrewkelley.me/post/a-better-way-to-implement-bit-fields.html)
 * [The C++ Build Process Explained](https://github.com/green7ea/cpp-compilation/)
 * [Eyes Above The Waves: Comparing The Quality Of Debug Information Produced By Clang And Gcc](https://robert.ocallahan.org/2018/11/comparing-quality-of-debug-information.html?m=1)
+* [C Portability Lessons from Weird Machines](https://begriffs.com/posts/2018-11-15-c-portability.html)
 
 ##### KDE/Qt
 
@@ -198,7 +200,8 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Python Tools for Visual Studio](http://microsoft.github.io/PTVS/)
 * [Asterisks in Python: what they are and how to use them](http://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/)
 * [dissect.cstruct](https://github.com/fox-it/dissect.cstruct): A no-nonsense c-like structure parsing library for Python
-  
+* [Type inference](https://eli.thegreenplace.net/2018/type-inference/)
+
 ##### Presentations
 
 * [Miguel Grinberg - Asynchronous Python for the Complete Beginner](https://speakerdeck.com/pycon2017/miguel-grinberg-asynchronous-python-for-the-complete-beginner)
@@ -570,6 +573,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Physics Travel Guide](https://physicstravelguide.com)
 * [An interactive, explorable explanation about the peculiar magic of sound waves.](https://github.com/joshwcomeau/waveforms)
 * [This program generates bitmaps that are locally similar to the input bitmap](https://github.com/mxgmn/WaveFunctionCollapse)
+* [Walk through an infinite, procedurally generated city](https://github.com/marian42/wavefunctioncollapse)
 * [Quantum mechanics for programmers](http://www.articlesbyaphysicist.com/quantum4prog.html)
 * [How Multi-Beam Flash Lidar Works — Ouster](https://www.ouster.io/blog-posts/2018/11/8/how-multi-beam-flash-lidar-works)
 
