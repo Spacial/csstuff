@@ -117,6 +117,8 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [How to implement strings](http://beza1e1.tuxen.de/strings.html)
 * [A Better Way to Implement Bit-Fields](https://andrewkelley.me/post/a-better-way-to-implement-bit-fields.html)
 * [The C++ Build Process Explained](https://github.com/green7ea/cpp-compilation/)
+* [Eyes Above The Waves: Comparing The Quality Of Debug Information Produced By Clang And Gcc](https://robert.ocallahan.org/2018/11/comparing-quality-of-debug-information.html?m=1)
+
 ##### KDE/Qt
 
 * [Qt-CMake-HelloWorld](https://github.com/jasondegraw/Qt-CMake-HelloWorld): A Simple Qt5 Program Built with CMake
@@ -311,6 +313,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [DeOldify](https://github.com/jantic/DeOldify): A Deep Learning based project for colorizing and restoring old images
 * [BERT](https://github.com/google-research/bert): TensorFlow code and pre-trained models for BERT
 * [Real-Time Noise Suppression Using Deep Learning](https://devblogs.nvidia.com/nvidia-real-time-noise-suppression-deep-learning/). [Krisp](https://krisp.ai/download.html) app (use noise supression) by [2Hz](https://2hz.ai/index.html) (and how to use the [API](https://blog.2hz.ai/2018/10/01/step-by-step-guide-for-using-2hz-krisp-api/))
+
 ### NN
 
 * [pytorch](https://github.com/pytorch/pytorch): Tensors and Dynamic neural networks in Python with strong GPU acceleration a ([tour](http://blog.christianperone.com/2018/03/pytorch-internal-architecture-tour/))
@@ -320,6 +323,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Playing Mortal Kombat with TensorFlow.js. Transfer learning and data augmentation](https://blog.mgechev.com/2018/10/20/transfer-learning-tensorflow-js-data-augmentation-mobile-net/)
 * [NEST](https://github.com/nest/nest-simulator): NEST is a simulator for spiking neural network models that focuses on the dynamics, size and structure of neural systems rather than on the exact morphology of individual neurons.
 * [NALU](https://github.com/Nilabhra/NALU): Neural Arithmetic Logic Units
+* [tensorspace](https://github.com/tensorspace-team/tensorspace): Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js
 
 ### Computer Vision
 
@@ -371,6 +375,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Uncovering multiscale order in the prime numbers via scattering](http://iopscience.iop.org/article/10.1088/1742-5468/aad6be/meta) - IOPscience
 * [SageMath](https://www.sagemath.org/): Open-Source Mathematical Software System
 * [Trigonoparty!](https://ramesaliyev.com/trigonoparty/)
+* [Compile-time mandelbrot in pure C. Outputs a PGM image file to stdout. Output can be seen at https://twitter.com/David3141593/status/1062468528115200001](https://gist.github.com/DavidBuchanan314/b9230fe7d335a1caf90483dbb00a5375)
 
 ### Theorems
 
@@ -446,6 +451,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * (pt-br) [Coda_workshop](https://github.com/Caaddss/coda.br_workshop): Tutorial que será apresentado no Coda.BR - by Caaddss
 * (pt-br) [Glória a Dadoxxx](https://drive.google.com/drive/folders/1-YuwHyurCSRvSnbnVu_iufmh7sAC1OOE): Oficina de dados - by Cecília do Lago
 * (pt-br) [LIKE: UMA COLIGAÇÃO TIPO ASSIM](https://entrevistandodados.wordpress.com/2018/11/12/like-uma-coligacao-tipo-assim/)
+* [Benford’s Law for Fraud Detection with an Application to all Brazilian Presidential Elections from 2002 to 2018](https://www.r-bloggers.com/benfords-law-for-fraud-detection-with-an-application-to-all-brazilian-presidential-elections-from-2002-to-2018/)
 
 #### Datasets
 
@@ -484,6 +490,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * Introducing [dav1d](http://www.jbkempf.com/blog/post/2018/Introducing-dav1d): a new AV1 decoder
 * [Nvidia drivers on Linux are trash!](https://nvidialinuxdriversaretrash.github.io/)
 * [Consistently Beautiful Visualizations with Altair Themes](https://towardsdatascience.com/consistently-beautiful-visualizations-with-altair-themes-c7f9f889602)
+* [Fun with NFL Stats, Bokeh, and Pandas](https://j253.github.io/blog/fun-with-nfl-stats.html)
 
 ### Calculus
 
@@ -564,6 +571,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [An interactive, explorable explanation about the peculiar magic of sound waves.](https://github.com/joshwcomeau/waveforms)
 * [This program generates bitmaps that are locally similar to the input bitmap](https://github.com/mxgmn/WaveFunctionCollapse)
 * [Quantum mechanics for programmers](http://www.articlesbyaphysicist.com/quantum4prog.html)
+* [How Multi-Beam Flash Lidar Works — Ouster](https://www.ouster.io/blog-posts/2018/11/8/how-multi-beam-flash-lidar-works)
 
 ### Astronomy
 
@@ -608,6 +616,8 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 
 * [Bioinformatics Algorithms | MOOC Bestseller | Phillip Compeau & Pavel Pevzner](http://bioinformaticsalgorithms.com/)
 * [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics): A curated list of awesome Bioinformatics libraries and software.  
+* [OpenBCI](https://openbci.com/): Open Source Biosensing Tools (EEG, EMG, EKG, and more)
+* [Virus Explorer](https://www.hhmi.org/biointeractive/virus-explorer)
 
 ## Geography
 
@@ -713,6 +723,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [BurnBox](https://github.com/mhmughees/burnbox): Self-Revocable Encryption in a World Of Compelled Access
 * (pt-br)[Mapa da Informação](http://mapadainformacao.com.br/)
 * [Why You Need a Network-Wide Ad-Blocker (Part 1)](https://blog.cryptoaustralia.org.au/2018/08/06/why-you-need-network-wide-ad-blocker-pi-hole/)
+* [Algorithms Should Be Designed Like the iPhone](http://nautil.us/issue/66/clockwork/we-need-an-fda-for-algorithms)
 
 ## Philosophy
 
@@ -759,10 +770,12 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [mirr](https://github.com/mzbat/mirr): This is the repository for the Mock Interview and Resume Review Workshop established at Derby Con 2015.
 * [Python Writer](https://docs.google.com/document/d/14uE_d4mU00gLJSZRrk0vSIWYi2BjcxD5oRJgGEEDdxU/) @ OneMonth.com - Documentos Google
 * [Então você quer empreender? Aqui está tudo o que sei](https://medium.com/startup-da-real/ent%C3%A3o-voc%C3%AA-quer-empreender-aqui-est%C3%A1-tudo-o-que-sei-b6fac26f7999)
-* [ESO Recruitment](https://recruitment.eso.org/)
+* [ESO Recruitment](https://recruitment.eso.org/): Eso jobs page.
 * [Creating Effective Job Adverts](https://blog.honest.work/creating-effective-job-adverts/)
 * [Tufts University](https://engineering.tufts.edu/computer-science-positions): Computer Science Employment Opportunities
-* [ADIDAS](https://careers.adidas-group.com/jobs)
+* [ADIDAS](https://careers.adidas-group.com/jobs): Adidas jobs page.
+* [CodingInterviews](https://github.com/jayshah19949596/CodingInterviews): This repository contains coding interviews that I have encountered in company interviews
+* [Steve Blank How to Keep Your Job As Your Company Grows](https://steveblank.com/2018/11/13/its-not-change-you-fear-its-loss/)
 
 ## General Fun
 
@@ -813,6 +826,8 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [This Is The Real Reason We Haven’t Directly Detected Dark Matter](https://medium.com/starts-with-a-bang/this-is-the-real-reason-we-havent-directly-detected-dark-matter-3d04021b314e)
 * [New Proof Shows Infinite Curves Come in Two Types](https://www.quantamagazine.org/new-proof-shows-infinite-curves-come-in-two-types-20181107/)
 * [My Grandfather Thought He Solved a Cosmic Mystery](https://www.theatlantic.com/science/archive/2018/11/science-full-mavericks-like-my-grandfather-was-his-physics-theory-right/574573/)
+* [Medium is a poor choice for blogging – Nikitonsky – Medium](https://medium.com/@nikitonsky/medium-is-a-poor-choice-for-blogging-bb0048d19133)
+* [Hefei Institutes of Physical Science, Chinese Academy of Sciences](http://english.hf.cas.cn/new/news/rn/201811/t20181113_201186.html)
 
 ## Gadgets
 
