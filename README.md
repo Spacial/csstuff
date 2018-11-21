@@ -88,6 +88,10 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Augmenting Agile with Formal Methods](https://www.hillelwayne.com/post/augmenting-agile/)
 * [Open Petri Nets (Part 1) | Azimuth](https://johncarlosbaez.wordpress.com/2018/08/15/open-petri-nets-part-1/)
 
+#### Heuristics
+
+* [Comparison of Metaheuristics](http://www2.cscamm.umd.edu/publications/BookChapter_CS-09-13.pdf)
+
 #### APIs
 
 * [public-apis](https://github.com/toddmotto/public-apis): A collective list of public JSON APIs for use in web development.
@@ -120,6 +124,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [The C++ Build Process Explained](https://github.com/green7ea/cpp-compilation/)
 * [Eyes Above The Waves: Comparing The Quality Of Debug Information Produced By Clang And Gcc](https://robert.ocallahan.org/2018/11/comparing-quality-of-debug-information.html?m=1)
 * [C Portability Lessons from Weird Machines](https://begriffs.com/posts/2018-11-15-c-portability.html)
+* [AFF4 CPP Light v2.0](https://github.com/aff4/aff4-cpp-lite): A lightweight C++/C AFF4 reader library
 
 ##### KDE/Qt
 
@@ -223,6 +228,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [The Zip CPU](https://github.com/ZipCPU/zipcpu): A small, light weight, RISC CPU soft core
 * [BubbleSort-ARM64](https://github.com/Billy-Ellis/BubbleSort-ARM64): Implementation of the BubbleSort algorithm written from scratch in ARM64 assembly
 * Department of Computer Science and Technology: [Capability Hardware Enhanced RISC Instructions (CHERI)](https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/)
+* [chips](https://github.com/floooh/chips): 8-bit chip and system emulators in standalone C headers. [chips-test](https://github.com/floooh/chips-test): Tests and sample code for chips.
 
 ### Eletronics
 
@@ -316,6 +322,9 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [DeOldify](https://github.com/jantic/DeOldify): A Deep Learning based project for colorizing and restoring old images
 * [BERT](https://github.com/google-research/bert): TensorFlow code and pre-trained models for BERT
 * [Real-Time Noise Suppression Using Deep Learning](https://devblogs.nvidia.com/nvidia-real-time-noise-suppression-deep-learning/). [Krisp](https://krisp.ai/download.html) app (use noise supression) by [2Hz](https://2hz.ai/index.html) (and how to use the [API](https://blog.2hz.ai/2018/10/01/step-by-step-guide-for-using-2hz-krisp-api/))
+* [Automatic Differentiation in Machine Learning: a Survey](http://jmlr.org/papers/volume18/17-468/17-468.pdf)
+* [CleverHans](https://github.com/tensorflow/cleverhans): An adversarial example library for constructing attacks, building defenses, and benchmarking both
+* [Self-Driving Pi Car](https://github.com/felipessalvatore/self_driving_pi_car): A deep neural network based self-driving car, that combines Lego Mindstorms NXT with the computational power of a Raspberry Pi 3.
 
 ### NN
 
@@ -327,6 +336,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [NEST](https://github.com/nest/nest-simulator): NEST is a simulator for spiking neural network models that focuses on the dynamics, size and structure of neural systems rather than on the exact morphology of individual neurons.
 * [NALU](https://github.com/Nilabhra/NALU): Neural Arithmetic Logic Units
 * [tensorspace](https://github.com/tensorspace-team/tensorspace): Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js
+* [Getting to Know Keras for New Data Scientists](https://opendatascience.com/keras-for-new-data-scientists/)
 
 ### Computer Vision
 
@@ -335,8 +345,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [OpenSimpleLidar](https://github.com/iliasam/OpenSimpleLidar): Open Hardware scanning laser rangefinder ([howto](https://hackaday.io/project/20628-open-simple-lidar))
 * [Monitoring Road Traffic with Python](http://andrew.carterlunn.co.uk/programming/2017/08/24/monitoring-road-traffic-with-python.html)
 * [MUNIT](https://github.com/nvlabs/munit): Multimodal UNsupervised Image-to-image Translation
-* [Pythia](https://github.com/facebookresearch/pythia): A software suite for Visual Question Answering.
-* [OpenCV 4.0](https://opencv.org/opencv-4-0-0.html).
+* [Pythia](https://github.com/facebookresearch/pythia): A software suite for Visual Question Answering
 * [PyImageSearch](https://www.pyimagesearch.com/)- Be awesome at OpenCV, Python, deep learning, and computer vision. [Tracking multiple objects with OpenCV](https://www.pyimagesearch.com/2018/08/06/tracking-multiple-objects-with-opencv/)
 * [Introduction to Computer Vision by Intel](https://software.intel.com/en-us/articles/introduction-to-computer-vision):
   * [Video-Analytics-OpenCV](https://github.com/intel-iot-devkit/Video-Analytics-OpenCV): Python video analytics samples with OpenCV*
@@ -394,6 +403,10 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Graphical Linear Algebra](https://graphicallinearalgebra.net)
 * [Set Theory and Algebra in Computer Science A Gentle Introduction to Mathematical Modeling](https://pdfs.semanticscholar.org/d106/6b6de601c1d7d5af25af3f7091bc7ad3ad51.pdf)
 * [Viviani](https://www.geogebra.org/m/phxkpwde):
+
+#### Security
+
+* [Shamir's Secret Sharing Scheme](https://ericrafaloff.com/shamirs-secret-sharing-scheme/)
 
 ### Matrices
 
@@ -530,7 +543,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [6.886 Graph Analytics Spring 2018](https://people.csail.mit.edu/jshun/6886-s18/)
 * [d3-dag](https://github.com/erikbrinkman/d3-dag): Layout algorithms for visualizing directed acylic graphs
 
-### Coding
+### Math Coding
 
 * [computer graphics experiments](http://iquilezles.org/www/index.htm)
 * [The Mathematics of Machine Learning](https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568)
@@ -551,7 +564,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [sourcegraph](https://github.com/sourcegraph/sourcegraph): Code search and intelligence, self-hosted and scalable
 * [trigonoparty](https://github.com/ramesaliyev/trigonoparty): Simple Trigonometry Visualisation with Pure JavaScript.
 
-### Fun
+### Math Fun
 
 * [The Corpus Christi Prime](https://friendlyfieldsandopenmaps.com/2017/09/08/the-corpus-christi-prime/)
 * [Blockchains from the ground up: Part 1](http://johnmathews.eu/blockchain-introduction.html)
@@ -630,6 +643,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [IRIS: mww8.2 Fiji Islands Region](http://ds.iris.edu/ds/nodes/dmc/tools/event/10937540)
 * [S2Geometry](http://s2geometry.io/): S2 is a library for spherical geometry that aims to have the same robustness, flexibility, and performance as the very best planar geometry libraries [github](https://github.com/google/s2geometry).
 * [Advice From a Geographer](https://undark.org/article/book-review-bonnett-beyond-the-map/): Put Away the Map
+* [Watching volcanoes from space](https://changingtheclimateblog.wordpress.com/2018/11/14/watching-volcanoes-from-space/)
 
 ## On-line Services
 
@@ -757,8 +771,11 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * (pt-br) [Lista Maravilhosa de Projetos Open-Source](https://github.com/camilatigre/listamaravilhosaopensource): Lista com links de projetos open-source para os níveis: iniciante, intermediário e avançado. Dividido por linguagem e idiomas!
 * [ghuser.io](https://github.com/ghuser-io/ghuser.io): Better GitHub profiles
 * [MagicBox](https://github.com/unicef/magicbox): A platform that uses real-time data to inform life-saving humanitarian responses to emergency situations.
-* (pt-br) a [list](https://github.com/ramalho/cdc) of code of conduct.
 
+### kids
+
+* [Scratch](https://scratch.mit.edu/): With Scratch, you can program your own interactive stories, games, and animations — and share your creations with others in the online community.
+  
 ### Jobs
 
 * [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade): Tools of The Trade, from Hacker News.
@@ -840,3 +857,4 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 
 * [NumWorks](https://www.numworks.com/specs/)
 * [It's an Anker Charging Party In Today's Amazon Gold Box, Including USB-C Gear](https://kinjadeals.theinventory.com/its-an-anker-charging-party-in-todays-amazon-gold-box-1829208785)
+
