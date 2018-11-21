@@ -505,6 +505,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Isometries of Hyperbolic 3-Space](https://www.shadertoy.com/view/MstcWr)
 * [Generating Random Points in a Sphere](https://karthikkaranth.me/blog/generating-random-points-in-a-sphere/) by [Karthik Karanth](https://github.com/medakk)
 * [Polyhedra Viewer](https://polyhedra.tessera.li/)
+* [Hopf fibration](https://en.wikipedia.org/wiki/Hopf_fibration): In the mathematical field of differential topology, the Hopf fibration (also known as the Hopf bundle or Hopf map) describes a 3-sphere (a hypersphere in four-dimensional space) in terms of circles and an ordinary sphere.
 
 ### Linear Programming
 
