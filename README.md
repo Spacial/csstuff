@@ -53,6 +53,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Prototool](https://github.com/uber/prototool): Your Swiss Army Knife for Protocol Buffers.
 * [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
 * [Computer Networking](http://cnp3book.info.ucl.ac.be/): Principles, Protocols and Practice is an open-source ebook that explains the main principles of Computer Networking and the key protocols that are used on the Internet.
+* [tcpkit](https://github.com/git-hulk/tcpkit): A tool analyzes tcp packets with Lua.
 
 ---
 
@@ -75,6 +76,8 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [23 guidelines for writing readable code](https://alemil.com/guidelines-for-writing-readable-code)
 * [What is Systems Programming, Really?](http://willcrichton.net/notes/systems-programming/): Will Crichton
 * [edabit](https://edabit.com/): We're like Duolingo for learning to code.
+* [Concurrency Glossary](https://slikts.github.io/concurrency-glossa): This is an informal top-level overview of terms used in concurrent computing - [github](https://github.com/slikts/concurrency-glossary).
+* [Mega Project List](https://github.com/karan/Projects): A list of practical projects that anyone can solve in any programming language.
 
 #### IDEs
 
@@ -626,6 +629,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 #### SpaceX
 
 * [SpaceX-API](https://github.com/r-spacex/SpaceX-API): Open Source REST API for rocket, core, capsule, pad, and launch data
+* [The Falcon Heavy](https://bps.space/falcon-heavy) model is a technology demonstrator for BPS.space. The intention is to showcase the advancement possible at the model scale.
 
 ## Chemistry
 
@@ -800,6 +804,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [ADIDAS](https://careers.adidas-group.com/jobs): Adidas jobs page.
 * [CodingInterviews](https://github.com/jayshah19949596/CodingInterviews): This repository contains coding interviews that I have encountered in company interviews
 * [Steve Blank How to Keep Your Job As Your Company Grows](https://steveblank.com/2018/11/13/its-not-change-you-fear-its-loss/)
+* [CV Compiler](https://cvcompiler.com/): We analyzed 1M tech resumes to create an online revision tool that would scan your dev resume and indicate its weak points in real time.
 
 ## General Fun
 
@@ -852,9 +857,9 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [My Grandfather Thought He Solved a Cosmic Mystery](https://www.theatlantic.com/science/archive/2018/11/science-full-mavericks-like-my-grandfather-was-his-physics-theory-right/574573/)
 * [Medium is a poor choice for blogging – Nikitonsky – Medium](https://medium.com/@nikitonsky/medium-is-a-poor-choice-for-blogging-bb0048d19133)
 * [Hefei Institutes of Physical Science, Chinese Academy of Sciences](http://english.hf.cas.cn/new/news/rn/201811/t20181113_201186.html)
+* [Why Aren't There C Conferences?](https://nullprogram.com/blog/2018/11/21/)
 
 ## Gadgets
 
 * [NumWorks](https://www.numworks.com/specs/)
 * [It's an Anker Charging Party In Today's Amazon Gold Box, Including USB-C Gear](https://kinjadeals.theinventory.com/its-an-anker-charging-party-in-todays-amazon-gold-box-1829208785)
-
