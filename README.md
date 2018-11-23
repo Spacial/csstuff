@@ -126,6 +126,42 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Qt-CMake-HelloWorld](https://github.com/jasondegraw/Qt-CMake-HelloWorld): A Simple Qt5 Program Built with CMake
 * [Atelier](https://github.com/kde/atelier): Open Source 3D Printing Host - User Interface
 
+#### Python
+
+* [Think Python](http://greenteapress.com/wp/think-python-2e/) by [AllenDowney](https://github.com/AllenDowney), including [repo](https://github.com/AllenDowney/ThinkPython2)
+* [An O(ND) Difference Algorithm and Its Variations](http://blog.robertelder.org/diff-algorithm/)
+* [Modular visual interface for GDB in Python](https://github.com/cyrus-and/gdb-dashboard)
+* [The Jupyter Notebooks behind: "A Whirlwind Tour of Python"](https://github.com/jakevdp/WhirlwindTourOfPython)
+* [Violencia Rio de Janeiro](https://github.com/rogeriochaves/notebooks/blob/master/Violencia%20Rio%20de%20Janeiro.ipynb) (pt-br)
+* [Python+Processing code for creating a dotmap of every person in Brazil, color-coded by race](https://github.com/zynphull/RacialDotMap-Brazil/)
+* [Python & Async Simplified](https://www.aeracode.org/2018/02/19/python-async-simplified/)
+* [Python Plotting for Exploratory Data Analysis](http://pythonplot.com)
+* [A curated list of awesome Python frameworks, libraries, software and resources](https://github.com/vinta/awesome-python#authentication)
+* [Coconut Lang](https://github.com/evhub/coconut)
+* [Python 3.7: Introducing Data Classes](https://blog.jetbrains.com/pycharm/2018/04/python-37-introducing-data-class/)
+* [Replacing 90s C Linux Utilities With Python](https://matt.sh/netmatt)
+* [Freezing Python’s Dependency Hell in 2018](https://tech.instacart.com/freezing-pythons-dependency-hell-in-2018-f1076d625241?gi=945babc43d8)
+* [faust](https://github.com/robinhood/faust): Python Stream Processing
+* [How to escape async/await hell – freeCodeCamp](https://medium.freecodecamp.org/avoiding-the-async-await-hell-c77a0fb71c4c)
+* [black](https://github.com/ambv/black/): The uncompromising Python code formatter
+* [The Future of Notebooks: Lessons from JupyterCon](http://willcrichton.net/notes/lessons-from-jupytercon/)
+* [python tutorials](https://nealcaren.github.io/python-tutorials/)
+* [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): All Algorithms implemented in Python
+* [Bowler](https://pybowler.io/): Safe code refactoring for modern Python
+* [wallaroo](https://github.com/WallarooLabs/wallaroo): Build and scale real-time data applications as easily as writing a Python script - by [wallaroo labs](https://www.wallaroolabs.com/)
+* Free Educational eBook: [Learn How To Program in Python 3](https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python)
+* [Python Tools for Visual Studio](http://microsoft.github.io/PTVS/)
+* [Asterisks in Python: what they are and how to use them](http://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/)
+* [dissect.cstruct](https://github.com/fox-it/dissect.cstruct): A no-nonsense c-like structure parsing library for Python
+* [Type inference](https://eli.thegreenplace.net/2018/type-inference/)
+
+##### Presentations
+
+* [Miguel Grinberg - Asynchronous Python for the Complete Beginner](https://speakerdeck.com/pycon2017/miguel-grinberg-asynchronous-python-for-the-complete-beginner)
+* [The Future of Python Dependency Management](https://speakerdeck.com/kennethreitz/the-future-of-python-dependency-management)
+* [Beautiful folds](https://github.com/Gabriel439/slides/blob/master/munihac/foldmap.md) commonly arise in parallel/distributed programming
+* [I Don't like notebooks](https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/preview?slide=id.g362da58057_0_1)
+
 #### Others
 
 * Scala:
@@ -173,41 +209,11 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * **Mercurial**:
   * [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos.
 
-#### Python
+#### Software Engenieering
 
-* [Think Python](http://greenteapress.com/wp/think-python-2e/) by [AllenDowney](https://github.com/AllenDowney), including [repo](https://github.com/AllenDowney/ThinkPython2)
-* [An O(ND) Difference Algorithm and Its Variations](http://blog.robertelder.org/diff-algorithm/)
-* [Modular visual interface for GDB in Python](https://github.com/cyrus-and/gdb-dashboard)
-* [The Jupyter Notebooks behind: "A Whirlwind Tour of Python"](https://github.com/jakevdp/WhirlwindTourOfPython)
-* [Violencia Rio de Janeiro](https://github.com/rogeriochaves/notebooks/blob/master/Violencia%20Rio%20de%20Janeiro.ipynb) (pt-br)
-* [Python+Processing code for creating a dotmap of every person in Brazil, color-coded by race](https://github.com/zynphull/RacialDotMap-Brazil/)
-* [Python & Async Simplified](https://www.aeracode.org/2018/02/19/python-async-simplified/)
-* [Python Plotting for Exploratory Data Analysis](http://pythonplot.com)
-* [A curated list of awesome Python frameworks, libraries, software and resources](https://github.com/vinta/awesome-python#authentication)
-* [Coconut Lang](https://github.com/evhub/coconut)
-* [Python 3.7: Introducing Data Classes](https://blog.jetbrains.com/pycharm/2018/04/python-37-introducing-data-class/)
-* [Replacing 90s C Linux Utilities With Python](https://matt.sh/netmatt)
-* [Freezing Python’s Dependency Hell in 2018](https://tech.instacart.com/freezing-pythons-dependency-hell-in-2018-f1076d625241?gi=945babc43d8)
-* [faust](https://github.com/robinhood/faust): Python Stream Processing
-* [How to escape async/await hell – freeCodeCamp](https://medium.freecodecamp.org/avoiding-the-async-await-hell-c77a0fb71c4c)
-* [black](https://github.com/ambv/black/): The uncompromising Python code formatter
-* [The Future of Notebooks: Lessons from JupyterCon](http://willcrichton.net/notes/lessons-from-jupytercon/)
-* [python tutorials](https://nealcaren.github.io/python-tutorials/)
-* [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): All Algorithms implemented in Python
-* [Bowler](https://pybowler.io/): Safe code refactoring for modern Python
-* [wallaroo](https://github.com/WallarooLabs/wallaroo): Build and scale real-time data applications as easily as writing a Python script - by [wallaroo labs](https://www.wallaroolabs.com/)
-* Free Educational eBook: [Learn How To Program in Python 3](https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python)
-* [Python Tools for Visual Studio](http://microsoft.github.io/PTVS/)
-* [Asterisks in Python: what they are and how to use them](http://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/)
-* [dissect.cstruct](https://github.com/fox-it/dissect.cstruct): A no-nonsense c-like structure parsing library for Python
-* [Type inference](https://eli.thegreenplace.net/2018/type-inference/)
-
-##### Presentations
-
-* [Miguel Grinberg - Asynchronous Python for the Complete Beginner](https://speakerdeck.com/pycon2017/miguel-grinberg-asynchronous-python-for-the-complete-beginner)
-* [The Future of Python Dependency Management](https://speakerdeck.com/kennethreitz/the-future-of-python-dependency-management)
-* [Beautiful folds](https://github.com/Gabriel439/slides/blob/master/munihac/foldmap.md) commonly arise in parallel/distributed programming
-* [I Don't like notebooks](https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/preview?slide=id.g362da58057_0_1)
+* [UML - Class Diagram](https://www.tutorialspoint.com/uml/uml_class_diagram.htm)
+* [UML 2 Class Diagrams](http://www.agilemodeling.com/artifacts/classDiagram.htm): An Agile Introduction
+* [Object-Oriented Design Concepts in UML](https://www.uml-diagrams.org/uml-object-oriented-concepts.html)
 
 ---
 
@@ -659,6 +665,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [svgs2ttf](https://github.com/pteromys/svgs2ttf): Bundle SVG images into a TTF via FontForge.
 * [Field Play](https://anvaka.github.io/fieldplay/?cx=7.5099&cy=0.05370000000000008&w=8.5428&h=8.5428&dt=0.01&fo=0.998&dp=0.009&cm=1)
 * [Linux Find Out Video Card GPU Memory RAM Size Using Command Line](https://www.cyberciti.biz/faq/howto-find-linux-vga-video-card-ram/)
+* [How does a GPU shader core work?](https://aras-p.info/texts/files/2018Academy%20-%20GPU.pdf)
 
 ### Augmented Reality
 
@@ -709,6 +716,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [The Encyclopedia of Human-Computer Interaction, 2nd Ed.](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed)
 * [GNU Unifont Glyphs](http://www.unifoundry.com/unifont/index.html)
 * [Awesome Accessibility](https://github.com/brunopulis/awesome-a11y): A curate list about A11Y
+* [eDEX-UI](https://github.com/GitSquared/edex-ui): A science fiction desktop running everywhere. Awesome.
 
 ### web
 
