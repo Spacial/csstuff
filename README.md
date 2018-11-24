@@ -206,6 +206,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
   * [gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service.
   * [A Git Horror Story](https://mikegerwitz.com/papers/git-horror-story): Repository Integrity With Signed Commits. How to use git securely (signing commits)
   * [gitea](https://github.com/go-gitea/gitea): Git with a cup of tea, painless self-hosted git service
+  * [gitless](https://gitless.com): A version control system built on top of Git [github](https://github.com/sdg-mit/gitless).
 * **Mercurial**:
   * [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos.
 
