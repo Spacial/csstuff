@@ -78,13 +78,17 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [23 guidelines for writing readable code](https://alemil.com/guidelines-for-writing-readable-code)
 * [What is Systems Programming, Really?](http://willcrichton.net/notes/systems-programming/): Will Crichton
 * [edabit](https://edabit.com/): We're like Duolingo for learning to code.
+* [Concurrency Glossary](https://slikts.github.io/concurrency-glossa): This is an informal top-level overview of terms used in concurrent computing - [github](https://github.com/slikts/concurrency-glossary).
+* [Mega Project List](https://github.com/karan/Projects): A list of practical projects that anyone can solve in any programming language.
+* [How to visualize decision trees](http://explained.ai/decision-tree-viz/index.html)
 
 #### IDEs
 
 * [geany-dark-scheme](https://github.com/Wayn0/geany-dark-scheme): Dark syntax theme for the Geany text editor.
 * [vscodium](https://github.com/VSCodium/vscodium): binary releases of VS Code without MS branding/telemetry/licensing
-* [awesome-vscode](https://github.com/viatsko/awesome-vscode): art A curated list of delightful VS Code packages and resources.
+  * [awesome-vscode](https://github.com/viatsko/awesome-vscode): art A curated list of delightful VS Code packages and resources.
   * [Why I wrote 33 VSCode extensions and how I manage them](https://medium.com/@fabiospampinato/why-i-wrote-33-vscode-extensions-and-how-i-manage-them-cb61df05e154)
+  * [VS Code Live Share plugin](https://fedoramagazine.org/vs-code-live-share-plugin/)
 
 #### Formal Methods
 
@@ -185,8 +189,9 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
   * [PortingCToRust](https://wiki.alopex.li/PortingCToRust)
 * JavaScript:
   * [The JavaScript Handbook](https://jshandbook.com/)
-* [How to visualize decision trees](http://explained.ai/decision-tree-viz/index.html)
+
 * [dafny](https://github.com/Microsoft/dafny): Dafny is a verification-aware programming language
+* [nim](https://nim-lang.org/): Efficient and expressive programming. [github](https://github.com/nim-lang/nim)
 
 #### Version Control
 
@@ -209,8 +214,18 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
   * [gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service.
   * [A Git Horror Story](https://mikegerwitz.com/papers/git-horror-story): Repository Integrity With Signed Commits. How to use git securely (signing commits)
   * [gitea](https://github.com/go-gitea/gitea): Git with a cup of tea, painless self-hosted git service
+<<<<<<< HEAD
+  * [Getting Started - Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
+  * [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
+  * [Learn git branching](https://learngitbranching.js.org/): An interactive git visualization to challenge and educate! [github](https://github.com/pcottle/learnGitBranching).
+  
+=======
   * [gitless](https://gitless.com): A version control system built on top of Git [github](https://github.com/sdg-mit/gitless).
+<<<<<<< HEAD
   * [.gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
+=======
+>>>>>>> 43fb7d5bb07e91a8146d5abcf8bded9b948d9163
+>>>>>>> c99365aedd63b48d152ecce60450145dd3c64e22
 * **Mercurial**:
   * [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos.
 
@@ -330,8 +345,19 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [DeOldify](https://github.com/jantic/DeOldify): A Deep Learning based project for colorizing and restoring old images
 * [BERT](https://github.com/google-research/bert): TensorFlow code and pre-trained models for BERT
 * [Real-Time Noise Suppression Using Deep Learning](https://devblogs.nvidia.com/nvidia-real-time-noise-suppression-deep-learning/). [Krisp](https://krisp.ai/download.html) app (use noise supression) by [2Hz](https://2hz.ai/index.html) (and how to use the [API](https://blog.2hz.ai/2018/10/01/step-by-step-guide-for-using-2hz-krisp-api/))
+<<<<<<< HEAD
+* [Automatic Differentiation in Machine Learning: a Survey](http://jmlr.org/papers/volume18/17-468/17-468.pdf)
+* [CleverHans](https://github.com/tensorflow/cleverhans): An adversarial example library for constructing attacks, building defenses, and benchmarking both
+* [Self-Driving Pi Car](https://github.com/felipessalvatore/self_driving_pi_car): A deep neural network based self-driving car, that combines Lego Mindstorms NXT with the computational power of a Raspberry Pi 3.
+* [ergo](https://github.com/evilsocket/ergo): A tool that makes deep learning with Keras easier.
+* [GANDissect](https://github.com/CSAILVision/GANDissect): Pytorch-based tools for visualizing and understanding the neurons of a GAN.
+=======
 * [Code snippets created for the PyTorch discussion board](https://github.com/ptrblck/pytorch_misc)
+<<<<<<< HEAD
 * [reinforcement_learning](https://github.com/r0zetta/reinforcement_learning): Reinforcement learning experiments and demos.
+=======
+>>>>>>> 43fb7d5bb07e91a8146d5abcf8bded9b948d9163
+>>>>>>> c99365aedd63b48d152ecce60450145dd3c64e22
 
 ### NN
 
@@ -361,7 +387,8 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [soccer_realtime.ipynb](https://github.com/priya-dwivedi/Deep-Learning/blob/master/soccer_team_prediction/soccer_realtime.ipynb) · priya-dwivedi/Deep-Learning
 * [reconhecimento-expressao-facial-debate](https://github.com/estadao/reconhecimento-expressao-facial-debate): Código para a matéria que analisa as expressões faciais dos candidatos à Presidência de 2018 durante o debate realizado na TV Gazeta
 * (pt-br)[Simples reconhecimento facial](https://github.com/saulocatharino/reconhecimento_facial)
-  
+* [ergo-planes-detector](https://github.com/evilsocket/ergo-planes-detector): An ergo based project that relies on a convolutional neural network to detect airplanes from satellite imagery.
+
 #### Python DL
 
 *Frameworks for Neural Networks and Deep Learning. See: [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning).*
@@ -567,6 +594,9 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [vscodium](https://github.com/VSCodium/vscodium): binary releases of VS Code without MS branding/telemetry/licensing
 * [sourcegraph](https://github.com/sourcegraph/sourcegraph): Code search and intelligence, self-hosted and scalable
 * [trigonoparty](https://github.com/ramesaliyev/trigonoparty): Simple Trigonometry Visualisation with Pure JavaScript.
+* [An Intro to Integer Programming for Engineers: Simplified Bus Scheduling](https://blog.remix.com/an-intro-to-integer-programming-for-engineers-simplified-bus-scheduling-bd3d64895e92)
+* [Solving NP-Hard Problems the Easy Way with Local Search](https://blog.remix.com/solving-np-hard-problems-the-easy-way-with-local-search-76f842797b?gi=8631b5280422)
+* [Remix’s Isochrone Visualizes Travel Time](https://blog.remix.com/remixs-isochrone-visualizes-travel-time-e703b9f929d8)
 
 ### Fun
 
@@ -576,6 +606,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Recreating the Vertigo poster](https://www.johndcook.com/blog/2017/02/14/recreating-the-vertigo-poster/)
 * [Hexagon-hard-way.swift](https://gist.github.com/mxcl/8a2d9c1b1c0063f2a71e24f9fe045d43)
 * [Introducing the Aqua Screenshot Library](https://512pixels.net/2018/08/introducing-the-aqua-screenshot-library/)
+* [Math and Analogies](https://betterexplained.com/articles/math-and-analogies/)
 
 ### Music
 
@@ -803,6 +834,11 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [ADIDAS](https://careers.adidas-group.com/jobs): Adidas jobs page.
 * [CodingInterviews](https://github.com/jayshah19949596/CodingInterviews): This repository contains coding interviews that I have encountered in company interviews
 * [Steve Blank How to Keep Your Job As Your Company Grows](https://steveblank.com/2018/11/13/its-not-change-you-fear-its-loss/)
+<<<<<<< HEAD
+* [CV Compiler](https://cvcompiler.com/): We analyzed 1M tech resumes to create an online revision tool that would scan your dev resume and indicate its weak points in real time.
+* [Siemens Careers](https://jobs.siemens-info.com/)
+=======
+>>>>>>> 43fb7d5bb07e91a8146d5abcf8bded9b948d9163
 
 ## General Fun
 
@@ -855,6 +891,11 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [My Grandfather Thought He Solved a Cosmic Mystery](https://www.theatlantic.com/science/archive/2018/11/science-full-mavericks-like-my-grandfather-was-his-physics-theory-right/574573/)
 * [Medium is a poor choice for blogging – Nikitonsky – Medium](https://medium.com/@nikitonsky/medium-is-a-poor-choice-for-blogging-bb0048d19133)
 * [Hefei Institutes of Physical Science, Chinese Academy of Sciences](http://english.hf.cas.cn/new/news/rn/201811/t20181113_201186.html)
+<<<<<<< HEAD
+* [Why Aren't There C Conferences?](https://nullprogram.com/blog/2018/11/21/)
+* [You Snooze, You Lose: Insurers Make The Old Adage Literally True](https://www.propublica.org/article/you-snooze-you-lose-insurers-make-the-old-adage-literally-true)
+=======
+>>>>>>> 43fb7d5bb07e91a8146d5abcf8bded9b948d9163
 
 ## Gadgets
 
