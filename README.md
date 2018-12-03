@@ -53,7 +53,6 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Prototool](https://github.com/uber/prototool): Your Swiss Army Knife for Protocol Buffers.
 * [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
 * [Computer Networking](http://cnp3book.info.ucl.ac.be/): Principles, Protocols and Practice is an open-source ebook that explains the main principles of Computer Networking and the key protocols that are used on the Internet.
-* [tcpkit](https://github.com/git-hulk/tcpkit): A tool analyzes tcp packets with Lua.
 
 ---
 
@@ -76,9 +75,12 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [23 guidelines for writing readable code](https://alemil.com/guidelines-for-writing-readable-code)
 * [What is Systems Programming, Really?](http://willcrichton.net/notes/systems-programming/): Will Crichton
 * [edabit](https://edabit.com/): We're like Duolingo for learning to code.
+<<<<<<< HEAD
 * [Concurrency Glossary](https://slikts.github.io/concurrency-glossa): This is an informal top-level overview of terms used in concurrent computing - [github](https://github.com/slikts/concurrency-glossary).
 * [Mega Project List](https://github.com/karan/Projects): A list of practical projects that anyone can solve in any programming language.
 * [How to visualize decision trees](http://explained.ai/decision-tree-viz/index.html)
+=======
+>>>>>>> 43fb7d5bb07e91a8146d5abcf8bded9b948d9163
 
 #### IDEs
 
@@ -92,10 +94,6 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 
 * [Augmenting Agile with Formal Methods](https://www.hillelwayne.com/post/augmenting-agile/)
 * [Open Petri Nets (Part 1) | Azimuth](https://johncarlosbaez.wordpress.com/2018/08/15/open-petri-nets-part-1/)
-
-#### Heuristics
-
-* [Comparison of Metaheuristics](http://www2.cscamm.umd.edu/publications/BookChapter_CS-09-13.pdf)
 
 #### APIs
 
@@ -129,7 +127,6 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [The C++ Build Process Explained](https://github.com/green7ea/cpp-compilation/)
 * [Eyes Above The Waves: Comparing The Quality Of Debug Information Produced By Clang And Gcc](https://robert.ocallahan.org/2018/11/comparing-quality-of-debug-information.html?m=1)
 * [C Portability Lessons from Weird Machines](https://begriffs.com/posts/2018-11-15-c-portability.html)
-* [AFF4 CPP Light v2.0](https://github.com/aff4/aff4-cpp-lite): A lightweight C++/C AFF4 reader library
 
 ##### KDE/Qt
 
@@ -217,10 +214,14 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
   * [gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service.
   * [A Git Horror Story](https://mikegerwitz.com/papers/git-horror-story): Repository Integrity With Signed Commits. How to use git securely (signing commits)
   * [gitea](https://github.com/go-gitea/gitea): Git with a cup of tea, painless self-hosted git service
+<<<<<<< HEAD
   * [Getting Started - Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
   * [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
   * [Learn git branching](https://learngitbranching.js.org/): An interactive git visualization to challenge and educate! [github](https://github.com/pcottle/learnGitBranching).
   
+=======
+  * [gitless](https://gitless.com): A version control system built on top of Git [github](https://github.com/sdg-mit/gitless).
+>>>>>>> 43fb7d5bb07e91a8146d5abcf8bded9b948d9163
 * **Mercurial**:
   * [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos.
 
@@ -244,7 +245,6 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [The Zip CPU](https://github.com/ZipCPU/zipcpu): A small, light weight, RISC CPU soft core
 * [BubbleSort-ARM64](https://github.com/Billy-Ellis/BubbleSort-ARM64): Implementation of the BubbleSort algorithm written from scratch in ARM64 assembly
 * Department of Computer Science and Technology: [Capability Hardware Enhanced RISC Instructions (CHERI)](https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/)
-* [chips](https://github.com/floooh/chips): 8-bit chip and system emulators in standalone C headers. [chips-test](https://github.com/floooh/chips-test): Tests and sample code for chips.
 
 ### Eletronics
 
@@ -338,11 +338,15 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [DeOldify](https://github.com/jantic/DeOldify): A Deep Learning based project for colorizing and restoring old images
 * [BERT](https://github.com/google-research/bert): TensorFlow code and pre-trained models for BERT
 * [Real-Time Noise Suppression Using Deep Learning](https://devblogs.nvidia.com/nvidia-real-time-noise-suppression-deep-learning/). [Krisp](https://krisp.ai/download.html) app (use noise supression) by [2Hz](https://2hz.ai/index.html) (and how to use the [API](https://blog.2hz.ai/2018/10/01/step-by-step-guide-for-using-2hz-krisp-api/))
+<<<<<<< HEAD
 * [Automatic Differentiation in Machine Learning: a Survey](http://jmlr.org/papers/volume18/17-468/17-468.pdf)
 * [CleverHans](https://github.com/tensorflow/cleverhans): An adversarial example library for constructing attacks, building defenses, and benchmarking both
 * [Self-Driving Pi Car](https://github.com/felipessalvatore/self_driving_pi_car): A deep neural network based self-driving car, that combines Lego Mindstorms NXT with the computational power of a Raspberry Pi 3.
 * [ergo](https://github.com/evilsocket/ergo): A tool that makes deep learning with Keras easier.
 * [GANDissect](https://github.com/CSAILVision/GANDissect): Pytorch-based tools for visualizing and understanding the neurons of a GAN.
+=======
+* [Code snippets created for the PyTorch discussion board](https://github.com/ptrblck/pytorch_misc)
+>>>>>>> 43fb7d5bb07e91a8146d5abcf8bded9b948d9163
 
 ### NN
 
@@ -354,7 +358,6 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [NEST](https://github.com/nest/nest-simulator): NEST is a simulator for spiking neural network models that focuses on the dynamics, size and structure of neural systems rather than on the exact morphology of individual neurons.
 * [NALU](https://github.com/Nilabhra/NALU): Neural Arithmetic Logic Units
 * [tensorspace](https://github.com/tensorspace-team/tensorspace): Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js
-* [Getting to Know Keras for New Data Scientists](https://opendatascience.com/keras-for-new-data-scientists/)
 
 ### Computer Vision
 
@@ -363,7 +366,8 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [OpenSimpleLidar](https://github.com/iliasam/OpenSimpleLidar): Open Hardware scanning laser rangefinder ([howto](https://hackaday.io/project/20628-open-simple-lidar))
 * [Monitoring Road Traffic with Python](http://andrew.carterlunn.co.uk/programming/2017/08/24/monitoring-road-traffic-with-python.html)
 * [MUNIT](https://github.com/nvlabs/munit): Multimodal UNsupervised Image-to-image Translation
-* [Pythia](https://github.com/facebookresearch/pythia): A software suite for Visual Question Answering
+* [Pythia](https://github.com/facebookresearch/pythia): A software suite for Visual Question Answering.
+* [OpenCV 4.0](https://opencv.org/opencv-4-0-0.html).
 * [PyImageSearch](https://www.pyimagesearch.com/)- Be awesome at OpenCV, Python, deep learning, and computer vision. [Tracking multiple objects with OpenCV](https://www.pyimagesearch.com/2018/08/06/tracking-multiple-objects-with-opencv/)
 * [Introduction to Computer Vision by Intel](https://software.intel.com/en-us/articles/introduction-to-computer-vision):
   * [Video-Analytics-OpenCV](https://github.com/intel-iot-devkit/Video-Analytics-OpenCV): Python video analytics samples with OpenCV*
@@ -422,10 +426,6 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Graphical Linear Algebra](https://graphicallinearalgebra.net)
 * [Set Theory and Algebra in Computer Science A Gentle Introduction to Mathematical Modeling](https://pdfs.semanticscholar.org/d106/6b6de601c1d7d5af25af3f7091bc7ad3ad51.pdf)
 * [Viviani](https://www.geogebra.org/m/phxkpwde):
-
-#### Security
-
-* [Shamir's Secret Sharing Scheme](https://ericrafaloff.com/shamirs-secret-sharing-scheme/)
 
 ### Matrices
 
@@ -562,7 +562,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [6.886 Graph Analytics Spring 2018](https://people.csail.mit.edu/jshun/6886-s18/)
 * [d3-dag](https://github.com/erikbrinkman/d3-dag): Layout algorithms for visualizing directed acylic graphs
 
-### Math Coding
+### Coding
 
 * [computer graphics experiments](http://iquilezles.org/www/index.htm)
 * [The Mathematics of Machine Learning](https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568)
@@ -586,7 +586,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Solving NP-Hard Problems the Easy Way with Local Search](https://blog.remix.com/solving-np-hard-problems-the-easy-way-with-local-search-76f842797b?gi=8631b5280422)
 * [Remix’s Isochrone Visualizes Travel Time](https://blog.remix.com/remixs-isochrone-visualizes-travel-time-e703b9f929d8)
 
-### Math Fun
+### Fun
 
 * [The Corpus Christi Prime](https://friendlyfieldsandopenmaps.com/2017/09/08/the-corpus-christi-prime/)
 * [Blockchains from the ground up: Part 1](http://johnmathews.eu/blockchain-introduction.html)
@@ -649,7 +649,6 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 #### SpaceX
 
 * [SpaceX-API](https://github.com/r-spacex/SpaceX-API): Open Source REST API for rocket, core, capsule, pad, and launch data
-* [The Falcon Heavy](https://bps.space/falcon-heavy) model is a technology demonstrator for BPS.space. The intention is to showcase the advancement possible at the model scale.
 
 ## Chemistry
 
@@ -667,7 +666,6 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [IRIS: mww8.2 Fiji Islands Region](http://ds.iris.edu/ds/nodes/dmc/tools/event/10937540)
 * [S2Geometry](http://s2geometry.io/): S2 is a library for spherical geometry that aims to have the same robustness, flexibility, and performance as the very best planar geometry libraries [github](https://github.com/google/s2geometry).
 * [Advice From a Geographer](https://undark.org/article/book-review-bonnett-beyond-the-map/): Put Away the Map
-* [Watching volcanoes from space](https://changingtheclimateblog.wordpress.com/2018/11/14/watching-volcanoes-from-space/)
 
 ## On-line Services
 
@@ -731,6 +729,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Why We Need More Than 'Learn At Your Own Pace'](https://blog.brainstation.io/why-we-need-more-than-learn-at-your-own-pace/)
 * [Pinker Book Recommendations](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDca1iI1GgcMwBl65XRvJaAnZOv6sCjmAamy_7cioVMV4U_VnBksgZrIKTe5P4aneEXtion1ZA7iPe/pubhtml#)
 * [Twenty things I wish I’d known when I started my PhD](https://www.nature.com/articles/d41586-018-07332-x)
+* [Paralleltext.io](http://paralleltext.io): learn languages by reading.
 
 ### Writing
 
@@ -797,11 +796,8 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * (pt-br) [Lista Maravilhosa de Projetos Open-Source](https://github.com/camilatigre/listamaravilhosaopensource): Lista com links de projetos open-source para os níveis: iniciante, intermediário e avançado. Dividido por linguagem e idiomas!
 * [ghuser.io](https://github.com/ghuser-io/ghuser.io): Better GitHub profiles
 * [MagicBox](https://github.com/unicef/magicbox): A platform that uses real-time data to inform life-saving humanitarian responses to emergency situations.
+* (pt-br) a [list](https://github.com/ramalho/cdc) of code of conduct.
 
-### kids
-
-* [Scratch](https://scratch.mit.edu/): With Scratch, you can program your own interactive stories, games, and animations — and share your creations with others in the online community.
-  
 ### Jobs
 
 * [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade): Tools of The Trade, from Hacker News.
@@ -826,8 +822,11 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [ADIDAS](https://careers.adidas-group.com/jobs): Adidas jobs page.
 * [CodingInterviews](https://github.com/jayshah19949596/CodingInterviews): This repository contains coding interviews that I have encountered in company interviews
 * [Steve Blank How to Keep Your Job As Your Company Grows](https://steveblank.com/2018/11/13/its-not-change-you-fear-its-loss/)
+<<<<<<< HEAD
 * [CV Compiler](https://cvcompiler.com/): We analyzed 1M tech resumes to create an online revision tool that would scan your dev resume and indicate its weak points in real time.
 * [Siemens Careers](https://jobs.siemens-info.com/)
+=======
+>>>>>>> 43fb7d5bb07e91a8146d5abcf8bded9b948d9163
 
 ## General Fun
 
@@ -880,8 +879,11 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [My Grandfather Thought He Solved a Cosmic Mystery](https://www.theatlantic.com/science/archive/2018/11/science-full-mavericks-like-my-grandfather-was-his-physics-theory-right/574573/)
 * [Medium is a poor choice for blogging – Nikitonsky – Medium](https://medium.com/@nikitonsky/medium-is-a-poor-choice-for-blogging-bb0048d19133)
 * [Hefei Institutes of Physical Science, Chinese Academy of Sciences](http://english.hf.cas.cn/new/news/rn/201811/t20181113_201186.html)
+<<<<<<< HEAD
 * [Why Aren't There C Conferences?](https://nullprogram.com/blog/2018/11/21/)
 * [You Snooze, You Lose: Insurers Make The Old Adage Literally True](https://www.propublica.org/article/you-snooze-you-lose-insurers-make-the-old-adage-literally-true)
+=======
+>>>>>>> 43fb7d5bb07e91a8146d5abcf8bded9b948d9163
 
 ## Gadgets
 
