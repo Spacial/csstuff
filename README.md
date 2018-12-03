@@ -27,6 +27,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Platform Design](https://github.com/dcuartielles/platform-design) is the repository including the text created by D. Cuartielles for his doctoral dissertation published by Malmo University Press in 2018.
 * [z3](https://github.com/Z3Prover/z3): The Z3 Theorem Prover
 * [Surprisingly Turing-Complete](https://www.gwern.net/Turing-complete#how-many-computers-are-in-your-computer)
+* [[1811.03678] Embracing the Laws of Physics: Three Reversible Models of Computation](https://arxiv.org/abs/1811.03678)
 
 ### Data Structures
 
@@ -47,13 +48,15 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Optimizing BigQuery](https://medium.com/google-cloud/bigquery-optimized-cluster-your-tables-65e2f684594b): Cluster your tables – Google Cloud Platform
 * [pgFormatter](https://github.com/darold/pgFormatter): A PostgreSQL SQL syntax beautifier that can work as a console program or as a CGI. On-line demo [site](http://sqlformat.darold.net/)
 * [HikariCP](https://github.com/brettwooldridge/HikariCP): 光 HikariCP・A solid, high-performance, JDBC connection pool at last.
+* [SeetSimilaritySearch](https://github.com/ekzhu/SetSimilaritySearch/): All-pair set similarity search on millions of sets in Python and on a laptop (faster than MinHash LSH)
 
 ### Networks
 
 * [Prototool](https://github.com/uber/prototool): Your Swiss Army Knife for Protocol Buffers.
 * [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
 * [Computer Networking](http://cnp3book.info.ucl.ac.be/): Principles, Protocols and Practice is an open-source ebook that explains the main principles of Computer Networking and the key protocols that are used on the Internet.
-
+* [IPv6@IBM](https://media.ccc.de/v/denog10-16-ipv6-ibm-an-enterprise-journey) – An enterprise journey
+  
 ---
 
 ### Programming
@@ -207,6 +210,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
   * [A Git Horror Story](https://mikegerwitz.com/papers/git-horror-story): Repository Integrity With Signed Commits. How to use git securely (signing commits)
   * [gitea](https://github.com/go-gitea/gitea): Git with a cup of tea, painless self-hosted git service
   * [gitless](https://gitless.com): A version control system built on top of Git [github](https://github.com/sdg-mit/gitless).
+  * [.gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
 * **Mercurial**:
   * [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos.
 
@@ -215,6 +219,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [UML - Class Diagram](https://www.tutorialspoint.com/uml/uml_class_diagram.htm)
 * [UML 2 Class Diagrams](http://www.agilemodeling.com/artifacts/classDiagram.htm): An Agile Introduction
 * [Object-Oriented Design Concepts in UML](https://www.uml-diagrams.org/uml-object-oriented-concepts.html)
+* [All You Need to Know About UML Diagrams: Types and 5+ Examples](https://tallyfy.com/uml-diagram/)
 
 ---
 
@@ -230,6 +235,8 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [The Zip CPU](https://github.com/ZipCPU/zipcpu): A small, light weight, RISC CPU soft core
 * [BubbleSort-ARM64](https://github.com/Billy-Ellis/BubbleSort-ARM64): Implementation of the BubbleSort algorithm written from scratch in ARM64 assembly
 * Department of Computer Science and Technology: [Capability Hardware Enhanced RISC Instructions (CHERI)](https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/)
+* [Vectorized Emulation: Hardware accelerated taint tracking at 2 trillion instructions per second](https://gamozolabs.github.io/fuzzing/2018/10/14/vectorized_emulation.html).
+  * [Vectorized Emulation: MMU Design](https://gamozolabs.github.io/fuzzing/2018/11/19/vectorized_emulation_mmu.html) - [github](https://github.com/gamozolabs/vectorized_mmu) (Snapshot of the vectorized MMU that lines up with the vectorized MMU blog)
 
 ### Eletronics
 
@@ -324,6 +331,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [BERT](https://github.com/google-research/bert): TensorFlow code and pre-trained models for BERT
 * [Real-Time Noise Suppression Using Deep Learning](https://devblogs.nvidia.com/nvidia-real-time-noise-suppression-deep-learning/). [Krisp](https://krisp.ai/download.html) app (use noise supression) by [2Hz](https://2hz.ai/index.html) (and how to use the [API](https://blog.2hz.ai/2018/10/01/step-by-step-guide-for-using-2hz-krisp-api/))
 * [Code snippets created for the PyTorch discussion board](https://github.com/ptrblck/pytorch_misc)
+* [reinforcement_learning](https://github.com/r0zetta/reinforcement_learning): Reinforcement learning experiments and demos.
 
 ### NN
 
@@ -401,7 +409,8 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Tricurves](http://web.calstatela.edu/curvebank/tricurve/tricurve.htm) and [Tiling with Tricurves](http://paulbourke.net/geometry/tricurves/)
 * [Graphical Linear Algebra](https://graphicallinearalgebra.net)
 * [Set Theory and Algebra in Computer Science A Gentle Introduction to Mathematical Modeling](https://pdfs.semanticscholar.org/d106/6b6de601c1d7d5af25af3f7091bc7ad3ad51.pdf)
-* [Viviani](https://www.geogebra.org/m/phxkpwde):
+* [Viviani](https://www.geogebra.org/m/phxkpwde): Viviani's theorem states that the sum of the distances from any interior point to the sides of an equilateral triangle equals the length of the triangle's altitude.
+* [Euclidean Spaces](https://meurer.xyz/post/2018-11-18-euclidean-spaces/).
 
 ### Matrices
 
