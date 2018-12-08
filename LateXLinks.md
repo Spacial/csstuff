@@ -54,3 +54,7 @@
 * [LaTeX arrows](http://www.sascha-frank.com/Arrow/latex-arrows.html)
 * [What commands are there for horizontal spacing?](https://tex.stackexchange.com/questions/74353/what-commands-are-there-for-horizontal-spacing)
 
+# Continuous Integration
+
+* [Compile LaTex documents with Jenkins and publish pdf files automatically](https://seppa-lassila.fi/posts/compile-latex-with-jenkins/)
+
