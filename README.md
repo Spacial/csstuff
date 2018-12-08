@@ -27,6 +27,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Platform Design](https://github.com/dcuartielles/platform-design) is the repository including the text created by D. Cuartielles for his doctoral dissertation published by Malmo University Press in 2018.
 * [z3](https://github.com/Z3Prover/z3): The Z3 Theorem Prover
 * [Surprisingly Turing-Complete](https://www.gwern.net/Turing-complete#how-many-computers-are-in-your-computer)
+* [Operation Costs in CPU Clock Cycles](http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/)
 
 ### Data Structures
 
@@ -75,12 +76,9 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [23 guidelines for writing readable code](https://alemil.com/guidelines-for-writing-readable-code)
 * [What is Systems Programming, Really?](http://willcrichton.net/notes/systems-programming/): Will Crichton
 * [edabit](https://edabit.com/): We're like Duolingo for learning to code.
-<<<<<<< HEAD
 * [Concurrency Glossary](https://slikts.github.io/concurrency-glossa): This is an informal top-level overview of terms used in concurrent computing - [github](https://github.com/slikts/concurrency-glossary).
 * [Mega Project List](https://github.com/karan/Projects): A list of practical projects that anyone can solve in any programming language.
 * [How to visualize decision trees](http://explained.ai/decision-tree-viz/index.html)
-=======
->>>>>>> 43fb7d5bb07e91a8146d5abcf8bded9b948d9163
 
 #### IDEs
 
@@ -161,6 +159,10 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Asterisks in Python: what they are and how to use them](http://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/)
 * [dissect.cstruct](https://github.com/fox-it/dissect.cstruct): A no-nonsense c-like structure parsing library for Python
 * [Type inference](https://eli.thegreenplace.net/2018/type-inference/)
+* [Best Practices for Using Functional Programming in Python](https://kite.com/blog/python/functional-programming)
+* [Python List Comprehensions](https://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/): Explained Visually.
+* [Using python script for data ETL](https://codeburst.io/using-python-script-for-data-etl-53138c567906)
+* [Pipenv](https://chriswarrick.com/blog/2018/07/17/pipenv-promises-a-lot-delivers-very-little/): promises a lot, delivers very little.
 
 ##### Presentations
 
@@ -178,6 +180,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * Go:
   * [Go references](https://standupdev.com/wiki/doku.php?id=go_references)
   * [Awesome Go](https://github.com/avelino/awesome-go): A curated list of awesome Go frameworks, libraries and software
+  * [ObjectBox Go](https://github.com/objectbox/objectbox-go): persisting your Go structs/objects superfast and simple
 * Lisp:
   * [Ferret](https://github.com/nakkaya/ferret) is a free software lisp implementation for real time embedded control systems.
 * Perl:
@@ -189,9 +192,10 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
   * [PortingCToRust](https://wiki.alopex.li/PortingCToRust)
 * JavaScript:
   * [The JavaScript Handbook](https://jshandbook.com/)
-
+* [yorlang](https://github.com/anoniscoding/yorlang): [Yorlang](https://anoniscoding.github.io/yorlang/) is an esoteric programming language designed to write small programs using yoruba language constructs. It is the first of its kind and it can carry out basic programming operations in yoruba language (a language spoken in some parts of Nigeria ).
 * [dafny](https://github.com/Microsoft/dafny): Dafny is a verification-aware programming language
 * [nim](https://nim-lang.org/): Efficient and expressive programming. [github](https://github.com/nim-lang/nim)
+* [Anglican](https://probprog.github.io/anglican/index.html): A Probabilistic Programming System. 
 
 #### Version Control
 
@@ -214,14 +218,12 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
   * [gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service.
   * [A Git Horror Story](https://mikegerwitz.com/papers/git-horror-story): Repository Integrity With Signed Commits. How to use git securely (signing commits)
   * [gitea](https://github.com/go-gitea/gitea): Git with a cup of tea, painless self-hosted git service
-<<<<<<< HEAD
   * [Getting Started - Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
   * [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
   * [Learn git branching](https://learngitbranching.js.org/): An interactive git visualization to challenge and educate! [github](https://github.com/pcottle/learnGitBranching).
-  
-=======
   * [gitless](https://gitless.com): A version control system built on top of Git [github](https://github.com/sdg-mit/gitless).
->>>>>>> 43fb7d5bb07e91a8146d5abcf8bded9b948d9163
+  * [How can I undo the last commit?](https://www.git-tower.com/learn/git/faq/undo-last-commit)
+  * [Git: “Not currently on any branch.” Is there an easy way to get back on a branch, while keeping the changes?](https://stackoverflow.com/questions/4735556/git-not-currently-on-any-branch-is-there-an-easy-way-to-get-back-on-a-branch)
 * **Mercurial**:
   * [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos.
 
@@ -270,6 +272,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 ### Memmory
 
 * [Myths Programmers Believe about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
+* [Every 7.8μs your computer’s memory has a hiccup](https://blog.cloudflare.com/every-7-8us-your-computers-memory-has-a-hiccup/) [c program](https://github.com/cloudflare/cloudflare-blog/blob/master/2018-11-memory-refresh/measure-dram.c)
 
 ## Compilers
 
@@ -303,6 +306,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Understanding word vectors](https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469)
 * [allennlp](https://github.com/allenai/allennlp): An open-source NLP research library, built on PyTorch.
 * [Distributed Translation Infrastructure](https://github.com/ivan-zapreev/Distributed-Translation-Infrastructure): The distributed statistical machine translation infrastructure consisting of load balancing, text pre/post-processing and translation services. Written in C++ 11 and utilises multicore CPUs by employing multi-threading, allows for secure SSL/TLS communications.
+* [Build a quick Summarizer with Python and NLTK ](https://dev.to/davidisrawi/build-a-quick-summarizer-with-python-and-nltk)
 
 ### Machine Learning
 
@@ -338,15 +342,12 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [DeOldify](https://github.com/jantic/DeOldify): A Deep Learning based project for colorizing and restoring old images
 * [BERT](https://github.com/google-research/bert): TensorFlow code and pre-trained models for BERT
 * [Real-Time Noise Suppression Using Deep Learning](https://devblogs.nvidia.com/nvidia-real-time-noise-suppression-deep-learning/). [Krisp](https://krisp.ai/download.html) app (use noise supression) by [2Hz](https://2hz.ai/index.html) (and how to use the [API](https://blog.2hz.ai/2018/10/01/step-by-step-guide-for-using-2hz-krisp-api/))
-<<<<<<< HEAD
 * [Automatic Differentiation in Machine Learning: a Survey](http://jmlr.org/papers/volume18/17-468/17-468.pdf)
 * [CleverHans](https://github.com/tensorflow/cleverhans): An adversarial example library for constructing attacks, building defenses, and benchmarking both
 * [Self-Driving Pi Car](https://github.com/felipessalvatore/self_driving_pi_car): A deep neural network based self-driving car, that combines Lego Mindstorms NXT with the computational power of a Raspberry Pi 3.
 * [ergo](https://github.com/evilsocket/ergo): A tool that makes deep learning with Keras easier.
-* [GANDissect](https://github.com/CSAILVision/GANDissect): Pytorch-based tools for visualizing and understanding the neurons of a GAN.
-=======
+* [GANDissect](https://github.com/CSAILVision/GANDissect): Pytorch-based tools for visualizing and understanding the neurons of a GAN. [Site](https://gandissect.csail.mit.edu/)
 * [Code snippets created for the PyTorch discussion board](https://github.com/ptrblck/pytorch_misc)
->>>>>>> 43fb7d5bb07e91a8146d5abcf8bded9b948d9163
 
 ### NN
 
@@ -412,6 +413,8 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [SageMath](https://www.sagemath.org/): Open-Source Mathematical Software System
 * [Trigonoparty!](https://ramesaliyev.com/trigonoparty/)
 * [Compile-time mandelbrot in pure C. Outputs a PGM image file to stdout. Output can be seen at https://twitter.com/David3141593/status/1062468528115200001](https://gist.github.com/DavidBuchanan314/b9230fe7d335a1caf90483dbb00a5375)
+* [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+* [Hamiltonian Monte Carlo explained](http://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html)
 
 ### Theorems
 
@@ -488,6 +491,8 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * (pt-br) [Glória a Dadoxxx](https://drive.google.com/drive/folders/1-YuwHyurCSRvSnbnVu_iufmh7sAC1OOE): Oficina de dados - by Cecília do Lago
 * (pt-br) [LIKE: UMA COLIGAÇÃO TIPO ASSIM](https://entrevistandodados.wordpress.com/2018/11/12/like-uma-coligacao-tipo-assim/)
 * [Benford’s Law for Fraud Detection with an Application to all Brazilian Presidential Elections from 2002 to 2018](https://www.r-bloggers.com/benfords-law-for-fraud-detection-with-an-application-to-all-brazilian-presidential-elections-from-2002-to-2018/)
+* [jupyter-themes](https://github.com/dunovank/jupyter-themes): Custom Jupyter Notebook Themes
+* [bonobo](https://www.bonobo-project.org/): Bonobo is a lightweight Extract-Transform-Load (ETL) framework for Python 3.5+. [github](https://github.com/python-bonobo/bonobo)
 
 #### Datasets
 
@@ -527,6 +532,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Nvidia drivers on Linux are trash!](https://nvidialinuxdriversaretrash.github.io/)
 * [Consistently Beautiful Visualizations with Altair Themes](https://towardsdatascience.com/consistently-beautiful-visualizations-with-altair-themes-c7f9f889602)
 * [Fun with NFL Stats, Bokeh, and Pandas](https://j253.github.io/blog/fun-with-nfl-stats.html)
+* [JPEG [JAY-peg]](https://github.com/corkami/docs/blob/master/images/jpeg.md), some pocs [JPEG PoCs](https://github.com/corkami/pocs/blob/master/images/jpg/README.md)
 
 ### Calculus
 
@@ -695,6 +701,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Field Play](https://anvaka.github.io/fieldplay/?cx=7.5099&cy=0.05370000000000008&w=8.5428&h=8.5428&dt=0.01&fo=0.998&dp=0.009&cm=1)
 * [Linux Find Out Video Card GPU Memory RAM Size Using Command Line](https://www.cyberciti.biz/faq/howto-find-linux-vga-video-card-ram/)
 * [How does a GPU shader core work?](https://aras-p.info/texts/files/2018Academy%20-%20GPU.pdf)
+* [PhysX SDK](https://news.developer.nvidia.com/announcing-physx-sdk-4-0-an-open-source-physics-engine/): an Open-Source [Physics Engine](https://github.com/NVIDIAGameWorks/PhysX-3.4)
 
 ### Augmented Reality
 
@@ -730,6 +737,8 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Pinker Book Recommendations](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDca1iI1GgcMwBl65XRvJaAnZOv6sCjmAamy_7cioVMV4U_VnBksgZrIKTe5P4aneEXtion1ZA7iPe/pubhtml#)
 * [Twenty things I wish I’d known when I started my PhD](https://www.nature.com/articles/d41586-018-07332-x)
 * [Paralleltext.io](http://paralleltext.io): learn languages by reading.
+* [Hacking Science](https://github.com/rjruigrok/HackingScience): Computer-Aided Survey Writing - Paper in a Day
+* [How to Write an Abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html)
 
 ### Writing
 
@@ -738,6 +747,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [The Best Textbooks on Every Subject](https://www.lesswrong.com/posts/xg3hXCYQPJkwHyik2/the-best-textbooks-on-every-subject)
 * [Five common writing mistakes new scientists make](https://contemplativemammoth.com/2018/08/21/five-common-writing-mistakes-new-scientists-make/)
 * [WHAT IS THE MORNING WRITING EFFECT?](https://www.gwern.net/Morning-writing)
+* [A blogging style guide](https://robertheaton.com/2018/12/06/a-blogging-style-guide/)
 
 ## UX/UI
 
@@ -822,11 +832,10 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [ADIDAS](https://careers.adidas-group.com/jobs): Adidas jobs page.
 * [CodingInterviews](https://github.com/jayshah19949596/CodingInterviews): This repository contains coding interviews that I have encountered in company interviews
 * [Steve Blank How to Keep Your Job As Your Company Grows](https://steveblank.com/2018/11/13/its-not-change-you-fear-its-loss/)
-<<<<<<< HEAD
 * [CV Compiler](https://cvcompiler.com/): We analyzed 1M tech resumes to create an online revision tool that would scan your dev resume and indicate its weak points in real time.
 * [Siemens Careers](https://jobs.siemens-info.com/)
-=======
->>>>>>> 43fb7d5bb07e91a8146d5abcf8bded9b948d9163
+* [Scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
+* [We've all faced rejection.](https://rejected.us/)
 
 ## General Fun
 
@@ -879,11 +888,18 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [My Grandfather Thought He Solved a Cosmic Mystery](https://www.theatlantic.com/science/archive/2018/11/science-full-mavericks-like-my-grandfather-was-his-physics-theory-right/574573/)
 * [Medium is a poor choice for blogging – Nikitonsky – Medium](https://medium.com/@nikitonsky/medium-is-a-poor-choice-for-blogging-bb0048d19133)
 * [Hefei Institutes of Physical Science, Chinese Academy of Sciences](http://english.hf.cas.cn/new/news/rn/201811/t20181113_201186.html)
-<<<<<<< HEAD
 * [Why Aren't There C Conferences?](https://nullprogram.com/blog/2018/11/21/)
 * [You Snooze, You Lose: Insurers Make The Old Adage Literally True](https://www.propublica.org/article/you-snooze-you-lose-insurers-make-the-old-adage-literally-true)
-=======
->>>>>>> 43fb7d5bb07e91a8146d5abcf8bded9b948d9163
+* [Manage Your Stocks from Google Spreadsheet Using API](https://medium.com/automation-generation/manage-your-stocks-from-google-spreadsheet-using-api-43026db44289)
+* [Mystery Math Whiz and Novelist Advance Permutation Problem](https://www.quantamagazine.org/sci-fi-writer-greg-egan-and-anonymous-math-whiz-advance-permutation-problem-20181105/)
+* [Improving Ourselves to Death](https://www.newyorker.com/magazine/2018/01/15/improving-ourselves-to-death)
+* [Believing without evidence is always morally wrong](https://aeon.co/ideas/believing-without-evidence-is-always-morally-wrong)
+* [Bruno Latour, the Post-Truth Philosopher, Mounts a Defense of Science](https://www.nytimes.com/2018/10/25/magazine/bruno-latour-post-truth-philosopher-science.html)
+* [Go Ahead, Skip that Networking Event](https://hbr.org/2018/05/go-ahead-skip-that-networking-event)
+* [Students Evaluating Teachers Doesn’t Just Hurt Teachers. It Hurts Students.](https://www.chronicle.com/article/Students-Evaluating-Teachers/245169)
+* [Mathematical Simplicity May Drive Evolution’s Speed](https://www.quantamagazine.org/computer-science-and-biology-explore-algorithmic-evolution-20181129/)
+* [At 22 years old, Postgres might just be the most advanced database yet](https://arcentry.com/blog/postgres-might-just-be-the-most-advanced-database-ever/#)
+* [The Best Athletes in Ancient Rome were Vegetarian!](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3761927/)
 
 ## Gadgets
 
