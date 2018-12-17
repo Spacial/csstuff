@@ -845,6 +845,7 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [Siemens Careers](https://jobs.siemens-info.com/)
 * [Scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
 * [We've all faced rejection.](https://rejected.us/)
+* [￼rescale](https://jobs.lever.co/rescale)
 
 ## General Fun
 
@@ -858,7 +859,8 @@ Computer Science Stuff is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 * [smelvetica](https://github.com/tholman/smelvetica#how-do-i-install-it): Smelvetica is Helvetica for your best friends, or your worst enemies.
 * [ghuser.io](https://ghuser.io/AurelienLourot)- Better GitHub profiles
 * [Transforming Wikipedia into an accurate cultural knowledge quiz](https://medium.com/@mjbaldwin/transforming-wikipedia-into-an-accurate-cultural-knowledge-quiz-b0a0f74877c)
-  
+* [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee): eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+
 ## News
 
 * [A Science Fair with $1.6 Million in Prizes](https://blog.mozilla.org/blog/2018/07/19/a-science-fair-with-1-6-million-in-prizes/)
