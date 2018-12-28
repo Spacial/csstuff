@@ -5,6 +5,7 @@
 - [Awesome Computer Science Stuff ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-computer-science-stuff-awesomehttpsgithubcomsindresorhusawesome)
   - [Research](#research)
   - [Computer Science general](#computer-science-general)
+    - [Quantum Information Science](#quantum-information-science)
     - [Data Structures](#data-structures)
     - [Databases](#databases)
     - [Networks](#networks)
@@ -35,7 +36,7 @@
     - [NLP](#nlp)
     - [Machine Learning](#machine-learning)
     - [ML Articles](#ml-articles)
-    - [NN](#nn)
+    - [Neural Networks](#neural-networks)
     - [Computer Vision](#computer-vision)
       - [Python DL](#python-dl)
   - [Math](#math)
@@ -117,6 +118,10 @@
 - [Operation Costs in CPU Clock Cycles](http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/)
 - [CSIndexbr](https://csindexbr.org/) provides transparent data about Brazilian scientific production in Computer Science. We index full research papers published in selected conferences and journals.
 
+### Quantum Information Science
+
+- [Lecture notes! Intro to Quantum Information Science](https://www.scottaaronson.com/blog/?p=3943)
+
 ### Data Structures
 
 - [Data Structures for Coding Interviews](https://www.interviewcake.com/article/python/data-structures-coding-interview)
@@ -175,6 +180,7 @@
 - [EXEgesis](https://github.com/google/EXEgesis): Google's EXEgesis project aims to improve code generation in compilers.
 - [An Introduction to Dynamic Symbolic Execution and the KLEE Infrastructure](https://srg.doc.ic.ac.uk/files/slides/symex-tarot-18.pdf)
 - [Software Checklist](https://www.solipsys.co.uk/new/SoftwareChecklist.html)
+- [small](https://github.com/mathiasbynens/small): Smallest possible syntactically valid files of different types.
 
 #### IDEs
 
@@ -237,6 +243,8 @@
 
 - [Qt-CMake-HelloWorld](https://github.com/jasondegraw/Qt-CMake-HelloWorld): A Simple Qt5 Program Built with CMake
 - [Atelier](https://github.com/kde/atelier): Open Source 3D Printing Host - User Interface
+- [BitsOfBytes](https://github.com/vivaladav/BitsOfBytes): Code and projects from my blog posts.
+- [How to create an application with Qt and C++](http://blog.davidecoppola.com/2016/10/how-to-create-an-application-with-qt-and-cpp/)
 
 #### Python
 
@@ -274,6 +282,7 @@
 - [AMIE](https://github.com/NeatMonster/AMIE): A Minimalist Instruction Extender
 - [snakefood](http://furius.ca/snakefood/): Python Dependency Graphs
 - Python List Comprehensions: [Explained Visually](https://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
+- [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
 
 ##### Jupyter
 
@@ -325,6 +334,8 @@
   - [Guide to develop secure applications with Rust](https://github.com/ANSSI-FR/rust-guide): Recommendations for secure applications development with Rust
 - Scala:
   - [Implicits, type classes, and extension methods, part 1: with type classes in mind](https://kubuszok.com/2018/implicits-type-classes-and-extension-methods-part-1/)
+- Verilog:
+  - [Designing Hardware with Verilog](http://8bitworkshop.com/blog/release/2018/12/15/verilog-programming.html)
 - Yorlang:
   - [yorlang](https://github.com/anoniscoding/yorlang): [Yorlang](https://anoniscoding.github.io/yorlang/) is an esoteric programming language designed to write small programs using yoruba language constructs. It is the first of its kind and it can carry out basic programming operations in yoruba language (a language spoken in some parts of Nigeria ).
 
@@ -504,6 +515,8 @@
 - [Code snippets created for the PyTorch discussion board](https://github.com/ptrblck/pytorch_misc)
 - [reinforcement_learning](https://github.com/r0zetta/reinforcement_learning): Reinforcement learning experiments and demos.
 - [octofairy](https://github.com/evilsocket/octofairy): A machine learning based GitHub bot for Issues.
+- [Nevergrad](https://code.fb.com/ai-research/nevergrad/): An open source tool for derivative-free optimization. [github](https://github.com/facebookresearch/nevergrad)
+- [ML.NET](https://github.com/dotnet/machinelearning): is an open source and cross-platform machine learning framework for .NET.
 
 ### ML Articles
 
@@ -512,7 +525,7 @@
 - [[1812.04948] A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948)
 - [GAN Dissection: Visualizing and Understanding Generative Adversarial Networks - arxiv vanity](https://www.arxiv-vanity.com/papers/1811.10597/)
 
-### NN
+### Neural Networks
 
 - [pytorch](https://github.com/pytorch/pytorch): Tensors and Dynamic neural networks in Python with strong GPU acceleration a ([tour](http://blog.christianperone.com/2018/03/pytorch-internal-architecture-tour/))
 - [Handwriting Synthesis](https://github.com/sjvasquez/handwriting-synthesis)
@@ -522,6 +535,7 @@
 - [NEST](https://github.com/nest/nest-simulator): NEST is a simulator for spiking neural network models that focuses on the dynamics, size and structure of neural systems rather than on the exact morphology of individual neurons.
 - [NALU](https://github.com/Nilabhra/NALU): Neural Arithmetic Logic Units
 - [tensorspace](https://github.com/tensorspace-team/tensorspace): Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js
+- [NEURAL NETWORKS AS ORDINARY DIFFERENTIAL EQUATIONS](https://rkevingibson.github.io/blog/neural-networks-as-ordinary-differential-equations/)
 
 ### Computer Vision
 
@@ -936,6 +950,7 @@
 - [Hacking Science](https://github.com/rjruigrok/HackingScience): Computer-Aided Survey Writing - Paper in a Day
 - [How to Write an Abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html)
 - [Advent of Code](https://adventofcode.com/2018/): is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other.
+- [Bubblin](https://bubblin.io/): A social book reader for web.
   
 ### Writing
 
@@ -1005,6 +1020,7 @@
 - [ghuser.io](https://github.com/ghuser-io/ghuser.io): Better GitHub profiles
 - [MagicBox](https://github.com/unicef/magicbox): A platform that uses real-time data to inform life-saving humanitarian responses to emergency situations.
 - (pt-br) a [list](https://github.com/ramalho/cdc) of code of conduct.
+- [Survival rates in commercial jet crashes, by seat position.](https://mdbootstrap.com/snippets/jquery/ascensus/212648): 
 
 ### Jobs
 
@@ -1051,6 +1067,7 @@
 - [ghuser.io](https://ghuser.io/AurelienLourot)- Better GitHub profiles
 - [Transforming Wikipedia into an accurate cultural knowledge quiz](https://medium.com/@mjbaldwin/transforming-wikipedia-into-an-accurate-cultural-knowledge-quiz-b0a0f74877c)
 - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee): eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+- [Advent Calendar of Curiosities 2018](https://advent.morr.cc/2018)
 
 ## Articles
 
