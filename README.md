@@ -1,94 +1,6 @@
 # Awesome Computer Science Stuff [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<!-- TOC -->
-
-- [Awesome Computer Science Stuff ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-computer-science-stuff-awesomehttpsgithubcomsindresorhusawesome)
-  - [Research](#research)
-  - [Computer Science general](#computer-science-general)
-    - [Quantum Information Science](#quantum-information-science)
-    - [Data Structures](#data-structures)
-    - [Databases](#databases)
-    - [Networks](#networks)
-    - [Programming](#programming)
-      - [IDEs](#ides)
-      - [Formal Methods](#formal-methods)
-      - [APIs](#apis)
-      - [Assembly](#assembly)
-      - [C/C++](#cc)
-      - [Makefile](#makefile)
-        - [KDE/Qt](#kdeqt)
-      - [Python](#python)
-        - [Jupyter](#jupyter)
-        - [Presentations](#presentations)
-      - [Others](#others)
-      - [Version Control](#version-control)
-      - [Software Engenieering](#software-engenieering)
-    - [Hardware](#hardware)
-    - [Eletronics](#eletronics)
-  - [Operating Systems](#operating-systems)
-    - [Linux Kernel](#linux-kernel)
-    - [Memmory](#memmory)
-  - [Compilers](#compilers)
-    - [API](#api)
-  - [Distributed Systems](#distributed-systems)
-  - [Pattern Recognition](#pattern-recognition)
-  - [Artificial Intelligence](#artificial-intelligence)
-    - [NLP](#nlp)
-    - [Machine Learning](#machine-learning)
-    - [ML Articles](#ml-articles)
-    - [Neural Networks](#neural-networks)
-    - [Computer Vision](#computer-vision)
-      - [Python DL](#python-dl)
-  - [Math](#math)
-    - [Theorems](#theorems)
-    - [Algebra](#algebra)
-    - [Matrices](#matrices)
-    - [Statistics](#statistics)
-    - [Data Science](#data-science)
-      - [Datasets](#datasets)
-      - [Luna](#luna)
-      - [Data Graphics](#data-graphics)
-    - [Calculus](#calculus)
-    - [Topology](#topology)
-    - [Linear Programming](#linear-programming)
-    - [Discretionary Math](#discretionary-math)
-    - [Signal Processing](#signal-processing)
-    - [Graph Theory](#graph-theory)
-    - [Coding](#coding)
-    - [Fun](#fun)
-    - [Music](#music)
-    - [General Math](#general-math)
-  - [Physics](#physics)
-    - [Astronomy](#astronomy)
-    - [Astro Articles](#astro-articles)
-    - [NASA](#nasa)
-      - [SpaceX](#spacex)
-  - [Chemistry](#chemistry)
-  - [Biology](#biology)
-  - [Geography](#geography)
-  - [On-line Services](#on-line-services)
-  - [Filesystems](#filesystems)
-  - [Computer Graphics](#computer-graphics)
-    - [CG Articles](#cg-articles)
-    - [Augmented Reality](#augmented-reality)
-  - [Games](#games)
-  - [Writing Articles](#writing-articles)
-  - [Teaching](#teaching)
-  - [Studies](#studies)
-    - [Writing](#writing)
-  - [UX/UI](#uxui)
-    - [web](#web)
-  - [Privacy](#privacy)
-  - [Philosophy](#philosophy)
-  - [General](#general)
-    - [Jobs](#jobs)
-  - [General Fun](#general-fun)
-  - [Articles](#articles)
-  - [News](#news)
-  - [Gadgets](#gadgets)
-  - [Resources](#resources)
-
-<!-- /TOC -->
+<!-- TOC -->autoauto- [Awesome Computer Science Stuff [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)](#awesome-computer-science-stuff-awesomehttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvghttpsgithubcomsindresorhusawesome)auto    - [Research](#research)auto    - [Computer Science general](#computer-science-general)auto        - [Quantum Information Science](#quantum-information-science)auto        - [Data Structures](#data-structures)auto        - [Databases](#databases)auto        - [Networks](#networks)auto        - [Programming](#programming)auto            - [IDEs](#ides)auto            - [Formal Methods](#formal-methods)auto            - [APIs](#apis)auto            - [Assembly](#assembly)auto            - [C/C++](#cc)auto            - [Makefile](#makefile)auto                - [KDE/Qt](#kdeqt)auto            - [Python](#python)auto                - [Jupyter](#jupyter)auto                - [Presentations](#presentations)auto            - [Others](#others)auto            - [Version Control](#version-control)auto            - [Software Engenieering](#software-engenieering)auto        - [Hardware](#hardware)auto        - [Eletronics](#eletronics)auto    - [Operating Systems](#operating-systems)auto        - [Linux Kernel](#linux-kernel)auto        - [Memmory](#memmory)auto    - [Compilers](#compilers)auto        - [API](#api)auto    - [Distributed Systems](#distributed-systems)auto    - [Pattern Recognition](#pattern-recognition)auto    - [Artificial Intelligence](#artificial-intelligence)auto        - [NLP](#nlp)auto        - [Machine Learning](#machine-learning)auto        - [ML Articles](#ml-articles)auto        - [Neural Networks](#neural-networks)auto        - [Computer Vision](#computer-vision)auto            - [Python DL](#python-dl)auto    - [Math](#math)auto        - [Theorems](#theorems)auto        - [Algebra](#algebra)auto        - [Matrices](#matrices)auto        - [Statistics](#statistics)auto        - [Data Science](#data-science)auto            - [Datasets](#datasets)auto            - [Luna](#luna)auto            - [Data Graphics](#data-graphics)auto        - [Calculus](#calculus)auto        - [Topology](#topology)auto        - [Linear Programming](#linear-programming)auto        - [Discretionary Math](#discretionary-math)auto        - [Signal Processing](#signal-processing)auto        - [Graph Theory](#graph-theory)auto        - [Coding](#coding)auto        - [Fun](#fun)auto        - [Music](#music)auto        - [General Math](#general-math)auto    - [Physics](#physics)auto        - [Astronomy](#astronomy)auto        - [Astro Articles](#astro-articles)auto        - [NASA](#nasa)auto            - [SpaceX](#spacex)auto    - [Chemistry](#chemistry)auto    - [Biology](#biology)auto    - [Geography](#geography)auto    - [On-line Services](#on-line-services)auto    - [Filesystems](#filesystems)auto    - [Computer Graphics](#computer-graphics)auto        - [CG Articles](#cg-articles)auto        - [Augmented Reality](#augmented-reality)auto    - [Games](#games)auto    - [Writing Articles](#writing-articles)auto    - [Teaching](#teaching)auto    - [Studies](#studies)auto        - [Writing](#writing)auto    - [UX/UI](#uxui)auto        - [web](#web)auto    - [Privacy](#privacy)auto    - [Philosophy](#philosophy)auto    - [General](#general)auto        - [Jobs](#jobs)auto    - [General Fun](#general-fun)auto    - [Articles](#articles)auto    - [News](#news)auto    - [Gadgets](#gadgets)auto    - [Resources](#resources)autoauto<!-- /TOC -->
 
 - **TheoryOfComputation*- : Some resources about the topic (tex files and JFLAP files).
 - **Algorithms*- : Some stuff about design, analisys and general in algorithms science.
@@ -283,7 +195,8 @@
 - [snakefood](http://furius.ca/snakefood/): Python Dependency Graphs
 - Python List Comprehensions: [Explained Visually](https://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
 - [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
-
+- [logpy](https://github.com/logpy/logpy): Logic Programming in Python
+  
 ##### Jupyter
 
 - [nbtutor](https://github.com/lgpage/nbtutor): Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
@@ -524,6 +437,7 @@
 - [[1808.07531] Sarcasm Analysis using Conversation Context](https://arxiv.org/abs/1808.07531)
 - [[1812.04948] A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948)
 - [GAN Dissection: Visualizing and Understanding Generative Adversarial Networks - arxiv vanity](https://www.arxiv-vanity.com/papers/1811.10597/)
+- [Super SloMo](https://arxiv.org/abs/1712.00080): High Quality Estimation of Multiple Intermediate Frames for Video Interpolation. [Śuper-SloMo github](https://github.com/avinashpaliwal/Super-SloMo)
 
 ### Neural Networks
 
@@ -927,6 +841,7 @@
 - [How to Read an RFC](https://www.mnot.net/blog/2018/07/31/read_rfc)
 - [How to Read a Paper Efficiently (By Prof. Pete Carr)](https://www.youtube.com/watch?v=IeaD0ZaUJ3Y)
 - [How to Write an Abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html)
+- [Best Paper Awards in Computer Science (since 1996)](https://jeffhuang.com/best_paper_awards.html)
   
 ## Teaching
 
