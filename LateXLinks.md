@@ -42,7 +42,8 @@
 
 * [A minimal & modern LaTeX template for your (bachelor's | master's | doctoral) thesis](https://github.com/Submanifold/latex-mimosis)
 * [LaTeX files for the Deep Learning book notation](https://github.com/goodfeli/dlbook_notation)
-
+* [LaTeX Templates](http://www.latextemplates.com/)
+  
 # Graphs
 
 * [TeX Live Database as Graph Database](https://www.preining.info/blog/2018/10/tex-live-database-as-graph-database/)
