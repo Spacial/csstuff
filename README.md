@@ -1,6 +1,6 @@
 # Awesome Computer Science Stuff [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<!-- TOC -->autoauto- [Awesome Computer Science Stuff [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)](#awesome-computer-science-stuff-awesomehttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvghttpsgithubcomsindresorhusawesome)auto    - [Research](#research)auto    - [Computer Science general](#computer-science-general)auto        - [Data Structures](#data-structures)auto        - [Databases](#databases)auto        - [Networks](#networks)auto        - [Programming](#programming)auto            - [IDEs](#ides)auto            - [Formal Methods](#formal-methods)auto            - [APIs](#apis)auto            - [Assembly](#assembly)auto            - [C/C++](#cc)auto            - [Makefile](#makefile)auto                - [KDE/Qt](#kdeqt)auto            - [Python](#python)auto                - [Jupyter](#jupyter)auto                - [Presentations](#presentations)auto            - [Others](#others)auto            - [Version Control](#version-control)auto            - [Software Engenieering](#software-engenieering)auto        - [Hardware](#hardware)auto        - [Eletronics](#eletronics)auto    - [Operating Systems](#operating-systems)auto        - [Linux Kernel](#linux-kernel)auto        - [Memmory](#memmory)auto    - [Compilers](#compilers)auto        - [API](#api)auto    - [Distributed Systems](#distributed-systems)auto    - [Pattern Recognition](#pattern-recognition)auto    - [Artificial Intelligence](#artificial-intelligence)auto        - [NLP](#nlp)auto        - [Machine Learning](#machine-learning)auto        - [Machine Learning Articles](#machine-learning-articles)auto        - [Neural Networks](#neural-networks)auto        - [Computer Vision](#computer-vision)auto            - [Python Deep Learning](#python-deep-learning)auto    - [Math](#math)auto        - [Theorems](#theorems)auto        - [Algebra](#algebra)auto        - [Matrices](#matrices)auto        - [Statistics](#statistics)auto        - [Data Science](#data-science)auto            - [Datasets](#datasets)auto            - [Luna](#luna)auto            - [Data Graphics](#data-graphics)auto        - [Calculus](#calculus)auto        - [Topology](#topology)auto        - [Linear Programming](#linear-programming)auto        - [Discretionary Math](#discretionary-math)auto        - [Signal Processing](#signal-processing)auto        - [Graph Theory](#graph-theory)auto        - [Coding](#coding)auto        - [Fun](#fun)auto        - [Music](#music)auto        - [General Math](#general-math)auto    - [Physics](#physics)auto        - [Astronomy](#astronomy)auto        - [Astro Articles](#astro-articles)auto        - [NASA](#nasa)auto            - [SpaceX](#spacex)auto    - [Chemistry](#chemistry)auto    - [Biology](#biology)auto    - [Geography](#geography)auto    - [On-line Services](#on-line-services)auto    - [Filesystems](#filesystems)auto    - [Computer Graphics](#computer-graphics)auto        - [CG Articles](#cg-articles)auto        - [Augmented Reality](#augmented-reality)auto    - [Games](#games)auto    - [Writing Articles](#writing-articles)auto    - [Teaching](#teaching)auto    - [Studies](#studies)auto        - [Writing](#writing)auto    - [UX/UI](#uxui)auto        - [web](#web)auto    - [Privacy](#privacy)auto    - [Philosophy](#philosophy)auto    - [General](#general)auto        - [Jobs](#jobs)auto    - [General Fun](#general-fun)auto    - [Articles](#articles)auto    - [News](#news)auto    - [Gadgets](#gadgets)auto    - [Resources](#resources)autoauto<!-- /TOC -->
+<!-- TOC -->autoauto- [Awesome Computer Science Stuff [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)](#awesome-computer-science-stuff-awesomehttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvghttpsgithubcomsindresorhusawesome)auto    - [Research](#research)auto    - [Computer Science general](#computer-science-general)auto        - [Quantum Information Science](#quantum-information-science)auto        - [Data Structures](#data-structures)auto        - [Databases](#databases)auto        - [Networks](#networks)auto        - [Programming](#programming)auto            - [IDEs](#ides)auto            - [Formal Methods](#formal-methods)auto            - [APIs](#apis)auto            - [Assembly](#assembly)auto            - [C/C++](#cc)auto            - [Makefile](#makefile)auto                - [KDE/Qt](#kdeqt)auto            - [Python](#python)auto                - [Jupyter](#jupyter)auto                - [Presentations](#presentations)auto            - [Others](#others)auto            - [Version Control](#version-control)auto            - [Software Engenieering](#software-engenieering)auto        - [Hardware](#hardware)auto        - [Eletronics](#eletronics)auto    - [Operating Systems](#operating-systems)auto        - [Linux Kernel](#linux-kernel)auto        - [Memmory](#memmory)auto    - [Compilers](#compilers)auto        - [API](#api)auto    - [Distributed Systems](#distributed-systems)auto    - [Pattern Recognition](#pattern-recognition)auto    - [Artificial Intelligence](#artificial-intelligence)auto        - [NLP](#nlp)auto        - [Machine Learning](#machine-learning)auto        - [ML Articles](#ml-articles)auto        - [Neural Networks](#neural-networks)auto        - [Computer Vision](#computer-vision)auto            - [Python DL](#python-dl)auto    - [Math](#math)auto        - [Theorems](#theorems)auto        - [Algebra](#algebra)auto        - [Matrices](#matrices)auto        - [Statistics](#statistics)auto        - [Data Science](#data-science)auto            - [Datasets](#datasets)auto            - [Luna](#luna)auto            - [Data Graphics](#data-graphics)auto        - [Calculus](#calculus)auto        - [Topology](#topology)auto        - [Linear Programming](#linear-programming)auto        - [Discretionary Math](#discretionary-math)auto        - [Signal Processing](#signal-processing)auto        - [Graph Theory](#graph-theory)auto        - [Coding](#coding)auto        - [Fun](#fun)auto        - [Music](#music)auto        - [General Math](#general-math)auto    - [Physics](#physics)auto        - [Astronomy](#astronomy)auto        - [Astro Articles](#astro-articles)auto        - [NASA](#nasa)auto            - [SpaceX](#spacex)auto    - [Chemistry](#chemistry)auto    - [Biology](#biology)auto    - [Geography](#geography)auto    - [On-line Services](#on-line-services)auto    - [Filesystems](#filesystems)auto    - [Computer Graphics](#computer-graphics)auto        - [CG Articles](#cg-articles)auto        - [Augmented Reality](#augmented-reality)auto    - [Games](#games)auto    - [Writing Articles](#writing-articles)auto    - [Teaching](#teaching)auto    - [Studies](#studies)auto        - [Writing](#writing)auto    - [UX/UI](#uxui)auto        - [web](#web)auto    - [Privacy](#privacy)auto    - [Philosophy](#philosophy)auto    - [General](#general)auto        - [Jobs](#jobs)auto    - [General Fun](#general-fun)auto    - [Articles](#articles)auto    - [News](#news)auto    - [Gadgets](#gadgets)auto    - [Resources](#resources)autoauto<!-- /TOC -->
 
 - **TheoryOfComputation*- : Some resources about the topic (tex files and JFLAP files).
 - **Algorithms*- : Some stuff about design, analisys and general in algorithms science.
@@ -29,6 +29,10 @@
 - [Surprisingly Turing-Complete](https://www.gwern.net/Turing-complete#how-many-computers-are-in-your-computer)
 - [Operation Costs in CPU Clock Cycles](http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/)
 - [CSIndexbr](https://csindexbr.org/) provides transparent data about Brazilian scientific production in Computer Science. We index full research papers published in selected conferences and journals.
+
+### Quantum Information Science
+
+- [Lecture notes! Intro to Quantum Information Science](https://www.scottaaronson.com/blog/?p=3943)
 
 ### Data Structures
 
@@ -89,6 +93,7 @@
 - [An Introduction to Dynamic Symbolic Execution and the KLEE Infrastructure](https://srg.doc.ic.ac.uk/files/slides/symex-tarot-18.pdf)
 - [Software Checklist](https://www.solipsys.co.uk/new/SoftwareChecklist.html)
 - [dev-pratice](https://github.com/alinebastos/dev-practice): Practice your skills with these ideas.
+- [small](https://github.com/mathiasbynens/small): Smallest possible syntactically valid files of different types.
 
 #### IDEs
 
@@ -152,6 +157,8 @@
 
 - [Qt-CMake-HelloWorld](https://github.com/jasondegraw/Qt-CMake-HelloWorld): A Simple Qt5 Program Built with CMake
 - [Atelier](https://github.com/kde/atelier): Open Source 3D Printing Host - User Interface
+- [BitsOfBytes](https://github.com/vivaladav/BitsOfBytes): Code and projects from my blog posts.
+- [How to create an application with Qt and C++](http://blog.davidecoppola.com/2016/10/how-to-create-an-application-with-qt-and-cpp/)
 
 #### Python
 
@@ -191,7 +198,9 @@
 - Python List Comprehensions: [Explained Visually](https://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
 - [Inside python dict](https://just-taking-a-ride.com/inside_python_dict/chapter1.html): an explorable explanation. Github: [inside_python_dict](https://github.com/eleweek/inside_python_dict)
 - [Kattis problem Pivot](http://mycode.doesnot.run/2018/04/11/pivot/): Incrementally improving the performance of a python script, until nothing makes sense anymore
-
+- [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
+- [logpy](https://github.com/logpy/logpy): Logic Programming in Python
+  
 ##### Jupyter
 
 - [nbtutor](https://github.com/lgpage/nbtutor): Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
@@ -244,6 +253,8 @@
   - [Guide to develop secure applications with Rust](https://github.com/ANSSI-FR/rust-guide): Recommendations for secure applications development with Rust
 - Scala:
   - [Implicits, type classes, and extension methods, part 1: with type classes in mind](https://kubuszok.com/2018/implicits-type-classes-and-extension-methods-part-1/)
+- Verilog:
+  - [Designing Hardware with Verilog](http://8bitworkshop.com/blog/release/2018/12/15/verilog-programming.html)
 - Yorlang:
   - [yorlang](https://github.com/anoniscoding/yorlang): [Yorlang](https://anoniscoding.github.io/yorlang/) is an esoteric programming language designed to write small programs using yoruba language constructs. It is the first of its kind and it can carry out basic programming operations in yoruba language (a language spoken in some parts of Nigeria ).
 
@@ -430,11 +441,16 @@
 - [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning): 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
   
 ### Machine Learning Articles
+- [Nevergrad](https://code.fb.com/ai-research/nevergrad/): An open source tool for derivative-free optimization. [github](https://github.com/facebookresearch/nevergrad)
+- [ML.NET](https://github.com/dotnet/machinelearning): is an open source and cross-platform machine learning framework for .NET.
+
+### ML Articles
 
 - [Prior Convictions: Black-Box Adversarial Attacks with Bandits and Priors](https://arxiv.org/abs/1807.07978)
 - [[1808.07531] Sarcasm Analysis using Conversation Context](https://arxiv.org/abs/1808.07531)
 - [[1812.04948] A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948)
 - [GAN Dissection: Visualizing and Understanding Generative Adversarial Networks - arxiv vanity](https://www.arxiv-vanity.com/papers/1811.10597/)
+- [Super SloMo](https://arxiv.org/abs/1712.00080): High Quality Estimation of Multiple Intermediate Frames for Video Interpolation. [Śuper-SloMo github](https://github.com/avinashpaliwal/Super-SloMo)
 
 ### Neural Networks
 
@@ -447,7 +463,8 @@
 - [NALU](https://github.com/Nilabhra/NALU): Neural Arithmetic Logic Units
 - [tensorspace](https://github.com/tensorspace-team/tensorspace): Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js
 - [A Beginner􏰀s Guide to the Mathematics of Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf)
-  
+- [NEURAL NETWORKS AS ORDINARY DIFFERENTIAL EQUATIONS](https://rkevingibson.github.io/blog/neural-networks-as-ordinary-differential-equations/)
+
 ### Computer Vision
 
 - [Computer Vision Workshop](https://github.com/CatalystCode/CVWorkshop)
@@ -844,6 +861,7 @@
 - [How to Read an RFC](https://www.mnot.net/blog/2018/07/31/read_rfc)
 - [How to Read a Paper Efficiently (By Prof. Pete Carr)](https://www.youtube.com/watch?v=IeaD0ZaUJ3Y)
 - [How to Write an Abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html)
+- [Best Paper Awards in Computer Science (since 1996)](https://jeffhuang.com/best_paper_awards.html)
   
 ## Teaching
 
@@ -868,7 +886,8 @@
 - [How to Write an Abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html)
 - [Advent of Code](https://adventofcode.com/2018/): is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other.
 - [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
-
+- [Bubblin](https://bubblin.io/): A social book reader for web.
+  
 ### Writing
 
 - [Write Clearly and Concisely](http://sites.ieee.org/pcs/communication-resources-for-engineers/style/write-clearly-and-concisely/) by IEEE
@@ -937,6 +956,7 @@
 - [ghuser.io](https://github.com/ghuser-io/ghuser.io): Better GitHub profiles
 - [MagicBox](https://github.com/unicef/magicbox): A platform that uses real-time data to inform life-saving humanitarian responses to emergency situations.
 - (pt-br) a [list](https://github.com/ramalho/cdc) of code of conduct.
+- [Survival rates in commercial jet crashes, by seat position.](https://mdbootstrap.com/snippets/jquery/ascensus/212648): 
 
 ### Jobs
 
@@ -984,6 +1004,7 @@
 - [ghuser.io](https://ghuser.io/AurelienLourot)- Better GitHub profiles
 - [Transforming Wikipedia into an accurate cultural knowledge quiz](https://medium.com/@mjbaldwin/transforming-wikipedia-into-an-accurate-cultural-knowledge-quiz-b0a0f74877c)
 - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee): eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+- [Advent Calendar of Curiosities 2018](https://advent.morr.cc/2018)
 
 ## Articles
 
