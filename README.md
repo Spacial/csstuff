@@ -1,7 +1,5 @@
 # Awesome Computer Science Stuff [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<!-- TOC -->autoauto- [Awesome Computer Science Stuff [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)](#awesome-computer-science-stuff-awesomehttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvghttpsgithubcomsindresorhusawesome)auto    - [Research](#research)auto    - [Computer Science general](#computer-science-general)auto        - [Quantum Information Science](#quantum-information-science)auto        - [Data Structures](#data-structures)auto        - [Databases](#databases)auto        - [Networks](#networks)auto        - [Programming](#programming)auto            - [IDEs](#ides)auto            - [Formal Methods](#formal-methods)auto            - [APIs](#apis)auto            - [Assembly](#assembly)auto            - [C/C++](#cc)auto            - [Makefile](#makefile)auto                - [KDE/Qt](#kdeqt)auto            - [Python](#python)auto                - [Jupyter](#jupyter)auto                - [Presentations](#presentations)auto            - [Others](#others)auto            - [Version Control](#version-control)auto            - [Software Engenieering](#software-engenieering)auto        - [Hardware](#hardware)auto        - [Eletronics](#eletronics)auto    - [Operating Systems](#operating-systems)auto        - [Linux Kernel](#linux-kernel)auto        - [Memmory](#memmory)auto    - [Compilers](#compilers)auto        - [API](#api)auto    - [Distributed Systems](#distributed-systems)auto    - [Pattern Recognition](#pattern-recognition)auto    - [Artificial Intelligence](#artificial-intelligence)auto        - [NLP](#nlp)auto        - [Machine Learning](#machine-learning)auto        - [ML Articles](#ml-articles)auto        - [Neural Networks](#neural-networks)auto        - [Computer Vision](#computer-vision)auto            - [Python DL](#python-dl)auto    - [Math](#math)auto        - [Theorems](#theorems)auto        - [Algebra](#algebra)auto        - [Matrices](#matrices)auto        - [Statistics](#statistics)auto        - [Data Science](#data-science)auto            - [Datasets](#datasets)auto            - [Luna](#luna)auto            - [Data Graphics](#data-graphics)auto        - [Calculus](#calculus)auto        - [Topology](#topology)auto        - [Linear Programming](#linear-programming)auto        - [Discretionary Math](#discretionary-math)auto        - [Signal Processing](#signal-processing)auto        - [Graph Theory](#graph-theory)auto        - [Coding](#coding)auto        - [Fun](#fun)auto        - [Music](#music)auto        - [General Math](#general-math)auto    - [Physics](#physics)auto        - [Astronomy](#astronomy)auto        - [Astro Articles](#astro-articles)auto        - [NASA](#nasa)auto            - [SpaceX](#spacex)auto    - [Chemistry](#chemistry)auto    - [Biology](#biology)auto    - [Geography](#geography)auto    - [On-line Services](#on-line-services)auto    - [Filesystems](#filesystems)auto    - [Computer Graphics](#computer-graphics)auto        - [CG Articles](#cg-articles)auto        - [Augmented Reality](#augmented-reality)auto    - [Games](#games)auto    - [Writing Articles](#writing-articles)auto    - [Teaching](#teaching)auto    - [Studies](#studies)auto        - [Writing](#writing)auto    - [UX/UI](#uxui)auto        - [web](#web)auto    - [Privacy](#privacy)auto    - [Philosophy](#philosophy)auto    - [General](#general)auto        - [Jobs](#jobs)auto    - [General Fun](#general-fun)auto    - [Articles](#articles)auto    - [News](#news)auto    - [Gadgets](#gadgets)auto    - [Resources](#resources)autoauto<!-- /TOC -->
-
 - **TheoryOfComputation*- : Some resources about the topic (tex files and JFLAP files).
 - **Algorithms*- : Some stuff about design, analisys and general in algorithms science.
 
@@ -147,6 +145,8 @@
 - [CTML](https://github.com/tinfoilboy/CTML): A C++ HTML document constructor only depending on the C++ standard library.
 - [CALLBACKS IN C++ USING TEMPLATE FUNCTORS](http://www.tutok.sk/fastgl/callback.html): Callbacks are in wide use, however current implementations differ and most suffer from shortcomings, not the least of which is their lack of generality. This article describes what callbacks are, how they are used, and the criteria for a good callback mechanism. It summarizes current callback methods and their weaknesses. It then describes a flexible, powerful and easy-to-use callback technique based on template functors - objects that behave like functions.
 - [Sebastian Aaltonen](https://twitter.com/SebAaltonen/status/1080069784644059139): Now that people have already said highly controversial stuff like ”debugger is useless for C++ development”, I think I can share my own controversial thoughts about unit testing, DRY, copy-paste coding and function length, etc... with 20 years of C++ programming experience.
+- [lazyCode](https://github.com/SaadAttieh/lazyCode): C++14: bringing in those expressions that you wish you had, Lazily evaluated, compossible generators, maps, filters, ranges and more...
+- [libpostal](https://github.com/openvenues/libpostal): A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 
 #### Makefile
 
@@ -200,6 +200,7 @@
 - [Kattis problem Pivot](http://mycode.doesnot.run/2018/04/11/pivot/): Incrementally improving the performance of a python script, until nothing makes sense anymore
 - [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
 - [logpy](https://github.com/logpy/logpy): Logic Programming in Python
+- [PyPy for low-latency systems](https://morepypy.blogspot.com/2019/01/pypy-for-low-latency-systems.html)
   
 ##### Jupyter
 
@@ -208,6 +209,7 @@
 - [The Future of Notebooks: Lessons from JupyterCon](http://willcrichton.net/notes/lessons-from-jupytercon/)
 - (pt-br) [Violencia Rio de Janeiro](https://github.com/rogeriochaves/notebooks/blob/master/Violencia%20Rio%20de%20Janeiro.ipynb)
 - [How to Grow Neat Software Architecture out of Jupyter Notebooks](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks)
+- [tpqad](https://github.com/yhilpisch/tpqad): Workflow combining Asciidoctor with Codes in Jupyter Notebooks.
 
 ##### Presentations
 
@@ -348,6 +350,8 @@
 - [McKernel](https://www.sys.r-ccs.riken.jp/ResearchTopics/os/mckernel/)
 - [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/) with code repo: [lc3-vm](https://github.com/justinmeiners/lc3-vm)
 - [EmuTOS](https://github.com/emutos/emutos): is a Free operating system for Atari computers, and more.
+- [K2 Operating System](http://www.k2os.org/): K2 is an operating system for energy-efficient mobile System-on-chip.
+- [Sanos](http://www.jbox.dk/sanos/index.htm): Sanos is a minimalistic 32-bit x86 operating system kernel for network server appliances running on standard PC hardware. 
 
 ### Linux Kernel
 
@@ -441,6 +445,7 @@
 - [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning): 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
   
 ### Machine Learning Articles
+
 - [Nevergrad](https://code.fb.com/ai-research/nevergrad/): An open source tool for derivative-free optimization. [github](https://github.com/facebookresearch/nevergrad)
 - [ML.NET](https://github.com/dotnet/machinelearning): is an open source and cross-platform machine learning framework for .NET.
 
@@ -464,7 +469,8 @@
 - [tensorspace](https://github.com/tensorspace-team/tensorspace): Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js
 - [A Beginner􏰀s Guide to the Mathematics of Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf)
 - [NEURAL NETWORKS AS ORDINARY DIFFERENTIAL EQUATIONS](https://rkevingibson.github.io/blog/neural-networks-as-ordinary-differential-equations/)
-
+- [Bbrain.js](https://github.com/BrainJS/brain.js): 🤖 Neural networks in JavaScript
+  
 ### Computer Vision
 
 - [Computer Vision Workshop](https://github.com/CatalystCode/CVWorkshop)
@@ -572,7 +578,9 @@
 - [How to Calculate the Correlation Coefficient](https://www.thoughtco.com/how-to-calculate-the-correlation-coefficient-3126228)
 - [Statistics How To](https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/correlation-coefficient-formula/)
 - [baRcodeR](https://github.com/yihanwu/baRcodeR): Project for labeling, tracking, and organizing samples based on 2D barcodes
-  
+- [Seeing Theory](https://seeing-theory.brown.edu/index.html): was created by Daniel Kunin while an undergraduate at Brown University. The goal of this website is to make statistics more accessible through interactive visualizations (designed using Mike Bostock’s JavaScript library D3.js).
+  - [Regression Analysis](https://seeing-theory.brown.edu/regression-analysis/index.html)
+
 ### Data Science
 
 - Some thoughts about data licensing: [The CRAPL: An academic-strength open source license](http://matt.might.net/articles/crapl/)
@@ -610,6 +618,7 @@
 - [bonobo](https://www.bonobo-project.org/): Bonobo is a lightweight Extract-Transform-Load (ETL) framework for Python 3.5+. [github](https://github.com/python-bonobo/bonobo)
 - [The Graph of Thrones](https://neo4j.com/blog/graph-of-thrones/), a [repo](https://github.com/johnymontana/graph-of-thrones), [Analyzing the Graph of Thrones](https://www.lyonwj.com/2016/06/26/graph-of-thrones-neo4j-social-network-analysis/) and [Network of Thrones](https://www.macalester.edu/~abeverid/thrones.html)
 - [Jazz Graph](https://github.com/berinhard/jazz-graph): Graph Study of Jazz Music
+- [matrixprofile-ts](https://github.com/target/matrixprofile-ts): A Python library for detecting patterns and anomalies in massive datasets using the Matrix Profile
 
 #### Datasets
 
@@ -620,7 +629,8 @@
 - (pt-br)[Dados eleitorais do Brasil](https://jaironicolau.github.io/deb/)
 - [CSV 1.1](https://csv11.github.io/) : Comma Separated (Named) Values, Version: 1.1
 - (pt-br) [ATLAS DO ESTADO BRASILEIRO](http://www.ipea.gov.br/atlasestado/): é uma plataforma de dados integrados sobre a estrutura organizacional e de pessoal do Estado brasileiro, em seus três níveis da administração – federal, estadual e municipal.
-  
+- [Guesstimate](https://www.getguesstimate.com): is a spreadsheet tool that helps you model and forecast uncertain quantities.
+
 #### Luna
 
 - [Luna](https://www.luna-lang.org/) is a data processing and visualization environment built on a principle that people need an immediate connection to what they are building. [github repo](https://github.com/luna/luna), [studio](https://github.com/luna/luna-studio) (IDE) and [docs](https://luna-lang.gitbooks.io/docs/content/interface.html)
@@ -686,6 +696,7 @@
 - [6.886 Graph Analytics Spring 2018](https://people.csail.mit.edu/jshun/6886-s18/)
 - [d3-dag](https://github.com/erikbrinkman/d3-dag): Layout algorithms for visualizing directed acylic graphs
 - [Ryanair, Hamiltonian Cycles, and using graph theory to find cheap flights](https://blog.jonlu.ca/posts/ryan-air)
+- [Pathfinding for Tower Defense](https://www.redblobgames.com/pathfinding/tower-defense/)
 
 ### Coding
 
@@ -844,7 +855,13 @@
 ### Augmented Reality
 
 - [ARKit + SceneKit Geometries Tutorial (Part 2)](https://medium.com/@maxxfrazer/arkit-scenekit-geometries-tutorial-part-2-ff315d8d7030), [github](https://github.com/maxxfrazer/SCNCustomGeometries-Part2)
-  
+
+## 3D Modelling/Printing
+
+- [OpenSCAD](https://www.openscad.org/): The Programmers Solid 3D CAD Modeller
+- [BIM_Workbench](https://github.com/yorikvanhavre/BIM_Workbench): A BIM Workbench for FreeCAD
+- [Open CASCADE Technology](https://dev.opencascade.org/): The Open Source 3D Modeling Libraries
+
 ## Games
 
 - [toy](https://github.com/hugoam/toy): the thin c++ game engine - [toyengine](https://hugoam.github.io/toy-io/).
@@ -854,7 +871,7 @@
 - [Sol-R](https://github.com/favreau/Sol-R): Open-Source CUDA/OpenCL Speed Of Light Ray-tracer
 - [Araní](http://aranigame.com/home/)
 - [Gravball](https://www.kongregate.com/games/Introscopia/gravball)
-  ®
+
 ## Writing Articles
 
 - [Renders papers from Arxiv as responsive web pages so you don't have to squint at a PDF.](https://github.com/arxiv-vanity/arxiv-vanity)
@@ -916,6 +933,7 @@
 - [molten API](https://moltenframework.com/v0.5.2/index.html): modern API framework — molten 0.6.0 documentation
 - [molten](https://github.com/Bogdanp/molten/): A minimal, extensible, fast and productive framework for building HTTP APIs with Python 3.6 and later.
 - [walt](https://github.com/ballercat/walt): Walt is a JavaScript-like syntax for WebAssembly text format
+- [Gravitee.io API Platform](https://gravitee.io/): is a flexible, lightweight and blazing-fast open source API Management solution that helps your organization control finely who, when and how users access your APIs. [github](https://github.com/gravitee-io)
 
 ## Privacy
 
@@ -957,6 +975,7 @@
 - [MagicBox](https://github.com/unicef/magicbox): A platform that uses real-time data to inform life-saving humanitarian responses to emergency situations.
 - (pt-br) a [list](https://github.com/ramalho/cdc) of code of conduct.
 - [Survival rates in commercial jet crashes, by seat position.](https://mdbootstrap.com/snippets/jquery/ascensus/212648): 
+- [HN.Academy - Online Courses Recommended By Hacker News Users](https://hn.academy/)
 
 ### Jobs
 
