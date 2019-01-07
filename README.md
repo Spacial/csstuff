@@ -1,7 +1,5 @@
 # Awesome Computer Science Stuff [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-
-
 - **TheoryOfComputation*- : Some resources about the topic (tex files and JFLAP files).
 - **Algorithms*- : Some stuff about design, analisys and general in algorithms science.
 
@@ -909,6 +907,7 @@
 - [molten API](https://moltenframework.com/v0.5.2/index.html): modern API framework — molten 0.6.0 documentation
 - [molten](https://github.com/Bogdanp/molten/): A minimal, extensible, fast and productive framework for building HTTP APIs with Python 3.6 and later.
 - [walt](https://github.com/ballercat/walt): Walt is a JavaScript-like syntax for WebAssembly text format
+- [unCaptcha2](https://github.com/ecthros/uncaptcha2): defeating the latest version of ReCaptcha with 91% accuracy
 
 ## Privacy
 
@@ -949,7 +948,7 @@
 - [ghuser.io](https://github.com/ghuser-io/ghuser.io): Better GitHub profiles
 - [MagicBox](https://github.com/unicef/magicbox): A platform that uses real-time data to inform life-saving humanitarian responses to emergency situations.
 - (pt-br) a [list](https://github.com/ramalho/cdc) of code of conduct.
-- [Survival rates in commercial jet crashes, by seat position.](https://mdbootstrap.com/snippets/jquery/ascensus/212648): 
+- [Survival rates in commercial jet crashes, by seat position.](https://mdbootstrap.com/snippets/jquery/ascensus/212648):
 
 ### Jobs
 
