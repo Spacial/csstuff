@@ -1,6 +1,6 @@
 # Awesome Computer Science Stuff [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<!-- TOC -->autoauto- [Awesome Computer Science Stuff [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)](#awesome-computer-science-stuff-awesomehttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvghttpsgithubcomsindresorhusawesome)auto    - [Research](#research)auto    - [Computer Science general](#computer-science-general)auto        - [Quantum Information Science](#quantum-information-science)auto        - [Data Structures](#data-structures)auto        - [Databases](#databases)auto        - [Networks](#networks)auto        - [Programming](#programming)auto            - [IDEs](#ides)auto            - [Formal Methods](#formal-methods)auto            - [APIs](#apis)auto            - [Assembly](#assembly)auto            - [C/C++](#cc)auto            - [Makefile](#makefile)auto                - [KDE/Qt](#kdeqt)auto            - [Python](#python)auto                - [Jupyter](#jupyter)auto                - [Presentations](#presentations)auto            - [Others](#others)auto            - [Version Control](#version-control)auto            - [Software Engenieering](#software-engenieering)auto        - [Hardware](#hardware)auto        - [Eletronics](#eletronics)auto    - [Operating Systems](#operating-systems)auto        - [Linux Kernel](#linux-kernel)auto        - [Memmory](#memmory)auto    - [Compilers](#compilers)auto        - [API](#api)auto    - [Distributed Systems](#distributed-systems)auto    - [Pattern Recognition](#pattern-recognition)auto    - [Artificial Intelligence](#artificial-intelligence)auto        - [NLP](#nlp)auto        - [Machine Learning](#machine-learning)auto        - [ML Articles](#ml-articles)auto        - [Neural Networks](#neural-networks)auto        - [Computer Vision](#computer-vision)auto            - [Python DL](#python-dl)auto    - [Math](#math)auto        - [Theorems](#theorems)auto        - [Algebra](#algebra)auto        - [Matrices](#matrices)auto        - [Statistics](#statistics)auto        - [Data Science](#data-science)auto            - [Datasets](#datasets)auto            - [Luna](#luna)auto            - [Data Graphics](#data-graphics)auto        - [Calculus](#calculus)auto        - [Topology](#topology)auto        - [Linear Programming](#linear-programming)auto        - [Discretionary Math](#discretionary-math)auto        - [Signal Processing](#signal-processing)auto        - [Graph Theory](#graph-theory)auto        - [Coding](#coding)auto        - [Fun](#fun)auto        - [Music](#music)auto        - [General Math](#general-math)auto    - [Physics](#physics)auto        - [Astronomy](#astronomy)auto        - [Astro Articles](#astro-articles)auto        - [NASA](#nasa)auto            - [SpaceX](#spacex)auto    - [Chemistry](#chemistry)auto    - [Biology](#biology)auto    - [Geography](#geography)auto    - [On-line Services](#on-line-services)auto    - [Filesystems](#filesystems)auto    - [Computer Graphics](#computer-graphics)auto        - [CG Articles](#cg-articles)auto        - [Augmented Reality](#augmented-reality)auto    - [Games](#games)auto    - [Writing Articles](#writing-articles)auto    - [Teaching](#teaching)auto    - [Studies](#studies)auto        - [Writing](#writing)auto    - [UX/UI](#uxui)auto        - [web](#web)auto    - [Privacy](#privacy)auto    - [Philosophy](#philosophy)auto    - [General](#general)auto        - [Jobs](#jobs)auto    - [General Fun](#general-fun)auto    - [Articles](#articles)auto    - [News](#news)auto    - [Gadgets](#gadgets)auto    - [Resources](#resources)autoauto<!-- /TOC -->
+
 
 - **TheoryOfComputation*- : Some resources about the topic (tex files and JFLAP files).
 - **Algorithms*- : Some stuff about design, analisys and general in algorithms science.
@@ -93,7 +93,8 @@
 - [An Introduction to Dynamic Symbolic Execution and the KLEE Infrastructure](https://srg.doc.ic.ac.uk/files/slides/symex-tarot-18.pdf)
 - [Software Checklist](https://www.solipsys.co.uk/new/SoftwareChecklist.html)
 - [small](https://github.com/mathiasbynens/small): Smallest possible syntactically valid files of different types.
-
+- [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/): this web page contains a free electronic version of my (soon to be) self-published textbook Algorithms, along with other lecture notes I have written for various theoretical computer science classes at the University of Illinois, Urbana-Champaign since 1998. [github](https://github.com/jeffgerickson/algorithms)
+  
 #### IDEs
 
 - [geany-dark-scheme](https://github.com/Wayn0/geany-dark-scheme): Dark syntax theme for the Geany text editor.
@@ -145,6 +146,10 @@
 - [Infinity](https://onebyezero.blogspot.com/2018/12/string-tokenization-in-c.html): String tokenization in C
 - [CTML](https://github.com/tinfoilboy/CTML): A C++ HTML document constructor only depending on the C++ standard library.
 - [CALLBACKS IN C++ USING TEMPLATE FUNCTORS](http://www.tutok.sk/fastgl/callback.html): Callbacks are in wide use, however current implementations differ and most suffer from shortcomings, not the least of which is their lack of generality. This article describes what callbacks are, how they are used, and the criteria for a good callback mechanism. It summarizes current callback methods and their weaknesses. It then describes a flexible, powerful and easy-to-use callback technique based on template functors - objects that behave like functions.
+- [Practical Guide to Bare Metal C++](https://arobenko.gitbooks.io/bare_metal_cpp/content/).
+- ["Modern" C++ Lamentations](http://aras-p.info/blog/2018/12/28/Modern-C-Lamentations/): This will be a long wall of text, and kinda random! My main points are: C++ compile times are important,Non-optimized build performance is important and Cognitive load is important.
+- [Lazy Code](https://github.com/SaadAttieh/lazyCode): C++14, bringing in those expressions that you wish you had, Lazily evaluated, compossible generators, maps, filters, ranges and more...
+- [How to learn more as a C++ software engineer?](http://nullptr.nl/2019/01/better-cpp-software-engineer/)
   
 #### Makefile
 
@@ -245,6 +250,7 @@
   - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust): A curated list of Rust code and resources.
   - [PortingCToRust](https://wiki.alopex.li/PortingCToRust)
   - [Guide to develop secure applications with Rust](https://github.com/ANSSI-FR/rust-guide): Recommendations for secure applications development with Rust
+  - [Easy Postgres extensions in Rust with pg-extend-rs](https://bluejekyll.github.io/blog/rust/2018/12/27/announcing-pg-extend.html)
 - Scala:
   - [Implicits, type classes, and extension methods, part 1: with type classes in mind](https://kubuszok.com/2018/implicits-type-classes-and-extension-methods-part-1/)
 - Verilog:
@@ -256,6 +262,7 @@
 
 - [Meld](https://github.com/yousseb/meld/): Meld is a visual diff and merge tool targeted at developers. Meld helps you compare files, directories, and version controlled projects. It provides two- and three-way comparison of both files and directories, and supports many version control systems including Git, Mercurial, Bazaar and Subversion.
 - [kompare](https://github.com/KDE/kompare): Graphical File Differences Tool
+- [Monorepos](https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b): Please don’t!
 - **GIT**:
   - [Pro Git book](https://git-scm.com/book/en/v2), written by Scott Chacon and Ben Straub ([github](https://github.com/progit/progit2) repo)
   - [git-sizer](https://github.com/github/git-sizer/): Compute various size metrics for a Git repository, flagging those that might cause problems ( [article](https://blog.github.com/2018-03-05-measuring-the-many-sizes-of-a-git-repository/))
@@ -318,6 +325,8 @@
 - [Reverse engineering the ARM1, ancestor of the iPhone's processor](http://www.righto.com/2015/12/reverse-engineering-arm1-ancestor-of.html)
 - [x86doc](https://github.com/zneak/x86doc): HTML representation of the Intel x86 instructions documentation.
 - [hardware-effects](https://github.com/Kobzol/hardware-effects): Demonstration of various hardware effects.
+- Lessons from Running a Small-Scale Electronics Factory in my Guest Bedroom, part 1: [Design](https://spun.io/2018/12/15/lessons-from-running-a-small-scale-electronics-factory-in-my-guest-bedroom-part-1-design/)
+- [Apple Macintosh Group](http://www.byrdsight.com/apple-macintosh/): Firsts chips made by Apple.
 
 ### Eletronics
 
@@ -378,7 +387,7 @@
 
 - [Lisp code](https://github.com/norvig/paip-lisp) for the textbook "Paradigms of Artificial Intelligence Programming"
 
-### NLP
+### Natural Language Processing
 
 - [Industrial-strength Natural Language Processing (NLP) with Python and Cython](https://github.com/explosion/spaCy/)
 - [Understanding word vectors](https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469)
@@ -386,6 +395,7 @@
 - [Distributed Translation Infrastructure](https://github.com/ivan-zapreev/Distributed-Translation-Infrastructure): The distributed statistical machine translation infrastructure consisting of load balancing, text pre/post-processing and translation services. Written in C++ 11 and utilises multicore CPUs by employing multi-threading, allows for secure SSL/TLS communications.
 - [Build a quick Summarizer with Python and NLTK](https://dev.to/davidisrawi/build-a-quick-summarizer-with-python-and-nltk)
 - [pytext](https://github.com/facebookresearch/PyText): A natural language modeling framework based on PyTorch
+- [flair](https://github.com/zalandoresearch/flair): A very simple framework for state-of-the-art Natural Language Processing (NLP)
 
 ### Machine Learning
 
@@ -438,6 +448,7 @@
 - [[1812.04948] A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948)
 - [GAN Dissection: Visualizing and Understanding Generative Adversarial Networks - arxiv vanity](https://www.arxiv-vanity.com/papers/1811.10597/)
 - [Super SloMo](https://arxiv.org/abs/1712.00080): High Quality Estimation of Multiple Intermediate Frames for Video Interpolation. [Śuper-SloMo github](https://github.com/avinashpaliwal/Super-SloMo)
+- [The Tsetlin Machine](https://arxiv.org/abs/1804.01508): A Game Theoretic Bandit Driven Approach to Optimal Pattern Recognition with Propositional Logic. [github](https://github.com/cair/TsetlinMachine).
 
 ### Neural Networks
 
@@ -508,6 +519,7 @@
 - [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 - [Hamiltonian Monte Carlo explained](http://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html)
 - [An Illustrated Theory of Numbers](http://illustratedtheoryofnumbers.com/)
+- [A Visual Exploration of Gaussian Processes](https://www.jgoertler.com/visual-exploration-gaussian-processes/): How to turn a collection of small building blocks into a versatile tool for solving regression problems.
 
 ### Theorems
 
@@ -593,6 +605,8 @@
 - [bonobo](https://www.bonobo-project.org/): Bonobo is a lightweight Extract-Transform-Load (ETL) framework for Python 3.5+. [github](https://github.com/python-bonobo/bonobo)
 - [The Graph of Thrones](https://neo4j.com/blog/graph-of-thrones/), a [repo](https://github.com/johnymontana/graph-of-thrones), [Analyzing the Graph of Thrones](https://www.lyonwj.com/2016/06/26/graph-of-thrones-neo4j-social-network-analysis/) and [Network of Thrones](https://www.macalester.edu/~abeverid/thrones.html)
 - [Jazz Graph](https://github.com/berinhard/jazz-graph): Graph Study of Jazz Music
+- [haven](https://github.com/tidyverse/haven): Read SPSS, Stata and SAS files from R.
+
 
 #### Datasets
 
