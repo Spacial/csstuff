@@ -90,9 +90,9 @@
 - [EXEgesis](https://github.com/google/EXEgesis): Google's EXEgesis project aims to improve code generation in compilers.
 - [An Introduction to Dynamic Symbolic Execution and the KLEE Infrastructure](https://srg.doc.ic.ac.uk/files/slides/symex-tarot-18.pdf)
 - [Software Checklist](https://www.solipsys.co.uk/new/SoftwareChecklist.html)
-- [dev-pratice](https://github.com/alinebastos/dev-practice): Practice your skills with these ideas.
 - [small](https://github.com/mathiasbynens/small): Smallest possible syntactically valid files of different types.
-
+- [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/): this web page contains a free electronic version of my (soon to be) self-published textbook Algorithms, along with other lecture notes I have written for various theoretical computer science classes at the University of Illinois, Urbana-Champaign since 1998. [github](https://github.com/jeffgerickson/algorithms)
+  
 #### IDEs
 
 - [geany-dark-scheme](https://github.com/Wayn0/geany-dark-scheme): Dark syntax theme for the Geany text editor.
@@ -147,7 +147,10 @@
 - [Sebastian Aaltonen](https://twitter.com/SebAaltonen/status/1080069784644059139): Now that people have already said highly controversial stuff like ”debugger is useless for C++ development”, I think I can share my own controversial thoughts about unit testing, DRY, copy-paste coding and function length, etc... with 20 years of C++ programming experience.
 - [lazyCode](https://github.com/SaadAttieh/lazyCode): C++14: bringing in those expressions that you wish you had, Lazily evaluated, compossible generators, maps, filters, ranges and more...
 - [libpostal](https://github.com/openvenues/libpostal): A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
-
+- [Practical Guide to Bare Metal C++](https://arobenko.gitbooks.io/bare_metal_cpp/content/).
+- ["Modern" C++ Lamentations](http://aras-p.info/blog/2018/12/28/Modern-C-Lamentations/): This will be a long wall of text, and kinda random! My main points are: C++ compile times are important,Non-optimized build performance is important and Cognitive load is important.
+- [How to learn more as a C++ software engineer?](http://nullptr.nl/2019/01/better-cpp-software-engineer/)
+  
 #### Makefile
 
 - [Makefile Tutorial by Example](https://makefiletutorial.com/) and [repo](https://github.com/theicfire/makefiletutorial)
@@ -196,8 +199,6 @@
 - [AMIE](https://github.com/NeatMonster/AMIE): A Minimalist Instruction Extender
 - [snakefood](http://furius.ca/snakefood/): Python Dependency Graphs
 - Python List Comprehensions: [Explained Visually](https://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
-- [Inside python dict](https://just-taking-a-ride.com/inside_python_dict/chapter1.html): an explorable explanation. Github: [inside_python_dict](https://github.com/eleweek/inside_python_dict)
-- [Kattis problem Pivot](http://mycode.doesnot.run/2018/04/11/pivot/): Incrementally improving the performance of a python script, until nothing makes sense anymore
 - [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
 - [logpy](https://github.com/logpy/logpy): Logic Programming in Python
 - [PyPy for low-latency systems](https://morepypy.blogspot.com/2019/01/pypy-for-low-latency-systems.html)
@@ -247,12 +248,11 @@
   - Larry Wall's [Very Own](http://www.wall.org/~larry/) Home Page
 - PHP:
   - [A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem](https://github.com/chiraggude/awesome-laravel)
-- Prolog:
-  - [Learn Prolog Now!](http://www.learnprolognow.org/lpnpage.php?pageid=online): is an introductory course to programming in Prolog. The online version has been available since 2001, and now there is also a throughly revised version available in book form.
 - Rust:
   - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust): A curated list of Rust code and resources.
   - [PortingCToRust](https://wiki.alopex.li/PortingCToRust)
   - [Guide to develop secure applications with Rust](https://github.com/ANSSI-FR/rust-guide): Recommendations for secure applications development with Rust
+  - [Easy Postgres extensions in Rust with pg-extend-rs](https://bluejekyll.github.io/blog/rust/2018/12/27/announcing-pg-extend.html)
 - Scala:
   - [Implicits, type classes, and extension methods, part 1: with type classes in mind](https://kubuszok.com/2018/implicits-type-classes-and-extension-methods-part-1/)
 - Verilog:
@@ -264,6 +264,7 @@
 
 - [Meld](https://github.com/yousseb/meld/): Meld is a visual diff and merge tool targeted at developers. Meld helps you compare files, directories, and version controlled projects. It provides two- and three-way comparison of both files and directories, and supports many version control systems including Git, Mercurial, Bazaar and Subversion.
 - [kompare](https://github.com/KDE/kompare): Graphical File Differences Tool
+- [Monorepos](https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b): Please don’t!
 - **GIT**:
   - [Pro Git book](https://git-scm.com/book/en/v2), written by Scott Chacon and Ben Straub ([github](https://github.com/progit/progit2) repo)
   - [git-sizer](https://github.com/github/git-sizer/): Compute various size metrics for a Git repository, flagging those that might cause problems ( [article](https://blog.github.com/2018-03-05-measuring-the-many-sizes-of-a-git-repository/))
@@ -326,6 +327,8 @@
 - [Reverse engineering the ARM1, ancestor of the iPhone's processor](http://www.righto.com/2015/12/reverse-engineering-arm1-ancestor-of.html)
 - [x86doc](https://github.com/zneak/x86doc): HTML representation of the Intel x86 instructions documentation.
 - [hardware-effects](https://github.com/Kobzol/hardware-effects): Demonstration of various hardware effects.
+- Lessons from Running a Small-Scale Electronics Factory in my Guest Bedroom, part 1: [Design](https://spun.io/2018/12/15/lessons-from-running-a-small-scale-electronics-factory-in-my-guest-bedroom-part-1-design/)
+- [Apple Macintosh Group](http://www.byrdsight.com/apple-macintosh/): Firsts chips made by Apple.
 
 ### Eletronics
 
@@ -389,7 +392,7 @@
 
 - [Lisp code](https://github.com/norvig/paip-lisp) for the textbook "Paradigms of Artificial Intelligence Programming"
 
-### NLP
+### Natural Language Processing
 
 - [Industrial-strength Natural Language Processing (NLP) with Python and Cython](https://github.com/explosion/spaCy/)
 - [Understanding word vectors](https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469)
@@ -397,6 +400,7 @@
 - [Distributed Translation Infrastructure](https://github.com/ivan-zapreev/Distributed-Translation-Infrastructure): The distributed statistical machine translation infrastructure consisting of load balancing, text pre/post-processing and translation services. Written in C++ 11 and utilises multicore CPUs by employing multi-threading, allows for secure SSL/TLS communications.
 - [Build a quick Summarizer with Python and NLTK](https://dev.to/davidisrawi/build-a-quick-summarizer-with-python-and-nltk)
 - [pytext](https://github.com/facebookresearch/PyText): A natural language modeling framework based on PyTorch
+- [flair](https://github.com/zalandoresearch/flair): A very simple framework for state-of-the-art Natural Language Processing (NLP)
 
 ### Machine Learning
 
@@ -456,6 +460,7 @@
 - [[1812.04948] A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948)
 - [GAN Dissection: Visualizing and Understanding Generative Adversarial Networks - arxiv vanity](https://www.arxiv-vanity.com/papers/1811.10597/)
 - [Super SloMo](https://arxiv.org/abs/1712.00080): High Quality Estimation of Multiple Intermediate Frames for Video Interpolation. [Śuper-SloMo github](https://github.com/avinashpaliwal/Super-SloMo)
+- [The Tsetlin Machine](https://arxiv.org/abs/1804.01508): A Game Theoretic Bandit Driven Approach to Optimal Pattern Recognition with Propositional Logic. [github](https://github.com/cair/TsetlinMachine).
 
 ### Neural Networks
 
@@ -467,7 +472,6 @@
 - [NEST](https://github.com/nest/nest-simulator): NEST is a simulator for spiking neural network models that focuses on the dynamics, size and structure of neural systems rather than on the exact morphology of individual neurons.
 - [NALU](https://github.com/Nilabhra/NALU): Neural Arithmetic Logic Units
 - [tensorspace](https://github.com/tensorspace-team/tensorspace): Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js
-- [A Beginner􏰀s Guide to the Mathematics of Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf)
 - [NEURAL NETWORKS AS ORDINARY DIFFERENTIAL EQUATIONS](https://rkevingibson.github.io/blog/neural-networks-as-ordinary-differential-equations/)
 - [Bbrain.js](https://github.com/BrainJS/brain.js): 🤖 Neural networks in JavaScript
   
@@ -491,7 +495,7 @@
 - [ergo-planes-detector](https://github.com/evilsocket/ergo-planes-detector): An ergo based project that relies on a convolutional neural network to detect airplanes from satellite imagery.
 - [VideoPose3D](https://github.com/facebookresearch/VideoPose3D): Efficient 3D human pose estimation in video using 2D keypoint trajectories
 
-#### Python Deep Learning
+#### Python DL
 
 *Frameworks for Neural Networks and Deep Learning. See: [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning).*
 
@@ -528,6 +532,7 @@
 - [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 - [Hamiltonian Monte Carlo explained](http://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html)
 - [An Illustrated Theory of Numbers](http://illustratedtheoryofnumbers.com/)
+- [A Visual Exploration of Gaussian Processes](https://www.jgoertler.com/visual-exploration-gaussian-processes/): How to turn a collection of small building blocks into a versatile tool for solving regression problems.
 
 ### Theorems
 
@@ -571,7 +576,7 @@
 - [termgraph](https://github.com/mkaz/termgraph): a python command-line tool which draws basic graphs in the terminal
 - [Markov Chains](http://setosa.io/ev/markov-chains/): Explained Visually
 - [imager](https://dahtah.github.io/imager/imager.html): an R package for image processing
-- [arviz](https://github.com/arviz-devs/arviz): Python package t®o plot and analyse samples from probabilistic models
+- [arviz](https://github.com/arviz-devs/arviz): Python package to plot and analyse samples from probabilistic models
 - [anomaly detection](https://github.com/shubhomoydas/ad_examples): A collection of popular anomaly detection methods (iid/point-based and time series) including active learning for anomaly detection/discovery, description for diversity/explanation/interpretability. With a deeper analysis of incorporating label feedback with ensemble and tree-based detectors. Includes results-plots and illustrations for most approaches covered.
 - [COVARIANCE](https://stats.seandolinar.com/covariance-different-ways-to-explain/): DIFFERENT WAYS TO EXPLAIN OR VISUALIZE IT
 - (pt-br) [Frequência](https://medium.com/pizzadedados/frequencia-o-que-e-e-como-calcular-f8b74e5d978a): A arte de contar observações
@@ -619,6 +624,7 @@
 - [The Graph of Thrones](https://neo4j.com/blog/graph-of-thrones/), a [repo](https://github.com/johnymontana/graph-of-thrones), [Analyzing the Graph of Thrones](https://www.lyonwj.com/2016/06/26/graph-of-thrones-neo4j-social-network-analysis/) and [Network of Thrones](https://www.macalester.edu/~abeverid/thrones.html)
 - [Jazz Graph](https://github.com/berinhard/jazz-graph): Graph Study of Jazz Music
 - [matrixprofile-ts](https://github.com/target/matrixprofile-ts): A Python library for detecting patterns and anomalies in massive datasets using the Matrix Profile
+- [haven](https://github.com/tidyverse/haven): Read SPSS, Stata and SAS files from R.
 
 #### Datasets
 
@@ -725,8 +731,6 @@
 - [programmers-introduction-to-mathematics](https://github.com/pim-book/programmers-introduction-to-mathematics): Code for [A Programmer's Introduction to Mathematics](https://pimbook.org)
 - [Bezier Moi](https://cormullion.github.io/blog/2018/06/21/bezier.html)
 - [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
-- [atree](https://github.com/anvaka/atree): Just a simple christmas tree, based on redit story
-- [the Fast Fourier Transform](http://lambdaway.free.fr/lambdaspeech/?view=zorg)
 
 ### Fun
 
@@ -902,7 +906,6 @@
 - [Hacking Science](https://github.com/rjruigrok/HackingScience): Computer-Aided Survey Writing - Paper in a Day
 - [How to Write an Abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html)
 - [Advent of Code](https://adventofcode.com/2018/): is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other.
-- [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
 - [Bubblin](https://bubblin.io/): A social book reader for web.
   
 ### Writing
@@ -934,6 +937,7 @@
 - [molten](https://github.com/Bogdanp/molten/): A minimal, extensible, fast and productive framework for building HTTP APIs with Python 3.6 and later.
 - [walt](https://github.com/ballercat/walt): Walt is a JavaScript-like syntax for WebAssembly text format
 - [Gravitee.io API Platform](https://gravitee.io/): is a flexible, lightweight and blazing-fast open source API Management solution that helps your organization control finely who, when and how users access your APIs. [github](https://github.com/gravitee-io)
+- [unCaptcha2](https://github.com/ecthros/uncaptcha2): defeating the latest version of ReCaptcha with 91% accuracy
 
 ## Privacy
 
@@ -1008,8 +1012,7 @@
 - [￼rescale](https://jobs.lever.co/rescale)
 - [NYT Jobs Openings](https://nytimes.wd5.myworkdayjobs.com/Tech)
 - [globo.com](https://talentos.globo.com/#/open-source)
-- [Amazon Leadership Principles](https://www.amazon.jobs/en/principles)
-  
+
 ## General Fun
 
 - [animations with JS](https://state-animations-amsterdam.surge.sh)
@@ -1083,7 +1086,6 @@
 - [Antitrust, the App Store, and Apple](https://stratechery.com/2018/antitrust-the-app-store-and-apple/)
 - [Why Robot Brains Need Symbols](http://nautil.us/issue/67/reboot/why-robot-brains-need-symbols)
 - [Why Finland Is Breaking Down Barriers – Literally!](https://www.teachertoolkit.co.uk/2018/03/10/finland-walls/)
-- [Analyzing Hacker News book suggestions in Python](https://towardsdatascience.com/hacker-news-book-suggestions-64b88099947)
 
 ## Gadgets
 
