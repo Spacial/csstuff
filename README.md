@@ -27,6 +27,7 @@
 - [Surprisingly Turing-Complete](https://www.gwern.net/Turing-complete#how-many-computers-are-in-your-computer)
 - [Operation Costs in CPU Clock Cycles](http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/)
 - [CSIndexbr](https://csindexbr.org/) provides transparent data about Brazilian scientific production in Computer Science. We index full research papers published in selected conferences and journals.
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
 ### Quantum Information Science
 
@@ -884,7 +885,8 @@
 - [Araní](http://aranigame.com/home/)
 - [Gravball](https://www.kongregate.com/games/Introscopia/gravball)
 - [MobyGames Stats - 2018 edition](https://www.mobygames.com/forums/dga,2/dgb,3/dgm,245062/)
-
+- [Euphrates](https://github.com/mikebenfield/euphrates): A Game Console Emulator
+  
 ## Writing Articles
 
 - [Renders papers from Arxiv as responsive web pages so you don't have to squint at a PDF.](https://github.com/arxiv-vanity/arxiv-vanity)
@@ -971,6 +973,7 @@
   - The Postmodern Condition - by Jean-Francois Lyotard
   - [where](https://whereisscihub.herokuapp.com/) is Sci-Hub?
 - [Was Wittgenstein Right?](https://opinionator.blogs.nytimes.com/2013/03/03/was-wittgenstein-right/) - The New York Times
+- [Neural Networks and Philosophy of Language](https://towardsdatascience.com/neural-networks-and-philosophy-of-language-31c34c0796da): Why Wittgenstein’s theories are the basis of all modern NLP
 - [The Right to Read](https://www.gnu.org/philosophy/right-to-read.en.html): GNU Project - Free Software Foundation
 
 ## General
@@ -1046,6 +1049,13 @@
 - [BrainNet](https://arxiv.org/abs/1809.08632): A Multi-Person Brain-to-Brain Interface for Direct Collaboration Between Brains
 
 ## News
+
+### 2019
+
+- [Over 500 Top PDFs posted to Hacker News in 2018](https://getpolarized.io/2019/01/08/top-pdfs-of-2018-hackernews.html)
+- [IQ is largely a pseudoscientific swindle](https://medium.com/incerto/iq-is-largely-a-pseudoscientific-swindle-f131c101ba39)
+  
+### 2018
 
 - [A Science Fair with $1.6 Million in Prizes](https://blog.mozilla.org/blog/2018/07/19/a-science-fair-with-1-6-million-in-prizes/)
 - [18 Best IDEs for C/C++ Programming or Source Code Editors on Linux](https://www.tecmint.com/best-linux-ide-editors-source-code-editors/)
