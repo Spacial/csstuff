@@ -151,7 +151,8 @@
 - [Practical Guide to Bare Metal C++](https://arobenko.gitbooks.io/bare_metal_cpp/content/).
 - ["Modern" C++ Lamentations](http://aras-p.info/blog/2018/12/28/Modern-C-Lamentations/): This will be a long wall of text, and kinda random! My main points are: C++ compile times are important,Non-optimized build performance is important and Cognitive load is important.
 - [How to learn more as a C++ software engineer?](http://nullptr.nl/2019/01/better-cpp-software-engineer/)
-  
+- [tinyalloc](https://github.com/thi-ng/tinyalloc): malloc / free replacement for unmanaged, linear memory situations (e.g. WASM, embedded devices...)
+
 #### Makefile
 
 - [Makefile Tutorial by Example](https://makefiletutorial.com/) and [repo](https://github.com/theicfire/makefiletutorial)
@@ -450,15 +451,14 @@
 - [tensorFlow Privacy](https://github.com/tensorflow/privacy): Library for training machine learning models with privacy for training data
 - [autodrome](https://github.com/vojtamolda/autodrome/): Framework and OpenAI Gym Environment for Autonomous Vehicle Development.
 - [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning): 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
-  
+- [Dive into Deep Learning](http://d2l.ai/): An interactive deep learning book for students, engineers, and researchers.
+- [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
+
 ### Machine Learning Articles
 
 - [Nevergrad](https://code.fb.com/ai-research/nevergrad/): An open source tool for derivative-free optimization. [github](https://github.com/facebookresearch/nevergrad)
 - [ML.NET](https://github.com/dotnet/machinelearning): is an open source and cross-platform machine learning framework for .NET.
 - [mit-deep-learning](https://github.com/lexfridman/mit-deep-learning): Tutorials, assignments, and competitions for MIT Deep Learning related courses.
-
-### ML Articles
-
 - [Prior Convictions: Black-Box Adversarial Attacks with Bandits and Priors](https://arxiv.org/abs/1807.07978)
 - [[1808.07531] Sarcasm Analysis using Conversation Context](https://arxiv.org/abs/1808.07531)
 - [[1812.04948] A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948)
@@ -539,6 +539,7 @@
 - [Hamiltonian Monte Carlo explained](http://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html)
 - [An Illustrated Theory of Numbers](http://illustratedtheoryofnumbers.com/)
 - [A Visual Exploration of Gaussian Processes](https://www.jgoertler.com/visual-exploration-gaussian-processes/): How to turn a collection of small building blocks into a versatile tool for solving regression problems.
+- [How a Kalman filter works, in pictures](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 
 ### Theorems
 
@@ -555,6 +556,7 @@
 - [Set Theory and Algebra in Computer Science A Gentle Introduction to Mathematical Modeling](https://pdfs.semanticscholar.org/d106/6b6de601c1d7d5af25af3f7091bc7ad3ad51.pdf)
 - [Viviani](https://www.geogebra.org/m/phxkpwde): Viviani's theorem states that the sum of the distances from any interior point to the sides of an equilateral triangle equals the length of the triangle's altitude.
 - [Euclidean Spaces](https://meurer.xyz/post/2018-11-18-euclidean-spaces/).
+- [Linear Algebra and Learning from Data](https://math.mit.edu/~gs/learningfromdata/)
 
 ### Matrices
 
@@ -632,6 +634,7 @@
 - [Jazz Graph](https://github.com/berinhard/jazz-graph): Graph Study of Jazz Music
 - [matrixprofile-ts](https://github.com/target/matrixprofile-ts): A Python library for detecting patterns and anomalies in massive datasets using the Matrix Profile
 - [haven](https://github.com/tidyverse/haven): Read SPSS, Stata and SAS files from R.
+- [Predicting victims on national roads in Brazil - Part II | leportella](https://leportella.com/english/2019/01/02/federal-road-accidents-II.html)
 
 #### Datasets
 
@@ -739,6 +742,7 @@
 - [programmers-introduction-to-mathematics](https://github.com/pim-book/programmers-introduction-to-mathematics): Code for [A Programmer's Introduction to Mathematics](https://pimbook.org)
 - [Bezier Moi](https://cormullion.github.io/blog/2018/06/21/bezier.html)
 - [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
+- [Fun with compute shaders and fluid dynamics](https://blog.kummerlaender.eu/article/fun_with_compute_shaders_and_fluid_dynamics/#fnref3)
 
 ### Fun
 
@@ -918,7 +922,8 @@
 - [How to Write an Abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html)
 - [Advent of Code](https://adventofcode.com/2018/): is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other.
 - [Bubblin](https://bubblin.io/): A social book reader for web.
-  
+- [Read with purpose: how to better understand and retain what you read](https://www.jotform.com/blog/reading-comprehension/)
+
 ### Writing
 
 - [Write Clearly and Concisely](http://sites.ieee.org/pcs/communication-resources-for-engineers/style/write-clearly-and-concisely/) by IEEE
@@ -1042,6 +1047,7 @@
 - [Transforming Wikipedia into an accurate cultural knowledge quiz](https://medium.com/@mjbaldwin/transforming-wikipedia-into-an-accurate-cultural-knowledge-quiz-b0a0f74877c)
 - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee): eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 - [Advent Calendar of Curiosities 2018](https://advent.morr.cc/2018)
+- [Chess Steganography](https://incoherency.co.uk/chess-steg/)
 
 ## Articles
 
