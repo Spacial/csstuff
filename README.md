@@ -151,11 +151,14 @@
 - ["Modern" C++ Lamentations](http://aras-p.info/blog/2018/12/28/Modern-C-Lamentations/): This will be a long wall of text, and kinda random! My main points are: C++ compile times are important,Non-optimized build performance is important and Cognitive load is important.
 - [How to learn more as a C++ software engineer?](http://nullptr.nl/2019/01/better-cpp-software-engineer/)
 - [tinyalloc](https://github.com/thi-ng/tinyalloc): malloc / free replacement for unmanaged, linear memory situations (e.g. WASM, embedded devices...)
+- [emun](http://emun.ro/workspace): visual C/C++ debugger
 
 #### Makefile
 
 - [Makefile Tutorial by Example](https://makefiletutorial.com/) and [repo](https://github.com/theicfire/makefiletutorial)
 - [Metaprogramming Make VI — The eval Function](http://make.mad-scientist.net/the-eval-function/)
+- [Example of a detailed Makefile](https://gist.github.com/Integralist/9e27ff5582d37ed26aef)
+- [Make and Bash Tips](https://github.com/Teradata/stampede/wiki/Make-and-Bash-Tips): Teradata/stampede Wiki
 
 ##### KDE/Qt
 
@@ -203,7 +206,8 @@
 - [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
 - [logpy](https://github.com/logpy/logpy): Logic Programming in Python
 - [PyPy for low-latency systems](https://morepypy.blogspot.com/2019/01/pypy-for-low-latency-systems.html)
-  
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+
 ##### Jupyter
 
 - [nbtutor](https://github.com/lgpage/nbtutor): Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
@@ -330,6 +334,7 @@
 - [hardware-effects](https://github.com/Kobzol/hardware-effects): Demonstration of various hardware effects.
 - Lessons from Running a Small-Scale Electronics Factory in my Guest Bedroom, part 1: [Design](https://spun.io/2018/12/15/lessons-from-running-a-small-scale-electronics-factory-in-my-guest-bedroom-part-1-design/)
 - [Apple Macintosh Group](http://www.byrdsight.com/apple-macintosh/): Firsts chips made by Apple.
+- [sail-arm](https://github.com/rems-project/sail-arm): Sail version of ARM ISA definition, currently for ARMv8.5-A
 
 ### Eletronics
 
@@ -813,6 +818,7 @@
 - [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics): A curated list of awesome Bioinformatics libraries and software.  
 - [OpenBCI](https://openbci.com/): Open Source Biosensing Tools (EEG, EMG, EKG, and more)
 - [Virus Explorer](https://www.hhmi.org/biointeractive/virus-explorer)
+- [Open sourcing bioinstruments](https://liorpachter.wordpress.com/2019/01/18/open-sourcing-bioinstruments/)
 
 ## Geography
 
@@ -1018,6 +1024,9 @@
 - [￼rescale](https://jobs.lever.co/rescale)
 - [NYT Jobs Openings](https://nytimes.wd5.myworkdayjobs.com/Tech)
 - [globo.com](https://talentos.globo.com/#/open-source)
+- [I interviewed at six top companies in Silicon Valley in six days, and stumbled into six job offers](https://blog.usejournal.com/i-interviewed-at-six-top-companies-in-silicon-valley-in-six-days-and-stumbled-into-six-job-offers-fe9cc7bbc996)
+- [Sr Security Software Engineer in Redmond, Washington, United States | Engineering at Microsoft](https://careers.microsoft.com/us/en/job/551647/Sr-Security-Software-Engineer/?utm_source=twitter&utm_campaign=job-share&utm_medium=social-share)
+- [Unubo](https://unubo.com/views): Get a view into what's happening in your startup.
 
 ## General Fun
 
@@ -1041,6 +1050,12 @@
 - [BrainNet](https://arxiv.org/abs/1809.08632): A Multi-Person Brain-to-Brain Interface for Direct Collaboration Between Brains
 
 ## News
+
+### 2019
+
+- [Thieves of Experience: How Google and Facebook Corrupted Capitalism - Los Angeles Review of Books](https://lareviewofbooks.org/article/thieves-of-experience-how-google-and-facebook-corrupted-capitalism/#!)
+
+### 2018
 
 - [A Science Fair with $1.6 Million in Prizes](https://blog.mozilla.org/blog/2018/07/19/a-science-fair-with-1-6-million-in-prizes/)
 - [18 Best IDEs for C/C++ Programming or Source Code Editors on Linux](https://www.tecmint.com/best-linux-ide-editors-source-code-editors/)
