@@ -1,35 +1,35 @@
 # Latex Links for all
 
-# Good Faqs
+## Good Faqs
 
 * [Welcome to the UK List of TeX Frequently Asked Questions](http://www.tex.ac.uk)
 
-# Text
+## Text
 
 * [Mirroring text in LaTeX](http://texblog.org/2013/11/19/mirroring-text-in-latex/)
 * [Using colours in LaTeX](https://www.sharelatex.com/learn/Using_colours_in_LaTeX)
 
-# Tables
+## Tables
 
 * [LaTeX Table Generator](https://www.tablesgenerator.com/)
 * [Wide figure/table in a twocolumn/multi-column document – texblog](https://texblog.org/2012/07/30/single-column-figuretable-in-a-two-multi-column-environment/)
 
-# Math
+## Math
 
 * [MathJax basic tutorial and quick reference](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
 * [The Mathpix](https://mathpix.com/) desktop app allows users to take screenshots of math equations and paste the extracted Latex
 
-# Diagrams
+## Diagrams
 
 * [tikz-network](https://github.com/hackl/tikz-network): A tool to visualize complex networks in LaTeX.
 
-## UML
+### UML
 
-* [Diagramas UML no LaTeX com TikZ-UML ](https://latexbr.blogspot.com.br/2013/03/diagramas-uml-no-latex-com-tikz-uml.html)
+* [Diagramas UML no LaTeX com TikZ-UML](https://latexbr.blogspot.com.br/2013/03/diagramas-uml-no-latex-com-tikz-uml.html)
 * [pgf-umlsd](https://github.com/xuyuan/pgf-umlsd)
 * [Example: UML sequence diagrams](http://www.texample.net/tikz/examples/pgf-umlsd/)
 
-# General
+## General
 
 * [What's in a Name: A Guide to the Many Flavours of TeX](https://www.overleaf.com/blog/500-whats-in-a-name-a-guide-to-the-many-flavours-of-tex#.WQsuiYFv-Ef)
 * [The tikzpeople package](http://mirror.hmc.edu/ctan/graphics/pgf/contrib/tikzpeople/tikzpeople.pdf)
@@ -40,24 +40,25 @@
 * [LaTeX | An infinite monkey](https://monoinfinito.wordpress.com/category/latex/)
 - [Michael Orlitzky { Makeing LaTeX }](http://michael.orlitzky.com/articles/makeing_latex.xhtml): This article is about using GNU Make to build LaTeX documents. If you don't know what those things are, forget I even said anything.
 
-# Templates
+## Templates
 
 * [A minimal & modern LaTeX template for your (bachelor's | master's | doctoral) thesis](https://github.com/Submanifold/latex-mimosis)
 * [LaTeX files for the Deep Learning book notation](https://github.com/goodfeli/dlbook_notation)
 * [LaTeX Templates](http://www.latextemplates.com/)
-  
-# Graphs
+* [bamos](http://bamos.github.io/latex-templates/): Website for personal collection and previewing of LaTeX templates.
+* [cmichi](https://github.com/cmichi/latex-template-collection): Collection of different LaTeX/XeTeX templates (cv, invoices, timesheets, letters, etc.).
+
+## Graphs
 
 * [TeX Live Database as Graph Database](https://www.preining.info/blog/2018/10/tex-live-database-as-graph-database/)
 
-# Resources
+## Resources
 
-## Daily Questions
+### Daily Questions
 
 * [LaTeX arrows](http://www.sascha-frank.com/Arrow/latex-arrows.html)
 * [What commands are there for horizontal spacing?](https://tex.stackexchange.com/questions/74353/what-commands-are-there-for-horizontal-spacing)
 
-# Continuous Integration
+## Continuous Integration
 
 * [Compile LaTex documents with Jenkins and publish pdf files automatically](https://seppa-lassila.fi/posts/compile-latex-with-jenkins/)
-

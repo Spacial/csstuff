@@ -27,6 +27,7 @@
 - [Surprisingly Turing-Complete](https://www.gwern.net/Turing-complete#how-many-computers-are-in-your-computer)
 - [Operation Costs in CPU Clock Cycles](http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/)
 - [CSIndexbr](https://csindexbr.org/) provides transparent data about Brazilian scientific production in Computer Science. We index full research papers published in selected conferences and journals.
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
 ### Quantum Information Science
 
@@ -166,6 +167,7 @@
 - [Atelier](https://github.com/kde/atelier): Open Source 3D Printing Host - User Interface
 - [BitsOfBytes](https://github.com/vivaladav/BitsOfBytes): Code and projects from my blog posts.
 - [How to create an application with Qt and C++](http://blog.davidecoppola.com/2016/10/how-to-create-an-application-with-qt-and-cpp/)
+- [Crash course in Qt for C++ developers](https://www.cleanqt.io/blog/crash-course-in-qt-for-c%2B%2B-developers,-part-1): a crash course in Qt for C++ developers.
 
 #### Python
 
@@ -358,9 +360,10 @@
 - [Unikernels: No Longer an Academic Exercise](http://250bpm.com/blog:138)
 - [McKernel](https://www.sys.r-ccs.riken.jp/ResearchTopics/os/mckernel/)
 - [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/) with code repo: [lc3-vm](https://github.com/justinmeiners/lc3-vm)
+- [9hist](https://github.com/0intro/9hist): History of the Plan 9 kernel (1990 - 2003).
 - [EmuTOS](https://github.com/emutos/emutos): is a Free operating system for Atari computers, and more.
 - [K2 Operating System](http://www.k2os.org/): K2 is an operating system for energy-efficient mobile System-on-chip.
-- [Sanos](http://www.jbox.dk/sanos/index.htm): Sanos is a minimalistic 32-bit x86 operating system kernel for network server appliances running on standard PC hardware. 
+- [Sanos](http://www.jbox.dk/sanos/index.htm): Sanos is a minimalistic 32-bit x86 operating system kernel for network server appliances running on standard PC hardware.
 
 ### Linux Kernel
 
@@ -460,12 +463,14 @@
 
 - [Nevergrad](https://code.fb.com/ai-research/nevergrad/): An open source tool for derivative-free optimization. [github](https://github.com/facebookresearch/nevergrad)
 - [ML.NET](https://github.com/dotnet/machinelearning): is an open source and cross-platform machine learning framework for .NET.
+- [mit-deep-learning](https://github.com/lexfridman/mit-deep-learning): Tutorials, assignments, and competitions for MIT Deep Learning related courses.
 - [Prior Convictions: Black-Box Adversarial Attacks with Bandits and Priors](https://arxiv.org/abs/1807.07978)
 - [[1808.07531] Sarcasm Analysis using Conversation Context](https://arxiv.org/abs/1808.07531)
 - [[1812.04948] A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948)
 - [GAN Dissection: Visualizing and Understanding Generative Adversarial Networks - arxiv vanity](https://www.arxiv-vanity.com/papers/1811.10597/)
 - [Super SloMo](https://arxiv.org/abs/1712.00080): High Quality Estimation of Multiple Intermediate Frames for Video Interpolation. [Śuper-SloMo github](https://github.com/avinashpaliwal/Super-SloMo)
 - [The Tsetlin Machine](https://arxiv.org/abs/1804.01508): A Game Theoretic Bandit Driven Approach to Optimal Pattern Recognition with Propositional Logic. [github](https://github.com/cair/TsetlinMachine).
+- [Graph Neural Networks](https://arxiv.org/abs/1812.08434): A Review of Methods and Applications
 
 ### Neural Networks
 
@@ -478,6 +483,7 @@
 - [NALU](https://github.com/Nilabhra/NALU): Neural Arithmetic Logic Units
 - [tensorspace](https://github.com/tensorspace-team/tensorspace): Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js
 - [NEURAL NETWORKS AS ORDINARY DIFFERENTIAL EQUATIONS](https://rkevingibson.github.io/blog/neural-networks-as-ordinary-differential-equations/)
+- [sleephow](https://github.com/nardeas/sleephow): Deep neural network for predicting sleep time and quality for any given bedtime.
 - [Bbrain.js](https://github.com/BrainJS/brain.js): 🤖 Neural networks in JavaScript
   
 ### Computer Vision
@@ -587,6 +593,7 @@
 - [anomaly detection](https://github.com/shubhomoydas/ad_examples): A collection of popular anomaly detection methods (iid/point-based and time series) including active learning for anomaly detection/discovery, description for diversity/explanation/interpretability. With a deeper analysis of incorporating label feedback with ensemble and tree-based detectors. Includes results-plots and illustrations for most approaches covered.
 - [COVARIANCE](https://stats.seandolinar.com/covariance-different-ways-to-explain/): DIFFERENT WAYS TO EXPLAIN OR VISUALIZE IT
 - (pt-br) [Frequência](https://medium.com/pizzadedados/frequencia-o-que-e-e-como-calcular-f8b74e5d978a): A arte de contar observações
+- [Randomness of Correlation & Its Hacking by BigDataists](https://www.youtube.com/watch?v=D6CxfBMUf1o): This tutorial presents the intuitions of the randomness of sample correlation (spurious correlation) and the methodologies in derivations.
 - [How to Calculate the Correlation Coefficient](https://www.thoughtco.com/how-to-calculate-the-correlation-coefficient-3126228)
 - [Statistics How To](https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/correlation-coefficient-formula/)
 - [baRcodeR](https://github.com/yihanwu/baRcodeR): Project for labeling, tracking, and organizing samples based on 2D barcodes
@@ -675,6 +682,7 @@
 - [Consistently Beautiful Visualizations with Altair Themes](https://towardsdatascience.com/consistently-beautiful-visualizations-with-altair-themes-c7f9f889602)
 - [Fun with NFL Stats, Bokeh, and Pandas](https://j253.github.io/blog/fun-with-nfl-stats.html)
 - [JPEG [JAY-peg]](https://github.com/corkami/docs/blob/master/images/jpeg.md), some pocs [JPEG PoCs](https://github.com/corkami/pocs/blob/master/images/jpg/README.md)
+- [World Population Visualization How-to](https://pudding.cool/2018/10/city_3d/): This project wields data from the [Global Human Settlement Layer](https://ghslsys.jrc.ec.europa.eu/index.php), which uses “satellite imagery, census data, and volunteered geographic information” to create population density maps.
 
 ### Calculus
 
@@ -860,7 +868,7 @@
 - [ProcessingTeachingSketches](https://github.com/jeffThompson/ProcessingTeachingSketches): Teaching sketches created in Processing (and Java)
 - [command](https://github.com/davidbouchard/command): A tiny library for Processing to run external programs and commands from a sketch (and capture their output if needed).
 - [DNOISE](https://github.com/grantwilk/DNOISE): powered by NVIDIA’s OptiX AI-Acclerated Denoiser, is a denoising platform that rapidly accelerates the process of rendering high-quality noiseless images in Blender.
-- [How to Start Learning Computer Graphics Programming](https://erkaman.github.io/posts/beginner_computer_graphics.html) by Eric Arnebäck
+- [How to Start Learning Computer Graphics Programming](https://erkaman.github.io/posts/beginner_computer_graphics.html): I will in this post compile a summary of all my advice I have regarding this question.
 
 ### CG Articles
 
@@ -886,7 +894,9 @@
 - [Sol-R](https://github.com/favreau/Sol-R): Open-Source CUDA/OpenCL Speed Of Light Ray-tracer
 - [Araní](http://aranigame.com/home/)
 - [Gravball](https://www.kongregate.com/games/Introscopia/gravball)
-
+- [MobyGames Stats - 2018 edition](https://www.mobygames.com/forums/dga,2/dgb,3/dgm,245062/)
+- [Euphrates](https://github.com/mikebenfield/euphrates): A Game Console Emulator
+  
 ## Writing Articles
 
 - [Renders papers from Arxiv as responsive web pages so you don't have to squint at a PDF.](https://github.com/arxiv-vanity/arxiv-vanity)
@@ -974,6 +984,7 @@
   - The Postmodern Condition - by Jean-Francois Lyotard
   - [where](https://whereisscihub.herokuapp.com/) is Sci-Hub?
 - [Was Wittgenstein Right?](https://opinionator.blogs.nytimes.com/2013/03/03/was-wittgenstein-right/) - The New York Times
+- [Neural Networks and Philosophy of Language](https://towardsdatascience.com/neural-networks-and-philosophy-of-language-31c34c0796da): Why Wittgenstein’s theories are the basis of all modern NLP
 - [The Right to Read](https://www.gnu.org/philosophy/right-to-read.en.html): GNU Project - Free Software Foundation
 
 ## General
@@ -990,7 +1001,8 @@
 - [ghuser.io](https://github.com/ghuser-io/ghuser.io): Better GitHub profiles
 - [MagicBox](https://github.com/unicef/magicbox): A platform that uses real-time data to inform life-saving humanitarian responses to emergency situations.
 - (pt-br) a [list](https://github.com/ramalho/cdc) of code of conduct.
-- [Survival rates in commercial jet crashes, by seat position.](https://mdbootstrap.com/snippets/jquery/ascensus/212648): 
+- [Survival rates in commercial jet crashes, by seat position.](https://mdbootstrap.com/snippets/jquery/ascensus/212648):
+- [How to give a great scientific talk](https://www.nature.com/articles/d41586-018-07780-5): Expert presenters share advice on how to capture and hold the attention of a conference crowd.
 - [HN.Academy - Online Courses Recommended By Hacker News Users](https://hn.academy/)
 
 ### Jobs
@@ -1027,6 +1039,8 @@
 - [I interviewed at six top companies in Silicon Valley in six days, and stumbled into six job offers](https://blog.usejournal.com/i-interviewed-at-six-top-companies-in-silicon-valley-in-six-days-and-stumbled-into-six-job-offers-fe9cc7bbc996)
 - [Sr Security Software Engineer in Redmond, Washington, United States | Engineering at Microsoft](https://careers.microsoft.com/us/en/job/551647/Sr-Security-Software-Engineer/?utm_source=twitter&utm_campaign=job-share&utm_medium=social-share)
 - [Unubo](https://unubo.com/views): Get a view into what's happening in your startup.
+- [Software Reliability at Optiver](https://www.optivertech.us/blog/software-reliability-at-optiver-test-driven-development/): Test Driven Development
+- [Product Engineer](https://jobs.lever.co/ycombinator/8703c1d9-af67-4826-90e4-74b5067c4dd7): @ Y Combinator
 
 ## General Fun
 
@@ -1053,8 +1067,10 @@
 
 ### 2019
 
-- [Thieves of Experience: How Google and Facebook Corrupted Capitalism - Los Angeles Review of Books](https://lareviewofbooks.org/article/thieves-of-experience-how-google-and-facebook-corrupted-capitalism/#!)
-
+- [Thieves of Experience: How Google and Facebook Corrupted Capitalism](https://lareviewofbooks.org/article/thieves-of-experience-how-google-and-facebook-corrupted-capitalism/#!)
+- [Over 500 Top PDFs posted to Hacker News in 2018](https://getpolarized.io/2019/01/08/top-pdfs-of-2018-hackernews.html)
+- [IQ is largely a pseudoscientific swindle](https://medium.com/incerto/iq-is-largely-a-pseudoscientific-swindle-f131c101ba39)
+  
 ### 2018
 
 - [A Science Fair with $1.6 Million in Prizes](https://blog.mozilla.org/blog/2018/07/19/a-science-fair-with-1-6-million-in-prizes/)
