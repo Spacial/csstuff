@@ -411,6 +411,17 @@
 - [pytext](https://github.com/facebookresearch/PyText): A natural language modeling framework based on PyTorch
 - [flair](https://github.com/zalandoresearch/flair): A very simple framework for state-of-the-art Natural Language Processing (NLP)
 
+#### Dictionaries
+
+- [The DICT](http://www.dict.org/bin/Dict): a lot of dictionaries.
+- [Wordlist em Português](https://localdomain.wordpress.com/2007/05/18/wordlist-em-portugues/)
+- [Dictionaries for International Ispell](https://www.cs.hmc.edu/~geoff/ispell-dictionaries.html)
+- [google-10000-english](https://github.com/first20hours/google-10000-english): This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus.
+- [Frequency Word Lists](https://invokeit.wordpress.com/frequency-word-lists/)
+- Wiktionary:
+  - [Brazilian Portuguese wordlist](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/BrazilianPortuguese_wordlist)
+  - [Frequency lists](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists)
+
 ### Machine Learning
 
 - [Theories of Deep Learning (STATS 385)](https://stats385.github.io/readings)
