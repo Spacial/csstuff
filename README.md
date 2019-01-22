@@ -55,6 +55,7 @@
 - [pgFormatter](https://github.com/darold/pgFormatter): A PostgreSQL SQL syntax beautifier that can work as a console program or as a CGI. On-line demo [site](http://sqlformat.darold.net/)
 - [HikariCP](https://github.com/brettwooldridge/HikariCP): 光 HikariCP・A solid, high-performance, JDBC connection pool at last.
 - [SeetSimilaritySearch](https://github.com/ekzhu/SetSimilaritySearch/): All-pair set similarity search on millions of sets in Python and on a laptop (faster than MinHash LSH)
+- [The Internals of PostgreSQL](http://www.interdb.jp/pg/index.html): Introduction
 
 ### Networks
 
@@ -153,6 +154,8 @@
 - [How to learn more as a C++ software engineer?](http://nullptr.nl/2019/01/better-cpp-software-engineer/)
 - [tinyalloc](https://github.com/thi-ng/tinyalloc): malloc / free replacement for unmanaged, linear memory situations (e.g. WASM, embedded devices...)
 - [emun](http://emun.ro/workspace): visual C/C++ debugger
+- [How McSema Handles C++ Exceptions](https://blog.trailofbits.com/2019/01/21/how-mcsema-handles-c-exceptions/)
+- [Inside the C Standard Library](https://begriffs.com/posts/2019-01-19-inside-c-standard-lib.html)
 
 #### Makefile
 
@@ -209,6 +212,7 @@
 - [logpy](https://github.com/logpy/logpy): Logic Programming in Python
 - [PyPy for low-latency systems](https://morepypy.blogspot.com/2019/01/pypy-for-low-latency-systems.html)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Reahl](https://www.reahl.org/#current_page_number=4&start_page_number=1): The Python-only web framework
 
 ##### Jupyter
 
@@ -1015,6 +1019,8 @@
 - [Survival rates in commercial jet crashes, by seat position.](https://mdbootstrap.com/snippets/jquery/ascensus/212648):
 - [How to give a great scientific talk](https://www.nature.com/articles/d41586-018-07780-5): Expert presenters share advice on how to capture and hold the attention of a conference crowd.
 - [HN.Academy - Online Courses Recommended By Hacker News Users](https://hn.academy/)
+- [A Lifetime of Systems Thinking](https://thesystemsthinker.com/a-lifetime-of-systems-thinking/)
+- [Decidim](https://decidim.org/): Free Open-Source participatory democracy for cities and organizations
 
 ### Jobs
 
@@ -1052,6 +1058,9 @@
 - [Unubo](https://unubo.com/views): Get a view into what's happening in your startup.
 - [Software Reliability at Optiver](https://www.optivertech.us/blog/software-reliability-at-optiver-test-driven-development/): Test Driven Development
 - [Product Engineer](https://jobs.lever.co/ycombinator/8703c1d9-af67-4826-90e4-74b5067c4dd7): @ Y Combinator
+- [Trouble hiring senior engineers? It's probably you](https://hiringengineersbook.com/post/trouble-hiring/)
+- (pt-br)[Como ter um perfil no Linkedin/Currículo DEV de sucesso?](https://medium.com/@vinicius_pyjobs/como-ter-um-perfil-no-linkedin-curr%C3%ADculo-dev-de-sucesso-d261b91bb36)
+
 
 ## General Fun
 
