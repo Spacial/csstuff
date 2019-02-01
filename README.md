@@ -341,6 +341,7 @@
 - Lessons from Running a Small-Scale Electronics Factory in my Guest Bedroom, part 1: [Design](https://spun.io/2018/12/15/lessons-from-running-a-small-scale-electronics-factory-in-my-guest-bedroom-part-1-design/)
 - [Apple Macintosh Group](http://www.byrdsight.com/apple-macintosh/): Firsts chips made by Apple.
 - [sail-arm](https://github.com/rems-project/sail-arm): Sail version of ARM ISA definition, currently for ARMv8.5-A
+- [swerv_eh1](https://github.com/westerndigitalcorporation/swerv_eh1): A directory of Western Digital’s RISC-V SweRV Cores
 
 ### Eletronics
 
