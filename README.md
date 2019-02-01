@@ -28,6 +28,7 @@
 - [Operation Costs in CPU Clock Cycles](http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/)
 - [CSIndexbr](https://csindexbr.org/) provides transparent data about Brazilian scientific production in Computer Science. We index full research papers published in selected conferences and journals.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+- [The “Bug-O” Notation](https://overreacted.io/the-bug-o-notation/): The Bug-O describes how much an API slows you down as your codebase grows.
 
 ### Quantum Information Science
 
@@ -55,7 +56,9 @@
 - [pgFormatter](https://github.com/darold/pgFormatter): A PostgreSQL SQL syntax beautifier that can work as a console program or as a CGI. On-line demo [site](http://sqlformat.darold.net/)
 - [HikariCP](https://github.com/brettwooldridge/HikariCP): 光 HikariCP・A solid, high-performance, JDBC connection pool at last.
 - [SeetSimilaritySearch](https://github.com/ekzhu/SetSimilaritySearch/): All-pair set similarity search on millions of sets in Python and on a laptop (faster than MinHash LSH)
-- [The Internals of PostgreSQL](http://www.interdb.jp/pg/index.html): Introduction
+- [Introducing Scylla Open Source 3.0](https://www.scylladb.com/2019/01/17/scylla-open-source-3-0-overview/): Scylla is an open source NoSQL database that offers the horizontal scale-out and fault-tolerance of Apache Cassandra, but delivers 10X the throughput and consistent, low single-digit latencies.
+- [DBeaver](https://dbeaver.io/): Universal Database Tool
+- [￼Sequel Pro](https://www.sequelpro.com/): is a fast, easy-to-use Mac database management application for working with MySQL databases.
 
 ### Networks
 
@@ -63,7 +66,8 @@
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
 - [Computer Networking](http://cnp3book.info.ucl.ac.be/): Principles, Protocols and Practice is an open-source ebook that explains the main principles of Computer Networking and the key protocols that are used on the Internet.
 - [IPv6@IBM](https://media.ccc.de/v/denog10-16-ipv6-ibm-an-enterprise-journey) – An enterprise journey
-  
+- [scans of early RFCs](https://write.as/365-rfcs/update-scans-of-early-rfcs)  
+
 ---
 
 ### Programming
@@ -94,7 +98,9 @@
 - [Software Checklist](https://www.solipsys.co.uk/new/SoftwareChecklist.html)
 - [small](https://github.com/mathiasbynens/small): Smallest possible syntactically valid files of different types.
 - [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/): this web page contains a free electronic version of my (soon to be) self-published textbook Algorithms, along with other lecture notes I have written for various theoretical computer science classes at the University of Illinois, Urbana-Champaign since 1998. [github](https://github.com/jeffgerickson/algorithms)
-  
+- [Software disenchantment](http://tonsky.me/blog/disenchantment/)
+- [Composing Programs](https://composingprograms.com/): Welcome to Composing Programs, a free online introduction to programming and computer science.
+
 #### IDEs
 
 - [geany-dark-scheme](https://github.com/Wayn0/geany-dark-scheme): Dark syntax theme for the Geany text editor.
@@ -154,8 +160,7 @@
 - [How to learn more as a C++ software engineer?](http://nullptr.nl/2019/01/better-cpp-software-engineer/)
 - [tinyalloc](https://github.com/thi-ng/tinyalloc): malloc / free replacement for unmanaged, linear memory situations (e.g. WASM, embedded devices...)
 - [emun](http://emun.ro/workspace): visual C/C++ debugger
-- [How McSema Handles C++ Exceptions](https://blog.trailofbits.com/2019/01/21/how-mcsema-handles-c-exceptions/)
-- [Inside the C Standard Library](https://begriffs.com/posts/2019-01-19-inside-c-standard-lib.html)
+- [GuiLite](https://github.com/idea4good/GuiLite): heavy_check_markThe smallest UI framework for all platform -- 5K lines code
 
 #### Makefile
 
@@ -212,7 +217,6 @@
 - [logpy](https://github.com/logpy/logpy): Logic Programming in Python
 - [PyPy for low-latency systems](https://morepypy.blogspot.com/2019/01/pypy-for-low-latency-systems.html)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-- [Reahl](https://www.reahl.org/#current_page_number=4&start_page_number=1): The Python-only web framework
 
 ##### Jupyter
 
@@ -309,6 +313,9 @@
   - [Git Cheat Sheet](https://gist.github.com/akras14/3d242d80af8388ebca60)
   - [Write good git commit message](https://juffalow.com/other/write-good-git-commit-message)
   - [cz-cli](https://github.com/commitizen/cz-cli): The commitizen command line utility.
+  - [Switch branches](https://backlog.com/git-tutorial/branching/switch-branch/)
+  - [Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging): Basic Branching and Merging
+  - [How to teach Git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html).
 - **Mercurial**:
   - [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos.
 
@@ -317,8 +324,10 @@
 - [UML - Class Diagram](https://www.tutorialspoint.com/uml/uml_class_diagram.htm)
 - [UML 2 Class Diagrams](http://www.agilemodeling.com/artifacts/classDiagram.htm): An Agile Introduction
 - [Object-Oriented Design Concepts in UML](https://www.uml-diagrams.org/uml-object-oriented-concepts.html)
-- [All You Need to Know About UML Diagrams: Types and 5+ Examples](https://tallyfy.com/uml-diagram/)
-
+- All You Need to Know About UML Diagrams: [Types and 5+ Examples](https://tallyfy.com/uml-diagram/)
+- [Curated list of UML tools – 2018 edition](https://modeling-languages.com/uml-tools/)
+- [UML Tools for Python](http://sungsoo.github.io/2018/03/21/uml-tools-for-python.html)
+  
 ---
 
 ### Hardware
@@ -369,6 +378,7 @@
 - [EmuTOS](https://github.com/emutos/emutos): is a Free operating system for Atari computers, and more.
 - [K2 Operating System](http://www.k2os.org/): K2 is an operating system for energy-efficient mobile System-on-chip.
 - [Sanos](http://www.jbox.dk/sanos/index.htm): Sanos is a minimalistic 32-bit x86 operating system kernel for network server appliances running on standard PC hardware.
+- [Guix](https://ambrevar.xyz/guix-advance/index.html): A most advanced operating system
 
 ### Linux Kernel
 
@@ -406,9 +416,15 @@
 
 - [Lisp code](https://github.com/norvig/paip-lisp) for the textbook "Paradigms of Artificial Intelligence Programming"
 
+### Genetic Algorithms
+
+- [ant_sugar](https://github.com/dg92/ant_sugar): Genetic Algorithms, Mutation, Crossover, Mating, Particle Animation, Gaming, Learning, P5JS, Fun Project
+
 ### Natural Language Processing
 
 - [Industrial-strength Natural Language Processing (NLP) with Python and Cython](https://github.com/explosion/spaCy/)
+- [StanfordNLP](https://stanfordnlp.github.io/stanfordnlp/): StanfordNLP is the combination of the software package used by the Stanford team in the CoNLL 2018 Shared Task on Universal Dependency Parsing, and the group’s official Python interface to the Stanford CoreNLP software.
+- [spaCy + StanfordNLP](https://github.com/explosion/spacy-stanfordnlp):💥 Use the latest StanfordNLP research models directly in spaCy.
 - [Understanding word vectors](https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469)
 - [allennlp](https://github.com/allenai/allennlp): An open-source NLP research library, built on PyTorch.
 - [Distributed Translation Infrastructure](https://github.com/ivan-zapreev/Distributed-Translation-Infrastructure): The distributed statistical machine translation infrastructure consisting of load balancing, text pre/post-processing and translation services. Written in C++ 11 and utilises multicore CPUs by employing multi-threading, allows for secure SSL/TLS communications.
@@ -487,7 +503,8 @@
 - [Super SloMo](https://arxiv.org/abs/1712.00080): High Quality Estimation of Multiple Intermediate Frames for Video Interpolation. [Śuper-SloMo github](https://github.com/avinashpaliwal/Super-SloMo)
 - [The Tsetlin Machine](https://arxiv.org/abs/1804.01508): A Game Theoretic Bandit Driven Approach to Optimal Pattern Recognition with Propositional Logic. [github](https://github.com/cair/TsetlinMachine).
 - [Graph Neural Networks](https://arxiv.org/abs/1812.08434): A Review of Methods and Applications
-
+- [VAE with a VampPrior](https://github.com/jmtomczak/vae_vampprior): Code for the paper "VAE with a VampPrior", J.M. Tomczak & M. Welling 
+  
 ### Neural Networks
 
 - [pytorch](https://github.com/pytorch/pytorch): Tensors and Dynamic neural networks in Python with strong GPU acceleration a ([tour](http://blog.christianperone.com/2018/03/pytorch-internal-architecture-tour/))
@@ -540,6 +557,7 @@
 
 - Good channels:
   - [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/): 3blue1brown, by Grant Sanderson, is some combination of math and entertainment, depending on your disposition ([site](https://www.3blue1brown.com/)) and [manim](https://github.com/3b1b/manim)(Animation engine for explanatory math videos).
+    - [3Blue1Brown-Block-Collision-Problem-Unity](https://github.com/thatrs/3Blue1Brown-Block-Collision-Problem-Unity)
   - [LeiosOS](https://www.youtube.com/user/LeiosOS): I'm starting a new project, and I hope you guys find it useful! It's called the arcane algorithm archive and is an archive to all the arcane algorithms we cover. [site](https://www.algorithm-archive.org/) and [github](https://github.com/algorithm-archivists/algorithm-archive).
   - [Think Twice](https://www.youtube.com/channel/UC9yt3wz-6j19RwD5m5f6HSg).
   - [Welch Labs](https://www.youtube.com/user/Taylorns34): Math, Science, and Machine Learning resources. [site](http://www.welchlabs.com/) and [github](https://github.com/stephencwelch).
@@ -561,6 +579,8 @@
 - [An Illustrated Theory of Numbers](http://illustratedtheoryofnumbers.com/)
 - [A Visual Exploration of Gaussian Processes](https://www.jgoertler.com/visual-exploration-gaussian-processes/): How to turn a collection of small building blocks into a versatile tool for solving regression problems.
 - [How a Kalman filter works, in pictures](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
+- [High-Quality Online Degree for Mathematics?](https://news.ycombinator.com/item?id=18844420)
+- [Queueing theory](https://github.com/joelparkerhenderson/queueing_theory): an introduction for software development.
 
 ### Theorems
 
@@ -578,6 +598,7 @@
 - [Viviani](https://www.geogebra.org/m/phxkpwde): Viviani's theorem states that the sum of the distances from any interior point to the sides of an equilateral triangle equals the length of the triangle's altitude.
 - [Euclidean Spaces](https://meurer.xyz/post/2018-11-18-euclidean-spaces/).
 - [Linear Algebra and Learning from Data](https://math.mit.edu/~gs/learningfromdata/)
+- [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/): A Free text for a standard US undergraduate course. all on [gitlab](https://gitlab.com/jim.hefferon/linear-algebra)
 
 ### Matrices
 
@@ -697,8 +718,11 @@
 - [Nvidia drivers on Linux are trash!](https://nvidialinuxdriversaretrash.github.io/)
 - [Consistently Beautiful Visualizations with Altair Themes](https://towardsdatascience.com/consistently-beautiful-visualizations-with-altair-themes-c7f9f889602)
 - [Fun with NFL Stats, Bokeh, and Pandas](https://j253.github.io/blog/fun-with-nfl-stats.html)
+- [Pandas Extension Arrays](https://pandas-dev.github.io/pandas-blog/pandas-extension-arrays.html)
 - [JPEG [JAY-peg]](https://github.com/corkami/docs/blob/master/images/jpeg.md), some pocs [JPEG PoCs](https://github.com/corkami/pocs/blob/master/images/jpg/README.md)
 - [World Population Visualization How-to](https://pudding.cool/2018/10/city_3d/): This project wields data from the [Global Human Settlement Layer](https://ghslsys.jrc.ec.europa.eu/index.php), which uses “satellite imagery, census data, and volunteered geographic information” to create population density maps.
+- [Optimizing colormaps with consideration for color vision deficiency to enable accurate interpretation of scientific data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0199239)
+- [How Many .com Domain Names Are Unused?](https://singaporedatacompany.com/blog/how-many-domain-names-are-unused)
 
 ### Calculus
 
@@ -764,6 +788,7 @@
 - [Bezier Moi](https://cormullion.github.io/blog/2018/06/21/bezier.html)
 - [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
 - [Fun with compute shaders and fluid dynamics](https://blog.kummerlaender.eu/article/fun_with_compute_shaders_and_fluid_dynamics/#fnref3)
+- [Spectrum](https://libspectrum.io/): Spectrum is a cross-platform image transcoding library that can easily be integrated into an Android or iOS project to efficiently perform common image operations.
 
 ### Fun
 
@@ -885,6 +910,7 @@
 - [command](https://github.com/davidbouchard/command): A tiny library for Processing to run external programs and commands from a sketch (and capture their output if needed).
 - [DNOISE](https://github.com/grantwilk/DNOISE): powered by NVIDIA’s OptiX AI-Acclerated Denoiser, is a denoising platform that rapidly accelerates the process of rendering high-quality noiseless images in Blender.
 - [How to Start Learning Computer Graphics Programming](https://erkaman.github.io/posts/beginner_computer_graphics.html): I will in this post compile a summary of all my advice I have regarding this question.
+- [bgfx](https://github.com/bkaradzic/bgfx):Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 
 ### CG Articles
 
@@ -912,6 +938,7 @@
 - [Gravball](https://www.kongregate.com/games/Introscopia/gravball)
 - [MobyGames Stats - 2018 edition](https://www.mobygames.com/forums/dga,2/dgb,3/dgm,245062/)
 - [Euphrates](https://github.com/mikebenfield/euphrates): A Game Console Emulator
+- [DLS](https://makingartstudios.itch.io/dls)
   
 ## Writing Articles
 
@@ -1020,8 +1047,8 @@
 - [Survival rates in commercial jet crashes, by seat position.](https://mdbootstrap.com/snippets/jquery/ascensus/212648):
 - [How to give a great scientific talk](https://www.nature.com/articles/d41586-018-07780-5): Expert presenters share advice on how to capture and hold the attention of a conference crowd.
 - [HN.Academy - Online Courses Recommended By Hacker News Users](https://hn.academy/)
-- [A Lifetime of Systems Thinking](https://thesystemsthinker.com/a-lifetime-of-systems-thinking/)
-- [Decidim](https://decidim.org/): Free Open-Source participatory democracy for cities and organizations
+- [Postmake](https://postmake.io/): A directory of the best tools and resources for your projects
+- [Apache Flink](https://github.com/apache/flink): Apache Flink is an open source stream processing framework with powerful stream- and batch-processing capabilities.
 
 ### Jobs
 
@@ -1059,10 +1086,11 @@
 - [Unubo](https://unubo.com/views): Get a view into what's happening in your startup.
 - [Software Reliability at Optiver](https://www.optivertech.us/blog/software-reliability-at-optiver-test-driven-development/): Test Driven Development
 - [Product Engineer](https://jobs.lever.co/ycombinator/8703c1d9-af67-4826-90e4-74b5067c4dd7): @ Y Combinator
-- [Trouble hiring senior engineers? It's probably you](https://hiringengineersbook.com/post/trouble-hiring/)
-- (pt-br)[Como ter um perfil no Linkedin/Currículo DEV de sucesso?](https://medium.com/@vinicius_pyjobs/como-ter-um-perfil-no-linkedin-curr%C3%ADculo-dev-de-sucesso-d261b91bb36)
-
-
+- [List of Engineers Willing to Mentor You](http://stephaniehurlburt.com/blog/2016/11/14/list-of-engineers-willing-to-mentor-you)
+- [Concusro Mercosul](https://www.mercosur.int/pt-br/concurso-n07-18-assessora-tecnicoa-para-o-setor-de-tecnologias-da-informacao-e-comunicacao-stic/)
+- [FIND YOUR DREAM JOB - CANADA](https://www.bcjobs.ca/)
+- [F*** You, I Quit — Hiring Is Broken](https://medium.com/@evnowandforever/f-you-i-quit-hiring-is-broken-bb8f3a48d324): This is a story about my interview experience in the tech industry. No personal names will be used to preserve anonymity. The title refers to the industry as a whole, not to any particular company.
+  
 ## General Fun
 
 - [animations with JS](https://state-animations-amsterdam.surge.sh)
@@ -1078,6 +1106,8 @@
 - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee): eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 - [Advent Calendar of Curiosities 2018](https://advent.morr.cc/2018)
 - [Chess Steganography](https://incoherency.co.uk/chess-steg/)
+- [awesome-scifi](https://github.com/sindresorhus/awesome-scifi): I asked on Twitter for recommendations as I want to get into reading Sci-Fi novels. The below is the result. Thanks everyone for recommending your favorites! :)
+- (pt-br) [Divulgação Científica](https://docs.google.com/spreadsheets/d/1qXiDGiwXEXVvPMf_Kf-t3qeUnthFGz4GLL3uoCmRQek/edit#gid=105539009), on [github](https://github.com/DivulgacaoCientifica/divulgacaocientifica).
 
 ## Articles
 
@@ -1091,6 +1121,10 @@
 - [Thieves of Experience: How Google and Facebook Corrupted Capitalism](https://lareviewofbooks.org/article/thieves-of-experience-how-google-and-facebook-corrupted-capitalism/#!)
 - [Over 500 Top PDFs posted to Hacker News in 2018](https://getpolarized.io/2019/01/08/top-pdfs-of-2018-hackernews.html)
 - [IQ is largely a pseudoscientific swindle](https://medium.com/incerto/iq-is-largely-a-pseudoscientific-swindle-f131c101ba39)
+- [The Brain Maps Out Ideas and Memories Like Spaces](https://www.quantamagazine.org/the-brain-maps-out-ideas-and-memories-like-spaces-20190114/)
+- (pt-br) [Comitê Saúde em Pauta - A ética do doutor algoritmo](https://dasa.com.br/comite-saude-em-pauta-etica-do-doutor-algoritmo)
+- [If you love research, academia may not be for you](https://www.timeshighereducation.com/blog/if-you-love-research-academia-may-not-be-you)
+- [How is Light Made?](https://schaechter.asmblog.org/schaechter/2019/01/how-is-light-made-a-snippet.html)
   
 ### 2018
 
@@ -1154,3 +1188,10 @@
 ## Resources
 
 - [Mamont's open FTP Index](http://www.mmnt.net/): a lot of open FTPs!!!
+
+## Catastrophes
+
+### Vale's Crime on Brumadinho
+
+- [BrumadinhoDam](https://github.com/smaprs/BrumadinhoDam): 3D DEM (digital elevation model) in orbital view of Brumadinho Dam Collapse
+- [Brumadinho Location](https://github.com/sosbrumadinho/brumadinho_location): Conjunto de ferramentas para ajudar no resgate e localização das vítimas atingidas pelo rompimento da barragem que ocorreu recentemente em Brumadinho/MG
