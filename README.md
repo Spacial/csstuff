@@ -20,6 +20,8 @@
 - [Great Theoretical Ideas in Computer Science](http://www.cs.cmu.edu/~aada/courses/15251f15/www/schedule.html)
 - [Accidentally Turing-Complete](http://beza1e1.tuxen.de/articles/accidentally_turing_complete.html)
 - [Modern SAT solvers: fast, neat and underused (part 1 of N) — The Coding Nest](https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/)
+- [Programming Z3](https://theory.stanford.edu/~nikolaj/programmingz3.html): This tutorial provides a programmer's introduction to the Satisfiability Modulo Theories Solver Z3. It describes how to use Z3 through scripts, provided in the Python scripting language, and it describes several of the algorithms underlying the decision procedures within Z3. It aims to broadly cover almost all available features of Z3 and the essence of the underlying algorithms.
+- [SAT Solvers as Smart Search Engines](https://www.msoos.org/2019/02/sat-solvers-as-smart-search-engines/)
 - Computer Science: [An Interdisciplinary Approach](https://introcs.cs.princeton.edu/java/home/)
 - [A Guide to Teaching Computing to Adults in Informal Settings](https://computinged.wordpress.com/2018/08/27/a-guide-to-teaching-computing-to-adults-in-informal-settings/) (and [here](http://teachtogether.tech/en/partner/))
 - [Platform Design](https://github.com/dcuartielles/platform-design) is the repository including the text created by D. Cuartielles for his doctoral dissertation published by Malmo University Press in 2018.
@@ -100,6 +102,7 @@
 - [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/): this web page contains a free electronic version of my (soon to be) self-published textbook Algorithms, along with other lecture notes I have written for various theoretical computer science classes at the University of Illinois, Urbana-Champaign since 1998. [github](https://github.com/jeffgerickson/algorithms)
 - [Software disenchantment](http://tonsky.me/blog/disenchantment/)
 - [Composing Programs](https://composingprograms.com/): Welcome to Composing Programs, a free online introduction to programming and computer science.
+- [Let's #TalkConcurrency Panel Discussion with Sir Tony Hoare, Joe Armstrong, and Carl Hewitt](https://www.erlang-solutions.com/blog/let-s-talkconcurrency-panel-discussion-with-sir-tony-hoare-joe-armstrong-and-carl-hewitt.html): When considering the panel to discuss concurrency, you’d be pushed to find a higher calibre than Sir Tony Hoare, Joe Armstrong, and Carl Hewitt. All greats within the industry and beyond, over the past couple of weeks, we’ve been releasing their individual interviews; a storyboard into the lifeline of concurrency and models over the past few decades.
 
 #### IDEs
 
@@ -270,6 +273,8 @@
   - [Easy Postgres extensions in Rust with pg-extend-rs](https://bluejekyll.github.io/blog/rust/2018/12/27/announcing-pg-extend.html)
 - Scala:
   - [Implicits, type classes, and extension methods, part 1: with type classes in mind](https://kubuszok.com/2018/implicits-type-classes-and-extension-methods-part-1/)
+- V:
+  - [V](https://github.com/vlang-io/V): Simple, fast, safe, compiled language for creating maintainable software. Supports translation from C/C++. 
 - Verilog:
   - [Designing Hardware with Verilog](http://8bitworkshop.com/blog/release/2018/12/15/verilog-programming.html)
 - Yorlang:
@@ -315,7 +320,10 @@
   - [cz-cli](https://github.com/commitizen/cz-cli): The commitizen command line utility.
   - [Switch branches](https://backlog.com/git-tutorial/branching/switch-branch/)
   - [Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging): Basic Branching and Merging
-  - [How to teach Git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html).
+  - [How to teach Git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)
+  - [Forge](https://github.com/magit/forge/): Work with Git forges from the comfort of Magit
+  - [gita](https://github.com/nosarthur/gita): Manage multiple git repos side by side for sanity
+  - [How GitHub Classroom and Travis CI improved students’ grades](https://github.blog/2019-02-12-how-github-classroom-and-travis-ci-improved-students-grades/)
 - **Mercurial**:
   - [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos.
 
@@ -358,6 +366,7 @@
 - [node-lib](https://github.com/diefarbe/node-lib/): A node library for manipulating color on the Das Keyboard 5Q
 - [Blink an LED With Arduino in Tinkercad: 6 Steps (with Pictures)](https://www.instructables.com/id/Blink-an-LED-With-Arduino-in-Tinkercad/)
 - [Tomu](https://tomu.im/) - A tiny ARM microprocessor which fits in your USB port.
+- [Circuit Simulator](http://www.lushprojects.com/circuitjs/). [github](https://github.com/sharpie7/circuitjs1).
 
 ## Operating Systems
 
@@ -388,12 +397,14 @@
 
 - [Myths Programmers Believe about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
 - [Every 7.8μs your computer’s memory has a hiccup](https://blog.cloudflare.com/every-7-8us-your-computers-memory-has-a-hiccup/) [c program](https://github.com/cloudflare/cloudflare-blog/blob/master/2018-11-memory-refresh/measure-dram.c)
+- [Caches](http://danluu.com/2choices-eviction/): LRU v. random
 
 ## Compilers
 
 - [LLVM for Grad Students](http://www.cs.cornell.edu/~asampson/blog/llvm.html)
 - A text file that is also a [executable](http://www.cs.cmu.edu/~tom7/abc/paper.txt) (both are a paper, actually)
 - [moustique](https://github.com/matt-42/moustique): C++14 high performance non-blocking network IO (based on epoll + boost.context)
+- [LD_PRELOAD](https://blog.jessfraz.com/post/ld_preload/): The Hero We Need and Deserve.
 
 ### API
 
@@ -415,6 +426,11 @@
 ## Artificial Intelligence
 
 - [Lisp code](https://github.com/norvig/paip-lisp) for the textbook "Paradigms of Artificial Intelligence Programming"
+- [OpenAI](https://thegradient.pub/openai-please-open-source-your-language-model/): Please Open Source Your Language Model
+- [Which Face Is Real?](http://www.whichfaceisreal.com): Our aim is to make you aware of the ease with which digital identities can be faked, and to help you spot these fakes at a single glance.
+- [faceswap](https://github.com/deepfakes/faceswap): Non official project based on original /r/Deepfakes thread. Many thanks to him!
+- [libfacedetection](https://github.com/ShiqiYu/libfacedetection): An open source library for face detection in images. The face detection speed can reach 1500FPS.
+- [SPADE](https://github.com/NVlabs/SPADE): Semantic Image Synthesis with Spatially-Adaptive Normalization - [paper](https://nvlabs.github.io/SPADE/)
 
 ### Genetic Algorithms
 
@@ -490,6 +506,9 @@
 - [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning): 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [Dive into Deep Learning](http://d2l.ai/): An interactive deep learning book for students, engineers, and researchers.
 - [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
+- [Ludwig](https://github.com/uber/ludwig): [is a toolbox built](https://uber.github.io/ludwig/) on top of TensorFlow that allows to train and test deep learning models without the need to write code.
+- [Machine Learning from Scratch](https://github.com/chasinginfinity/ml-from-scratch).
+- [March-Madness-ML](https://github.com/adeshpande3/March-Madness-ML): Machine learned bracketology.
 
 ### Machine Learning Articles
 
@@ -538,6 +557,7 @@
 - (pt-br)[Simples reconhecimento facial](https://github.com/saulocatharino/reconhecimento_facial)
 - [ergo-planes-detector](https://github.com/evilsocket/ergo-planes-detector): An ergo based project that relies on a convolutional neural network to detect airplanes from satellite imagery.
 - [VideoPose3D](https://github.com/facebookresearch/VideoPose3D): Efficient 3D human pose estimation in video using 2D keypoint trajectories
+- [openpifpaf](https://github.com/vita-epfl/openpifpaf): Implementation of "PifPaf: Composite Fields for Human Pose Estimation" in PyTorch.
 
 #### Python DL
 
@@ -581,6 +601,7 @@
 - [How a Kalman filter works, in pictures](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 - [High-Quality Online Degree for Mathematics?](https://news.ycombinator.com/item?id=18844420)
 - [Queueing theory](https://github.com/joelparkerhenderson/queueing_theory): an introduction for software development.
+- [The Data Science of MathOverflow](https://blog.wolfram.com/2019/02/01/the-data-science-of-mathoverflow/)
 
 ### Theorems
 
@@ -588,6 +609,7 @@
 - This project contains an extended "Standard Library" for Coq called [coq-std++](https://gitlab.mpi-sws.org/robbertkrebbers/coq-stdpp)
 - [1/0 = 0](https://www.hillelwayne.com/post/divide-by-zero/)
 - [Prime Design](https://jeremykun.com/2011/06/13/prime-design/): The goal of this post is to use prime numbers to make interesting and asymmetric graphics, and to do so in the context of the web design language CSS.
+- [Logipedia](http://logipedia.inria.fr/) is a library of proofs expressed in Dedukti.
 
 ### Algebra
 
@@ -636,6 +658,14 @@
 - [baRcodeR](https://github.com/yihanwu/baRcodeR): Project for labeling, tracking, and organizing samples based on 2D barcodes
 - [Seeing Theory](https://seeing-theory.brown.edu/index.html): was created by Daniel Kunin while an undergraduate at Brown University. The goal of this website is to make statistics more accessible through interactive visualizations (designed using Mike Bostock’s JavaScript library D3.js).
   - [Regression Analysis](https://seeing-theory.brown.edu/regression-analysis/index.html)
+- [Probability & Statistics for Data Science (Series)](https://medium.com/data-deft/probability-statistics-for-data-science-series-83b94353ca48)
+- [Explaining p-values with puppies](https://hackernoon.com/explaining-p-values-with-puppies-af63d68005d0): You’ll find p-values lurking all over data science (and all the rest of science, for that matter).
+
+### Linear Regression
+
+- [Linear Regression in Python from Scratch](https://medium.com/analytics-vidhya/linear-regression-in-python-from-scratch-24db98184276)
+- [Linear-Regression](https://github.com/Nimishkhurana/Linear-Regression): Implementation of Linear Regression from Scratch in Python(NumPy)
+- [Linear Regression using Gradient Descent](https://github.com/chasinginfinity/ml-from-scratch/tree/master/02%20Linear%20Regression%20using%20Gradient%20Descent).
 
 ### Data Science
 
@@ -677,6 +707,7 @@
 - [matrixprofile-ts](https://github.com/target/matrixprofile-ts): A Python library for detecting patterns and anomalies in massive datasets using the Matrix Profile
 - [haven](https://github.com/tidyverse/haven): Read SPSS, Stata and SAS files from R.
 - [Predicting victims on national roads in Brazil - Part II | leportella](https://leportella.com/english/2019/01/02/federal-road-accidents-II.html)
+- (pt-br) [A suspensão da Rosie no Twitter mostra como as regras para bots ainda precisam ser lapidadas](https://medium.com/serenata/a-suspens%C3%A3o-da-rosie-no-twitter-mostra-como-as-regras-para-bots-ainda-precisam-ser-lapidadas-94a0ab8b0003)
 
 #### Datasets
 
@@ -723,6 +754,7 @@
 - [World Population Visualization How-to](https://pudding.cool/2018/10/city_3d/): This project wields data from the [Global Human Settlement Layer](https://ghslsys.jrc.ec.europa.eu/index.php), which uses “satellite imagery, census data, and volunteered geographic information” to create population density maps.
 - [Optimizing colormaps with consideration for color vision deficiency to enable accurate interpretation of scientific data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0199239)
 - [How Many .com Domain Names Are Unused?](https://singaporedatacompany.com/blog/how-many-domain-names-are-unused)
+- [the ggplot flipbook](https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html): made with xaringan, by Gina Reynolds.
 
 ### Calculus
 
@@ -799,6 +831,7 @@
 - [Hexagon-hard-way.swift](https://gist.github.com/mxcl/8a2d9c1b1c0063f2a71e24f9fe045d43)
 - [Introducing the Aqua Screenshot Library](https://512pixels.net/2018/08/introducing-the-aqua-screenshot-library/)
 - [Math and Analogies](https://betterexplained.com/articles/math-and-analogies/)
+- [Heat](https://github.com/susam/heart): My heart for Cutie Pai
 
 ### Music
 
@@ -875,6 +908,7 @@
 - [S2Geometry](http://s2geometry.io/): S2 is a library for spherical geometry that aims to have the same robustness, flexibility, and performance as the very best planar geometry libraries [github](https://github.com/google/s2geometry).
 - [Advice From a Geographer](https://undark.org/article/book-review-bonnett-beyond-the-map/): Put Away the Map
 - [plus codes](https://plus.codes/). [open-location-code](https://github.com/google/open-location-code): Open Location Code is a library to generate short codes that can be used like street addresses, for places where street addresses don't exist.
+- [flyover-reverse-engineering](https://github.com/retroplasma/flyover-reverse-engineering): Reversing Apple's 3D satellite mode.
 
 ## On-line Services
 
@@ -911,6 +945,7 @@
 - [DNOISE](https://github.com/grantwilk/DNOISE): powered by NVIDIA’s OptiX AI-Acclerated Denoiser, is a denoising platform that rapidly accelerates the process of rendering high-quality noiseless images in Blender.
 - [How to Start Learning Computer Graphics Programming](https://erkaman.github.io/posts/beginner_computer_graphics.html): I will in this post compile a summary of all my advice I have regarding this question.
 - [bgfx](https://github.com/bkaradzic/bgfx):Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
+- [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools): The best design tools for everything.
 
 ### CG Articles
 
@@ -947,6 +982,7 @@
 - [How to Read a Paper Efficiently (By Prof. Pete Carr)](https://www.youtube.com/watch?v=IeaD0ZaUJ3Y)
 - [How to Write an Abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html)
 - [Best Paper Awards in Computer Science (since 1996)](https://jeffhuang.com/best_paper_awards.html)
+- [Tips and Tricks for Writing Scientific Papers](https://github.com/Wookai/paper-tips-and-tricks): Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.
   
 ## Teaching
 
@@ -972,6 +1008,7 @@
 - [Advent of Code](https://adventofcode.com/2018/): is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other.
 - [Bubblin](https://bubblin.io/): A social book reader for web.
 - [Read with purpose: how to better understand and retain what you read](https://www.jotform.com/blog/reading-comprehension/)
+- [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching): One has no future if one couldn't teach themself.
 
 ### Writing
 
@@ -1003,6 +1040,7 @@
 - [walt](https://github.com/ballercat/walt): Walt is a JavaScript-like syntax for WebAssembly text format
 - [Gravitee.io API Platform](https://gravitee.io/): is a flexible, lightweight and blazing-fast open source API Management solution that helps your organization control finely who, when and how users access your APIs. [github](https://github.com/gravitee-io)
 - [unCaptcha2](https://github.com/ecthros/uncaptcha2): defeating the latest version of ReCaptcha with 91% accuracy
+- (pt-br) [js-para-pessoas](https://github.com/miguelssrs/js-para-pessoas): 📒 Curadoria de conteúdos de JavaScript para mentes que não decoram coisas facilmente - ou seja, para todo mundo.
 
 ## Privacy
 
@@ -1049,7 +1087,9 @@
 - [HN.Academy - Online Courses Recommended By Hacker News Users](https://hn.academy/)
 - [Postmake](https://postmake.io/): A directory of the best tools and resources for your projects
 - [Apache Flink](https://github.com/apache/flink): Apache Flink is an open source stream processing framework with powerful stream- and batch-processing capabilities.
-
+- [awesome-uses](https://github.com/wesbos/awesome-uses): A list of /uses pages that detail apps and gear used by professional web developers.
+- [Merchants of Doubt](https://www.merchantsofdoubt.org/): In their new book, Merchants of Doubt, historians Naomi Oreskes and Erik Conway explain how a loose–knit group of high-level scientists, with extensive political connections, ran effective campaigns to mislead the public and deny well-established scientific knowledge over four decades.
+  
 ### Jobs
 
 - [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade): Tools of The Trade, from Hacker News.
@@ -1090,6 +1130,8 @@
 - [Concusro Mercosul](https://www.mercosur.int/pt-br/concurso-n07-18-assessora-tecnicoa-para-o-setor-de-tecnologias-da-informacao-e-comunicacao-stic/)
 - [FIND YOUR DREAM JOB - CANADA](https://www.bcjobs.ca/)
 - [F*** You, I Quit — Hiring Is Broken](https://medium.com/@evnowandforever/f-you-i-quit-hiring-is-broken-bb8f3a48d324): This is a story about my interview experience in the tech industry. No personal names will be used to preserve anonymity. The title refers to the industry as a whole, not to any particular company.
+- [Got a friend looking to fill two roles](https://twitter.com/NickInfoSec/status/1105934704086257665): 1x full-time SOC position. 1x full-time technical account manager for an infosec product/infosec services
+- [github](https://github.com/about/careers)
   
 ## General Fun
 
@@ -1113,6 +1155,7 @@
 
 - [[1811.03678] Embracing the Laws of Physics: Three Reversible Models of Computation](https://arxiv.org/abs/1811.03678)
 - [BrainNet](https://arxiv.org/abs/1809.08632): A Multi-Person Brain-to-Brain Interface for Direct Collaboration Between Brains
+- [Bullets.tech](https://bullets.tech/):Notes for busy minds. We read articles and create short notes on their basis. That's all. 🤗
 
 ## News
 
@@ -1125,6 +1168,9 @@
 - (pt-br) [Comitê Saúde em Pauta - A ética do doutor algoritmo](https://dasa.com.br/comite-saude-em-pauta-etica-do-doutor-algoritmo)
 - [If you love research, academia may not be for you](https://www.timeshighereducation.com/blog/if-you-love-research-academia-may-not-be-you)
 - [How is Light Made?](https://schaechter.asmblog.org/schaechter/2019/01/how-is-light-made-a-snippet.html)
+- [The Atlas of Endangered Alphabets: A Free Online Atlas That Helps Preserve Writing Systems That May Soon Disappear](http://www.openculture.com/2019/02/the-atlas-of-endangered-alphabets.html)
+- [The rise and fall of scientific authority — and how to bring it back](https://www.nature.com/articles/d41586-019-00872-w)
+- [Nike and Boeing Are Paying Sci-Fi Writers to Predict Their Futures](https://onezero.medium.com/nike-and-boeing-are-paying-sci-fi-writers-to-predict-their-futures-fdc4b6165fa4)
   
 ### 2018
 
