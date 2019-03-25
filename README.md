@@ -1141,6 +1141,7 @@
 - [Concusro Mercosul](https://www.mercosur.int/pt-br/concurso-n07-18-assessora-tecnicoa-para-o-setor-de-tecnologias-da-informacao-e-comunicacao-stic/)
 - [FIND YOUR DREAM JOB - CANADA](https://www.bcjobs.ca/)
 - [F*** You, I Quit — Hiring Is Broken](https://medium.com/@evnowandforever/f-you-i-quit-hiring-is-broken-bb8f3a48d324): This is a story about my interview experience in the tech industry. No personal names will be used to preserve anonymity. The title refers to the industry as a whole, not to any particular company.
+- My institution has been hiring a ton, which means I've attended over 20 job talks in the last 12 months. It occurred to me a [thread](https://twitter.com/BucarLiz/status/1096485248785936385) about DOs and DON'Ts might be helpful, so here goes. By Liz Bucar.
 - [Got a friend looking to fill two roles](https://twitter.com/NickInfoSec/status/1105934704086257665): 1x full-time SOC position. 1x full-time technical account manager for an infosec product/infosec services
 - [github](https://github.com/about/careers)
 - [buildzoom](https://jobs.lever.co/buildzoom)
