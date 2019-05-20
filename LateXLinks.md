@@ -39,6 +39,7 @@
 - [TinyTeX](https://yihui.name/tinytex/): A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live - Yihui Xie | 谢益辉
 - [LaTeX | An infinite monkey](https://monoinfinito.wordpress.com/category/latex/)
 - [Michael Orlitzky { Makeing LaTeX }](http://michael.orlitzky.com/articles/makeing_latex.xhtml): This article is about using GNU Make to build LaTeX documents. If you don't know what those things are, forget I even said anything.
+- [Convert images to LaTeX](https://mathpix.com/)
 
 ## Templates
 

@@ -105,6 +105,8 @@
 - [Composing Programs](https://composingprograms.com/): Welcome to Composing Programs, a free online introduction to programming and computer science.
 - [Let's #TalkConcurrency Panel Discussion with Sir Tony Hoare, Joe Armstrong, and Carl Hewitt](https://www.erlang-solutions.com/blog/let-s-talkconcurrency-panel-discussion-with-sir-tony-hoare-joe-armstrong-and-carl-hewitt.html): When considering the panel to discuss concurrency, you’d be pushed to find a higher calibre than Sir Tony Hoare, Joe Armstrong, and Carl Hewitt. All greats within the industry and beyond, over the past couple of weeks, we’ve been releasing their individual interviews; a storyboard into the lifeline of concurrency and models over the past few decades.
 - (pt-br) [Canais Brasileiros para Pessoas Desenvolvedoras](https://github.com/carolcodes/youtube-br-desenvolvimento): Repositório de canais no Youtube BR sobre desenvolvimento.
+- [LOOPY](https://ncase.me/loopy/): a tool for thinking in systems. In a world filled with ever-more-complex technological, sociological, ecological, political & economic systems... a tool to make interactive simulations may not be that much help. But it can certainly try.
+- [A gentle introduction to symbolic execution](https://blog.monic.co/a-gentle-introduction-to-symbolic-execution/): In this article we’ll cover the basic idea behind symbolic execution, a powerful yet underutilized technique for static program analysis.
 
 #### IDEs
 
@@ -262,8 +264,13 @@
   - [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
 - JavaScript:
   - [The JavaScript Handbook](https://jshandbook.com/)
+- Kotlin:
+  - [mvrx-example](https://github.com/ignusdigital/mvrx-example)
+  - [Why Kotlin?](https://www.slideshare.net/slideshow/embed_code/key/4REcPywFNmFBAy)
 - Lisp:
   - [Ferret](https://github.com/nakkaya/ferret) is a free software lisp implementation for real time embedded control systems.
+- Lua:
+  - [xmake](https://github.com/xmake-io/xmake): 🔥 A cross-platform build [utility based on Lua](https://xmake.io)
 - Nim:
   - [nim](https://nim-lang.org/): Efficient and expressive programming. [github](https://github.com/nim-lang/nim)
 - Perl:
@@ -365,6 +372,8 @@
 - [sail-arm](https://github.com/rems-project/sail-arm): Sail version of ARM ISA definition, currently for ARMv8.5-A
 - [swerv_eh1](https://github.com/westerndigitalcorporation/swerv_eh1): A directory of Western Digital’s RISC-V SweRV Cores
 - [RARS](https://github.com/TheThirdOne/rars): RISC-V Assembler and Runtime Simulator.
+- [Recover the Executable ROS](https://github.com/stepleton/5100ExecutableROSDecode)(ROM) of an IBM 5100 from screen photographs, using elementary image processing and machine learning.
+- [An Intel Programmer Jumps Over the Wall: First Impressions of ARM SIMD Programming](https://branchfree.org/2019/03/26/an-intel-programmer-jumps-over-the-wall-first-impressions-of-arm-simd-programming/)
 
 ### Eletronics
 
@@ -515,6 +524,7 @@
 - [Ludwig](https://github.com/uber/ludwig): [is a toolbox built](https://uber.github.io/ludwig/) on top of TensorFlow that allows to train and test deep learning models without the need to write code.
 - [Machine Learning from Scratch](https://github.com/chasinginfinity/ml-from-scratch).
 - [March-Madness-ML](https://github.com/adeshpande3/March-Madness-ML): Machine learned bracketology.
+- [TensorFlow is dead, long live TensorFlow!](https://hackernoon.com/tensorflow-is-dead-long-live-tensorflow-49d3e975cf04): If you’re an AI enthusiast and you didn’t see the big news this month, you might have just snoozed through an off-the-charts earthquake. Everything is about to change!
 
 ### Machine Learning Articles
 
@@ -668,6 +678,9 @@
   - [Regression Analysis](https://seeing-theory.brown.edu/regression-analysis/index.html)
 - [Probability & Statistics for Data Science (Series)](https://medium.com/data-deft/probability-statistics-for-data-science-series-83b94353ca48)
 - [Explaining p-values with puppies](https://hackernoon.com/explaining-p-values-with-puppies-af63d68005d0): You’ll find p-values lurking all over data science (and all the rest of science, for that matter).
+- [tmap](https://github.com/mtennekes/tmap): R package for thematic maps.
+- [Como mentir com gráficos](https://www.nexojornal.com.br/grafico/2018/03/31/Como-mentir-com-gr%C3%A1ficos-7-detalhes-que-podem-te-enganar): [mais 7 detalhes que podem te enganar](https://www.nexojornal.com.br/grafico/2019/04/01/Como-mentir-com-gr%C3%A1ficos-mais-7-detalhes-que-podem-te-enganar)
+- [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)
 
 ### Linear Regression
 
@@ -717,6 +730,8 @@
 - [Predicting victims on national roads in Brazil - Part II | leportella](https://leportella.com/english/2019/01/02/federal-road-accidents-II.html)
 - (pt-br) [A suspensão da Rosie no Twitter mostra como as regras para bots ainda precisam ser lapidadas](https://medium.com/serenata/a-suspens%C3%A3o-da-rosie-no-twitter-mostra-como-as-regras-para-bots-ainda-precisam-ser-lapidadas-94a0ab8b0003)
 - [ds4stats](https://github.com/rafalab/ds4stats): Data science for statisticians workshop.
+- (pt-br) [juliaCluBR](https://github.com/julia-diversity-and-inclusion/juliaCluBR): Repositório com os arquivos para o curso juliaCluBR.
+- (pt-br) [Script para tirar série história de BOs do Estado de SP (fonte: SSPSP)](https://gist.github.com/voltdatalab/0bc390e674548b9b66c4d4cf9cdb6e2f)
 
 #### Datasets
 
@@ -764,6 +779,9 @@
 - [Optimizing colormaps with consideration for color vision deficiency to enable accurate interpretation of scientific data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0199239)
 - [How Many .com Domain Names Are Unused?](https://singaporedatacompany.com/blog/how-many-domain-names-are-unused)
 - [the ggplot flipbook](https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html): made with xaringan, by Gina Reynolds.
+- [Mistakes, we’ve drawn a few](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368?gi=9889c184c1c5): Learning from our errors in data visualisation
+- [sixel-gnuplot](https://github.com/csdvrx/sixel-gnuplot): GNUplot with sixel support
+- [The Putin Exodus](https://publications.atlanticcouncil.org/putin-exodus/): The New Russian Brain Drain
 
 ### Calculus
 
@@ -966,6 +984,7 @@
 ### Augmented Reality
 
 - [ARKit + SceneKit Geometries Tutorial (Part 2)](https://medium.com/@maxxfrazer/arkit-scenekit-geometries-tutorial-part-2-ff315d8d7030), [github](https://github.com/maxxfrazer/SCNCustomGeometries-Part2)
+- [LIDAR MAPPING WITH OUSTER 3D SENSORS](https://www.ouster.io/blog-posts/2019/3/29/lidar-mapping-with-ouster-3d-sensors): One of the best uses of lidar technology is for mapping. With lidar, you get a 3D model of everything around you.
 
 ## 3D Modelling/Printing
 
@@ -985,6 +1004,7 @@
 - [MobyGames Stats - 2018 edition](https://www.mobygames.com/forums/dga,2/dgb,3/dgm,245062/)
 - [Euphrates](https://github.com/mikebenfield/euphrates): A Game Console Emulator
 - [DLS](https://makingartstudios.itch.io/dls)
+- [Citybound](https://github.com/citybound/citybound): Citybound is a city building game with a focus on realism, collaborative planning and simulation of microscopic details.
   
 ## Writing Articles
 
@@ -1020,6 +1040,7 @@
 - [Bubblin](https://bubblin.io/): A social book reader for web.
 - [Read with purpose: how to better understand and retain what you read](https://www.jotform.com/blog/reading-comprehension/)
 - [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching): One has no future if one couldn't teach themself.
+- [Top Tips for a Successful Transition to a Postdoc Role](https://www.ptglab.com/news/blog/top-tips-for-a-successful-transition-to-a-postdoc-role/)
 
 ### Writing
 
@@ -1100,6 +1121,7 @@
 - [Apache Flink](https://github.com/apache/flink): Apache Flink is an open source stream processing framework with powerful stream- and batch-processing capabilities.
 - [awesome-uses](https://github.com/wesbos/awesome-uses): A list of /uses pages that detail apps and gear used by professional web developers.
 - [Merchants of Doubt](https://www.merchantsofdoubt.org/): In their new book, Merchants of Doubt, historians Naomi Oreskes and Erik Conway explain how a loose–knit group of high-level scientists, with extensive political connections, ran effective campaigns to mislead the public and deny well-established scientific knowledge over four decades.
+- [Six easy ways to manage your time better](https://www.nature.com/articles/d41586-019-00973-6)
   
 ### Jobs
 
@@ -1145,6 +1167,7 @@
 - [Got a friend looking to fill two roles](https://twitter.com/NickInfoSec/status/1105934704086257665): 1x full-time SOC position. 1x full-time technical account manager for an infosec product/infosec services
 - [github](https://github.com/about/careers)
 - [buildzoom](https://jobs.lever.co/buildzoom)
+- [Universe](https://careers.universe.com/#open-positions)
   
 ## General Fun
 
@@ -1169,6 +1192,7 @@
 - [[1811.03678] Embracing the Laws of Physics: Three Reversible Models of Computation](https://arxiv.org/abs/1811.03678)
 - [BrainNet](https://arxiv.org/abs/1809.08632): A Multi-Person Brain-to-Brain Interface for Direct Collaboration Between Brains
 - [Bullets.tech](https://bullets.tech/):Notes for busy minds. We read articles and create short notes on their basis. That's all. 🤗
+- [Cross-Technology Communications for Heterogeneous IoT Devices Through Artificial Doppler Shifts](https://arxiv.org/abs/1811.10948)
 
 ## News
 
@@ -1186,6 +1210,9 @@
 - [Nike and Boeing Are Paying Sci-Fi Writers to Predict Their Futures](https://onezero.medium.com/nike-and-boeing-are-paying-sci-fi-writers-to-predict-their-futures-fdc4b6165fa4)
 - [Why Data Science Teams Need Generalists, Not Specialists](https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists)
 - [I’m 14, and I quit social media after discovering what was posted about me](https://www.fastcompany.com/90315706/kids-parents-social-media-sharing)
+- [LHCb experiment discovers a new pentaquark](https://home.cern/news/news/physics/lhcb-experiment-discovers-new-pentaquark)
+- [In Praise of Public Libraries](https://www.nybooks.com/articles/2019/04/18/in-praise-of-public-libraries/)
+- (pt-br) [Plataforma Acácia](http://plataforma-acacia.org/): Genealogia Acadêmica do Brasil
 
 ### 2018
 
