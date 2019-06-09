@@ -62,6 +62,7 @@
 - [Introducing Scylla Open Source 3.0](https://www.scylladb.com/2019/01/17/scylla-open-source-3-0-overview/): Scylla is an open source NoSQL database that offers the horizontal scale-out and fault-tolerance of Apache Cassandra, but delivers 10X the throughput and consistent, low single-digit latencies.
 - [DBeaver](https://dbeaver.io/): Universal Database Tool
 - [￼Sequel Pro](https://www.sequelpro.com/): is a fast, easy-to-use Mac database management application for working with MySQL databases.
+- [Vertically Scaling PostgreSQL](https://pgdash.io/blog/scaling-postgres.html)
 
 ### Networks
 
@@ -105,6 +106,7 @@
 - [Composing Programs](https://composingprograms.com/): Welcome to Composing Programs, a free online introduction to programming and computer science.
 - [Let's #TalkConcurrency Panel Discussion with Sir Tony Hoare, Joe Armstrong, and Carl Hewitt](https://www.erlang-solutions.com/blog/let-s-talkconcurrency-panel-discussion-with-sir-tony-hoare-joe-armstrong-and-carl-hewitt.html): When considering the panel to discuss concurrency, you’d be pushed to find a higher calibre than Sir Tony Hoare, Joe Armstrong, and Carl Hewitt. All greats within the industry and beyond, over the past couple of weeks, we’ve been releasing their individual interviews; a storyboard into the lifeline of concurrency and models over the past few decades.
 - [semantic](https://github.com/github/semantic): Parsing, analyzing, and comparing source code across many languages
+- (pt-br) [Canais Brasileiros para Pessoas Desenvolvedoras](https://github.com/carolcodes/youtube-br-desenvolvimento): Repositório de canais no Youtube BR sobre desenvolvimento.
 
 #### IDEs
 
@@ -224,6 +226,7 @@
 - [PyPy for low-latency systems](https://morepypy.blogspot.com/2019/01/pypy-for-low-latency-systems.html)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Has the Python GIL been slain?](https://hackernoon.com/has-the-python-gil-been-slain-9440d28fa93d)
+- [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 
 ##### Jupyter
 
@@ -254,6 +257,7 @@
 - Elixir:
   - [Nerves](https://github.com/nerves-project/nerves): Craft and deploy bulletproof embedded software in Elixir. [official site](http://nerves-project.org)
   - [dialyxir](https://github.com/jeremyjh/dialyxir): Mix tasks to simplify use of Dialyzer in Elixir projects.
+  - (pt-br) [Learn Functional Programming with Elixir](https://github.com/ulissesalmeida/learn-fp-with-elixir-exercises).
 - Go:
   - [Go references](https://standupdev.com/wiki/doku.php?id=go_references)
   - [Awesome Go](https://github.com/avelino/awesome-go): A curated list of awesome Go frameworks, libraries and software
@@ -328,6 +332,7 @@
   - [Forge](https://github.com/magit/forge/): Work with Git forges from the comfort of Magit
   - [gita](https://github.com/nosarthur/gita): Manage multiple git repos side by side for sanity
   - [How GitHub Classroom and Travis CI improved students’ grades](https://github.blog/2019-02-12-how-github-classroom-and-travis-ci-improved-students-grades/)
+  - [Git hacks no one tells you about](https://medium.com/devopslinks/git-hacks-no-one-tells-you-about-e841d50cb474)
 - **Mercurial**:
   - [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos.
 
@@ -363,6 +368,7 @@
 - [Apple Macintosh Group](http://www.byrdsight.com/apple-macintosh/): Firsts chips made by Apple.
 - [sail-arm](https://github.com/rems-project/sail-arm): Sail version of ARM ISA definition, currently for ARMv8.5-A
 - [swerv_eh1](https://github.com/westerndigitalcorporation/swerv_eh1): A directory of Western Digital’s RISC-V SweRV Cores
+- [RARS](https://github.com/TheThirdOne/rars): RISC-V Assembler and Runtime Simulator.
 
 ### Eletronics
 
@@ -564,6 +570,7 @@
 - [VideoPose3D](https://github.com/facebookresearch/VideoPose3D): Efficient 3D human pose estimation in video using 2D keypoint trajectories
 - [openpifpaf](https://github.com/vita-epfl/openpifpaf): Implementation of "PifPaf: Composite Fields for Human Pose Estimation" in PyTorch.
 - [imagenette](https://github.com/fastai/imagenette): A smaller subset of 10 easily classified classes from Imagenet, and a little more French
+- [The Boombox Incident](https://matthewbilyeu.com/blog/2019-03-21/the-boombox-incident)
 
 #### Python DL
 
@@ -608,6 +615,7 @@
 - [High-Quality Online Degree for Mathematics?](https://news.ycombinator.com/item?id=18844420)
 - [Queueing theory](https://github.com/joelparkerhenderson/queueing_theory): an introduction for software development.
 - [The Data Science of MathOverflow](https://blog.wolfram.com/2019/02/01/the-data-science-of-mathoverflow/)
+- [Integer multiplication in time O(n log n)](https://hal.archives-ouvertes.fr/hal-02070778/document): 
 
 ### Theorems
 
@@ -716,6 +724,7 @@
 - [haven](https://github.com/tidyverse/haven): Read SPSS, Stata and SAS files from R.
 - [Predicting victims on national roads in Brazil - Part II | leportella](https://leportella.com/english/2019/01/02/federal-road-accidents-II.html)
 - (pt-br) [A suspensão da Rosie no Twitter mostra como as regras para bots ainda precisam ser lapidadas](https://medium.com/serenata/a-suspens%C3%A3o-da-rosie-no-twitter-mostra-como-as-regras-para-bots-ainda-precisam-ser-lapidadas-94a0ab8b0003)
+- [ds4stats](https://github.com/rafalab/ds4stats): Data science for statisticians workshop.
 
 #### Datasets
 
@@ -859,6 +868,7 @@
 - [Walk through an infinite, procedurally generated city](https://github.com/marian42/wavefunctioncollapse)
 - [Quantum mechanics for programmers](http://www.articlesbyaphysicist.com/quantum4prog.html)
 - [How Multi-Beam Flash Lidar Works — Ouster](https://www.ouster.io/blog-posts/2018/11/8/how-multi-beam-flash-lidar-works)
+- [SOFA](https://www.sofa-framework.org/): is an efficient framework dedicated to research, prototyping and development of physics-based simulations. [github](https://github.com/sofa-framework/sofa/).
 
 ### Astronomy
 
@@ -954,6 +964,7 @@
 - [How to Start Learning Computer Graphics Programming](https://erkaman.github.io/posts/beginner_computer_graphics.html): I will in this post compile a summary of all my advice I have regarding this question.
 - [bgfx](https://github.com/bkaradzic/bgfx):Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools): The best design tools for everything.
+- [Intel® Processor Graphics Gen11 Architecture](https://software.intel.com/sites/default/files/managed/db/88/The-Architecture-of-Intel-Processor-Graphics-Gen11_R1new.pdf)
 
 ### CG Articles
 
@@ -1142,6 +1153,7 @@
 - My institution has been hiring a ton, which means I've attended over 20 job talks in the last 12 months. It occurred to me a [thread](https://twitter.com/BucarLiz/status/1096485248785936385) about DOs and DON'Ts might be helpful, so here goes. By Liz Bucar.
 - [Got a friend looking to fill two roles](https://twitter.com/NickInfoSec/status/1105934704086257665): 1x full-time SOC position. 1x full-time technical account manager for an infosec product/infosec services
 - [github](https://github.com/about/careers)
+- [buildzoom](https://jobs.lever.co/buildzoom)
   
 ## General Fun
 
@@ -1183,7 +1195,9 @@
 - [Nike and Boeing Are Paying Sci-Fi Writers to Predict Their Futures](https://onezero.medium.com/nike-and-boeing-are-paying-sci-fi-writers-to-predict-their-futures-fdc4b6165fa4)
 - [The human body is a mosaic of different genomes](https://www.nature.com/articles/d41586-019-01780-9)
 - [Quantum Leaps, Long Assumed to Be Instantaneous, Take Time](https://www.quantamagazine.org/quantum-leaps-long-assumed-to-be-instantaneous-take-time-20190605/)
-  
+- [Why Data Science Teams Need Generalists, Not Specialists](https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists)
+- [I’m 14, and I quit social media after discovering what was posted about me](https://www.fastcompany.com/90315706/kids-parents-social-media-sharing)
+
 ### 2018
 
 - [A Science Fair with $1.6 Million in Prizes](https://blog.mozilla.org/blog/2018/07/19/a-science-fair-with-1-6-million-in-prizes/)
