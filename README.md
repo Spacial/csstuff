@@ -31,6 +31,7 @@
 - [CSIndexbr](https://csindexbr.org/) provides transparent data about Brazilian scientific production in Computer Science. We index full research papers published in selected conferences and journals.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [The “Bug-O” Notation](https://overreacted.io/the-bug-o-notation/): The Bug-O describes how much an API slows you down as your codebase grows.
+- [elkai](https://github.com/pyEntropy/elkai): Python 3 TSP solver based on LKH (cross platform)
 
 ### Quantum Information Science
 
@@ -103,6 +104,7 @@
 - [Software disenchantment](http://tonsky.me/blog/disenchantment/)
 - [Composing Programs](https://composingprograms.com/): Welcome to Composing Programs, a free online introduction to programming and computer science.
 - [Let's #TalkConcurrency Panel Discussion with Sir Tony Hoare, Joe Armstrong, and Carl Hewitt](https://www.erlang-solutions.com/blog/let-s-talkconcurrency-panel-discussion-with-sir-tony-hoare-joe-armstrong-and-carl-hewitt.html): When considering the panel to discuss concurrency, you’d be pushed to find a higher calibre than Sir Tony Hoare, Joe Armstrong, and Carl Hewitt. All greats within the industry and beyond, over the past couple of weeks, we’ve been releasing their individual interviews; a storyboard into the lifeline of concurrency and models over the past few decades.
+- [semantic](https://github.com/github/semantic): Parsing, analyzing, and comparing source code across many languages
 
 #### IDEs
 
@@ -164,6 +166,7 @@
 - [tinyalloc](https://github.com/thi-ng/tinyalloc): malloc / free replacement for unmanaged, linear memory situations (e.g. WASM, embedded devices...)
 - [emun](http://emun.ro/workspace): visual C/C++ debugger
 - [GuiLite](https://github.com/idea4good/GuiLite): heavy_check_markThe smallest UI framework for all platform -- 5K lines code
+- [memory-profiler](https://github.com/nokia/memory-profiler)
 
 #### Makefile
 
@@ -220,6 +223,7 @@
 - [logpy](https://github.com/logpy/logpy): Logic Programming in Python
 - [PyPy for low-latency systems](https://morepypy.blogspot.com/2019/01/pypy-for-low-latency-systems.html)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Has the Python GIL been slain?](https://hackernoon.com/has-the-python-gil-been-slain-9440d28fa93d)
 
 ##### Jupyter
 
@@ -435,6 +439,7 @@
 ### Genetic Algorithms
 
 - [ant_sugar](https://github.com/dg92/ant_sugar): Genetic Algorithms, Mutation, Crossover, Mating, Particle Animation, Gaming, Learning, P5JS, Fun Project
+- [Introduction to Genetic Algorithms](https://blog.floydhub.com/introduction-to-genetic-algorithms/)
 
 ### Natural Language Processing
 
@@ -558,6 +563,7 @@
 - [ergo-planes-detector](https://github.com/evilsocket/ergo-planes-detector): An ergo based project that relies on a convolutional neural network to detect airplanes from satellite imagery.
 - [VideoPose3D](https://github.com/facebookresearch/VideoPose3D): Efficient 3D human pose estimation in video using 2D keypoint trajectories
 - [openpifpaf](https://github.com/vita-epfl/openpifpaf): Implementation of "PifPaf: Composite Fields for Human Pose Estimation" in PyTorch.
+- [imagenette](https://github.com/fastai/imagenette): A smaller subset of 10 easily classified classes from Imagenet, and a little more French
 
 #### Python DL
 
@@ -660,6 +666,8 @@
   - [Regression Analysis](https://seeing-theory.brown.edu/regression-analysis/index.html)
 - [Probability & Statistics for Data Science (Series)](https://medium.com/data-deft/probability-statistics-for-data-science-series-83b94353ca48)
 - [Explaining p-values with puppies](https://hackernoon.com/explaining-p-values-with-puppies-af63d68005d0): You’ll find p-values lurking all over data science (and all the rest of science, for that matter).
+- [statrethinking_winter2019](https://github.com/rmcelreath/statrethinking_winter2019): Statistical Rethinking course at MPI-EVA from Dec 2018 through Feb 2019
+
 
 ### Linear Regression
 
@@ -1067,6 +1075,7 @@
 - [Was Wittgenstein Right?](https://opinionator.blogs.nytimes.com/2013/03/03/was-wittgenstein-right/) - The New York Times
 - [Neural Networks and Philosophy of Language](https://towardsdatascience.com/neural-networks-and-philosophy-of-language-31c34c0796da): Why Wittgenstein’s theories are the basis of all modern NLP
 - [The Right to Read](https://www.gnu.org/philosophy/right-to-read.en.html): GNU Project - Free Software Foundation
+- [The Four Desires Driving All Human Behavior: Bertrand Russell’s Magnificent Nobel Prize Acceptance Speech – Brain Pickings](https://www.brainpickings.org/2015/09/21/bertrand-russell-nobel-prize-acceptance-speech/)
 
 ## General
 
@@ -1172,6 +1181,8 @@
 - [The Atlas of Endangered Alphabets: A Free Online Atlas That Helps Preserve Writing Systems That May Soon Disappear](http://www.openculture.com/2019/02/the-atlas-of-endangered-alphabets.html)
 - [The rise and fall of scientific authority — and how to bring it back](https://www.nature.com/articles/d41586-019-00872-w)
 - [Nike and Boeing Are Paying Sci-Fi Writers to Predict Their Futures](https://onezero.medium.com/nike-and-boeing-are-paying-sci-fi-writers-to-predict-their-futures-fdc4b6165fa4)
+- [The human body is a mosaic of different genomes](https://www.nature.com/articles/d41586-019-01780-9)
+- [Quantum Leaps, Long Assumed to Be Instantaneous, Take Time](https://www.quantamagazine.org/quantum-leaps-long-assumed-to-be-instantaneous-take-time-20190605/)
   
 ### 2018
 
