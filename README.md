@@ -11,6 +11,7 @@
 - [A toolkit for data transparency takes shape](https://www.nature.com/articles/d41586-018-05990-5) and [Developing a modern data workflow for living data](https://www.biorxiv.org/content/early/2018/06/12/344804)
 - [PortalData](https://github.com/weecology/PortalData) (Official Repo of the Portal Project Data) and [livedat](https://github.com/weecology/livedat) (Template for living data workflow ).
 - [Academic Torrents](http://academictorrents.com/): We've designed a distributed system for sharing enormous datasets - for researchers, by researchers. The result is a scalable, secure, and fault-tolerant repository for data, with blazing fast download speeds.
+- [divulgacaocientifica](https://github.com/DivulgacaoCientifica/divulgacaocientifica): Divulgação Científica - Essa é apenas uma lista PT-BR, o conteúdo dos podcasts/canais é de inteira responsabilidade dos autores.
 
 ---
 
@@ -107,6 +108,7 @@
 - (pt-br) [Canais Brasileiros para Pessoas Desenvolvedoras](https://github.com/carolcodes/youtube-br-desenvolvimento): Repositório de canais no Youtube BR sobre desenvolvimento.
 - [LOOPY](https://ncase.me/loopy/): a tool for thinking in systems. In a world filled with ever-more-complex technological, sociological, ecological, political & economic systems... a tool to make interactive simulations may not be that much help. But it can certainly try.
 - [A gentle introduction to symbolic execution](https://blog.monic.co/a-gentle-introduction-to-symbolic-execution/): In this article we’ll cover the basic idea behind symbolic execution, a powerful yet underutilized technique for static program analysis.
+- [Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
 
 #### IDEs
 
@@ -168,6 +170,7 @@
 - [tinyalloc](https://github.com/thi-ng/tinyalloc): malloc / free replacement for unmanaged, linear memory situations (e.g. WASM, embedded devices...)
 - [emun](http://emun.ro/workspace): visual C/C++ debugger
 - [GuiLite](https://github.com/idea4good/GuiLite): heavy_check_markThe smallest UI framework for all platform -- 5K lines code
+- [How C array sizes become part of the binary interface of a library](https://developers.redhat.com/blog/2019/05/06/how-c-array-sizes-become-part-of-the-binary-interface-of-a-library/)
 
 #### Makefile
 
@@ -225,6 +228,7 @@
 - [PyPy for low-latency systems](https://morepypy.blogspot.com/2019/01/pypy-for-low-latency-systems.html)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
+- [Zed Shaw's Learn Python the Hard Way.](https://github.com/kojoman/learn-python-the-hard-way)
 
 ##### Jupyter
 
@@ -285,7 +289,7 @@
 - Scala:
   - [Implicits, type classes, and extension methods, part 1: with type classes in mind](https://kubuszok.com/2018/implicits-type-classes-and-extension-methods-part-1/)
 - V:
-  - [V](https://github.com/vlang-io/V): Simple, fast, safe, compiled language for creating maintainable software. Supports translation from C/C++. 
+  - [V](https://github.com/vlang-io/V): Simple, fast, safe, compiled language for creating maintainable software. Supports translation from C/C++.
 - Verilog:
   - [Designing Hardware with Verilog](http://8bitworkshop.com/blog/release/2018/12/15/verilog-programming.html)
 - Yorlang:
@@ -538,7 +542,7 @@
 - [Super SloMo](https://arxiv.org/abs/1712.00080): High Quality Estimation of Multiple Intermediate Frames for Video Interpolation. [Śuper-SloMo github](https://github.com/avinashpaliwal/Super-SloMo)
 - [The Tsetlin Machine](https://arxiv.org/abs/1804.01508): A Game Theoretic Bandit Driven Approach to Optimal Pattern Recognition with Propositional Logic. [github](https://github.com/cair/TsetlinMachine).
 - [Graph Neural Networks](https://arxiv.org/abs/1812.08434): A Review of Methods and Applications
-- [VAE with a VampPrior](https://github.com/jmtomczak/vae_vampprior): Code for the paper "VAE with a VampPrior", J.M. Tomczak & M. Welling 
+- [VAE with a VampPrior](https://github.com/jmtomczak/vae_vampprior): Code for the paper "VAE with a VampPrior", J.M. Tomczak & M. Welling
   
 ### Neural Networks
 
@@ -553,6 +557,8 @@
 - [NEURAL NETWORKS AS ORDINARY DIFFERENTIAL EQUATIONS](https://rkevingibson.github.io/blog/neural-networks-as-ordinary-differential-equations/)
 - [sleephow](https://github.com/nardeas/sleephow): Deep neural network for predicting sleep time and quality for any given bedtime.
 - [Bbrain.js](https://github.com/BrainJS/brain.js): 🤖 Neural networks in JavaScript
+- [Smarter training of neural networks](https://www.csail.mit.edu/news/smarter-training-neural-networks)
+- [Random Forest vs Neural Network](https://mljar.com/blog/random-forest-vs-neural-network-classification/)(classification, tabular data) - [github](https://github.com/mljar/mljar-supervised)
   
 ### Computer Vision
 
@@ -619,7 +625,9 @@
 - [High-Quality Online Degree for Mathematics?](https://news.ycombinator.com/item?id=18844420)
 - [Queueing theory](https://github.com/joelparkerhenderson/queueing_theory): an introduction for software development.
 - [The Data Science of MathOverflow](https://blog.wolfram.com/2019/02/01/the-data-science-of-mathoverflow/)
-- [Integer multiplication in time O(n log n)](https://hal.archives-ouvertes.fr/hal-02070778/document): 
+- [Integer multiplication in time O(n log n)](https://hal.archives-ouvertes.fr/hal-02070778/document):
+- [Set Theory and Foundations of Mathematics](http://settheory.net/)
+- [holpy](https://gitee.com/bhzhan/holpy): Implementation of higher-order logic in Python.
 
 ### Theorems
 
@@ -782,11 +790,13 @@
 - [Mistakes, we’ve drawn a few](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368?gi=9889c184c1c5): Learning from our errors in data visualisation
 - [sixel-gnuplot](https://github.com/csdvrx/sixel-gnuplot): GNUplot with sixel support
 - [The Putin Exodus](https://publications.atlanticcouncil.org/putin-exodus/): The New Russian Brain Drain
+- [Analysing the Wahl-O-Mat about the 2019 EU election](https://github.com/askLubich/Wahl-O-Mat-EU-2019)
 
 ### Calculus
 
 - [Solving Logistic Regression with Newton's Method](http://thelaziestprogrammer.com/sharrington/math-of-machine-learning/solving-logreg-newtons-method)
-- [Functional Bits: Lambda Calculus based Algorithmic Information Theory](https://tromp.github.io/cl/LC.pdf)
+- Functional Bits: [Lambda Calculus based Algorithmic Information Theory](https://tromp.github.io/cl/LC.pdf)
+- [Another orthonormal basis](https://calculus7.org/2012/01/31/another-orthonormal-basis-hermite-functions/): Hermite functions
 
 ### Topology
 
@@ -929,6 +939,7 @@
 - [OpenBCI](https://openbci.com/): Open Source Biosensing Tools (EEG, EMG, EKG, and more)
 - [Virus Explorer](https://www.hhmi.org/biointeractive/virus-explorer)
 - [Open sourcing bioinstruments](https://liorpachter.wordpress.com/2019/01/18/open-sourcing-bioinstruments/)
+- [orca](https://github.com/bcgsc/orca): 🐳 Genomics Research Container Architecture
 
 ## Geography
 
@@ -1085,6 +1096,7 @@
 - [Why You Need a Network-Wide Ad-Blocker (Part 1)](https://blog.cryptoaustralia.org.au/2018/08/06/why-you-need-network-wide-ad-blocker-pi-hole/)
 - [Algorithms Should Be Designed Like the iPhone](http://nautil.us/issue/66/clockwork/we-need-an-fda-for-algorithms)
 - [Simulating identification by zip code, gender, birthdate](https://www.johndcook.com/blog/2018/12/07/simulating-zipcode-sex-birthdate/)
+- [One-End Encryption (OEE)](https://github.com/veorq/oee): Stronger than End-to-End Encryption
 
 ## Philosophy
 
@@ -1193,6 +1205,8 @@
 - [BrainNet](https://arxiv.org/abs/1809.08632): A Multi-Person Brain-to-Brain Interface for Direct Collaboration Between Brains
 - [Bullets.tech](https://bullets.tech/):Notes for busy minds. We read articles and create short notes on their basis. That's all. 🤗
 - [Cross-Technology Communications for Heterogeneous IoT Devices Through Artificial Doppler Shifts](https://arxiv.org/abs/1811.10948)
+- [Magic](https://arxiv.org/abs/1904.09828): The Gathering is Turing Complete
+- [holpy](https://arxiv.org/abs/1905.05970): Interactive Theorem Proving in Python
 
 ## News
 
@@ -1213,6 +1227,7 @@
 - [LHCb experiment discovers a new pentaquark](https://home.cern/news/news/physics/lhcb-experiment-discovers-new-pentaquark)
 - [In Praise of Public Libraries](https://www.nybooks.com/articles/2019/04/18/in-praise-of-public-libraries/)
 - (pt-br) [Plataforma Acácia](http://plataforma-acacia.org/): Genealogia Acadêmica do Brasil
+- [How a Google Street View image of your house predicts your risk of a car accident](https://www.technologyreview.com/s/613432/how-a-google-street-view-image-of-your-house-predicts-your-risk-of-a-car-accident/)
 
 ### 2018
 
