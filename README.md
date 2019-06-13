@@ -32,6 +32,7 @@
 - [CSIndexbr](https://csindexbr.org/) provides transparent data about Brazilian scientific production in Computer Science. We index full research papers published in selected conferences and journals.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [The “Bug-O” Notation](https://overreacted.io/the-bug-o-notation/): The Bug-O describes how much an API slows you down as your codebase grows.
+- [elkai](https://github.com/pyEntropy/elkai): Python 3 TSP solver based on LKH (cross platform)
 
 ### Quantum Information Science
 
@@ -105,6 +106,7 @@
 - [Software disenchantment](http://tonsky.me/blog/disenchantment/)
 - [Composing Programs](https://composingprograms.com/): Welcome to Composing Programs, a free online introduction to programming and computer science.
 - [Let's #TalkConcurrency Panel Discussion with Sir Tony Hoare, Joe Armstrong, and Carl Hewitt](https://www.erlang-solutions.com/blog/let-s-talkconcurrency-panel-discussion-with-sir-tony-hoare-joe-armstrong-and-carl-hewitt.html): When considering the panel to discuss concurrency, you’d be pushed to find a higher calibre than Sir Tony Hoare, Joe Armstrong, and Carl Hewitt. All greats within the industry and beyond, over the past couple of weeks, we’ve been releasing their individual interviews; a storyboard into the lifeline of concurrency and models over the past few decades.
+- [semantic](https://github.com/github/semantic): Parsing, analyzing, and comparing source code across many languages
 - (pt-br) [Canais Brasileiros para Pessoas Desenvolvedoras](https://github.com/carolcodes/youtube-br-desenvolvimento): Repositório de canais no Youtube BR sobre desenvolvimento.
 - [LOOPY](https://ncase.me/loopy/): a tool for thinking in systems. In a world filled with ever-more-complex technological, sociological, ecological, political & economic systems... a tool to make interactive simulations may not be that much help. But it can certainly try.
 - [A gentle introduction to symbolic execution](https://blog.monic.co/a-gentle-introduction-to-symbolic-execution/): In this article we’ll cover the basic idea behind symbolic execution, a powerful yet underutilized technique for static program analysis.
@@ -171,6 +173,8 @@
 - [emun](http://emun.ro/workspace): visual C/C++ debugger
 - [GuiLite](https://github.com/idea4good/GuiLite): heavy_check_markThe smallest UI framework for all platform -- 5K lines code
 - [How C array sizes become part of the binary interface of a library](https://developers.redhat.com/blog/2019/05/06/how-c-array-sizes-become-part-of-the-binary-interface-of-a-library/)
+- [memory-profiler](https://github.com/nokia/memory-profiler)
+- [MazuCC](https://github.com/jserv/MazuCC): A minimalist C compiler with x86_64 code generation
 
 #### Makefile
 
@@ -227,6 +231,7 @@
 - [logpy](https://github.com/logpy/logpy): Logic Programming in Python
 - [PyPy for low-latency systems](https://morepypy.blogspot.com/2019/01/pypy-for-low-latency-systems.html)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Has the Python GIL been slain?](https://hackernoon.com/has-the-python-gil-been-slain-9440d28fa93d)
 - [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 - [Zed Shaw's Learn Python the Hard Way.](https://github.com/kojoman/learn-python-the-hard-way)
 
@@ -450,10 +455,12 @@
 - [faceswap](https://github.com/deepfakes/faceswap): Non official project based on original /r/Deepfakes thread. Many thanks to him!
 - [libfacedetection](https://github.com/ShiqiYu/libfacedetection): An open source library for face detection in images. The face detection speed can reach 1500FPS.
 - [SPADE](https://github.com/NVlabs/SPADE): Semantic Image Synthesis with Spatially-Adaptive Normalization - [paper](https://nvlabs.github.io/SPADE/)
+- [Introducing Google Research Football](https://ai.googleblog.com/2019/06/introducing-google-research-football.html): A Novel Reinforcement Learning Environment
 
 ### Genetic Algorithms
 
 - [ant_sugar](https://github.com/dg92/ant_sugar): Genetic Algorithms, Mutation, Crossover, Mating, Particle Animation, Gaming, Learning, P5JS, Fun Project
+- [Introduction to Genetic Algorithms](https://blog.floydhub.com/introduction-to-genetic-algorithms/)
 
 ### Natural Language Processing
 
@@ -580,6 +587,7 @@
 - [ergo-planes-detector](https://github.com/evilsocket/ergo-planes-detector): An ergo based project that relies on a convolutional neural network to detect airplanes from satellite imagery.
 - [VideoPose3D](https://github.com/facebookresearch/VideoPose3D): Efficient 3D human pose estimation in video using 2D keypoint trajectories
 - [openpifpaf](https://github.com/vita-epfl/openpifpaf): Implementation of "PifPaf: Composite Fields for Human Pose Estimation" in PyTorch.
+- [imagenette](https://github.com/fastai/imagenette): A smaller subset of 10 easily classified classes from Imagenet, and a little more French
 - [The Boombox Incident](https://matthewbilyeu.com/blog/2019-03-21/the-boombox-incident)
 
 #### Python DL
@@ -689,6 +697,8 @@
 - [tmap](https://github.com/mtennekes/tmap): R package for thematic maps.
 - [Como mentir com gráficos](https://www.nexojornal.com.br/grafico/2018/03/31/Como-mentir-com-gr%C3%A1ficos-7-detalhes-que-podem-te-enganar): [mais 7 detalhes que podem te enganar](https://www.nexojornal.com.br/grafico/2019/04/01/Como-mentir-com-gr%C3%A1ficos-mais-7-detalhes-que-podem-te-enganar)
 - [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)
+- [statrethinking_winter2019](https://github.com/rmcelreath/statrethinking_winter2019): Statistical Rethinking course at MPI-EVA from Dec 2018 through Feb 2019
+- [Logistic Regression from Bayes' Theorem](https://www.countbayesie.com/blog/2019/6/12/logistic-regression-from-bayes-theorem)
 
 ### Linear Regression
 
@@ -1016,6 +1026,8 @@
 - [Euphrates](https://github.com/mikebenfield/euphrates): A Game Console Emulator
 - [DLS](https://makingartstudios.itch.io/dls)
 - [Citybound](https://github.com/citybound/citybound): Citybound is a city building game with a focus on realism, collaborative planning and simulation of microscopic details.
+- [How to write a game engine in pure C](https://prdeving.wordpress.com/2019/05/30/how-to-write-a-game-engine-in-pure-c-part-1-state-manager/): Part 1 – State Manager
+- [How to write a game engine in pure C](https://prdeving.wordpress.com/2019/06/05/how-to-write-a-game-engine-in-pure-c-part-2-the-graphic-initialization/): Part 2 – The Graphic initialization
   
 ## Writing Articles
 
@@ -1111,6 +1123,7 @@
 - [Was Wittgenstein Right?](https://opinionator.blogs.nytimes.com/2013/03/03/was-wittgenstein-right/) - The New York Times
 - [Neural Networks and Philosophy of Language](https://towardsdatascience.com/neural-networks-and-philosophy-of-language-31c34c0796da): Why Wittgenstein’s theories are the basis of all modern NLP
 - [The Right to Read](https://www.gnu.org/philosophy/right-to-read.en.html): GNU Project - Free Software Foundation
+- [The Four Desires Driving All Human Behavior: Bertrand Russell’s Magnificent Nobel Prize Acceptance Speech – Brain Pickings](https://www.brainpickings.org/2015/09/21/bertrand-russell-nobel-prize-acceptance-speech/)
 
 ## General
 
@@ -1134,6 +1147,7 @@
 - [awesome-uses](https://github.com/wesbos/awesome-uses): A list of /uses pages that detail apps and gear used by professional web developers.
 - [Merchants of Doubt](https://www.merchantsofdoubt.org/): In their new book, Merchants of Doubt, historians Naomi Oreskes and Erik Conway explain how a loose–knit group of high-level scientists, with extensive political connections, ran effective campaigns to mislead the public and deny well-established scientific knowledge over four decades.
 - [Six easy ways to manage your time better](https://www.nature.com/articles/d41586-019-00973-6)
+- [Best Economics Books: 49 Books To Really Understand Economics](https://filmlifestyle.com/best-economics-books/)
   
 ### Jobs
 
@@ -1207,6 +1221,8 @@
 - [Cross-Technology Communications for Heterogeneous IoT Devices Through Artificial Doppler Shifts](https://arxiv.org/abs/1811.10948)
 - [Magic](https://arxiv.org/abs/1904.09828): The Gathering is Turing Complete
 - [holpy](https://arxiv.org/abs/1905.05970): Interactive Theorem Proving in Python
+- [On the Impact of Programming Languages on Code Quality](https://arxiv.org/abs/1901.10220)
+- [Ara](https://arxiv.org/abs/1906.00478): A 1 GHz+ Scalable and Energy-Efficient RISC-V Vector Processor with Multi-Precision Floating Point Support in 22 nm FD-SOI
 
 ## News
 
@@ -1222,12 +1238,16 @@
 - [The Atlas of Endangered Alphabets: A Free Online Atlas That Helps Preserve Writing Systems That May Soon Disappear](http://www.openculture.com/2019/02/the-atlas-of-endangered-alphabets.html)
 - [The rise and fall of scientific authority — and how to bring it back](https://www.nature.com/articles/d41586-019-00872-w)
 - [Nike and Boeing Are Paying Sci-Fi Writers to Predict Their Futures](https://onezero.medium.com/nike-and-boeing-are-paying-sci-fi-writers-to-predict-their-futures-fdc4b6165fa4)
+- [The human body is a mosaic of different genomes](https://www.nature.com/articles/d41586-019-01780-9)
+- [Quantum Leaps, Long Assumed to Be Instantaneous, Take Time](https://www.quantamagazine.org/quantum-leaps-long-assumed-to-be-instantaneous-take-time-20190605/)
 - [Why Data Science Teams Need Generalists, Not Specialists](https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists)
 - [I’m 14, and I quit social media after discovering what was posted about me](https://www.fastcompany.com/90315706/kids-parents-social-media-sharing)
 - [LHCb experiment discovers a new pentaquark](https://home.cern/news/news/physics/lhcb-experiment-discovers-new-pentaquark)
 - [In Praise of Public Libraries](https://www.nybooks.com/articles/2019/04/18/in-praise-of-public-libraries/)
 - (pt-br) [Plataforma Acácia](http://plataforma-acacia.org/): Genealogia Acadêmica do Brasil
 - [How a Google Street View image of your house predicts your risk of a car accident](https://www.technologyreview.com/s/613432/how-a-google-street-view-image-of-your-house-predicts-your-risk-of-a-car-accident/)
+- [Xz format inadequate for long-term archiving](http://lzip.nongnu.org/xz_inadequate.html)
+- [People With Greater Intellectual Humility Have Superior General Knowledge](https://opensociet.org/2019/05/26/people-with-greater-intellectual-humility-have-superior-general-knowledge/)
 
 ### 2018
 
