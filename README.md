@@ -413,6 +413,7 @@
 - [K2 Operating System](http://www.k2os.org/): K2 is an operating system for energy-efficient mobile System-on-chip.
 - [Sanos](http://www.jbox.dk/sanos/index.htm): Sanos is a minimalistic 32-bit x86 operating system kernel for network server appliances running on standard PC hardware.
 - [Guix](https://ambrevar.xyz/guix-advance/index.html): A most advanced operating system
+- [Mezzano](https://github.com/froggey/Mezzano/): An operating system written in Common Lisp.
 
 ### Linux Kernel
 
