@@ -234,7 +234,8 @@
 - [Has the Python GIL been slain?](https://hackernoon.com/has-the-python-gil-been-slain-9440d28fa93d)
 - [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 - [Zed Shaw's Learn Python the Hard Way.](https://github.com/kojoman/learn-python-the-hard-way)
-
+- [Pointers in Python](https://realpython.com/pointers-in-python/): What's the Point?
+  
 ##### Jupyter
 
 - [nbtutor](https://github.com/lgpage/nbtutor): Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
@@ -456,6 +457,7 @@
 - [libfacedetection](https://github.com/ShiqiYu/libfacedetection): An open source library for face detection in images. The face detection speed can reach 1500FPS.
 - [SPADE](https://github.com/NVlabs/SPADE): Semantic Image Synthesis with Spatially-Adaptive Normalization - [paper](https://nvlabs.github.io/SPADE/)
 - [Introducing Google Research Football](https://ai.googleblog.com/2019/06/introducing-google-research-football.html): A Novel Reinforcement Learning Environment
+- [Talking AI, Art, and Entangled Realities with HeK Basel’s Director Sabine Himmelsbach](https://medium.com/digital-art-weekly-by-danae-hi/talking-ai-art-and-exhibition-entangled-realities-with-hek-basels-director-sabine-himmelsbach-654b7077c0a0)
 
 ### Genetic Algorithms
 
@@ -636,6 +638,7 @@
 - [Integer multiplication in time O(n log n)](https://hal.archives-ouvertes.fr/hal-02070778/document):
 - [Set Theory and Foundations of Mathematics](http://settheory.net/)
 - [holpy](https://gitee.com/bhzhan/holpy): Implementation of higher-order logic in Python.
+- [A Programmer's Introduction to Mathematics](https://pimbook.org/)
 
 ### Theorems
 
@@ -941,6 +944,7 @@
 ## Chemistry
 
 - [Periodic Table – Royal Society of Chemistry](http://www.rsc.org/periodic-table/)
+- (pt-br) [Alquimia Cósmica](https://lumina.ufrgs.br/course/view.php?id=85): Este curso se baseia em proposta original de minicurso criada pelo proponente, em 2014, como parte de suas atividades de ensino, pesquisa e extensão realizadas no Instituto de Física da Universidade Federal do Rio Grande do Sul.
 
 ## Biology
 
@@ -1028,6 +1032,7 @@
 - [Citybound](https://github.com/citybound/citybound): Citybound is a city building game with a focus on realism, collaborative planning and simulation of microscopic details.
 - [How to write a game engine in pure C](https://prdeving.wordpress.com/2019/05/30/how-to-write-a-game-engine-in-pure-c-part-1-state-manager/): Part 1 – State Manager
 - [How to write a game engine in pure C](https://prdeving.wordpress.com/2019/06/05/how-to-write-a-game-engine-in-pure-c-part-2-the-graphic-initialization/): Part 2 – The Graphic initialization
+- [Open Source Game Clones](https://osgameclones.com/)
   
 ## Writing Articles
 
@@ -1137,6 +1142,7 @@
 - [pbspro](https://github.com/pbspro/pbspro): An HPC workload manager and job scheduler for desktops, clusters, and clouds.
 - (pt-br) [Lista Maravilhosa de Projetos Open-Source](https://github.com/camilatigre/listamaravilhosaopensource): Lista com links de projetos open-source para os níveis: iniciante, intermediário e avançado. Dividido por linguagem e idiomas!
 - [ghuser.io](https://github.com/ghuser-io/ghuser.io): Better GitHub profiles
+- [gh-card](https://github.com/nwtgck/gh-card), [link](https://gh-card.dev/)
 - [MagicBox](https://github.com/unicef/magicbox): A platform that uses real-time data to inform life-saving humanitarian responses to emergency situations.
 - (pt-br) a [list](https://github.com/ramalho/cdc) of code of conduct.
 - [Survival rates in commercial jet crashes, by seat position.](https://mdbootstrap.com/snippets/jquery/ascensus/212648):
@@ -1248,6 +1254,7 @@
 - [How a Google Street View image of your house predicts your risk of a car accident](https://www.technologyreview.com/s/613432/how-a-google-street-view-image-of-your-house-predicts-your-risk-of-a-car-accident/)
 - [Xz format inadequate for long-term archiving](http://lzip.nongnu.org/xz_inadequate.html)
 - [People With Greater Intellectual Humility Have Superior General Knowledge](https://opensociet.org/2019/05/26/people-with-greater-intellectual-humility-have-superior-general-knowledge/)
+- [A 53-Year-Old Network Coloring Conjecture Is Disproved](https://www.quantamagazine.org/mathematician-disproves-hedetniemis-graph-theory-conjecture-20190617/)
 
 ### 2018
 
