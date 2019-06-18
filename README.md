@@ -538,6 +538,7 @@
 - [Machine Learning from Scratch](https://github.com/chasinginfinity/ml-from-scratch).
 - [March-Madness-ML](https://github.com/adeshpande3/March-Madness-ML): Machine learned bracketology.
 - [TensorFlow is dead, long live TensorFlow!](https://hackernoon.com/tensorflow-is-dead-long-live-tensorflow-49d3e975cf04): If you’re an AI enthusiast and you didn’t see the big news this month, you might have just snoozed through an off-the-charts earthquake. Everything is about to change!
+- [Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning): Clone a voice in 5 seconds to generate arbitrary speech in real-time
 
 ### Machine Learning Articles
 
