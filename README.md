@@ -46,7 +46,8 @@
 - [Beating hash tables with trees?](https://www.the-paper-trail.org/post/art-paper-notes/) The ART-ful radix trie
 - [awesome-graph-embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding): A collection of important graph embedding, classification and representation learning papers with implementations.
 - [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection): A curated list of community detection techniques.
-
+- [6.851: Advanced Data Structures](https://courses.csail.mit.edu/6.851/): Prof. Erik Demaine
+  
 ### Databases
 
 - [Readings in Database Systems](http://www.redbook.io)
@@ -64,6 +65,7 @@
 - [DBeaver](https://dbeaver.io/): Universal Database Tool
 - [￼Sequel Pro](https://www.sequelpro.com/): is a fast, easy-to-use Mac database management application for working with MySQL databases.
 - [Vertically Scaling PostgreSQL](https://pgdash.io/blog/scaling-postgres.html)
+- [eva](https://github.com/Workiva/eva/): A distributed database-system implementing an entity-attribute-value data-model that is time-aware, accumulative, and atomically consistent.
 
 ### Networks
 
@@ -111,6 +113,8 @@
 - [LOOPY](https://ncase.me/loopy/): a tool for thinking in systems. In a world filled with ever-more-complex technological, sociological, ecological, political & economic systems... a tool to make interactive simulations may not be that much help. But it can certainly try.
 - [A gentle introduction to symbolic execution](https://blog.monic.co/a-gentle-introduction-to-symbolic-execution/): In this article we’ll cover the basic idea behind symbolic execution, a powerful yet underutilized technique for static program analysis.
 - [Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
+- [Every Programmer Should Know thinking](https://github.com/mtdvio/every-programmer-should-know): A collection of (mostly) technical things every software developer should know
+- [What does debugging a program look like?](https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/)
 
 #### IDEs
 
@@ -183,18 +187,20 @@
 - [Example of a detailed Makefile](https://gist.github.com/Integralist/9e27ff5582d37ed26aef)
 - [Make and Bash Tips](https://github.com/Teradata/stampede/wiki/Make-and-Bash-Tips): Teradata/stampede Wiki
 
-##### KDE/Qt
+##### KDE/Qt and GTK
 
 - [Qt-CMake-HelloWorld](https://github.com/jasondegraw/Qt-CMake-HelloWorld): A Simple Qt5 Program Built with CMake
 - [Atelier](https://github.com/kde/atelier): Open Source 3D Printing Host - User Interface
 - [BitsOfBytes](https://github.com/vivaladav/BitsOfBytes): Code and projects from my blog posts.
 - [How to create an application with Qt and C++](http://blog.davidecoppola.com/2016/10/how-to-create-an-application-with-qt-and-cpp/)
 - [Crash course in Qt for C++ developers](https://www.cleanqt.io/blog/crash-course-in-qt-for-c%2B%2B-developers,-part-1): a crash course in Qt for C++ developers.
+- [Foliate](https://github.com/johnfactotum/foliate): A simple and modern GTK eBook viewer, built with GJS and Epub.js.
 
 #### Python
 
 - [Think Python](http://greenteapress.com/wp/think-python-2e/) by [AllenDowney](https://github.com/AllenDowney), including [repo](https://github.com/AllenDowney/ThinkPython2)
 - [Fluent Python Codes](https://github.com/fluentpython/example-code): Example code for the book Fluent Python by Luciano Ramalho (O'Reilly, 2014).
+  - [Fluent Python: notebooks](https://github.com/AllenDowney/fluent-python-notebooks): Jupyter notebooks and example code for the book Fluent Python
 - [An O(ND) Difference Algorithm and Its Variations](http://blog.robertelder.org/diff-algorithm/)
 - [Modular visual interface for GDB in Python](https://github.com/cyrus-and/gdb-dashboard)
 - [Python+Processing code for creating a dotmap of every person in Brazil, color-coded by race](https://github.com/zynphull/RacialDotMap-Brazil/)
@@ -235,6 +241,7 @@
 - [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 - [Zed Shaw's Learn Python the Hard Way.](https://github.com/kojoman/learn-python-the-hard-way)
 - [Pointers in Python](https://realpython.com/pointers-in-python/): What's the Point?
+- [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
   
 ##### Jupyter
 
@@ -296,6 +303,7 @@
   - [Implicits, type classes, and extension methods, part 1: with type classes in mind](https://kubuszok.com/2018/implicits-type-classes-and-extension-methods-part-1/)
 - V:
   - [V](https://github.com/vlang-io/V): Simple, fast, safe, compiled language for creating maintainable software. Supports translation from C/C++.
+  - [vlang](https://github.com/vlang/v): Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++. Compiles itself in <1s.
 - Verilog:
   - [Designing Hardware with Verilog](http://8bitworkshop.com/blog/release/2018/12/15/verilog-programming.html)
 - Yorlang:
@@ -346,6 +354,8 @@
   - [gita](https://github.com/nosarthur/gita): Manage multiple git repos side by side for sanity
   - [How GitHub Classroom and Travis CI improved students’ grades](https://github.blog/2019-02-12-how-github-classroom-and-travis-ci-improved-students-grades/)
   - [Git hacks no one tells you about](https://medium.com/devopslinks/git-hacks-no-one-tells-you-about-e841d50cb474)
+  - (pt-br) [git-beyond-the-trivial](https://github.com/drrzmr/git-beyond-the-trivial).
+  - Learning git: [Locations, Remotes, and GitHub](https://www.willingconsulting.com/post/2019-07-01-locations-and-git/)
 - **Mercurial**:
   - [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos.
 
@@ -412,8 +422,9 @@
 - [EmuTOS](https://github.com/emutos/emutos): is a Free operating system for Atari computers, and more.
 - [K2 Operating System](http://www.k2os.org/): K2 is an operating system for energy-efficient mobile System-on-chip.
 - [Sanos](http://www.jbox.dk/sanos/index.htm): Sanos is a minimalistic 32-bit x86 operating system kernel for network server appliances running on standard PC hardware.
-- [Guix](https://ambrevar.xyz/guix-advance/index.html): A most advanced operating system
+- [Guix](https://ambrevar.xyz/guix-advance/index.html): A most advanced operating system.
 - [Mezzano](https://github.com/froggey/Mezzano/): An operating system written in Common Lisp.
+- [It’s Time for a Modern Synthesis Kernel](https://blog.regehr.org/archives/1676)
 
 ### Linux Kernel
 
@@ -455,6 +466,8 @@
 - [OpenAI](https://thegradient.pub/openai-please-open-source-your-language-model/): Please Open Source Your Language Model
 - [Which Face Is Real?](http://www.whichfaceisreal.com): Our aim is to make you aware of the ease with which digital identities can be faked, and to help you spot these fakes at a single glance.
 - [faceswap](https://github.com/deepfakes/faceswap): Non official project based on original /r/Deepfakes thread. Many thanks to him!
+- [DeepFakes](https://github.com/isharaux/deepfakes): Implementation of Deep Fakes algorithm,in tensorflow
+- [DeepFaceLab](https://github.com/iperov/DeepFaceLab): is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md).
 - [libfacedetection](https://github.com/ShiqiYu/libfacedetection): An open source library for face detection in images. The face detection speed can reach 1500FPS.
 - [SPADE](https://github.com/NVlabs/SPADE): Semantic Image Synthesis with Spatially-Adaptive Normalization - [paper](https://nvlabs.github.io/SPADE/)
 - [Introducing Google Research Football](https://ai.googleblog.com/2019/06/introducing-google-research-football.html): A Novel Reinforcement Learning Environment
@@ -540,6 +553,7 @@
 - [March-Madness-ML](https://github.com/adeshpande3/March-Madness-ML): Machine learned bracketology.
 - [TensorFlow is dead, long live TensorFlow!](https://hackernoon.com/tensorflow-is-dead-long-live-tensorflow-49d3e975cf04): If you’re an AI enthusiast and you didn’t see the big news this month, you might have just snoozed through an off-the-charts earthquake. Everything is about to change!
 - [Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning): Clone a voice in 5 seconds to generate arbitrary speech in real-time
+- [Autocompletion with deep learning](https://tabnine.com/blog/deep): TL;DR: TabNine is an autocompleter that helps you write code faster. We’re adding a deep learning model which significantly improves suggestion quality.
 
 ### Machine Learning Articles
 
@@ -755,7 +769,8 @@
 - [ds4stats](https://github.com/rafalab/ds4stats): Data science for statisticians workshop.
 - (pt-br) [juliaCluBR](https://github.com/julia-diversity-and-inclusion/juliaCluBR): Repositório com os arquivos para o curso juliaCluBR.
 - (pt-br) [Script para tirar série história de BOs do Estado de SP (fonte: SSPSP)](https://gist.github.com/voltdatalab/0bc390e674548b9b66c4d4cf9cdb6e2f)
-
+- [99 ways to extend the Jupyter ecosystem](https://blog.jupyter.org/99-ways-to-extend-the-jupyter-ecosystem-11e5dab7c54?gi=697ac48d879c)
+  
 #### Datasets
 
 - [County_Level_Election_Results_12-16](https://github.com/tonmcg/County_Level_Election_Results_12-16): US president county-level election results for 2012 and 2016
@@ -904,6 +919,7 @@
 - [Quantum mechanics for programmers](http://www.articlesbyaphysicist.com/quantum4prog.html)
 - [How Multi-Beam Flash Lidar Works — Ouster](https://www.ouster.io/blog-posts/2018/11/8/how-multi-beam-flash-lidar-works)
 - [SOFA](https://www.sofa-framework.org/): is an efficient framework dedicated to research, prototyping and development of physics-based simulations. [github](https://github.com/sofa-framework/sofa/).
+- [List of freely available physics books](https://physics.stackexchange.com/questions/6157/list-of-freely-available-physics-books)
 
 ### Astronomy
 
@@ -921,6 +937,8 @@
 - [Software makes science better, but is it research?](https://figshare.com/articles/Software_makes_science_better_but_is_it_research_DotAstonomy_X_Presentation/7127723)
 - (2018) [Best Telescopes for the money](https://www.space.com/15693-telescopes-beginners-telescope-reviews-buying-guide.html)
 - [AstroML](https://github.com/astroML/astroML): Machine learning, statistics, and data mining for astronomy and astrophysics
+- [The Atlas of Space](http://www.openculture.com/2019/06/the-atlas-of-space.html): Behold Brilliant Maps of Constellations, Asteroids, Planets & “Everything in the Solar System Bigger Than 10km”. by [tabletop whale](http://tabletopwhale.com/2019/06/03/an-atlas-of-space.html)
+- [GraceDbBot](https://github.com/Roald87/GraceDB): A Telegram bot which you can use to get information on gravitational wave events from LIGO/Virgo.
 
 ### Astro Articles
 
@@ -964,6 +982,14 @@
 - [Advice From a Geographer](https://undark.org/article/book-review-bonnett-beyond-the-map/): Put Away the Map
 - [plus codes](https://plus.codes/). [open-location-code](https://github.com/google/open-location-code): Open Location Code is a library to generate short codes that can be used like street addresses, for places where street addresses don't exist.
 - [flyover-reverse-engineering](https://github.com/retroplasma/flyover-reverse-engineering): Reversing Apple's 3D satellite mode.
+- [geobr](https://github.com/ipeaGIT/geobr): Easy access to shapefiles of the Brazilian Institute of Geography and Statistics (IBGE) and other official spatial data sets of Brazil.
+- [XrViz](https://levelup.gitconnected.com/xrviz-an-interactive-visualisation-interface-for-xarrays-9ecf8e325aa9?gi=3875f15a2a7): An interactive visualisation interface for Xarrays
+- [A visual map of sunlight on earth.](https://sunlight.live/)
+- Communicating Volcanoes: [Resources for Media](http://inthecompanyofvolcanoes.blogspot.com/2018/02/communicating-volcanoes-resources-for.html)
+
+## Humanities
+
+- [Civic honesty around the globe](https://science.sciencemag.org/content/365/6448/70): Rationalist approaches to economics assume that people value their own interests over the interests of strangers. Cohn et al. wanted to examine the trade-off between material self-interest and more altruistic behaviors (see the Perspective by Shalvi).
 
 ## On-line Services
 
@@ -1071,6 +1097,7 @@
 - [Read with purpose: how to better understand and retain what you read](https://www.jotform.com/blog/reading-comprehension/)
 - [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching): One has no future if one couldn't teach themself.
 - [Top Tips for a Successful Transition to a Postdoc Role](https://www.ptglab.com/news/blog/top-tips-for-a-successful-transition-to-a-postdoc-role/)
+- [CRediT](https://www.casrai.org/credit.html): CRediT (Contributor Roles Taxonomy) is high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors to scientific scholarly output. The roles describe each contributor’s specific contribution to the scholarly output.
 
 ### Writing
 
@@ -1116,6 +1143,7 @@
 - [Algorithms Should Be Designed Like the iPhone](http://nautil.us/issue/66/clockwork/we-need-an-fda-for-algorithms)
 - [Simulating identification by zip code, gender, birthdate](https://www.johndcook.com/blog/2018/12/07/simulating-zipcode-sex-birthdate/)
 - [One-End Encryption (OEE)](https://github.com/veorq/oee): Stronger than End-to-End Encryption
+- [The New Wilderness](https://idlewords.com/2019/06/the_new_wilderness.htm)
 
 ## Philosophy
 
@@ -1202,6 +1230,7 @@
 - [github](https://github.com/about/careers)
 - [buildzoom](https://jobs.lever.co/buildzoom)
 - [Universe](https://careers.universe.com/#open-positions)
+- [Bagaar](https://www.bagaar.be/who/careers/spontaneous-application): Spontaneous application
   
 ## General Fun
 
@@ -1257,7 +1286,11 @@
 - [Xz format inadequate for long-term archiving](http://lzip.nongnu.org/xz_inadequate.html)
 - [People With Greater Intellectual Humility Have Superior General Knowledge](https://opensociet.org/2019/05/26/people-with-greater-intellectual-humility-have-superior-general-knowledge/)
 - [A 53-Year-Old Network Coloring Conjecture Is Disproved](https://www.quantamagazine.org/mathematician-disproves-hedetniemis-graph-theory-conjecture-20190617/)
-
+- [Reversing the direction of heat flow using quantum correlations](https://www.nature.com/articles/s41467-019-10333-7)
+- [Physicists Debate Hawking’s Idea That the Universe Had No Beginning](https://www.quantamagazine.org/physicists-debate-hawkings-idea-that-the-universe-had-no-beginning-20190606/)
+- [The decline of the family has unleashed an epidemic of loneliness.](https://www.city-journal.org/decline-of-family-loneliness-epidemic)
+- [Night owls](https://www.bbc.com/news/health-48558309): Simple sleep tweaks boost wellbeing
+  
 ### 2018
 
 - [A Science Fair with $1.6 Million in Prizes](https://blog.mozilla.org/blog/2018/07/19/a-science-fair-with-1-6-million-in-prizes/)
