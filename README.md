@@ -33,6 +33,8 @@
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [The “Bug-O” Notation](https://overreacted.io/the-bug-o-notation/): The Bug-O describes how much an API slows you down as your codebase grows.
 - [elkai](https://github.com/pyEntropy/elkai): Python 3 TSP solver based on LKH (cross platform)
+- [Stanford CS Education Library](http://cslibrary.stanford.edu/)
+- [Decades-Old Computer Science Conjecture Solved in Two Pages](https://www.quantamagazine.org/mathematician-solves-computer-science-conjecture-in-two-pages-20190725/)
 
 ### Quantum Information Science
 
@@ -117,6 +119,9 @@
 - [What does debugging a program look like?](https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/)
 - [Some things that might help you make better software](https://www.drmaciver.com/2016/10/some-things-that-might-help-you-write-better-software/)
 - [B-threads](https://medium.com/@lmatteis/b-threads-programming-in-a-way-that-allows-for-easier-changes-5d95b9fb6928): programming in a way that allows for easier changes
+- [Programming Talks](https://github.com/hellerve/programming-talks): Awesome & interesting talks about programming
+- [Lock-free multithreading with atomic operations](https://www.internalpointers.com/post/lock-free-multithreading-atomic-operations)
+- [How to Build Good Software](https://www.csc.gov.sg/articles/how-to-build-good-software)
 
 #### IDEs
 
@@ -181,6 +186,7 @@
 - [How C array sizes become part of the binary interface of a library](https://developers.redhat.com/blog/2019/05/06/how-c-array-sizes-become-part-of-the-binary-interface-of-a-library/)
 - [memory-profiler](https://github.com/nokia/memory-profiler)
 - [MazuCC](https://github.com/jserv/MazuCC): A minimalist C compiler with x86_64 code generation
+- [C++ Crash Course](https://lospi.net/c/c++/programming/developing/software/2019/07/28/cpp-crash-course.html)
 
 #### Makefile
 
@@ -244,7 +250,9 @@
 - [Zed Shaw's Learn Python the Hard Way.](https://github.com/kojoman/learn-python-the-hard-way)
 - [Pointers in Python](https://realpython.com/pointers-in-python/): What's the Point?
 - [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
-  
+- [Lahja](https://github.com/ethereum/lahja) is a generic multi process event bus implementation written in Python 3.6+ to enable lightweight inter-process communication, based on non-blocking asyncio
+- [Examples and customization tricks](https://docs.pytest.org/en/latest/example/index.html)
+
 ##### Jupyter
 
 - [nbtutor](https://github.com/lgpage/nbtutor): Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
@@ -279,6 +287,7 @@
   - [Go references](https://standupdev.com/wiki/doku.php?id=go_references)
   - [Awesome Go](https://github.com/avelino/awesome-go): A curated list of awesome Go frameworks, libraries and software
   - [ObjectBox Go](https://github.com/objectbox/objectbox-go): persisting your Go structs/objects superfast and simple
+  - [lattigo](https://github.com/lca1/lattigo): A lattice-based cryptographic library in Go.
 - Haskell:
   - [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
 - JavaScript:
@@ -288,6 +297,7 @@
   - [Why Kotlin?](https://www.slideshare.net/slideshow/embed_code/key/4REcPywFNmFBAy)
 - Lisp:
   - [Ferret](https://github.com/nakkaya/ferret) is a free software lisp implementation for real time embedded control systems.
+  - [LISP, THE UNIVERSE AND EVERYTHING](https://lisp-univ-etc.blogspot.com/2019/07/programming-algorithms-book.html): 
 - Lua:
   - [xmake](https://github.com/xmake-io/xmake): 🔥 A cross-platform build [utility based on Lua](https://xmake.io)
 - Nim:
@@ -296,11 +306,13 @@
   - Larry Wall's [Very Own](http://www.wall.org/~larry/) Home Page
 - PHP:
   - [A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem](https://github.com/chiraggude/awesome-laravel)
+  - [Setup VS Code for Efficient PHP development](https://blog.theodo.com/2019/07/vscode-php-development/)
 - Rust:
   - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust): A curated list of Rust code and resources.
   - [PortingCToRust](https://wiki.alopex.li/PortingCToRust)
   - [Guide to develop secure applications with Rust](https://github.com/ANSSI-FR/rust-guide): Recommendations for secure applications development with Rust
   - [Easy Postgres extensions in Rust with pg-extend-rs](https://bluejekyll.github.io/blog/rust/2018/12/27/announcing-pg-extend.html)
+- [Sacara](https://github.com/enkomio/sacara): A stack based intermediate language aimed at software protection by running in a software VM.
 - Scala:
   - [Implicits, type classes, and extension methods, part 1: with type classes in mind](https://kubuszok.com/2018/implicits-type-classes-and-extension-methods-part-1/)
 - V:
@@ -316,6 +328,7 @@
 - [Meld](https://github.com/yousseb/meld/): Meld is a visual diff and merge tool targeted at developers. Meld helps you compare files, directories, and version controlled projects. It provides two- and three-way comparison of both files and directories, and supports many version control systems including Git, Mercurial, Bazaar and Subversion.
 - [kompare](https://github.com/KDE/kompare): Graphical File Differences Tool
 - [Monorepos](https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b): Please don’t!
+- [Don't ask if a monorepo is good for you – ask if you're good enough for a monorepo](https://yosefk.com/blog/dont-ask-if-a-monorepo-is-good-for-you-ask-if-youre-good-enough-for-a-monorepo.html)
 - **GIT**:
   - [Pro Git book](https://git-scm.com/book/en/v2), written by Scott Chacon and Ben Straub ([github](https://github.com/progit/progit2) repo)
   - [git-sizer](https://github.com/github/git-sizer/): Compute various size metrics for a Git repository, flagging those that might cause problems ( [article](https://blog.github.com/2018-03-05-measuring-the-many-sizes-of-a-git-repository/))
@@ -396,14 +409,16 @@
 - [RARS](https://github.com/TheThirdOne/rars): RISC-V Assembler and Runtime Simulator.
 - [Recover the Executable ROS](https://github.com/stepleton/5100ExecutableROSDecode)(ROM) of an IBM 5100 from screen photographs, using elementary image processing and machine learning.
 - [An Intel Programmer Jumps Over the Wall: First Impressions of ARM SIMD Programming](https://branchfree.org/2019/03/26/an-intel-programmer-jumps-over-the-wall-first-impressions-of-arm-simd-programming/)
+- [RISC Is Fundamentally Unscalable](https://blackhole12.com/blog/risc-is-fundamentally-unscalable/)
 
-### Eletronics
+### Electronics
 
 - [Circuit Simulator](https://www.falstad.com/circuit/circuitjs.html) version 2.1.15js by pfalstad.
 - [node-lib](https://github.com/diefarbe/node-lib/): A node library for manipulating color on the Das Keyboard 5Q
 - [Blink an LED With Arduino in Tinkercad: 6 Steps (with Pictures)](https://www.instructables.com/id/Blink-an-LED-With-Arduino-in-Tinkercad/)
 - [Tomu](https://tomu.im/) - A tiny ARM microprocessor which fits in your USB port.
 - [Circuit Simulator](http://www.lushprojects.com/circuitjs/). [github](https://github.com/sharpie7/circuitjs1).
+- [One-bit Computing at 60 Hertz](http://laughtonelectronics.com/Arcana/One-bit%20computer/One-bit%20computer.html)
 
 ## Operating Systems
 
@@ -427,10 +442,12 @@
 - [Guix](https://ambrevar.xyz/guix-advance/index.html): A most advanced operating system.
 - [Mezzano](https://github.com/froggey/Mezzano/): An operating system written in Common Lisp.
 - [It’s Time for a Modern Synthesis Kernel](https://blog.regehr.org/archives/1676)
+- [bootOS](https://github.com/nanochess/bootOS) is a monolithic operating system in 512 bytes of x86 machine code.
 
 ### Linux Kernel
 
 - [ktask](https://lwn.net/Articles/771169/): optimizing CPU-intensive kernel work, LWN.net.
+- [Unikernels](https://dl.acm.org/citation.cfm?id=3321445): The Next Stage of Linux's Dominance
 
 ### Memmory
 
@@ -491,6 +508,7 @@
 - [Build a quick Summarizer with Python and NLTK](https://dev.to/davidisrawi/build-a-quick-summarizer-with-python-and-nltk)
 - [pytext](https://github.com/facebookresearch/PyText): A natural language modeling framework based on PyTorch
 - [flair](https://github.com/zalandoresearch/flair): A very simple framework for state-of-the-art Natural Language Processing (NLP)
+- [Argdown](https://argdown.org/): A simple syntax for complex argumentation. [argdown repo](https://github.com/christianvoigt/argdown)
 
 #### Dictionaries
 
@@ -556,6 +574,9 @@
 - [TensorFlow is dead, long live TensorFlow!](https://hackernoon.com/tensorflow-is-dead-long-live-tensorflow-49d3e975cf04): If you’re an AI enthusiast and you didn’t see the big news this month, you might have just snoozed through an off-the-charts earthquake. Everything is about to change!
 - [Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning): Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [Autocompletion with deep learning](https://tabnine.com/blog/deep): TL;DR: TabNine is an autocompleter that helps you write code faster. We’re adding a deep learning model which significantly improves suggestion quality.
+- [awesome-edge-machine-learning](https://github.com/Bisonai/awesome-edge-machine-learning): A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.
+- [Run tracking liberates ML teams.](https://dotscience.com/blog/run-tracking/)
+- [CARLA](https://carla.org): Open-source simulator for [autonomous driving research](https://github.com/carla-simulator/carla).
 
 ### Machine Learning Articles
 
@@ -570,6 +591,8 @@
 - [The Tsetlin Machine](https://arxiv.org/abs/1804.01508): A Game Theoretic Bandit Driven Approach to Optimal Pattern Recognition with Propositional Logic. [github](https://github.com/cair/TsetlinMachine).
 - [Graph Neural Networks](https://arxiv.org/abs/1812.08434): A Review of Methods and Applications
 - [VAE with a VampPrior](https://github.com/jmtomczak/vae_vampprior): Code for the paper "VAE with a VampPrior", J.M. Tomczak & M. Welling
+- [A Differentiable Programming System to Bridge Machine Learning and Scientific Computing](https://arxiv.org/abs/1907.07587) - [github](https://github.com/MikeInnes/zygote-paper)
+- [CROKAGE](https://stackoverflow.blog/2019/08/14/crokage-a-new-way-to-search-stack-overflow/): A New Way to Search Stack Overflow. [isel on ufu](http://www.isel.ufu.br:9000/)
   
 ### Neural Networks
 
@@ -586,6 +609,10 @@
 - [Bbrain.js](https://github.com/BrainJS/brain.js): 🤖 Neural networks in JavaScript
 - [Smarter training of neural networks](https://www.csail.mit.edu/news/smarter-training-neural-networks)
 - [Random Forest vs Neural Network](https://mljar.com/blog/random-forest-vs-neural-network-classification/)(classification, tabular data) - [github](https://github.com/mljar/mljar-supervised)
+- [L2 Regularization and Batch Norm](https://blog.janestreet.com/l2-regularization-and-batch-norm/): In particular, when used together with batch normalization in a convolutional neural net with typical architectures, an L2 objective penalty no longer has its original regularizing effect. Instead it becomes essentially equivalent to an adaptive adjustment of the learning rate!
+- [Learn Neural Networks With Go, Not Math](https://www.youtube.com/watch?v=jb-12DOr5y4) by Ellen Körbes (GopherCon Europe 2019)
+- [pytorch-kaldi](https://github.com/mravanelli/pytorch-kaldi) is a project for developing state-of-the-art DNN/RNN hybrid speech recognition systems. The DNN part is managed by pytorch, while feature extraction, label computation, and decoding are performed with the kaldi toolkit.
+- [Paddle Fluid](https://www.paddlepaddle.org.cn/) with [Pre-trained and Reproduced Deep Learning Models](https://github.com/PaddlePaddle/models), [ERNIE](https://github.com/PaddlePaddle/ERNIE):  An Implementation of ERNIE For Language Understanding (including Pre-training models and Fine-tuning tools).
   
 ### Computer Vision
 
@@ -657,6 +684,8 @@
 - [Set Theory and Foundations of Mathematics](http://settheory.net/)
 - [holpy](https://gitee.com/bhzhan/holpy): Implementation of higher-order logic in Python.
 - [A Programmer's Introduction to Mathematics](https://pimbook.org/)
+- [Calculus For The People](https://www.geogebra.org/m/x39ys4d7) - Season 1
+- [New Proof Settles How to Approximate Numbers Like Pi](https://www.quantamagazine.org/new-proof-settles-how-to-approximate-numbers-like-pi-20190814/)
 
 ### Theorems
 
@@ -720,6 +749,8 @@
 - [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)
 - [statrethinking_winter2019](https://github.com/rmcelreath/statrethinking_winter2019): Statistical Rethinking course at MPI-EVA from Dec 2018 through Feb 2019
 - [Logistic Regression from Bayes' Theorem](https://www.countbayesie.com/blog/2019/6/12/logistic-regression-from-bayes-theorem)
+- [Latent Dirichlet Allocation coupled with Bayesian Time Series analyses](https://github.com/weecology/LDATS). [overview](https://weecology.github.io/LDATS/)
+- [Introduction to Bayesian Filter](https://leimao.github.io/article/Introduction-to-Bayesian-Filter/)
 
 ### Linear Regression
 
@@ -772,6 +803,7 @@
 - (pt-br) [juliaCluBR](https://github.com/julia-diversity-and-inclusion/juliaCluBR): Repositório com os arquivos para o curso juliaCluBR.
 - (pt-br) [Script para tirar série história de BOs do Estado de SP (fonte: SSPSP)](https://gist.github.com/voltdatalab/0bc390e674548b9b66c4d4cf9cdb6e2f)
 - [99 ways to extend the Jupyter ecosystem](https://blog.jupyter.org/99-ways-to-extend-the-jupyter-ecosystem-11e5dab7c54?gi=697ac48d879c)
+- [The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
   
 #### Datasets
 
@@ -890,6 +922,7 @@
 - [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
 - [Fun with compute shaders and fluid dynamics](https://blog.kummerlaender.eu/article/fun_with_compute_shaders_and_fluid_dynamics/#fnref3)
 - [Spectrum](https://libspectrum.io/): Spectrum is a cross-platform image transcoding library that can easily be integrated into an Android or iOS project to efficiently perform common image operations.
+- [bild](https://github.com/anthonynsimon/bild): A collection of parallel image processing algorithms in pure Go
 
 ### Fun
 
@@ -922,6 +955,7 @@
 - [How Multi-Beam Flash Lidar Works — Ouster](https://www.ouster.io/blog-posts/2018/11/8/how-multi-beam-flash-lidar-works)
 - [SOFA](https://www.sofa-framework.org/): is an efficient framework dedicated to research, prototyping and development of physics-based simulations. [github](https://github.com/sofa-framework/sofa/).
 - [List of freely available physics books](https://physics.stackexchange.com/questions/6157/list-of-freely-available-physics-books)
+- [The Forgotten Solution: Superdeterminism](https://backreaction.blogspot.com/2019/07/the-forgotten-solution-superdeterminism.html)
 
 ### Astronomy
 
@@ -941,6 +975,8 @@
 - [AstroML](https://github.com/astroML/astroML): Machine learning, statistics, and data mining for astronomy and astrophysics
 - [The Atlas of Space](http://www.openculture.com/2019/06/the-atlas-of-space.html): Behold Brilliant Maps of Constellations, Asteroids, Planets & “Everything in the Solar System Bigger Than 10km”. by [tabletop whale](http://tabletopwhale.com/2019/06/03/an-atlas-of-space.html)
 - [GraceDbBot](https://github.com/Roald87/GraceDB): A Telegram bot which you can use to get information on gravitational wave events from LIGO/Virgo.
+- [ipgeolocation Astronomy API](https://www.programmableweb.com/api/ipgeolocation-astronomy): The ipgeolocation Astronomy API provides timings for astronomical events including sunrise, sunset, moonrise, moonset, sun azimuth, moon azimuth, sun altitude, moon altitude, sun distance from the earth, and moon distance from the earth.
+- [The Orbital Index](https://orbitalindex.com/archive/2019-07-30-Issue-23/)
 
 ### Astro Articles
 
@@ -967,6 +1003,7 @@
 
 - [Periodic Table – Royal Society of Chemistry](http://www.rsc.org/periodic-table/)
 - (pt-br) [Alquimia Cósmica](https://lumina.ufrgs.br/course/view.php?id=85): Este curso se baseia em proposta original de minicurso criada pelo proponente, em 2014, como parte de suas atividades de ensino, pesquisa e extensão realizadas no Instituto de Física da Universidade Federal do Rio Grande do Sul.
+- [The elements of algorithms](https://www.chemistryworld.com/opinion/machine-learning-mendeleevs-have-rediscovered-the-periodic-table/3010720.article): Exposing new dimensions in the relationships between elements
 
 ## Biology
 
@@ -1063,6 +1100,7 @@
 - [How to write a game engine in pure C](https://prdeving.wordpress.com/2019/05/30/how-to-write-a-game-engine-in-pure-c-part-1-state-manager/): Part 1 – State Manager
 - [How to write a game engine in pure C](https://prdeving.wordpress.com/2019/06/05/how-to-write-a-game-engine-in-pure-c-part-2-the-graphic-initialization/): Part 2 – The Graphic initialization
 - [Open Source Game Clones](https://osgameclones.com/)
+- [quinesanek](https://github.com/taylorconor/quinesnake): A quine that plays snake over its own source!
   
 ## Writing Articles
 
@@ -1117,6 +1155,8 @@
 - [GNU Unifont Glyphs](http://www.unifoundry.com/unifont/index.html)
 - [Awesome Accessibility](https://github.com/brunopulis/awesome-a11y): A curate list about A11Y
 - [eDEX-UI](https://github.com/GitSquared/edex-ui): A science fiction desktop running everywhere. Awesome.
+- [Users hate change](https://gist.github.com/sleepyfox/a4d311ffcdc4fd908ec97d1c245e57dc)
+- [4 Rules for Intuitive UX](https://learnui.design/blog/4-rules-intuitive-ux.html)
 
 ### web
 
@@ -1161,6 +1201,8 @@
 - [Neural Networks and Philosophy of Language](https://towardsdatascience.com/neural-networks-and-philosophy-of-language-31c34c0796da): Why Wittgenstein’s theories are the basis of all modern NLP
 - [The Right to Read](https://www.gnu.org/philosophy/right-to-read.en.html): GNU Project - Free Software Foundation
 - [The Four Desires Driving All Human Behavior: Bertrand Russell’s Magnificent Nobel Prize Acceptance Speech – Brain Pickings](https://www.brainpickings.org/2015/09/21/bertrand-russell-nobel-prize-acceptance-speech/)
+- [Philosophy](https://github.com/Jfaler/Philosophize): 📚 A curated list of philosophy resources.
+- [Translating and Interpreting Chinese Philosophy](https://plato.stanford.edu/entries/chinese-translate-interpret/)
 
 ## General
 
@@ -1186,6 +1228,7 @@
 - [Merchants of Doubt](https://www.merchantsofdoubt.org/): In their new book, Merchants of Doubt, historians Naomi Oreskes and Erik Conway explain how a loose–knit group of high-level scientists, with extensive political connections, ran effective campaigns to mislead the public and deny well-established scientific knowledge over four decades.
 - [Six easy ways to manage your time better](https://www.nature.com/articles/d41586-019-00973-6)
 - [Best Economics Books: 49 Books To Really Understand Economics](https://filmlifestyle.com/best-economics-books/)
+- [Things I Learnt The Hard Way (in 30 Years of Software Development)](https://blog.juliobiason.net/thoughts/things-i-learnt-the-hard-way/)
   
 ### Jobs
 
@@ -1233,6 +1276,8 @@
 - [buildzoom](https://jobs.lever.co/buildzoom)
 - [Universe](https://careers.universe.com/#open-positions)
 - [Bagaar](https://www.bagaar.be/who/careers/spontaneous-application): Spontaneous application
+- [University of Nottingham](https://www.nottingham.ac.uk/jobs/currentvacancies/index.aspx)
+- [buildzoom](https://jobs.lever.co/buildzoom)
   
 ## General Fun
 
@@ -1292,6 +1337,9 @@
 - [Physicists Debate Hawking’s Idea That the Universe Had No Beginning](https://www.quantamagazine.org/physicists-debate-hawkings-idea-that-the-universe-had-no-beginning-20190606/)
 - [The decline of the family has unleashed an epidemic of loneliness.](https://www.city-journal.org/decline-of-family-loneliness-epidemic)
 - [Night owls](https://www.bbc.com/news/health-48558309): Simple sleep tweaks boost wellbeing
+- [Using AI and Film to Track Tear Gas Use Against Civilians](https://www.wired.com/story/using-ai-film-track-tear-gas-use-against-civilians/)
+- [‘The Era of People Like You Is Over’: How Turkey Purged Its Intellectuals](https://www.nytimes.com/2019/07/24/magazine/the-era-of-people-like-you-is-over-how-turkey-purged-its-intellectuals.html)
+- [Stop Blaming America’s Poor for Their Poverty](https://www.bloomberg.com/opinion/articles/2019-07-30/u-s-economy-personal-bad-behavior-isn-t-what-causes-poverty)
   
 ### 2018
 
