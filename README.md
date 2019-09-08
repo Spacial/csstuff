@@ -118,6 +118,8 @@
 - [Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
 - [Every Programmer Should Know thinking](https://github.com/mtdvio/every-programmer-should-know): A collection of (mostly) technical things every software developer should know
 - [What does debugging a program look like?](https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/)
+- [Some things that might help you make better software](https://www.drmaciver.com/2016/10/some-things-that-might-help-you-write-better-software/)
+- [B-threads](https://medium.com/@lmatteis/b-threads-programming-in-a-way-that-allows-for-easier-changes-5d95b9fb6928): programming in a way that allows for easier changes
 - [Programming Talks](https://github.com/hellerve/programming-talks): Awesome & interesting talks about programming
 - [Lock-free multithreading with atomic operations](https://www.internalpointers.com/post/lock-free-multithreading-atomic-operations)
 - [How to Build Good Software](https://www.csc.gov.sg/articles/how-to-build-good-software)
