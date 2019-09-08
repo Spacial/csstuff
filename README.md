@@ -76,6 +76,7 @@
 - [Computer Networking](http://cnp3book.info.ucl.ac.be/): Principles, Protocols and Practice is an open-source ebook that explains the main principles of Computer Networking and the key protocols that are used on the Internet.
 - [IPv6@IBM](https://media.ccc.de/v/denog10-16-ipv6-ibm-an-enterprise-journey) – An enterprise journey
 - [scans of early RFCs](https://write.as/365-rfcs/update-scans-of-early-rfcs)  
+- [Programmable socket lookup with BPF](https://linuxplumbersconf.org/event/4/contributions/487/)
 
 ---
 
@@ -144,6 +145,7 @@
 - [Linux Assembly libraries project](http://linasm.sourceforge.net/)
 - [CPU-instructions](https://github.com/BrunoDeBacker/CPU-instructions)
 - [x86 and amd64 instruction reference](http://www.felixcloutier.com/x86/)
+- [Rewriting Functions in Compiled Binaries](https://blog.trailofbits.com/2019/09/02/rewriting-functions-in-compiled-binaries/)
 
 #### C/C++
 
@@ -185,6 +187,7 @@
 - [memory-profiler](https://github.com/nokia/memory-profiler)
 - [MazuCC](https://github.com/jserv/MazuCC): A minimalist C compiler with x86_64 code generation
 - [C++ Crash Course](https://lospi.net/c/c++/programming/developing/software/2019/07/28/cpp-crash-course.html)
+- [An introduction to deterministic builds with C/C++](https://blog.conan.io/2019/09/02/Deterministic-builds-with-C-C++.html)
 
 #### Makefile
 
@@ -250,6 +253,8 @@
 - [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
 - [Lahja](https://github.com/ethereum/lahja) is a generic multi process event bus implementation written in Python 3.6+ to enable lightweight inter-process communication, based on non-blocking asyncio
 - [Examples and customization tricks](https://docs.pytest.org/en/latest/example/index.html)
+- (pt-br) [Truques e bizarrices em Python](https://github.com/mawkee/truques-e-bizarrices-em-python)
+- [alive-progress](https://github.com/rsalmei/alive-progress): An animated and smart Progress Bar for python.
 
 ##### Jupyter
 
@@ -295,7 +300,7 @@
   - [Why Kotlin?](https://www.slideshare.net/slideshow/embed_code/key/4REcPywFNmFBAy)
 - Lisp:
   - [Ferret](https://github.com/nakkaya/ferret) is a free software lisp implementation for real time embedded control systems.
-  - [LISP, THE UNIVERSE AND EVERYTHING](https://lisp-univ-etc.blogspot.com/2019/07/programming-algorithms-book.html): 
+  - [LISP, THE UNIVERSE AND EVERYTHING](https://lisp-univ-etc.blogspot.com/2019/07/programming-algorithms-book.html).
 - Lua:
   - [xmake](https://github.com/xmake-io/xmake): 🔥 A cross-platform build [utility based on Lua](https://xmake.io)
 - Nim:
@@ -367,8 +372,17 @@
   - [gita](https://github.com/nosarthur/gita): Manage multiple git repos side by side for sanity
   - [How GitHub Classroom and Travis CI improved students’ grades](https://github.blog/2019-02-12-how-github-classroom-and-travis-ci-improved-students-grades/)
   - [Git hacks no one tells you about](https://medium.com/devopslinks/git-hacks-no-one-tells-you-about-e841d50cb474)
+  - [An introduction to Git](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/): what it is, and how to use it
+  - [Learn the Basics of Git in Under 10 Minutes](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
   - (pt-br) [git-beyond-the-trivial](https://github.com/drrzmr/git-beyond-the-trivial).
   - Learning git: [Locations, Remotes, and GitHub](https://www.willingconsulting.com/post/2019-07-01-locations-and-git/)
+  - (pt-br) [4 livros grátis de Git para iniciantes (online e PDF)](https://guiainfo.net/4-livros-gratis-de-git-para-iniciantes-online-e-pdf/)
+  - (pt-br) [Github descomplicado](https://medium.com/@anarossini01/github-descomplicado-2eb7f9fb2b60)
+  - (pt-br) [Git Colinha](https://github.github.com/training-kit/downloads/pt_BR/github-git-cheat-sheet/)
+  - (pt-br) [git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
+  - Some good tips to gitconfig:
+    - [Visualizing branch topology in git](https://stackoverflow.com/questions/1838873/visualizing-branch-topology-in-git)
+  
 - **Mercurial**:
   - [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos.
 
@@ -439,8 +453,9 @@
 - [Sanos](http://www.jbox.dk/sanos/index.htm): Sanos is a minimalistic 32-bit x86 operating system kernel for network server appliances running on standard PC hardware.
 - [Guix](https://ambrevar.xyz/guix-advance/index.html): A most advanced operating system.
 - [Mezzano](https://github.com/froggey/Mezzano/): An operating system written in Common Lisp.
-- [It’s Time for a Modern Synthesis Kernel](https://blog.regehr.org/archives/1676)
+- [It’s Time for a Modern Synthesis Kernel](https://blog.regehr.org/archives/1676).
 - [bootOS](https://github.com/nanochess/bootOS) is a monolithic operating system in 512 bytes of x86 machine code.
+- [A dream of an ultimate OS](http://okmij.org/ftp/papers/DreamOSPaper.html).
 
 ### Linux Kernel
 
@@ -459,6 +474,7 @@
 - A text file that is also a [executable](http://www.cs.cmu.edu/~tom7/abc/paper.txt) (both are a paper, actually)
 - [moustique](https://github.com/matt-42/moustique): C++14 high performance non-blocking network IO (based on epoll + boost.context)
 - [LD_PRELOAD](https://blog.jessfraz.com/post/ld_preload/): The Hero We Need and Deserve.
+- [Do It Yourself (OpenJDK) Garbage Collector](https://shipilev.net/jvm/diy-gc/)
 
 ### API
 
@@ -507,6 +523,7 @@
 - [pytext](https://github.com/facebookresearch/PyText): A natural language modeling framework based on PyTorch
 - [flair](https://github.com/zalandoresearch/flair): A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [Argdown](https://argdown.org/): A simple syntax for complex argumentation. [argdown repo](https://github.com/christianvoigt/argdown)
+- [The State of Transfer Learning in NLP](http://ruder.io/state-of-transfer-learning-in-nlp/): This post expands on the NAACL 2019 tutorial on Transfer Learning in NLP.
 
 #### Dictionaries
 
@@ -575,6 +592,8 @@
 - [awesome-edge-machine-learning](https://github.com/Bisonai/awesome-edge-machine-learning): A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.
 - [Run tracking liberates ML teams.](https://dotscience.com/blog/run-tracking/)
 - [CARLA](https://carla.org): Open-source simulator for [autonomous driving research](https://github.com/carla-simulator/carla).
+- [make-sense](https://github.com/SkalskiP/make-sense): [Free to use online tool for labelling photos](https://makesense.ai).
+- [TF Encrypted](https://tf-encrypted.io/) is a framework for encrypted deep learning in TensorFlow. It looks and feels like TensorFlow, taking advantage of the ease-of-use of the Keras API while [enabling training and prediction over encrypted data](https://github.com/tf-encrypted/tf-encrypted).
 
 ### Machine Learning Articles
 
@@ -611,7 +630,9 @@
 - [Learn Neural Networks With Go, Not Math](https://www.youtube.com/watch?v=jb-12DOr5y4) by Ellen Körbes (GopherCon Europe 2019)
 - [pytorch-kaldi](https://github.com/mravanelli/pytorch-kaldi) is a project for developing state-of-the-art DNN/RNN hybrid speech recognition systems. The DNN part is managed by pytorch, while feature extraction, label computation, and decoding are performed with the kaldi toolkit.
 - [Paddle Fluid](https://www.paddlepaddle.org.cn/) with [Pre-trained and Reproduced Deep Learning Models](https://github.com/PaddlePaddle/models), [ERNIE](https://github.com/PaddlePaddle/ERNIE):  An Implementation of ERNIE For Language Understanding (including Pre-training models and Fine-tuning tools).
-  
+- [Face Aging using Conditional GANs with Keras implementation](https://iq.opengenus.org/face-aging-cgan-keras/)
+- [A 2019 Guide to Speech Synthesis with Deep Learning](https://heartbeat.fritz.ai/a-2019-guide-to-speech-synthesis-with-deep-learning-630afcafb9dd)
+
 ### Computer Vision
 
 - [Computer Vision Workshop](https://github.com/CatalystCode/CVWorkshop)
@@ -620,12 +641,15 @@
 - [Monitoring Road Traffic with Python](http://andrew.carterlunn.co.uk/programming/2017/08/24/monitoring-road-traffic-with-python.html)
 - [MUNIT](https://github.com/nvlabs/munit): Multimodal UNsupervised Image-to-image Translation
 - [Pythia](https://github.com/facebookresearch/pythia): A software suite for Visual Question Answering.
-- [OpenCV 4.0](https://opencv.org/opencv-4-0-0.html).
-- [PyImageSearch](https://www.pyimagesearch.com/)- Be awesome at OpenCV, Python, deep learning, and computer vision. [Tracking multiple objects with OpenCV](https://www.pyimagesearch.com/2018/08/06/tracking-multiple-objects-with-opencv/)
-- [Introduction to Computer Vision by Intel](https://software.intel.com/en-us/articles/introduction-to-computer-vision):
-  - [Video-Analytics-OpenCV](https://github.com/intel-iot-devkit/Video-Analytics-OpenCV): Python video analytics samples with OpenCV*
-- [GesturesGAN](https://github.com/Ha0Tang/GestureGAN)
-- [Analyze a Soccer Game Using Tensorflow Object Detection and OpenCV](https://opendatascience.com/analyze-a-soccer-game-using-tensorflow-object-detection-and-opencv/) - Open Data Science - Your News Source for AI, Machine Learning & more
+- OpenCV related links:
+  - [OpenCV 4.0](https://opencv.org/opencv-4-0-0.html).
+  - [PyImageSearch](https://www.pyimagesearch.com/)- Be awesome at OpenCV, Python, deep learning, and computer vision. [Tracking multiple objects with OpenCV](https://www.pyimagesearch.com/2018/08/06/tracking-multiple-objects-with-opencv/)
+  - [Introduction to Computer Vision by Intel](https://software.intel.com/en-us/articles/introduction-to-computer-vision):
+    - [Video-Analytics-OpenCV](https://github.com/intel-iot-devkit/Video-Analytics-OpenCV): Python video analytics samples with OpenCV*
+  - [GesturesGAN](https://github.com/Ha0Tang/GestureGAN)
+  - [Analyze a Soccer Game Using Tensorflow Object Detection and OpenCV](https://opendatascience.com/analyze-a-soccer-game-using-tensorflow-object-detection-and-opencv/) - Open Data Science - Your News Source for AI, Machine Learning & more
+  - [Image Segmentation Using Color Spaces in OpenCV + Python](https://realpython.com/python-opencv-color-spaces/)
+  - [OpenCV BGR color palette with trackbars](https://www.geeksforgeeks.org/python-opencv-bgr-color-palette-with-trackbars/)
 - [soccer_realtime.ipynb](https://github.com/priya-dwivedi/Deep-Learning/blob/master/soccer_team_prediction/soccer_realtime.ipynb) · priya-dwivedi/Deep-Learning
 - [reconhecimento-expressao-facial-debate](https://github.com/estadao/reconhecimento-expressao-facial-debate): Código para a matéria que analisa as expressões faciais dos candidatos à Presidência de 2018 durante o debate realizado na TV Gazeta
 - (pt-br)[Simples reconhecimento facial](https://github.com/saulocatharino/reconhecimento_facial)
@@ -634,6 +658,8 @@
 - [openpifpaf](https://github.com/vita-epfl/openpifpaf): Implementation of "PifPaf: Composite Fields for Human Pose Estimation" in PyTorch.
 - [imagenette](https://github.com/fastai/imagenette): A smaller subset of 10 easily classified classes from Imagenet, and a little more French
 - [The Boombox Incident](https://matthewbilyeu.com/blog/2019-03-21/the-boombox-incident)
+- [A Mathematical Model Unlocks the Secrets of Vision](https://www.quantamagazine.org/a-mathematical-model-unlocks-the-secrets-of-vision-20190821/)
+- [Predicting 3D Human Dynamics from Video](https://deepai.org/publication/predicting-3d-human-dynamics-from-video)
 
 #### Python DL
 
@@ -802,6 +828,7 @@
 - (pt-br) [Script para tirar série história de BOs do Estado de SP (fonte: SSPSP)](https://gist.github.com/voltdatalab/0bc390e674548b9b66c4d4cf9cdb6e2f)
 - [99 ways to extend the Jupyter ecosystem](https://blog.jupyter.org/99-ways-to-extend-the-jupyter-ecosystem-11e5dab7c54?gi=697ac48d879c)
 - [The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
+- [So, how come we can use TensorFlow from R?](https://blogs.rstudio.com/tensorflow/posts/2019-08-29-using-tf-from-r/)
   
 #### Datasets
 
@@ -853,6 +880,8 @@
 - [sixel-gnuplot](https://github.com/csdvrx/sixel-gnuplot): GNUplot with sixel support
 - [The Putin Exodus](https://publications.atlanticcouncil.org/putin-exodus/): The New Russian Brain Drain
 - [Analysing the Wahl-O-Mat about the 2019 EU election](https://github.com/askLubich/Wahl-O-Mat-EU-2019)
+- [NYT-style urban heat island maps](https://www.katiejolly.io/blog/2019-08-28/nyt-urban-heat)
+- [](https://www.nytimes.com/interactive/2019/08/29/opinion/hurricane-dorian-forecast-map.html)
 
 ### Calculus
 
@@ -921,6 +950,7 @@
 - [Fun with compute shaders and fluid dynamics](https://blog.kummerlaender.eu/article/fun_with_compute_shaders_and_fluid_dynamics/#fnref3)
 - [Spectrum](https://libspectrum.io/): Spectrum is a cross-platform image transcoding library that can easily be integrated into an Android or iOS project to efficiently perform common image operations.
 - [bild](https://github.com/anthonynsimon/bild): A collection of parallel image processing algorithms in pure Go
+- [jax](https://github.com/google/jax): Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 
 ### Fun
 
@@ -932,6 +962,7 @@
 - [Introducing the Aqua Screenshot Library](https://512pixels.net/2018/08/introducing-the-aqua-screenshot-library/)
 - [Math and Analogies](https://betterexplained.com/articles/math-and-analogies/)
 - [Heat](https://github.com/susam/heart): My heart for Cutie Pai
+- [alcFreeliner](https://github.com/maxdee/alc_freeliner): [live geometric animation tool powerhouse](https://freeliner.xyz)
 
 ### Music
 
@@ -1002,6 +1033,7 @@
 - [Periodic Table – Royal Society of Chemistry](http://www.rsc.org/periodic-table/)
 - (pt-br) [Alquimia Cósmica](https://lumina.ufrgs.br/course/view.php?id=85): Este curso se baseia em proposta original de minicurso criada pelo proponente, em 2014, como parte de suas atividades de ensino, pesquisa e extensão realizadas no Instituto de Física da Universidade Federal do Rio Grande do Sul.
 - [The elements of algorithms](https://www.chemistryworld.com/opinion/machine-learning-mendeleevs-have-rediscovered-the-periodic-table/3010720.article): Exposing new dimensions in the relationships between elements
+- [Why the Periodic Table of Elements Is More Important Than Ever](https://www.bloomberg.com/news/features/2019-08-28/the-modern-triumph-of-the-periodic-table-of-elements): Mendeleev’s 150-year-old periodic table has become the menu for a world hungry for material benefits.
 
 ## Biology
 
@@ -1027,6 +1059,7 @@
 ## Humanities
 
 - [Civic honesty around the globe](https://science.sciencemag.org/content/365/6448/70): Rationalist approaches to economics assume that people value their own interests over the interests of strangers. Cohn et al. wanted to examine the trade-off between material self-interest and more altruistic behaviors (see the Perspective by Shalvi).
+- [Words that do Handstands](http://hardmath123.github.io/ambigrams.html)
 
 ## On-line Services
 
@@ -1081,6 +1114,7 @@
 - [OpenSCAD](https://www.openscad.org/): The Programmers Solid 3D CAD Modeller
 - [BIM_Workbench](https://github.com/yorikvanhavre/BIM_Workbench): A BIM Workbench for FreeCAD
 - [Open CASCADE Technology](https://dev.opencascade.org/): The Open Source 3D Modeling Libraries
+- [hemeshgui](https://github.com/struct78/hemeshgui): A new and improved version of the visual tool for the wonderful HE_Mesh library
 
 ## Games
 
@@ -1099,6 +1133,7 @@
 - [How to write a game engine in pure C](https://prdeving.wordpress.com/2019/06/05/how-to-write-a-game-engine-in-pure-c-part-2-the-graphic-initialization/): Part 2 – The Graphic initialization
 - [Open Source Game Clones](https://osgameclones.com/)
 - [quinesanek](https://github.com/taylorconor/quinesnake): A quine that plays snake over its own source!
+- [gb-studio](https://github.com/chrismaltby/gb-studio): A free and easy to use retro adventure game creator for your favourite [handheld video game system](https://www.gbstudio.dev)
   
 ## Writing Articles
 
@@ -1136,6 +1171,7 @@
 - [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching): One has no future if one couldn't teach themself.
 - [Top Tips for a Successful Transition to a Postdoc Role](https://www.ptglab.com/news/blog/top-tips-for-a-successful-transition-to-a-postdoc-role/)
 - [CRediT](https://www.casrai.org/credit.html): CRediT (Contributor Roles Taxonomy) is high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors to scientific scholarly output. The roles describe each contributor’s specific contribution to the scholarly output.
+- [How to learn things at 1000x the speed](http://pranay.gp/how-to-learn-things-at-1000x-the-speed)
 
 ### Writing
 
@@ -1204,6 +1240,7 @@
 
 ## General
 
+- [lists](https://github.com/jnv/lists): The definitive list of lists (of lists) curated on GitHub
 - [The Sublimated Grief of the Left Behind](http://erinbartram.com/uncategorized/the-sublimated-grief-of-the-left-behind/)
 - [The professional learning platform](https://www.soyoulearn.com)
 - [poor man's kafka](https://github.com/jackdoe/rochefort)
@@ -1305,6 +1342,7 @@
 - [holpy](https://arxiv.org/abs/1905.05970): Interactive Theorem Proving in Python
 - [On the Impact of Programming Languages on Code Quality](https://arxiv.org/abs/1901.10220)
 - [Ara](https://arxiv.org/abs/1906.00478): A 1 GHz+ Scalable and Energy-Efficient RISC-V Vector Processor with Multi-Precision Floating Point Support in 22 nm FD-SOI
+- [Regional and correlative sweat analysis using high-throughput microfluidic sensing patches toward decoding sweat](https://advances.sciencemag.org/content/5/8/eaaw9906?utm_campaign=SciMag&utm_source=JHubbard&utm_medium=Twitter)
 
 ## News
 
@@ -1338,6 +1376,7 @@
 - [Using AI and Film to Track Tear Gas Use Against Civilians](https://www.wired.com/story/using-ai-film-track-tear-gas-use-against-civilians/)
 - [‘The Era of People Like You Is Over’: How Turkey Purged Its Intellectuals](https://www.nytimes.com/2019/07/24/magazine/the-era-of-people-like-you-is-over-how-turkey-purged-its-intellectuals.html)
 - [Stop Blaming America’s Poor for Their Poverty](https://www.bloomberg.com/opinion/articles/2019-07-30/u-s-economy-personal-bad-behavior-isn-t-what-causes-poverty)
+- [New brain-machine interface can generate natural-sounding synthetic speech using brain activity](https://humanbioscience.org/2019/04/new-brain-machine-interface-can-generate-natural-sounding-synthetic-speech-using-brain-activity.html)
   
 ### 2018
 

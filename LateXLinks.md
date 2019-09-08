@@ -8,6 +8,7 @@
 
 - [Mirroring text in LaTeX](http://texblog.org/2013/11/19/mirroring-text-in-latex/)
 - [Using colours in LaTeX](https://www.sharelatex.com/learn/Using_colours_in_LaTeX)
+- [minted](https://github.com/gpoore/minted): highlighted source code for LaTeX
 
 ## Tables
 
@@ -40,6 +41,7 @@
 - [LaTeX | An infinite monkey](https://monoinfinito.wordpress.com/category/latex/)
 - [Michael Orlitzky { Makeing LaTeX }](http://michael.orlitzky.com/articles/makeing_latex.xhtml): This article is about using GNU Make to build LaTeX documents. If you don't know what those things are, forget I even said anything.
 - [Convert images to LaTeX](https://mathpix.com/)
+- [LuaTex](http://www.luatex.org/): LuaTeX is an extended version of pdfTeX using Lua as an embedded scripting language.
 
 ## Templates
 
@@ -53,6 +55,16 @@
 ## Graphs
 
 - [TeX Live Database as Graph Database](https://www.preining.info/blog/2018/10/tex-live-database-as-graph-database/)
+
+## Watermark
+
+- [Package draftwatermark](https://tex.stackexchange.com/questions/290883/package-draftwatermark-no-watermark-on-the-first-page): no watermark on the first page
+- [Exclude draftwatermark from specific pages](https://tex.stackexchange.com/questions/288881/latex-exclude-draftwatermark-from-specific-pages)
+
+## Page Numbering
+
+- [How to suppress page number?](https://tex.stackexchange.com/questions/7355/how-to-suppress-page-number)
+- [Gobble page numbers](https://tex.stackexchange.com/questions/112782/gobble-page-numbers)
 
 ## Resources
 
