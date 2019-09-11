@@ -257,6 +257,8 @@
 - [Examples and customization tricks](https://docs.pytest.org/en/latest/example/index.html)
 - (pt-br) [Truques e bizarrices em Python](https://github.com/mawkee/truques-e-bizarrices-em-python)
 - [alive-progress](https://github.com/rsalmei/alive-progress): An animated and smart Progress Bar for python.
+- [portray](https://timothycrosley.github.io/portray/): is a Python3 command line tool and library that helps you create great documentation websites for your Python projects with as little effort as possible.
+- [Pygments](http://pygments.org/): is a generic syntax highlighter suitable for use in code hosting, forums, wikis or other applications that need to prettify source code.
 
 ##### Jupyter
 
@@ -320,6 +322,7 @@
 - [Sacara](https://github.com/enkomio/sacara): A stack based intermediate language aimed at software protection by running in a software VM.
 - Scala:
   - [Implicits, type classes, and extension methods, part 1: with type classes in mind](https://kubuszok.com/2018/implicits-type-classes-and-extension-methods-part-1/)
+  - [sbt-slash](https://github.com/sbt/sbt-slash): unified slash syntax for both shell and build.sbt
 - V:
   - [V](https://github.com/vlang-io/V): Simple, fast, safe, compiled language for creating maintainable software. Supports translation from C/C++.
   - [vlang](https://github.com/vlang/v): Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++. Compiles itself in <1s.
@@ -596,6 +599,7 @@
 - [CARLA](https://carla.org): Open-source simulator for [autonomous driving research](https://github.com/carla-simulator/carla).
 - [make-sense](https://github.com/SkalskiP/make-sense): [Free to use online tool for labelling photos](https://makesense.ai).
 - [TF Encrypted](https://tf-encrypted.io/) is a framework for encrypted deep learning in TensorFlow. It looks and feels like TensorFlow, taking advantage of the ease-of-use of the Keras API while [enabling training and prediction over encrypted data](https://github.com/tf-encrypted/tf-encrypted).
+- [Machine Learning Notebooks](https://github.com/ageron/handson-ml2): A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2. 
 
 ### Machine Learning Articles
 
@@ -884,6 +888,7 @@
 - [Analysing the Wahl-O-Mat about the 2019 EU election](https://github.com/askLubich/Wahl-O-Mat-EU-2019)
 - [NYT-style urban heat island maps](https://www.katiejolly.io/blog/2019-08-28/nyt-urban-heat)
 - [](https://www.nytimes.com/interactive/2019/08/29/opinion/hurricane-dorian-forecast-map.html)
+- [Summer Olympics](https://gerardofurtado.com/mt/mt.html): Medal Tally
 
 ### Calculus
 
@@ -1062,6 +1067,7 @@
 
 - [Civic honesty around the globe](https://science.sciencemag.org/content/365/6448/70): Rationalist approaches to economics assume that people value their own interests over the interests of strangers. Cohn et al. wanted to examine the trade-off between material self-interest and more altruistic behaviors (see the Perspective by Shalvi).
 - [Words that do Handstands](http://hardmath123.github.io/ambigrams.html)
+- [Trouble on the Horizon: Forecasting the Derailment of Online Conversations as they Develop](https://arxiv.org/abs/1909.01362)
 
 ## On-line Services
 
@@ -1222,6 +1228,7 @@
 - [Simulating identification by zip code, gender, birthdate](https://www.johndcook.com/blog/2018/12/07/simulating-zipcode-sex-birthdate/)
 - [One-End Encryption (OEE)](https://github.com/veorq/oee): Stronger than End-to-End Encryption
 - [The New Wilderness](https://idlewords.com/2019/06/the_new_wilderness.htm)
+- [Differential Privacy](https://github.com/google/differential-privacy): This project contains a C++ library of ε-differentially private algorithms, which can be used to produce aggregate statistics over numeric data sets containing private or sensitive information.
 
 ## Philosophy
 
@@ -1379,7 +1386,10 @@
 - [‘The Era of People Like You Is Over’: How Turkey Purged Its Intellectuals](https://www.nytimes.com/2019/07/24/magazine/the-era-of-people-like-you-is-over-how-turkey-purged-its-intellectuals.html)
 - [Stop Blaming America’s Poor for Their Poverty](https://www.bloomberg.com/opinion/articles/2019-07-30/u-s-economy-personal-bad-behavior-isn-t-what-causes-poverty)
 - [New brain-machine interface can generate natural-sounding synthetic speech using brain activity](https://humanbioscience.org/2019/04/new-brain-machine-interface-can-generate-natural-sounding-synthetic-speech-using-brain-activity.html)
-  
+- [Are We All Wrong About Black Holes?](https://www.quantamagazine.org/craig-callender-are-we-all-wrong-about-black-holes-20190905/)
+- [What Netflix’s ‘Great Hack’ Gets Wrong About Cambridge Analytica](https://www.thenation.com/article/cambridge-analytica-facebook-hack/)
+- [Statisticians want to abandon science’s standard measure of ‘significance’](https://www.sciencenews.org/article/statisticians-standard-measure-significance-p-values)
+
 ### 2018
 
 - [A Science Fair with $1.6 Million in Prizes](https://blog.mozilla.org/blog/2018/07/19/a-science-fair-with-1-6-million-in-prizes/)
