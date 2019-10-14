@@ -24,6 +24,13 @@
 
 * [Do zero à publicação de um pacote de distribuição no PyPI](https://speakerdeck.com/ayharano/do-zero-a-publicacao-de-um-pacote-de-distribuicao-no-pypi) por [Alexandre Harano](https://alexandre.harano.net.br)
 
+## Network
+
+* [IP Calculator](https://github.com/kailashjoshi/Ipcalculator): Ip Calculator (Python)
+* [range-to-cidr](https://github.com/f3ndot/range-to-cidr): A stupid simple Python script to turn CSV of IP ranges to CIDR blocks in STDOUT
+* [pysubnettree](https://github.com/zeek/pysubnettree): A Python Module for CIDR Lookups.
+* 
+  
 ## Robotics
 
 * [PythonRobotics](https://atsushisakai.github.io/PythonRobotics/) ([github](https://github.com/AtsushiSakai/PythonRobotics))

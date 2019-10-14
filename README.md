@@ -49,6 +49,7 @@
 - [awesome-graph-embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding): A collection of important graph embedding, classification and representation learning papers with implementations.
 - [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection): A curated list of community detection techniques.
 - [6.851: Advanced Data Structures](https://courses.csail.mit.edu/6.851/): Prof. Erik Demaine
+- [Designing far memory data structures: think outside the box](https://blog.acolyer.org/2019/06/26/designing-far-memory-data-structures/)
   
 ### Databases
 
@@ -123,6 +124,7 @@
 - [Programming Talks](https://github.com/hellerve/programming-talks): Awesome & interesting talks about programming
 - [Lock-free multithreading with atomic operations](https://www.internalpointers.com/post/lock-free-multithreading-atomic-operations)
 - [How to Build Good Software](https://www.csc.gov.sg/articles/how-to-build-good-software)
+- [Languages](https://codelani.com/lists/languages.html): Here is the current list of the 3,503 computer languages I am actively tracking. I focus on tracking general purpose high-level programming languages, but also track low-level languages and some notable markup languages, protocols, file formats, libraries, and applications.
 
 #### IDEs
 
@@ -190,6 +192,10 @@
 - [MazuCC](https://github.com/jserv/MazuCC): A minimalist C compiler with x86_64 code generation
 - [C++ Crash Course](https://lospi.net/c/c++/programming/developing/software/2019/07/28/cpp-crash-course.html)
 - [An introduction to deterministic builds with C/C++](https://blog.conan.io/2019/09/02/Deterministic-builds-with-C-C++.html)
+- [Modern C](https://modernc.gforge.inria.fr/) by Jens Gustedt.
+- [Comparison of C/POSIX standard library implementations for Linux](https://www.etalabs.net/compare_libcs.html)
+- [Microsoft's C++ Standard Library](https://github.com/microsoft/STL): MSVC's implementation of the C++ Standard Library.
+- [Efficient string copying and concatenation in C](https://developers.redhat.com/blog/2019/08/12/efficient-string-copying-and-concatenation-in-c/)
 
 #### Makefile
 
@@ -259,6 +265,9 @@
 - [alive-progress](https://github.com/rsalmei/alive-progress): An animated and smart Progress Bar for python.
 - [portray](https://timothycrosley.github.io/portray/): is a Python3 command line tool and library that helps you create great documentation websites for your Python projects with as little effort as possible.
 - [Pygments](http://pygments.org/): is a generic syntax highlighter suitable for use in code hosting, forums, wikis or other applications that need to prettify source code.
+- [python-sliders](https://github.com/hackingmath/python-sliders): Sliders for the Python mode of Processing
+- [Python Verbal Expressions](https://github.com/VerbalExpressions/PythonVerbalExpressions): Python regular expressions made easy
+- [Python is not context free](http://trevorjim.com/python-is-not-context-free/) [2012]
 
 ##### Jupyter
 
@@ -268,6 +277,7 @@
 - (pt-br) [Violencia Rio de Janeiro](https://github.com/rogeriochaves/notebooks/blob/master/Violencia%20Rio%20de%20Janeiro.ipynb)
 - [How to Grow Neat Software Architecture out of Jupyter Notebooks](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks)
 - [tpqad](https://github.com/yhilpisch/tpqad): Workflow combining Asciidoctor with Codes in Jupyter Notebooks.
+- [Teaching and Learning with Jupyter](https://github.com/jupyter4edu/jupyter-edu-book) [book](https://jupyter4edu.github.io/jupyter-edu-book/)
 
 ##### Presentations
 
@@ -323,6 +333,8 @@
 - Scala:
   - [Implicits, type classes, and extension methods, part 1: with type classes in mind](https://kubuszok.com/2018/implicits-type-classes-and-extension-methods-part-1/)
   - [sbt-slash](https://github.com/sbt/sbt-slash): unified slash syntax for both shell and build.sbt
+- Swift:
+  - [Swift on Raspberry Pi](https://blog.lickability.com/swift-on-raspberry-pi-e44c79fc32f3)
 - V:
   - [V](https://github.com/vlang-io/V): Simple, fast, safe, compiled language for creating maintainable software. Supports translation from C/C++.
   - [vlang](https://github.com/vlang/v): Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++. Compiles itself in <1s.
@@ -387,7 +399,8 @@
   - (pt-br) [git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
   - Some good tips to gitconfig:
     - [Visualizing branch topology in git](https://stackoverflow.com/questions/1838873/visualizing-branch-topology-in-git)
-  
+  - [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else): Blame someone else for your bad code.
+  - [High-level Problems with Git and How to Fix Them](https://gregoryszorc.com/blog/2017/12/11/high-level-problems-with-git-and-how-to-fix-them/)
 - **Mercurial**:
   - [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos.
 
@@ -529,6 +542,9 @@
 - [flair](https://github.com/zalandoresearch/flair): A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [Argdown](https://argdown.org/): A simple syntax for complex argumentation. [argdown repo](https://github.com/christianvoigt/argdown)
 - [The State of Transfer Learning in NLP](http://ruder.io/state-of-transfer-learning-in-nlp/): This post expands on the NAACL 2019 tutorial on Transfer Learning in NLP.
+- [Install and Use CTRL on Google Compute Engine](https://github.com/minimaxir/ctrl-gce): Set up the CTRL text-generating model on Google Compute Engine with just a few console commands.
+- [Attention Mechanism](https://blog.floydhub.com/attention-mechanism/): In this article, I will be covering the main concepts behind Attention, including an implementation of a sequence-to-sequence Attention model, followed by the application of Attention in Transformers and how they can be used for state-of-the-art results.
+- [Transformers](https://github.com/huggingface/transformers): State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 
 #### Dictionaries
 
@@ -570,7 +586,7 @@
 - [lip reading](https://github.com/astorfi/lip-reading-deeplearning): Cross Audio-Visual Recognition using 3D Architectures
 - [pija](https://github.com/mattaereal/pija): Pornographic Images Jacking Algorithm
 - [Create a containerized machine learning model](https://fedoramagazine.org/create-containerized-machine-learning-model/)
-- [vergml](https://github.com/vergeml/vergeml)
+- [vergml](https://github.com/vergeml/vergeml).
 - [DeOldify](https://github.com/jantic/DeOldify): A Deep Learning based project for colorizing and restoring old images
 - [BERT](https://github.com/google-research/bert): TensorFlow code and pre-trained models for BERT
 - [Real-Time Noise Suppression Using Deep Learning](https://devblogs.nvidia.com/nvidia-real-time-noise-suppression-deep-learning/). [Krisp](https://krisp.ai/download.html) app (use noise supression) by [2Hz](https://2hz.ai/index.html) (and how to use the [API](https://blog.2hz.ai/2018/10/01/step-by-step-guide-for-using-2hz-krisp-api/))
@@ -584,7 +600,6 @@
 - [octofairy](https://github.com/evilsocket/octofairy): A machine learning based GitHub bot for Issues.
 - [A Full Hardware Guide to Deep Learning](http://timdettmers.com/2018/12/16/deep-learning-hardware-guide/)
 - [tensorFlow Privacy](https://github.com/tensorflow/privacy): Library for training machine learning models with privacy for training data
-- [autodrome](https://github.com/vojtamolda/autodrome/): Framework and OpenAI Gym Environment for Autonomous Vehicle Development.
 - [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning): 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [Dive into Deep Learning](http://d2l.ai/): An interactive deep learning book for students, engineers, and researchers.
 - [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
@@ -599,7 +614,12 @@
 - [CARLA](https://carla.org): Open-source simulator for [autonomous driving research](https://github.com/carla-simulator/carla).
 - [make-sense](https://github.com/SkalskiP/make-sense): [Free to use online tool for labelling photos](https://makesense.ai).
 - [TF Encrypted](https://tf-encrypted.io/) is a framework for encrypted deep learning in TensorFlow. It looks and feels like TensorFlow, taking advantage of the ease-of-use of the Keras API while [enabling training and prediction over encrypted data](https://github.com/tf-encrypted/tf-encrypted).
-- [Machine Learning Notebooks](https://github.com/ageron/handson-ml2): A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2. 
+- [Machine Learning Notebooks](https://github.com/ageron/handson-ml2): A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
+- [CopyMonkey](https://copymonkey.xyz/) is a handwriting mimic app. [repo](https://github.com/swechhachoudhary/Handwriting-synthesis)
+- Autonomous Vehicles:
+  - [autodrome](https://github.com/vojtamolda/autodrome/): Framework and OpenAI Gym Environment for Autonomous Vehicle Development.
+  - [AirSim](https://github.com/microsoft/AirSim): Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research.
+- [ADBlock Radio](https://www.adblockradio.com/en/): We improve your radio experience. [adblockradio](https://github.com/adblockradio/adblockradio) - An adblocker for live radio streams and podcasts. Machine learning meets Shazam.
 
 ### Machine Learning Articles
 
@@ -616,6 +636,7 @@
 - [VAE with a VampPrior](https://github.com/jmtomczak/vae_vampprior): Code for the paper "VAE with a VampPrior", J.M. Tomczak & M. Welling
 - [A Differentiable Programming System to Bridge Machine Learning and Scientific Computing](https://arxiv.org/abs/1907.07587) - [github](https://github.com/MikeInnes/zygote-paper)
 - [CROKAGE](https://stackoverflow.blog/2019/08/14/crokage-a-new-way-to-search-stack-overflow/): A New Way to Search Stack Overflow. [isel on ufu](http://www.isel.ufu.br:9000/)
+- [Overton: A Data System for Monitoring and Improving Machine-Learned Products](https://arxiv.org/abs/1909.05372)
   
 ### Neural Networks
 
@@ -638,6 +659,7 @@
 - [Paddle Fluid](https://www.paddlepaddle.org.cn/) with [Pre-trained and Reproduced Deep Learning Models](https://github.com/PaddlePaddle/models), [ERNIE](https://github.com/PaddlePaddle/ERNIE):  An Implementation of ERNIE For Language Understanding (including Pre-training models and Fine-tuning tools).
 - [Face Aging using Conditional GANs with Keras implementation](https://iq.opengenus.org/face-aging-cgan-keras/)
 - [A 2019 Guide to Speech Synthesis with Deep Learning](https://heartbeat.fritz.ai/a-2019-guide-to-speech-synthesis-with-deep-learning-630afcafb9dd)
+- [DeepPrivacy](https://arxiv.org/abs/1909.04538): A Generative Adversarial Network for Face Anonymization
 
 ### Computer Vision
 
@@ -666,6 +688,7 @@
 - [The Boombox Incident](https://matthewbilyeu.com/blog/2019-03-21/the-boombox-incident)
 - [A Mathematical Model Unlocks the Secrets of Vision](https://www.quantamagazine.org/a-mathematical-model-unlocks-the-secrets-of-vision-20190821/)
 - [Predicting 3D Human Dynamics from Video](https://deepai.org/publication/predicting-3d-human-dynamics-from-video)
+- [opencv-yolo3](https://github.com/hussanhijazi/opencv-yolov3)
 
 #### Python DL
 
@@ -716,6 +739,7 @@
 - [A Programmer's Introduction to Mathematics](https://pimbook.org/)
 - [Calculus For The People](https://www.geogebra.org/m/x39ys4d7) - Season 1
 - [New Proof Settles How to Approximate Numbers Like Pi](https://www.quantamagazine.org/new-proof-settles-how-to-approximate-numbers-like-pi-20190814/)
+- [Mesh Spreadsheet](http://mesh-spreadsheet.com/): A free, [portable spreadsheet program](https://github.com/chrispsn/mesh).
 
 ### Theorems
 
@@ -735,6 +759,7 @@
 - [Euclidean Spaces](https://meurer.xyz/post/2018-11-18-euclidean-spaces/).
 - [Linear Algebra and Learning from Data](https://math.mit.edu/~gs/learningfromdata/)
 - [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/): A Free text for a standard US undergraduate course. all on [gitlab](https://gitlab.com/jim.hefferon/linear-algebra)
+- [algebralinear](https://github.com/melissawm/algebralinear)
 
 ### Matrices
 
@@ -781,6 +806,10 @@
 - [Logistic Regression from Bayes' Theorem](https://www.countbayesie.com/blog/2019/6/12/logistic-regression-from-bayes-theorem)
 - [Latent Dirichlet Allocation coupled with Bayesian Time Series analyses](https://github.com/weecology/LDATS). [overview](https://weecology.github.io/LDATS/)
 - [Introduction to Bayesian Filter](https://leimao.github.io/article/Introduction-to-Bayesian-Filter/)
+- [Gaussian Processes, not quite for dummies](https://yugeten.github.io/posts/2019/09/GP/)
+- [It’s not just p=0.048 vs. p=0.052](https://statmodeling.stat.columbia.edu/2019/09/06/__trashed-2/)
+- [ggeffects](https://github.com/strengejacke/ggeffects): Tidy Data Frames of Marginal Effects for ggplot2.
+- [tradestatistics](https://github.com/ropensci/tradestatistics): R package to access Open Trade Statistics API
 
 ### Linear Regression
 
@@ -835,6 +864,12 @@
 - [99 ways to extend the Jupyter ecosystem](https://blog.jupyter.org/99-ways-to-extend-the-jupyter-ecosystem-11e5dab7c54?gi=697ac48d879c)
 - [The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
 - [So, how come we can use TensorFlow from R?](https://blogs.rstudio.com/tensorflow/posts/2019-08-29-using-tf-from-r/)
+- [sjmisc](https://strengejacke.github.io/sjmisc/) - Data and Variable Transformation Functions
+- [Dataframe Visualization with Pandas Plot](https://kanoki.org/2019/09/16/dataframe-visualization-with-pandas-plot/)
+- [details](https://github.com/yonicd/details): R Package to Create Details HTML Tag for Markdown and Package Documentation
+- [A Graphical Introduction to tidyr's pivot_*()](https://speakerdeck.com/yutannihilation/a-graphical-introduction-to-tidyrs-pivot-star) by Hiroaki Yuatani.
+- [pivoting](https://tidyr.tidyverse.org/articles/pivot.html)
+- [RVerbalExpressions](https://github.com/VerbalExpressions/RVerbalExpressions): 👷💬 Create regular expressions easilt. [RVerbalExpressions](https://rverbalexpressions.netlify.com/index.html): The goal of RVerbalExpressions is to make it easier to construct regular expressions using grammar and functionality inspired by VerbalExpressions.
   
 #### Datasets
 
@@ -846,6 +881,7 @@
 - [CSV 1.1](https://csv11.github.io/) : Comma Separated (Named) Values, Version: 1.1
 - (pt-br) [ATLAS DO ESTADO BRASILEIRO](http://www.ipea.gov.br/atlasestado/): é uma plataforma de dados integrados sobre a estrutura organizacional e de pessoal do Estado brasileiro, em seus três níveis da administração – federal, estadual e municipal.
 - [Guesstimate](https://www.getguesstimate.com): is a spreadsheet tool that helps you model and forecast uncertain quantities.
+- [climatedata](https://github.com/MirzaCengic/climatedata): Repository to hold function for retrieving climate data (currently only CHELSA clim). Migrate later to new repo.
 
 #### Luna
 
@@ -970,6 +1006,7 @@
 - [Math and Analogies](https://betterexplained.com/articles/math-and-analogies/)
 - [Heat](https://github.com/susam/heart): My heart for Cutie Pai
 - [alcFreeliner](https://github.com/maxdee/alc_freeliner): [live geometric animation tool powerhouse](https://freeliner.xyz)
+- [hard-comp-fi-fiction-list](https://fiftysevendegreesofrad.github.io/hard-comp-fi-fiction-list/): This resource lists a bunch of stories which in some way, explore the beautiful ideas behind computer science, software engineering and even plain old programming.
 
 ### Music
 
@@ -1050,6 +1087,8 @@
 - [Virus Explorer](https://www.hhmi.org/biointeractive/virus-explorer)
 - [Open sourcing bioinstruments](https://liorpachter.wordpress.com/2019/01/18/open-sourcing-bioinstruments/)
 - [orca](https://github.com/bcgsc/orca): 🐳 Genomics Research Container Architecture
+- [Scientists create first billion-atom biomolecular simulation](https://www.lanl.gov/discover/news-release-archive/2019/April/0422-atom-biomolecular-simulation.php)
+- [MNE-Python](https://github.com/mne-tools/mne-python): Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python
 
 ## Geography
 
@@ -1062,12 +1101,25 @@
 - [XrViz](https://levelup.gitconnected.com/xrviz-an-interactive-visualisation-interface-for-xarrays-9ecf8e325aa9?gi=3875f15a2a7): An interactive visualisation interface for Xarrays
 - [A visual map of sunlight on earth.](https://sunlight.live/)
 - Communicating Volcanoes: [Resources for Media](http://inthecompanyofvolcanoes.blogspot.com/2018/02/communicating-volcanoes-resources-for.html)
+- [Repositório de dados](https://github.com/mauriciovancine/disciplina-geoprocessamento): Introdução ao geoprocessamento para Etnobiologia e Conservação da Biodiversidade
 
 ## Humanities
 
 - [Civic honesty around the globe](https://science.sciencemag.org/content/365/6448/70): Rationalist approaches to economics assume that people value their own interests over the interests of strangers. Cohn et al. wanted to examine the trade-off between material self-interest and more altruistic behaviors (see the Perspective by Shalvi).
 - [Words that do Handstands](http://hardmath123.github.io/ambigrams.html)
-- [Trouble on the Horizon: Forecasting the Derailment of Online Conversations as they Develop](https://arxiv.org/abs/1909.01362)
+- [Trouble on the Horizon](https://arxiv.org/abs/1909.01362): Forecasting the Derailment of Online Conversations as they Develop
+- [AD.Watch](https://ad.watch/): challenges the closedness of access to political advertising information. The project compiles datasets of political ads on Facebook and Instagram and creates interfaces for their use, with a view to opening up the possibilities for its study. With ad.watch, you can explore both country-specific contextual issues and political strategies, as well as broader questions about the power of persuasion that the use of personal data facilitates.
+- [DeepDiveDuck](https://deepdiveduck.com/): Monitor Website Changes for Competitor Intelligence.
+
+### Economy
+
+- [Money as a System of Control](https://thedistillery.pub/money-as-a-system-of-control-andreas-m-antonopoulos-video-transcript) – Andreas M. Antonopoulos (Video & Transcript)
+- [Bedrock](https://bedrockdb.com/) is a simple, modular, WAN-replicated, Blockchain-based data foundation for global-scale applications.
+
+### Psychology
+
+- [Suicide Data Reveal New Intervention Spots, Such as Motels and Animal Shelters](https://www.scientificamerican.com/article/suicide-data-reveal-new-intervention-spots-such-as-motels-and-animal-shelters/)
+- [Spinner](https://www.thespinner.net/): a basic-looking website that sells a unique, online-manipulation service.
 
 ## On-line Services
 
@@ -1106,6 +1158,7 @@
 - [bgfx](https://github.com/bkaradzic/bgfx):Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools): The best design tools for everything.
 - [Intel® Processor Graphics Gen11 Architecture](https://software.intel.com/sites/default/files/managed/db/88/The-Architecture-of-Intel-Processor-Graphics-Gen11_R1new.pdf)
+- [SVG Is Turing Complete](https://github.com/tom-p-reichel/svg-is-turing-complete)
 
 ### CG Articles
 
@@ -1142,6 +1195,11 @@
 - [Open Source Game Clones](https://osgameclones.com/)
 - [quinesanek](https://github.com/taylorconor/quinesnake): A quine that plays snake over its own source!
 - [gb-studio](https://github.com/chrismaltby/gb-studio): A free and easy to use retro adventure game creator for your favourite [handheld video game system](https://www.gbstudio.dev)
+- Embark Studios:
+  - [Embark Rust Ecosystem](https://github.com/EmbarkStudios/rust-ecosystem): Rust wants & tracking for Embark 🦀
+  - [physx](https://github.com/EmbarkStudios/physx-rs): 🎳 Rust binding and wrapper over NVIDIA PhysX 🦀
+  - [opensource-template](https://github.com/EmbarkStudios/opensource-template): 🌻 Template for creating new repositories.
+  - [glam](https://github.com/EmbarkStudios/glam-rs): A simple and fast 3D math library for games and graphics
   
 ## Writing Articles
 
@@ -1199,6 +1257,7 @@
 - [eDEX-UI](https://github.com/GitSquared/edex-ui): A science fiction desktop running everywhere. Awesome.
 - [Users hate change](https://gist.github.com/sleepyfox/a4d311ffcdc4fd908ec97d1c245e57dc)
 - [4 Rules for Intuitive UX](https://learnui.design/blog/4-rules-intuitive-ux.html)
+- [Visability93](https://www.visability93.com/):  began as a design project to raise awareness for invisible disabilities. We created icons for some of the most common as a starting point, which can be downloaded as a font below.
 
 ### web
 
@@ -1322,6 +1381,7 @@
 - [Bagaar](https://www.bagaar.be/who/careers/spontaneous-application): Spontaneous application
 - [University of Nottingham](https://www.nottingham.ac.uk/jobs/currentvacancies/index.aspx)
 - [buildzoom](https://jobs.lever.co/buildzoom)
+- [No CS OK](https://nocsok.com/): Developer jobs without a degree
   
 ## General Fun
 
@@ -1351,7 +1411,8 @@
 - [holpy](https://arxiv.org/abs/1905.05970): Interactive Theorem Proving in Python
 - [On the Impact of Programming Languages on Code Quality](https://arxiv.org/abs/1901.10220)
 - [Ara](https://arxiv.org/abs/1906.00478): A 1 GHz+ Scalable and Energy-Efficient RISC-V Vector Processor with Multi-Precision Floating Point Support in 22 nm FD-SOI
-- [Regional and correlative sweat analysis using high-throughput microfluidic sensing patches toward decoding sweat](https://advances.sciencemag.org/content/5/8/eaaw9906?utm_campaign=SciMag&utm_source=JHubbard&utm_medium=Twitter)
+- [Regional and correlative sweat analysis using high-throughput microfluidic sensing patches toward decoding sweat](https://advances.sciencemag.org/content/5/8/eaaw9906)
+- [DeepPrivacy: A Generative Adversarial Network for Face Anonymization](https://arxiv.org/abs/1909.04538)
 
 ## News
 
@@ -1389,6 +1450,15 @@
 - [Are We All Wrong About Black Holes?](https://www.quantamagazine.org/craig-callender-are-we-all-wrong-about-black-holes-20190905/)
 - [What Netflix’s ‘Great Hack’ Gets Wrong About Cambridge Analytica](https://www.thenation.com/article/cambridge-analytica-facebook-hack/)
 - [Statisticians want to abandon science’s standard measure of ‘significance’](https://www.sciencenews.org/article/statisticians-standard-measure-significance-p-values)
+- [Physicists Finally Nail the Proton’s Size, and Hope Dies](https://www.quantamagazine.org/physicists-finally-nail-the-protons-size-and-hope-dies-20190911/)
+- [How Social Media Shapes Our Identity](https://www.newyorker.com/books/under-review/how-social-media-shapes-our-identity)
+- [Altruism Still Fuels the Web. Businesses Love to Exploit It](https://www.wired.com/story/altruism-open-source-fuels-web-businesses-love-to-exploit-it/)
+- [What it was like to fly the baddest airplane the world has ever known](https://arstechnica.com/science/2019/09/what-it-was-like-to-fly-the-baddest-airplane-the-world-has-ever-known/)
+- [Where Theory Meets Chalk, Dust Flies](https://www.nytimes.com/2019/09/23/science/mathematicians-blackboard-photographs-jessica-wynne.html): A photo survey of the blackboards of mathematicians.
+- [Exotic Physics Phenomenon Involving Time Reversal Observed for First Time](https://scitechdaily.com/exotic-physics-phenomenon-involving-time-reversal-observed-for-first-time/)
+- [The Highest Suicide Rate in the World](https://www.nybooks.com/articles/2019/10/10/inuit-highest-suicide-rate/)
+- (pt-br) [Irmãos Koch, os donos do mundo](https://brasil.elpais.com/brasil/2019/09/17/cultura/1568729920_158582.html)
+- [A Big Question About Prime Numbers Gets a Partial Answer](https://www.wired.com/story/a-big-question-about-prime-numbers-gets-a-partial-answer/)
 
 ### 2018
 

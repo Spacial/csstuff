@@ -42,6 +42,7 @@
 - [Michael Orlitzky { Makeing LaTeX }](http://michael.orlitzky.com/articles/makeing_latex.xhtml): This article is about using GNU Make to build LaTeX documents. If you don't know what those things are, forget I even said anything.
 - [Convert images to LaTeX](https://mathpix.com/)
 - [LuaTex](http://www.luatex.org/): LuaTeX is an extended version of pdfTeX using Lua as an embedded scripting language.
+- (pt-br) [Palestra "LaTeX para não-cientistas"](https://github.com/melissawm/latexnaocientistas) by melissawn
 
 ## Templates
 
@@ -76,3 +77,7 @@
 ## Continuous Integration
 
 - [Compile LaTex documents with Jenkins and publish pdf files automatically](https://seppa-lassila.fi/posts/compile-latex-with-jenkins/)
+
+## Tools
+
+- [Quick lookups for LaTeX code](https://latexsearch.arnavbansal.dev/) ([repo](https://github.com/lunaroyster/LaTeX-search))
