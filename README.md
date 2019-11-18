@@ -11,7 +11,8 @@
 - [A toolkit for data transparency takes shape](https://www.nature.com/articles/d41586-018-05990-5) and [Developing a modern data workflow for living data](https://www.biorxiv.org/content/early/2018/06/12/344804)
 - [PortalData](https://github.com/weecology/PortalData) (Official Repo of the Portal Project Data) and [livedat](https://github.com/weecology/livedat) (Template for living data workflow ).
 - [Academic Torrents](http://academictorrents.com/): We've designed a distributed system for sharing enormous datasets - for researchers, by researchers. The result is a scalable, secure, and fault-tolerant repository for data, with blazing fast download speeds.
-- [divulgacaocientifica](https://github.com/DivulgacaoCientifica/divulgacaocientifica): Divulgação Científica - Essa é apenas uma lista PT-BR, o conteúdo dos podcasts/canais é de inteira responsabilidade dos autores.
+- (pt-br) [divulgacaocientifica](https://github.com/DivulgacaoCientifica/divulgacaocientifica): Divulgação Científica - Essa é apenas uma lista PT-BR, o conteúdo dos podcasts/canais é de inteira responsabilidade dos autores.
+- [It's not just you: science papers are getting harder to read](https://www.nature.com/news/it-s-not-just-you-science-papers-are-getting-harder-to-read-1.21751). Papers from 2015 are a tougher read than some from the nineteenth century — and the problem isn't just about words, says Philip Ball.
 
 ---
 
@@ -69,6 +70,7 @@
 - [￼Sequel Pro](https://www.sequelpro.com/): is a fast, easy-to-use Mac database management application for working with MySQL databases.
 - [Vertically Scaling PostgreSQL](https://pgdash.io/blog/scaling-postgres.html)
 - [eva](https://github.com/Workiva/eva/): A distributed database-system implementing an entity-attribute-value data-model that is time-aware, accumulative, and atomically consistent.
+- Introducing SLOG:[Cheating the low-latency vs. strict serializability tradeoff](http://dbmsmusings.blogspot.com/2019/10/introducing-slog-cheating-low-latency.html)
 
 ### Networks
 
@@ -196,6 +198,8 @@
 - [Comparison of C/POSIX standard library implementations for Linux](https://www.etalabs.net/compare_libcs.html)
 - [Microsoft's C++ Standard Library](https://github.com/microsoft/STL): MSVC's implementation of the C++ Standard Library.
 - [Efficient string copying and concatenation in C](https://developers.redhat.com/blog/2019/08/12/efficient-string-copying-and-concatenation-in-c/)
+- [Bartek's coding blog](https://www.bfilipek.com/2019/10/cppecosystem.html#sublime-text-atom-and-visual-studio-code): to write a professional C++ application, you not only need a basic text editor and a compiler. You require some more tooling. In this blog post, you’ll see a broad list of tools that make C++ programming possible: compilers, IDEs, debuggers and other.
+- [C++ Creator Bjarne Stroustrup Answers Our Top Five C++ Questions](https://stackoverflow.blog/2019/10/11/c-creator-bjarne-stroustrup-answers-our-top-five-c-questions/)
 
 #### Makefile
 
@@ -268,6 +272,12 @@
 - [python-sliders](https://github.com/hackingmath/python-sliders): Sliders for the Python mode of Processing
 - [Python Verbal Expressions](https://github.com/VerbalExpressions/PythonVerbalExpressions): Python regular expressions made easy
 - [Python is not context free](http://trevorjim.com/python-is-not-context-free/) [2012]
+- [pythonic-news](https://github.com/sebst/pythonic-news/): A Hacker News lookalike written in Python/Django. [news.python.sc](https://news.python.sc).
+- [Understanding time complexity with Python examples](https://towardsdatascience.com/understanding-time-complexity-with-python-examples-2bda6e8158a7)
+- [Conference badge script](https://github.com/timmboettger/imc-badges)
+- [adt-extension](https://github.com/alvarofpp/python-adt-extension): Python abstract data structure (ADT) extension.
+- Emacs: [The Best Python Editor?](https://realpython.com/emacs-the-best-python-editor/)
+- [reloading](https://github.com/julvo/reloading): Change Python code while it's running using a reloading loop
 
 ##### Jupyter
 
@@ -321,6 +331,7 @@
   - [nim](https://nim-lang.org/): Efficient and expressive programming. [github](https://github.com/nim-lang/nim)
 - Perl:
   - Larry Wall's [Very Own](http://www.wall.org/~larry/) Home Page
+  - [Perl is dying quick](https://thehftguy.com/2019/10/07/perl-is-dying-quick-could-be-extinct-by-2023/). Could be extinct by 2023.
 - PHP:
   - [A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem](https://github.com/chiraggude/awesome-laravel)
   - [Setup VS Code for Efficient PHP development](https://blog.theodo.com/2019/07/vscode-php-development/)
@@ -349,6 +360,7 @@
 - [kompare](https://github.com/KDE/kompare): Graphical File Differences Tool
 - [Monorepos](https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b): Please don’t!
 - [Don't ask if a monorepo is good for you – ask if you're good enough for a monorepo](https://yosefk.com/blog/dont-ask-if-a-monorepo-is-good-for-you-ask-if-youre-good-enough-for-a-monorepo.html)
+- [Monorepo or Multirepo? Role-Based Repositories](https://blog.7mind.io/role-based-repositories.html)
 - **GIT**:
   - [Pro Git book](https://git-scm.com/book/en/v2), written by Scott Chacon and Ben Straub ([github](https://github.com/progit/progit2) repo)
   - [git-sizer](https://github.com/github/git-sizer/): Compute various size metrics for a Git repository, flagging those that might cause problems ( [article](https://blog.github.com/2018-03-05-measuring-the-many-sizes-of-a-git-repository/))
@@ -401,9 +413,15 @@
     - [Visualizing branch topology in git](https://stackoverflow.com/questions/1838873/visualizing-branch-topology-in-git)
   - [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else): Blame someone else for your bad code.
   - [High-level Problems with Git and How to Fix Them](https://gregoryszorc.com/blog/2017/12/11/high-level-problems-with-git-and-how-to-fix-them/)
+  - [My favourite Git commit](https://fatbusinessman.com/2019/my-favourite-git-commit)
 - **Mercurial**:
   - [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos.
-
+- [Welcome to Pull Request Roulette](http://www.pullrequestroulette.com/).
+- Starting Pull Requests:
+  - [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners)
+  - [Algorithmic-Pseudocode](https://github.com/Just-A-Visitor/Algorithmic-Pseudocode/issues)
+  - [awesome-social-projects](https://github.com/Jciel/awesome-social-projects)
+  
 #### Software Engenieering
 
 - [UML - Class Diagram](https://www.tutorialspoint.com/uml/uml_class_diagram.htm)
@@ -493,6 +511,7 @@
 - [moustique](https://github.com/matt-42/moustique): C++14 high performance non-blocking network IO (based on epoll + boost.context)
 - [LD_PRELOAD](https://blog.jessfraz.com/post/ld_preload/): The Hero We Need and Deserve.
 - [Do It Yourself (OpenJDK) Garbage Collector](https://shipilev.net/jvm/diy-gc/)
+- [Let's Write an LLVM Specializer for Python!](http://dev.stephendiehl.com/numpile/):
 
 ### API
 
@@ -523,6 +542,7 @@
 - [SPADE](https://github.com/NVlabs/SPADE): Semantic Image Synthesis with Spatially-Adaptive Normalization - [paper](https://nvlabs.github.io/SPADE/)
 - [Introducing Google Research Football](https://ai.googleblog.com/2019/06/introducing-google-research-football.html): A Novel Reinforcement Learning Environment
 - [Talking AI, Art, and Entangled Realities with HeK Basel’s Director Sabine Himmelsbach](https://medium.com/digital-art-weekly-by-danae-hi/talking-ai-art-and-exhibition-entangled-realities-with-hek-basels-director-sabine-himmelsbach-654b7077c0a0)
+- [Many Experts Say We Shouldn’t Worry About Superintelligent AI. They’re Wrong](https://spectrum.ieee.org/computing/software/many-experts-say-we-shouldnt-worry-about-superintelligent-ai-theyre-wrong)
 
 ### Genetic Algorithms
 
@@ -620,6 +640,7 @@
   - [autodrome](https://github.com/vojtamolda/autodrome/): Framework and OpenAI Gym Environment for Autonomous Vehicle Development.
   - [AirSim](https://github.com/microsoft/AirSim): Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research.
 - [ADBlock Radio](https://www.adblockradio.com/en/): We improve your radio experience. [adblockradio](https://github.com/adblockradio/adblockradio) - An adblocker for live radio streams and podcasts. Machine learning meets Shazam.
+- [150 successful machine learning models](https://blog.acolyer.org/2019/10/07/150-successful-machine-learning-models/): 6 lessons learned at Booking.com
 
 ### Machine Learning Articles
 
@@ -660,6 +681,7 @@
 - [Face Aging using Conditional GANs with Keras implementation](https://iq.opengenus.org/face-aging-cgan-keras/)
 - [A 2019 Guide to Speech Synthesis with Deep Learning](https://heartbeat.fritz.ai/a-2019-guide-to-speech-synthesis-with-deep-learning-630afcafb9dd)
 - [DeepPrivacy](https://arxiv.org/abs/1909.04538): A Generative Adversarial Network for Face Anonymization
+- [Image Deduplicator](https://idealo.github.io/imagededup/): [imagededup](https://github.com/idealo/imagededup) is a python package that simplifies the task of finding exact and near duplicates in an image collection.
 
 ### Computer Vision
 
@@ -703,6 +725,7 @@
 - [TensorFlow](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
 - [Turn TensorFlow functions into mathematical notations and diagrams](http://blog.varunajayasiri.com/ml/tf_for_beginners.html)
 - [Theano](https://github.com/Theano/Theano) - A library for fast numerical computation.
+- [Approximate Models](https://github.com/LaRiffle/approximate-models): Python Library for Function Approximation in Machine Learning.
 
 ## Math
 
@@ -740,6 +763,7 @@
 - [Calculus For The People](https://www.geogebra.org/m/x39ys4d7) - Season 1
 - [New Proof Settles How to Approximate Numbers Like Pi](https://www.quantamagazine.org/new-proof-settles-how-to-approximate-numbers-like-pi-20190814/)
 - [Mesh Spreadsheet](http://mesh-spreadsheet.com/): A free, [portable spreadsheet program](https://github.com/chrispsn/mesh).
+- [Metamath Zero: The Cartesian Theorem Prover](https://arxiv.org/abs/1910.10703)
 
 ### Theorems
 
@@ -870,6 +894,11 @@
 - [A Graphical Introduction to tidyr's pivot_*()](https://speakerdeck.com/yutannihilation/a-graphical-introduction-to-tidyrs-pivot-star) by Hiroaki Yuatani.
 - [pivoting](https://tidyr.tidyverse.org/articles/pivot.html)
 - [RVerbalExpressions](https://github.com/VerbalExpressions/RVerbalExpressions): 👷💬 Create regular expressions easilt. [RVerbalExpressions](https://rverbalexpressions.netlify.com/index.html): The goal of RVerbalExpressions is to make it easier to construct regular expressions using grammar and functionality inspired by VerbalExpressions.
+- [insight](https://github.com/easystats/insight):  Easy access to model information for various model objects.
+- [Clustering in R](https://blog.dominodatalab.com/clustering-in-r/): This article covers clustering including K-means and hierarchical clustering.
+- [R is a joy if you treat it like awk](http://dwrodri.blog/posts/oct-7-Rscript-snippets.html)
+- [performance](https://easystats.github.io/performance/)
+- [easystats](https://github.com/easystats/easystats): milky_way The easyverse.
   
 #### Datasets
 
@@ -925,6 +954,10 @@
 - [NYT-style urban heat island maps](https://www.katiejolly.io/blog/2019-08-28/nyt-urban-heat)
 - [](https://www.nytimes.com/interactive/2019/08/29/opinion/hurricane-dorian-forecast-map.html)
 - [Summer Olympics](https://gerardofurtado.com/mt/mt.html): Medal Tally
+- How to create data-driven presentations with jupyter notebooks, reveal.js, host on github, and show it to the world: [Part I — make a basic slide deck](https://towardsdatascience.com/how-to-create-data-driven-presentations-with-jupyter-notebooks-reveal-js-e7a42a1fb7d7)
+- [VR-Viz](https://www.informationisbeautifulawards.com/showcase/3884-vr-viz-visualization-system-for-virtual-reality): [Visualization System For Virtual Reality](https://vr-viz.netlify.com/?selectedKind=VR-Viz&selectedStory=Introduction&full=0&addons=1&stories=1&panelRight=1&addonPanel=kadira%2Fjsx%2Fpanel), [github](https://github.com/mustafasaifee42/vr-viz)
+- [Microsoft open sources SandDance, a visual data exploration tool](https://cloudblogs.microsoft.com/opensource/2019/10/10/microsoft-open-sources-sanddance-visual-data-exploration-tool/). [site](https://sanddance.js.org/), [repo](https://github.com/Microsoft/SandDance)
+- [Visualizing personal notes on the history of Western Philosophy](http://www.thefunctionalart.com/2019/10/visualizing-personal-notes-on-history.html)
 
 ### Calculus
 
@@ -943,6 +976,7 @@
 
 - [PHPSimplex](http://www.phpsimplex.com/simplex/)
 - [simplex-method](https://github.com/khalibartan/simplex-method): A python implementation for simplex method
+- My 2019 Mathematics A To Z: [Linear Programming](https://nebusresearch.wordpress.com/2019/10/10/my-2019-mathematics-a-to-z-linear-programming/)
 
 ### Discretionary Math
 
@@ -1029,6 +1063,7 @@
 - [SOFA](https://www.sofa-framework.org/): is an efficient framework dedicated to research, prototyping and development of physics-based simulations. [github](https://github.com/sofa-framework/sofa/).
 - [List of freely available physics books](https://physics.stackexchange.com/questions/6157/list-of-freely-available-physics-books)
 - [The Forgotten Solution: Superdeterminism](https://backreaction.blogspot.com/2019/07/the-forgotten-solution-superdeterminism.html)
+- [The crisis in physics is not only about physics](https://backreaction.blogspot.com/2019/10/the-crisis-in-physics-is-not-only-about.html)
 
 ### Astronomy
 
@@ -1054,6 +1089,7 @@
 ### Astro Articles
 
 - [HST imaging of four gravitationally lensed quasars](https://arxiv.org/pdf/1807.03553.pdf)
+- [Dark matter nightmare: What if we are just using the wrong equations?](http://backreaction.blogspot.com/2019/10/dark-matter-nightmare-what-if-we-just.html)
 
 ### NASA
 
@@ -1067,6 +1103,7 @@
 - [Where is Parker Solar Probe?](http://parkersolarprobe.jhuapl.edu/The-Mission/index.php#Where-Is-PSP)
 - [Open MCT](https://nasa.github.io/openmct/): is a next-generation mission control framework for visualization of data on desktop and mobile devices - [github](https://github.com/nasa/openmct)
 - [Sawppy](https://github.com/Roger-random/Sawppy_Rover): is a motorized model of Mars rovers Curiosity and Mars 2020. It faithfully reproduces the Rocker-Bogie suspension kinematics of real rovers and is intended to be a hardware platform for future software projects in autonomous operation. Go forth and boldly explore the back yard, Sawppy!
+- "[Uptime 15,364 days - The Computers of Voyager](https://www.youtube.com/watch?v=H62hZJVqs2o)" by Aaron Cummings
 
 #### SpaceX
 
@@ -1159,6 +1196,7 @@
 - [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools): The best design tools for everything.
 - [Intel® Processor Graphics Gen11 Architecture](https://software.intel.com/sites/default/files/managed/db/88/The-Architecture-of-Intel-Processor-Graphics-Gen11_R1new.pdf)
 - [SVG Is Turing Complete](https://github.com/tom-p-reichel/svg-is-turing-complete)
+- [glChAoS.P](https://www.michelemorrone.eu/glchaosp/)(opengl Chaotic Attractor of Slight (dot) Particles): open source - multiplatform - 3D real time strange attractors scout... and hypercomplex fractals. [github](https://github.com/BrutPitt/glChAoS.P)
 
 ### CG Articles
 
@@ -1200,7 +1238,9 @@
   - [physx](https://github.com/EmbarkStudios/physx-rs): 🎳 Rust binding and wrapper over NVIDIA PhysX 🦀
   - [opensource-template](https://github.com/EmbarkStudios/opensource-template): 🌻 Template for creating new repositories.
   - [glam](https://github.com/EmbarkStudios/glam-rs): A simple and fast 3D math library for games and graphics
-  
+- [ScummVM](https://www.scummvm.org): is a program which allows you to run certain classic graphical point-and-click adventure games, provided you already have their data files.
+- [DevShop](https://secretgeek.github.io/devShop/): minimal kanban game. [DevShop!](https://github.com/secretGeek/devShop)(github), I had this idea 10 years ago for a game called DevShop and decided to implement a minimal non-viable product of it, in vanilla js, with the no-framework.
+
 ## Writing Articles
 
 - [Renders papers from Arxiv as responsive web pages so you don't have to squint at a PDF.](https://github.com/arxiv-vanity/arxiv-vanity)
@@ -1238,6 +1278,7 @@
 - [Top Tips for a Successful Transition to a Postdoc Role](https://www.ptglab.com/news/blog/top-tips-for-a-successful-transition-to-a-postdoc-role/)
 - [CRediT](https://www.casrai.org/credit.html): CRediT (Contributor Roles Taxonomy) is high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors to scientific scholarly output. The roles describe each contributor’s specific contribution to the scholarly output.
 - [How to learn things at 1000x the speed](http://pranay.gp/how-to-learn-things-at-1000x-the-speed)
+- The True Cost of a PhD: [Giving Up a Family for Academia](https://www.jamesgmartin.center/2019/10/the-true-cost-of-a-phd-giving-up-a-family-for-academia/)
 
 ### Writing
 
@@ -1258,6 +1299,7 @@
 - [Users hate change](https://gist.github.com/sleepyfox/a4d311ffcdc4fd908ec97d1c245e57dc)
 - [4 Rules for Intuitive UX](https://learnui.design/blog/4-rules-intuitive-ux.html)
 - [Visability93](https://www.visability93.com/):  began as a design project to raise awareness for invisible disabilities. We created icons for some of the most common as a starting point, which can be downloaded as a font below.
+- [The Myths of Color Contrast Accessibility](https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/)
 
 ### web
 
@@ -1382,6 +1424,7 @@
 - [University of Nottingham](https://www.nottingham.ac.uk/jobs/currentvacancies/index.aspx)
 - [buildzoom](https://jobs.lever.co/buildzoom)
 - [No CS OK](https://nocsok.com/): Developer jobs without a degree
+- [Interviews with open source maintainers and developers](https://sourcesort.com/)
   
 ## General Fun
 
@@ -1400,6 +1443,7 @@
 - [Chess Steganography](https://incoherency.co.uk/chess-steg/)
 - [awesome-scifi](https://github.com/sindresorhus/awesome-scifi): I asked on Twitter for recommendations as I want to get into reading Sci-Fi novels. The below is the result. Thanks everyone for recommending your favorites! :)
 - (pt-br) [Divulgação Científica](https://docs.google.com/spreadsheets/d/1qXiDGiwXEXVvPMf_Kf-t3qeUnthFGz4GLL3uoCmRQek/edit#gid=105539009), on [github](https://github.com/DivulgacaoCientifica/divulgacaocientifica).
+- [Sourcerer](https://sourcerer.io/) is a visual profile for SWEs that analyzes and derives your abilities, preferences, and habits from your commits and source code.
 
 ## Articles
 
@@ -1459,6 +1503,9 @@
 - [The Highest Suicide Rate in the World](https://www.nybooks.com/articles/2019/10/10/inuit-highest-suicide-rate/)
 - (pt-br) [Irmãos Koch, os donos do mundo](https://brasil.elpais.com/brasil/2019/09/17/cultura/1568729920_158582.html)
 - [A Big Question About Prime Numbers Gets a Partial Answer](https://www.wired.com/story/a-big-question-about-prime-numbers-gets-a-partial-answer/)
+- [A New Theory of Obesity](https://www.scientificamerican.com/article/a-new-theory-of-obesity/)
+- [Don’t Outsource Your Thinking](https://medium.com/@blakeross/don-t-outsource-your-thinking-ad825a9b4653)
+- [What Happens to Your Body on No Sleep](https://www.outsideonline.com/2292806/your-body-no-sleep)
 
 ### 2018
 
