@@ -13,6 +13,11 @@
 - [Academic Torrents](http://academictorrents.com/): We've designed a distributed system for sharing enormous datasets - for researchers, by researchers. The result is a scalable, secure, and fault-tolerant repository for data, with blazing fast download speeds.
 - (pt-br) [divulgacaocientifica](https://github.com/DivulgacaoCientifica/divulgacaocientifica): Divulgação Científica - Essa é apenas uma lista PT-BR, o conteúdo dos podcasts/canais é de inteira responsabilidade dos autores.
 - [It's not just you: science papers are getting harder to read](https://www.nature.com/news/it-s-not-just-you-science-papers-are-getting-harder-to-read-1.21751). Papers from 2015 are a tougher read than some from the nineteenth century — and the problem isn't just about words, says Philip Ball.
+- [Did I Plagiarize](https://twitter.com/marcelo_meds/status/1199000012073684992/photo/1) (pt-br)
+- [The Plagiarism Spectrum](https://www.turnitin.com/static/plagiarism-spectrum/)
+- [LibGen](https://libgen.is/)
+  - [Mission to seed Library Genesis: donations pour in to preserve and distribute the entire 30 terabyte collection](https://www.reddit.com/r/Scholar/comments/e4yo76/meta_mission_to_seed_library_genesis_donations/)
+  - [Library Genesis Seeding Project](https://docs.google.com/spreadsheets/d/1hqT7dVe8u09eatT93V2xvth-fUfNDxjE9SGT-KjLCj0/edit#gid=2006516443)
 
 ---
 
@@ -71,6 +76,7 @@
 - [Vertically Scaling PostgreSQL](https://pgdash.io/blog/scaling-postgres.html)
 - [eva](https://github.com/Workiva/eva/): A distributed database-system implementing an entity-attribute-value data-model that is time-aware, accumulative, and atomically consistent.
 - Introducing SLOG:[Cheating the low-latency vs. strict serializability tradeoff](http://dbmsmusings.blogspot.com/2019/10/introducing-slog-cheating-low-latency.html)
+- [Why databases use ordered indexes but programming uses hash tables](https://www.evanjones.ca/ordered-vs-unordered-indexes.html)
 
 ### Networks
 
@@ -127,6 +133,7 @@
 - [Lock-free multithreading with atomic operations](https://www.internalpointers.com/post/lock-free-multithreading-atomic-operations)
 - [How to Build Good Software](https://www.csc.gov.sg/articles/how-to-build-good-software)
 - [Languages](https://codelani.com/lists/languages.html): Here is the current list of the 3,503 computer languages I am actively tracking. I focus on tracking general purpose high-level programming languages, but also track low-level languages and some notable markup languages, protocols, file formats, libraries, and applications.
+- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): Some useful websites for programmers.
 
 #### IDEs
 
@@ -200,6 +207,9 @@
 - [Efficient string copying and concatenation in C](https://developers.redhat.com/blog/2019/08/12/efficient-string-copying-and-concatenation-in-c/)
 - [Bartek's coding blog](https://www.bfilipek.com/2019/10/cppecosystem.html#sublime-text-atom-and-visual-studio-code): to write a professional C++ application, you not only need a basic text editor and a compiler. You require some more tooling. In this blog post, you’ll see a broad list of tools that make C++ programming possible: compilers, IDEs, debuggers and other.
 - [C++ Creator Bjarne Stroustrup Answers Our Top Five C++ Questions](https://stackoverflow.blog/2019/10/11/c-creator-bjarne-stroustrup-answers-our-top-five-c-questions/)
+- [Intel SPMD Program Compiler](https://ispc.github.io/): ispc is a compiler for a variant of the C programming language, with extensions for "single program, multiple data" (SPMD) programming. Under the SPMD model, the programmer writes a program that generally appears to be a regular serial program, though the execution model is actually that a number of program instances execute in parallel on the hardware. [github](https://github.com/ispc/ispc/)
+- [cnp](https://github.com/aicodix/cnp): Check Node Processor in VHDL for LDPC decoding.
+- [Clang-format tanks performance](https://travisdowns.github.io/blog/2019/11/19/toupper.html), [Benchmark supporting baseless libel against clang-format](https://github.com/travisdowns/toupper-bench)
 
 #### Makefile
 
@@ -278,6 +288,7 @@
 - [adt-extension](https://github.com/alvarofpp/python-adt-extension): Python abstract data structure (ADT) extension.
 - Emacs: [The Best Python Editor?](https://realpython.com/emacs-the-best-python-editor/)
 - [reloading](https://github.com/julvo/reloading): Change Python code while it's running using a reloading loop
+- [Lightweight Steering Approaches for Large Scale Physics Applications](https://www.youtube.com/watch?v=d5f9-Y3Wtbc&feature=youtu.be)
 
 ##### Jupyter
 
@@ -304,6 +315,8 @@
   - [Anglican](https://probprog.github.io/anglican/index.html): A Probabilistic Programming System.
 - Answer Set Programming(ASP): offers a simple and powerful modeling language to solve combinatorial problems.
   - [Potassco](https://potassco.org/), [clingo](https://potassco.org/clingo/) and [github](https://github.com/potassco/clingo).
+- Brainfuck:
+  - [Brainfuck](https://www.dcode.fr/brainfuck-language) encoder/decoder.
 - Dafny:
   - [dafny](https://github.com/Microsoft/dafny): Dafny is a verification-aware programming language.
 - Elixir:
@@ -315,10 +328,14 @@
   - [Awesome Go](https://github.com/avelino/awesome-go): A curated list of awesome Go frameworks, libraries and software
   - [ObjectBox Go](https://github.com/objectbox/objectbox-go): persisting your Go structs/objects superfast and simple
   - [lattigo](https://github.com/lca1/lattigo): A lattice-based cryptographic library in Go.
+  - [chime](https://www.chimehq.com/): Capable. Focused. Fast. A Go editor for macOS.
 - Haskell:
   - [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
+  - [homplexity](https://github.com/migamake/homplexity): Haskell code complexity and quality measurement.
 - JavaScript:
   - [The JavaScript Handbook](https://jshandbook.com/)
+- K:
+  - [k tutorial](https://shakti.com/tutorial/)
 - Kotlin:
   - [mvrx-example](https://github.com/ignusdigital/mvrx-example)
   - [Why Kotlin?](https://www.slideshare.net/slideshow/embed_code/key/4REcPywFNmFBAy)
@@ -351,6 +368,8 @@
   - [vlang](https://github.com/vlang/v): Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++. Compiles itself in <1s.
 - Verilog:
   - [Designing Hardware with Verilog](http://8bitworkshop.com/blog/release/2018/12/15/verilog-programming.html)
+- [vyper](https://github.com/ethereum/vyper/):
+  - Watch Your Language: [Our First Vyper Audit](https://blog.trailofbits.com/2019/10/24/watch-your-language-our-first-vyper-audit/)
 - Yorlang:
   - [yorlang](https://github.com/anoniscoding/yorlang): [Yorlang](https://anoniscoding.github.io/yorlang/) is an esoteric programming language designed to write small programs using yoruba language constructs. It is the first of its kind and it can carry out basic programming operations in yoruba language (a language spoken in some parts of Nigeria ).
 
@@ -414,6 +433,8 @@
   - [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else): Blame someone else for your bad code.
   - [High-level Problems with Git and How to Fix Them](https://gregoryszorc.com/blog/2017/12/11/high-level-problems-with-git-and-how-to-fix-them/)
   - [My favourite Git commit](https://fatbusinessman.com/2019/my-favourite-git-commit)
+  - [gitpod](https://www.gitpod.io/): One-Click Online IDE for GitHub
+  - [forgit](https://github.com/wfxr/forgit) is a utility tool for git taking advantage of fuzzy finder fzf. [Interactive Git Commands With Previews Powered By fzf Fuzzy Finder](https://www.linuxuprising.com/2019/11/forgit-interactive-git-commands-with.html)
 - **Mercurial**:
   - [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos.
 - [Welcome to Pull Request Roulette](http://www.pullrequestroulette.com/).
@@ -421,7 +442,8 @@
   - [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners)
   - [Algorithmic-Pseudocode](https://github.com/Just-A-Visitor/Algorithmic-Pseudocode/issues)
   - [awesome-social-projects](https://github.com/Jciel/awesome-social-projects)
-  
+  - [The Minimum Viable Pull-request](https://dev.to/jmfayard/the-minimum-viable-pull-request-5e7p)
+
 #### Software Engenieering
 
 - [UML - Class Diagram](https://www.tutorialspoint.com/uml/uml_class_diagram.htm)
@@ -458,6 +480,8 @@
 - [Recover the Executable ROS](https://github.com/stepleton/5100ExecutableROSDecode)(ROM) of an IBM 5100 from screen photographs, using elementary image processing and machine learning.
 - [An Intel Programmer Jumps Over the Wall: First Impressions of ARM SIMD Programming](https://branchfree.org/2019/03/26/an-intel-programmer-jumps-over-the-wall-first-impressions-of-arm-simd-programming/)
 - [RISC Is Fundamentally Unscalable](https://blackhole12.com/blog/risc-is-fundamentally-unscalable/)
+- [x86 and amd64 instruction reference](https://www.felixcloutier.com/x86/index.html)
+- [x86-manpages](https://github.com/ttmo-O/x86-manpages): x86 and amd64 instruction reference manual pages.
 
 ### Electronics
 
@@ -475,7 +499,6 @@
 - [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [Realmode Assembly](https://0x00sec.org/t/realmode-assembly-writing-bootable-stuff-part-5/3667) - Writing bootable stuff
 - [MS-DOS](https://github.com/Microsoft/MS-DOS): The original sources of MS-DOS 1.25 and 2.0, for reference purposes
-- [Operating Systems](http://pages.cs.wisc.edu/~remzi/OSTEP/): Three Easy Pieces
 - [How Does an Intel Processor Boot?](https://binarydebt.wordpress.com/2018/10/06/how-does-an-x86-processor-boot/)
 - [interim](https://github.com/mntmn/interim): The Interim Operating System
 - [OpenBSD's unveil()](https://lwn.net/Articles/767137/)
@@ -511,7 +534,8 @@
 - [moustique](https://github.com/matt-42/moustique): C++14 high performance non-blocking network IO (based on epoll + boost.context)
 - [LD_PRELOAD](https://blog.jessfraz.com/post/ld_preload/): The Hero We Need and Deserve.
 - [Do It Yourself (OpenJDK) Garbage Collector](https://shipilev.net/jvm/diy-gc/)
-- [Let's Write an LLVM Specializer for Python!](http://dev.stephendiehl.com/numpile/):
+- [Let's Write an LLVM Specializer for Python!](http://dev.stephendiehl.com/numpile/)
+- [Compiler Explorer](https://godbolt.org/): Run compilers interactively from your web browser and interact with the assembly. [github](https://github.com/mattgodbolt/compiler-explorer), [how it works](https://xania.org/201609/how-compiler-explorer-runs-on-amazon).
 
 ### API
 
@@ -620,6 +644,7 @@
 - [octofairy](https://github.com/evilsocket/octofairy): A machine learning based GitHub bot for Issues.
 - [A Full Hardware Guide to Deep Learning](http://timdettmers.com/2018/12/16/deep-learning-hardware-guide/)
 - [tensorFlow Privacy](https://github.com/tensorflow/privacy): Library for training machine learning models with privacy for training data
+- [PyVacy](https://github.com/ChrisWaites/pyvacy): Privacy Algorithms for PyTorch
 - [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning): 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [Dive into Deep Learning](http://d2l.ai/): An interactive deep learning book for students, engineers, and researchers.
 - [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
@@ -641,6 +666,8 @@
   - [AirSim](https://github.com/microsoft/AirSim): Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research.
 - [ADBlock Radio](https://www.adblockradio.com/en/): We improve your radio experience. [adblockradio](https://github.com/adblockradio/adblockradio) - An adblocker for live radio streams and podcasts. Machine learning meets Shazam.
 - [150 successful machine learning models](https://blog.acolyer.org/2019/10/07/150-successful-machine-learning-models/): 6 lessons learned at Booking.com
+- [Machine Learning on Encrypted Data Without Decrypting It](https://juliacomputing.com/blog/2019/11/22/encrypted-machine-learning.html)
+- [Machine Learning and the Browser](https://academy.infinite.red/courses/beginning-machine-learning-with-tensorflow-js/lectures/11125772)
 
 ### Machine Learning Articles
 
@@ -764,6 +791,7 @@
 - [New Proof Settles How to Approximate Numbers Like Pi](https://www.quantamagazine.org/new-proof-settles-how-to-approximate-numbers-like-pi-20190814/)
 - [Mesh Spreadsheet](http://mesh-spreadsheet.com/): A free, [portable spreadsheet program](https://github.com/chrispsn/mesh).
 - [Metamath Zero: The Cartesian Theorem Prover](https://arxiv.org/abs/1910.10703)
+- [Free and Open-Source Textbooks](https://danaernst.com/resources/free-and-open-source-textbooks/): Here is a partial list of free and/or open-source textbooks.
 
 ### Theorems
 
@@ -784,6 +812,9 @@
 - [Linear Algebra and Learning from Data](https://math.mit.edu/~gs/learningfromdata/)
 - [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/): A Free text for a standard US undergraduate course. all on [gitlab](https://gitlab.com/jim.hefferon/linear-algebra)
 - [algebralinear](https://github.com/melissawm/algebralinear)
+- [Geometry, Algebra, and Intuition](https://www.shapeoperator.com/2017/02/28/geometry-algebra-intuition/)
+- [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/): _Linear_: having to do with lines, planes, etc. _Algebra_: solving equations involving unknowns. [repo](https://github.com/QBobWatson/gt-linalg)
+- [Pattern Matching](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1371r1.pdf): Pattern matching is a widely adoptedmechanism across many programming languages to interact with algebraic data types that can help greatlysimplify C++.
 
 ### Matrices
 
@@ -834,6 +865,10 @@
 - [It’s not just p=0.048 vs. p=0.052](https://statmodeling.stat.columbia.edu/2019/09/06/__trashed-2/)
 - [ggeffects](https://github.com/strengejacke/ggeffects): Tidy Data Frames of Marginal Effects for ggplot2.
 - [tradestatistics](https://github.com/ropensci/tradestatistics): R package to access Open Trade Statistics API
+- [ggseg](https://github.com/LCBC-UiO/ggseg): Plotting tool for brain atlases, in ggplot.
+- [Learning Statistics with R](https://learningstatisticswithr.com/) by Danielle Navarro
+- [Causal](https://causal.app/) is a browser-based modelling tool. Have [Sensitivity Analysis](https://causal.app/sensitivity).
+- [Some Useful Probability Facts for Systems Programming](https://theartofmachinery.com/2020/01/27/systems_programming_probability.html)
 
 ### Linear Regression
 
@@ -899,7 +934,11 @@
 - [R is a joy if you treat it like awk](http://dwrodri.blog/posts/oct-7-Rscript-snippets.html)
 - [performance](https://easystats.github.io/performance/)
 - [easystats](https://github.com/easystats/easystats): milky_way The easyverse.
-  
+- [Read fixed width text file in Python](https://gist.github.com/rochacbruno/059e1223f5b69d3b99b509a4962cf3aa)
+- [edibble](https://github.com/emitanaka/edibble): Grammar of Experimental Design.
+- [Static and dynamic network visualization with R](https://kateto.net/network-visualization): This is a comprehensive tutorial on network visualization with R. It covers data input and formats, visualization basics, parameters and layouts for one-mode and bipartite graphs; dealing with multiplex links, interactive and animated visualization for longitudinal networks; and visualizing networks on geographic maps.
+ - [Python Plotting for Exploratory Data Analysis](https://pythonplot.com/)  by [Tim Hopper](https://twitter.com/tdhopper/status/1212821555710963712) [repo](https://github.com/tdhopper/pythonplot.com)
+
 #### Datasets
 
 - [County_Level_Election_Results_12-16](https://github.com/tonmcg/County_Level_Election_Results_12-16): US president county-level election results for 2012 and 2016
@@ -911,6 +950,8 @@
 - (pt-br) [ATLAS DO ESTADO BRASILEIRO](http://www.ipea.gov.br/atlasestado/): é uma plataforma de dados integrados sobre a estrutura organizacional e de pessoal do Estado brasileiro, em seus três níveis da administração – federal, estadual e municipal.
 - [Guesstimate](https://www.getguesstimate.com): is a spreadsheet tool that helps you model and forecast uncertain quantities.
 - [climatedata](https://github.com/MirzaCengic/climatedata): Repository to hold function for retrieving climate data (currently only CHELSA clim). Migrate later to new repo.
+- [info GOV](http://infogov.enap.gov.br/): dados governamentais federais.
+- [Inside Airbnb](http://insideairbnb.com/get-the-data.html): Inside Airbnb is an independent, non-commercial set of tools and data that allows you to explore how Airbnb is really being used in cities around the world.
 
 #### Luna
 
@@ -958,12 +999,16 @@
 - [VR-Viz](https://www.informationisbeautifulawards.com/showcase/3884-vr-viz-visualization-system-for-virtual-reality): [Visualization System For Virtual Reality](https://vr-viz.netlify.com/?selectedKind=VR-Viz&selectedStory=Introduction&full=0&addons=1&stories=1&panelRight=1&addonPanel=kadira%2Fjsx%2Fpanel), [github](https://github.com/mustafasaifee42/vr-viz)
 - [Microsoft open sources SandDance, a visual data exploration tool](https://cloudblogs.microsoft.com/opensource/2019/10/10/microsoft-open-sources-sanddance-visual-data-exploration-tool/). [site](https://sanddance.js.org/), [repo](https://github.com/Microsoft/SandDance)
 - [Visualizing personal notes on the history of Western Philosophy](http://www.thefunctionalart.com/2019/10/visualizing-personal-notes-on-history.html)
+- [roughViz](https://github.com/jwilber/roughViz): Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
+- [Novel Coronavirus (2019-nCoV)](https://www.healthmap.org/ncov2019/)
+- [Palettes for R based on the Scientific Colour-Maps](https://github.com/thomasp85/scico): This is a small package to provide access to the colour palettes developed by Fabio Crameri..
 
 ### Calculus
 
 - [Solving Logistic Regression with Newton's Method](http://thelaziestprogrammer.com/sharrington/math-of-machine-learning/solving-logreg-newtons-method)
 - Functional Bits: [Lambda Calculus based Algorithmic Information Theory](https://tromp.github.io/cl/LC.pdf)
 - [Another orthonormal basis](https://calculus7.org/2012/01/31/another-orthonormal-basis-hermite-functions/): Hermite functions
+- [Solving Van der Pol equation](http://mathworld.wolfram.com/vanderPolEquation.html) [with ivp_solve](https://www.johndcook.com/blog/2019/12/22/van-der-pol/)
 
 ### Topology
 
@@ -977,6 +1022,7 @@
 - [PHPSimplex](http://www.phpsimplex.com/simplex/)
 - [simplex-method](https://github.com/khalibartan/simplex-method): A python implementation for simplex method
 - My 2019 Mathematics A To Z: [Linear Programming](https://nebusresearch.wordpress.com/2019/10/10/my-2019-mathematics-a-to-z-linear-programming/)
+- [The GNU Linear Programming Kit (GLPK) : Resources, Tutorials etc.](https://spokutta.wordpress.com/the-gnu-linear-programming-kit-glpk/)
 
 ### Discretionary Math
 
@@ -1085,6 +1131,7 @@
 - [GraceDbBot](https://github.com/Roald87/GraceDB): A Telegram bot which you can use to get information on gravitational wave events from LIGO/Virgo.
 - [ipgeolocation Astronomy API](https://www.programmableweb.com/api/ipgeolocation-astronomy): The ipgeolocation Astronomy API provides timings for astronomical events including sunrise, sunset, moonrise, moonset, sun azimuth, moon azimuth, sun altitude, moon altitude, sun distance from the earth, and moon distance from the earth.
 - [The Orbital Index](https://orbitalindex.com/archive/2019-07-30-Issue-23/)
+- (pt-br) [materiais GRATUITOS para quem quer aprender astronomia sem sair de casa](https://twitter.com/geisa_ponte/status/1218921994663682049)
 
 ### Astro Articles
 
@@ -1108,6 +1155,7 @@
 #### SpaceX
 
 - [SpaceX-API](https://github.com/r-spacex/SpaceX-API): Open Source REST API for rocket, core, capsule, pad, and launch data
+- [The Incredible Sounds of the Falcon Heavy Launch (BINAURAL AUDIO IMMERSION) - Smarter Every Day 189](https://www.youtube.com/watch?v=ImoQqNyRL8Y&feature=youtu.be)
 
 ## Chemistry
 
@@ -1126,6 +1174,8 @@
 - [orca](https://github.com/bcgsc/orca): 🐳 Genomics Research Container Architecture
 - [Scientists create first billion-atom biomolecular simulation](https://www.lanl.gov/discover/news-release-archive/2019/April/0422-atom-biomolecular-simulation.php)
 - [MNE-Python](https://github.com/mne-tools/mne-python): Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python
+- [The Precautionary Principle](https://www.fooledbyrandomness.com/PrecautionaryPrinciple.html): The PP within the statistical and probabilistic structure of “ruin” problems. Applies but not limited to transgenics(GMOs).
+- [nCoV2019](https://github.com/beoutbreakprepared/nCoV2019): Location for summaries and analyses of data related to n-CoV 2019, first reported in Wuhan, China.
 
 ## Geography
 
@@ -1147,6 +1197,8 @@
 - [Trouble on the Horizon](https://arxiv.org/abs/1909.01362): Forecasting the Derailment of Online Conversations as they Develop
 - [AD.Watch](https://ad.watch/): challenges the closedness of access to political advertising information. The project compiles datasets of political ads on Facebook and Instagram and creates interfaces for their use, with a view to opening up the possibilities for its study. With ad.watch, you can explore both country-specific contextual issues and political strategies, as well as broader questions about the power of persuasion that the use of personal data facilitates.
 - [DeepDiveDuck](https://deepdiveduck.com/): Monitor Website Changes for Competitor Intelligence.
+- [Marketing-For-Self-Made-Experts](https://github.com/philipmorg/Marketing-For-Self-Made-Experts)
+- (pt-br) [Parlametria](https://parlametria.org/home): O Parlametria surgiu do esforço de organizações que trabalham com o monitoramento do legislativo para traduzir e dar sentido a essa massa de dados, de forma que a sociedade civil possa acompanhar e influenciar os debates que acontecem no Congresso Nacional.
 
 ### Economy
 
@@ -1240,6 +1292,8 @@
   - [glam](https://github.com/EmbarkStudios/glam-rs): A simple and fast 3D math library for games and graphics
 - [ScummVM](https://www.scummvm.org): is a program which allows you to run certain classic graphical point-and-click adventure games, provided you already have their data files.
 - [DevShop](https://secretgeek.github.io/devShop/): minimal kanban game. [DevShop!](https://github.com/secretGeek/devShop)(github), I had this idea 10 years ago for a game called DevShop and decided to implement a minimal non-viable product of it, in vanilla js, with the no-framework.
+- [netris](https://git.sr.ht/~tslocum/netris?0.1.2): Multiplayer Tetris clone. -> _ssh netris.rocketnine.space_
+- [GB-NES-PDF-HTML-ZIP](https://github.com/ViGrey/gb-nes-pdf-html-zip): A Gameboy ROM that is also an NES ROM, a PDF File, an HTML File, and a ZIP File that contains its own source code
 
 ## Writing Articles
 
@@ -1315,6 +1369,8 @@
 - [Gravitee.io API Platform](https://gravitee.io/): is a flexible, lightweight and blazing-fast open source API Management solution that helps your organization control finely who, when and how users access your APIs. [github](https://github.com/gravitee-io)
 - [unCaptcha2](https://github.com/ecthros/uncaptcha2): defeating the latest version of ReCaptcha with 91% accuracy
 - (pt-br) [js-para-pessoas](https://github.com/miguelssrs/js-para-pessoas): 📒 Curadoria de conteúdos de JavaScript para mentes que não decoram coisas facilmente - ou seja, para todo mundo.
+- (pt-br) [controle-seus-tweets](https://github.com/RodrigoMenegat/controle-seus-tweets): Conjunto de scripts simples que usam o pacote tweepy para baixar todos os tweets e likes de um usuário no Twitter. Também contém scritps que permitem remover as publicações feitas e favoritadas.
+- [bot-followers](https://github.com/cuducos/bot-followers): 🍊 Find out how many bots follow any given Twitter acount.
 
 ## Privacy
 
@@ -1330,6 +1386,8 @@
 - [One-End Encryption (OEE)](https://github.com/veorq/oee): Stronger than End-to-End Encryption
 - [The New Wilderness](https://idlewords.com/2019/06/the_new_wilderness.htm)
 - [Differential Privacy](https://github.com/google/differential-privacy): This project contains a C++ library of ε-differentially private algorithms, which can be used to produce aggregate statistics over numeric data sets containing private or sensitive information.
+- [I visited China’s largest surveillance tech expo with @QianerLiu this week held once every two years in Shenzhen - “the world security capital.” A thread & our story about China’s latest new surveillance craze: emotion recognition](https://twitter.com/suelinwong/status/1190194625572569093). [Emotion recognition is China’s new surveillance craze](https://www.ft.com/content/68155560-fbd1-11e9-a354-36acbbb0d9b6?sharetype=blocked)
+- [Imperiled information](https://www.seas.harvard.edu/news/2020/01/imperiled-information): Students find website data leaks pose greater risks than most people realize. [Collating Hacked Data Sets](https://www.schneier.com/blog/archives/2020/01/collating_hacke.html)
 
 ## Philosophy
 
@@ -1374,7 +1432,9 @@
 - [Six easy ways to manage your time better](https://www.nature.com/articles/d41586-019-00973-6)
 - [Best Economics Books: 49 Books To Really Understand Economics](https://filmlifestyle.com/best-economics-books/)
 - [Things I Learnt The Hard Way (in 30 Years of Software Development)](https://blog.juliobiason.net/thoughts/things-i-learnt-the-hard-way/)
-  
+- (pt-BR) [Comunidades.tech](https://comunidades.tech/): Espaço de visibilidade e fortalecimento das comunidades de tecnologia.
+- [No Maintenance Intended](http://unmaintained.tech/):If you’re here, that likely means a project linked you here. Thanks so much for being interested in that project! [github](https://github.com/potch/unmaintained.tech)
+
 ### Jobs
 
 - [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade): Tools of The Trade, from Hacker News.
@@ -1460,6 +1520,12 @@
 
 ## News
 
+### 2020
+
+- [2019 was hotter than normal — but what does this even mean?](https://www.vis4.net/blog/2020/01/2019-too-warm/#/en/2019/12/31)
+- [Plastic Pollution](https://ourworldindata.org/plastic-pollution)
+- [Trust is at the Core of Software Marketing](https://tomtunguz.com/trust-core-marketing/)
+
 ### 2019
 
 - [Thieves of Experience: How Google and Facebook Corrupted Capitalism](https://lareviewofbooks.org/article/thieves-of-experience-how-google-and-facebook-corrupted-capitalism/#!)
@@ -1506,6 +1572,11 @@
 - [A New Theory of Obesity](https://www.scientificamerican.com/article/a-new-theory-of-obesity/)
 - [Don’t Outsource Your Thinking](https://medium.com/@blakeross/don-t-outsource-your-thinking-ad825a9b4653)
 - [What Happens to Your Body on No Sleep](https://www.outsideonline.com/2292806/your-body-no-sleep)
+- [The Best Place to Train Astronauts Exists on Earth, But Not Where You'd Think](https://www.vice.com/en_uk/article/ywaq4v/astronauts-space-training-earth-caves-esa-nasa)
+- [We Have No Reason to Believe 5G Is Safe](https://blogs.scientificamerican.com/observations/we-have-no-reason-to-believe-5g-is-safe/)
+- [Economists on the Run](https://foreignpolicy.com/2019/10/22/economists-globalization-trade-paul-krugman-china/): Paul Krugman and other mainstream trade experts are now admitting that they were wrong about globalization: It hurt American workers far more than they thought it would. Did America’s free market economists help put a protectionist demagogue in the White House?
+- [We’re Incentivizing Bad Science](https://blogs.scientificamerican.com/observations/were-incentivizing-bad-science/): Current research trends resemble the early 21st century’s financial bubble
+- (pt-br) [Os homens avançam mais rápido na carreira porque não têm o trabalho doméstico nas costas](http://www.generonumero.media/os-homens-avancam-mais-rapido-na-carreira-porque-nao-tem-o-trabalho-domestico-nas-costas/)
 
 ### 2018
 

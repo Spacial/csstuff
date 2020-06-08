@@ -43,6 +43,7 @@
 - [Convert images to LaTeX](https://mathpix.com/)
 - [LuaTex](http://www.luatex.org/): LuaTeX is an extended version of pdfTeX using Lua as an embedded scripting language.
 - (pt-br) [Palestra "LaTeX para não-cientistas"](https://github.com/melissawm/latexnaocientistas) by melissawn
+- [ChkTeX](https://www.nongnu.org/chktex/): LaTeX semantic checker
 
 ## Templates
 
@@ -56,6 +57,7 @@
 ## Graphs
 
 - [TeX Live Database as Graph Database](https://www.preining.info/blog/2018/10/tex-live-database-as-graph-database/)
+- [Generating a timeline](http://latex-cookbook.net/articles/timeline/)
 
 ## Watermark
 
