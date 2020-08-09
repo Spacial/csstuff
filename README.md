@@ -41,6 +41,7 @@
 - [elkai](https://github.com/pyEntropy/elkai): Python 3 TSP solver based on LKH (cross platform)
 - [Stanford CS Education Library](http://cslibrary.stanford.edu/)
 - [Decades-Old Computer Science Conjecture Solved in Two Pages](https://www.quantamagazine.org/mathematician-solves-computer-science-conjecture-in-two-pages-20190725/)
+- (pt-br) [extensao-computacao](https://github.com/adolfont/extensao-computacao/): Iniciativas de Extensão na Área de Computação.
 
 ### Quantum Information Science
 
@@ -77,6 +78,7 @@
 - [eva](https://github.com/Workiva/eva/): A distributed database-system implementing an entity-attribute-value data-model that is time-aware, accumulative, and atomically consistent.
 - Introducing SLOG:[Cheating the low-latency vs. strict serializability tradeoff](http://dbmsmusings.blogspot.com/2019/10/introducing-slog-cheating-low-latency.html)
 - [Why databases use ordered indexes but programming uses hash tables](https://www.evanjones.ca/ordered-vs-unordered-indexes.html)
+- [PostgreSQL beginner guide](https://knowledgepill.it/posts/postgresql-basics-guide/)- connecting, remote access, psql CLI and troubleshooting connection
 
 ### Networks
 
@@ -134,6 +136,10 @@
 - [How to Build Good Software](https://www.csc.gov.sg/articles/how-to-build-good-software)
 - [Languages](https://codelani.com/lists/languages.html): Here is the current list of the 3,503 computer languages I am actively tracking. I focus on tracking general purpose high-level programming languages, but also track low-level languages and some notable markup languages, protocols, file formats, libraries, and applications.
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): Some useful websites for programmers.
+- [dev.to](https://github.com/thepracticaldev/dev.to): Where programmers share ideas and help each other grow
+- [Test Anything Protocol](http://testanything.org/): TAP, the Test Anything Protocol, is a simple text-based interface between testing modules in a test harness. TAP started life as part of the test harness for Perl but now has implementations in C, C++, Python, PHP, Perl, Java, JavaScript, and others.
+- [Algorithms are now commodities](http://shape-of-code.coding-guidelines.com/2020/07/05/algorithms-are-now-commodities/)
+- [Immutability we can afford](https://medium.com/@elizarov/immutability-we-can-afford-10c0dcb8351d)
 
 #### IDEs
 
@@ -210,6 +216,7 @@
 - [Intel SPMD Program Compiler](https://ispc.github.io/): ispc is a compiler for a variant of the C programming language, with extensions for "single program, multiple data" (SPMD) programming. Under the SPMD model, the programmer writes a program that generally appears to be a regular serial program, though the execution model is actually that a number of program instances execute in parallel on the hardware. [github](https://github.com/ispc/ispc/)
 - [cnp](https://github.com/aicodix/cnp): Check Node Processor in VHDL for LDPC decoding.
 - [Clang-format tanks performance](https://travisdowns.github.io/blog/2019/11/19/toupper.html), [Benchmark supporting baseless libel against clang-format](https://github.com/travisdowns/toupper-bench)
+- [StrongOD](https://github.com/shellbombs/StrongOD)(anti anti-debug plugin) driver source code.
 
 #### Makefile
 
@@ -289,6 +296,8 @@
 - Emacs: [The Best Python Editor?](https://realpython.com/emacs-the-best-python-editor/)
 - [reloading](https://github.com/julvo/reloading): Change Python code while it's running using a reloading loop
 - [Lightweight Steering Approaches for Large Scale Physics Applications](https://www.youtube.com/watch?v=d5f9-Y3Wtbc&feature=youtu.be)
+- [leanstr](https://github.com/ramalho/leanstr): A "lean" string class for Python, using UTF-8 internally
+- [Better-Python-59-Ways](https://github.com/SigmaQuan/Better-Python-59-Ways): Code Sample of Book "Effective Python: 59 Specific Ways to Write Better Pyton" by Brett Slatkin
 
 ##### Jupyter
 
@@ -332,6 +341,7 @@
 - Haskell:
   - [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
   - [homplexity](https://github.com/migamake/homplexity): Haskell code complexity and quality measurement.
+  - [Getting Started with Haskell on Fedora](https://fedoramagazine.org/getting-started-with-haskell-on-fedora/)
 - JavaScript:
   - [The JavaScript Handbook](https://jshandbook.com/)
 - K:
@@ -435,6 +445,7 @@
   - [My favourite Git commit](https://fatbusinessman.com/2019/my-favourite-git-commit)
   - [gitpod](https://www.gitpod.io/): One-Click Online IDE for GitHub
   - [forgit](https://github.com/wfxr/forgit) is a utility tool for git taking advantage of fuzzy finder fzf. [Interactive Git Commands With Previews Powered By fzf Fuzzy Finder](https://www.linuxuprising.com/2019/11/forgit-interactive-git-commands-with.html)
+  - [Fedora Classroom Session: Git 101 with Pagure](https://fedoramagazine.org/fedora-classroom-session-git-101-with-pagure/)
 - **Mercurial**:
   - [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos.
 - [Welcome to Pull Request Roulette](http://www.pullrequestroulette.com/).
@@ -482,6 +493,10 @@
 - [RISC Is Fundamentally Unscalable](https://blackhole12.com/blog/risc-is-fundamentally-unscalable/)
 - [x86 and amd64 instruction reference](https://www.felixcloutier.com/x86/index.html)
 - [x86-manpages](https://github.com/ttmo-O/x86-manpages): x86 and amd64 instruction reference manual pages.
+- [SkyWater Open Source PDK](https://github.com/google/skywater-pdk): Open source process design kit for usage with SkyWater Technology Foundry's 130nm node.
+- [cva6](https://github.com/openhwgroup/cva6): The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux.
+- [Produce your own physical chips. For free. In the Open.](https://fossi-foundation.org/2020/06/30/skywater-pdk)
+- [The Complete 48K Disassembly](https://speccy.xyz/rom/)
 
 ### Electronics
 
@@ -515,6 +530,7 @@
 - [It’s Time for a Modern Synthesis Kernel](https://blog.regehr.org/archives/1676).
 - [bootOS](https://github.com/nanochess/bootOS) is a monolithic operating system in 512 bytes of x86 machine code.
 - [A dream of an ultimate OS](http://okmij.org/ftp/papers/DreamOSPaper.html).
+- [KTF](https://github.com/awslabs/ktf)- Kernel Test Framework.
 
 ### Linux Kernel
 
@@ -553,6 +569,7 @@
 - [annoy](https://github.com/spotify/annoy): Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
 - [tesseract](https://github.com/tesseract-ocr/tesseract): Tesseract Open Source OCR Engine (main repository)
 - [pampy](https://github.com/santinic/pampy): The Pattern Matching for Python you always dreamed of.
+- [EasyOCR](https://github.com/JaidedAI/EasyOCR): Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai.
 
 ## Artificial Intelligence
 
@@ -567,6 +584,7 @@
 - [Introducing Google Research Football](https://ai.googleblog.com/2019/06/introducing-google-research-football.html): A Novel Reinforcement Learning Environment
 - [Talking AI, Art, and Entangled Realities with HeK Basel’s Director Sabine Himmelsbach](https://medium.com/digital-art-weekly-by-danae-hi/talking-ai-art-and-exhibition-entangled-realities-with-hek-basels-director-sabine-himmelsbach-654b7077c0a0)
 - [Many Experts Say We Shouldn’t Worry About Superintelligent AI. They’re Wrong](https://spectrum.ieee.org/computing/software/many-experts-say-we-shouldnt-worry-about-superintelligent-ai-theyre-wrong)
+- [Exploring how different framings of the same supervised learning task affect model performance](https://andersource.dev/2020/07/12/supervised-task-framing.html): [face-classification-problem-framing](https://github.com/andersource/face-classification-problem-framing)
 
 ### Genetic Algorithms
 
@@ -589,6 +607,7 @@
 - [Install and Use CTRL on Google Compute Engine](https://github.com/minimaxir/ctrl-gce): Set up the CTRL text-generating model on Google Compute Engine with just a few console commands.
 - [Attention Mechanism](https://blog.floydhub.com/attention-mechanism/): In this article, I will be covering the main concepts behind Attention, including an implementation of a sequence-to-sequence Attention model, followed by the application of Attention in Transformers and how they can be used for state-of-the-art results.
 - [Transformers](https://github.com/huggingface/transformers): State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+- [Bilingual Evaluation Understudy (BLEU)](https://leimao.github.io/blog/BLEU-Score/)
 
 #### Dictionaries
 
@@ -668,6 +687,7 @@
 - [150 successful machine learning models](https://blog.acolyer.org/2019/10/07/150-successful-machine-learning-models/): 6 lessons learned at Booking.com
 - [Machine Learning on Encrypted Data Without Decrypting It](https://juliacomputing.com/blog/2019/11/22/encrypted-machine-learning.html)
 - [Machine Learning and the Browser](https://academy.infinite.red/courses/beginning-machine-learning-with-tensorflow-js/lectures/11125772)
+- [Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/) (CS 330): stanfor ML classes.
 
 ### Machine Learning Articles
 
@@ -738,6 +758,7 @@
 - [A Mathematical Model Unlocks the Secrets of Vision](https://www.quantamagazine.org/a-mathematical-model-unlocks-the-secrets-of-vision-20190821/)
 - [Predicting 3D Human Dynamics from Video](https://deepai.org/publication/predicting-3d-human-dynamics-from-video)
 - [opencv-yolo3](https://github.com/hussanhijazi/opencv-yolov3)
+- [MobileNetv2-YOLOV3](https://github.com/dog-qiuqiu/MobileNetv2-YOLOV3#500kb%E7%9A%84yolo-face-detection): MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40: 6ms/img, YoloFace-500k:0.1Bflops500KB￼￼￼
 
 #### Python DL
 
@@ -869,6 +890,7 @@
 - [Learning Statistics with R](https://learningstatisticswithr.com/) by Danielle Navarro
 - [Causal](https://causal.app/) is a browser-based modelling tool. Have [Sensitivity Analysis](https://causal.app/sensitivity).
 - [Some Useful Probability Facts for Systems Programming](https://theartofmachinery.com/2020/01/27/systems_programming_probability.html)
+- [pairwiseComparisons](https://indrajeetpatil.github.io/pairwiseComparisons/). [repo](https://github.com/IndrajeetPatil/pairwiseComparisons): Pairwise comparison tests for one-way designs ￼￼
 
 ### Linear Regression
 
@@ -937,7 +959,9 @@
 - [Read fixed width text file in Python](https://gist.github.com/rochacbruno/059e1223f5b69d3b99b509a4962cf3aa)
 - [edibble](https://github.com/emitanaka/edibble): Grammar of Experimental Design.
 - [Static and dynamic network visualization with R](https://kateto.net/network-visualization): This is a comprehensive tutorial on network visualization with R. It covers data input and formats, visualization basics, parameters and layouts for one-mode and bipartite graphs; dealing with multiplex links, interactive and animated visualization for longitudinal networks; and visualizing networks on geographic maps.
- - [Python Plotting for Exploratory Data Analysis](https://pythonplot.com/)  by [Tim Hopper](https://twitter.com/tdhopper/status/1212821555710963712) [repo](https://github.com/tdhopper/pythonplot.com)
+- [Python Plotting for Exploratory Data Analysis](https://pythonplot.com/)  by [Tim Hopper](https://twitter.com/tdhopper/status/1212821555710963712) [repo](https://github.com/tdhopper/pythonplot.com)
+- [Scraping Roger Ebert’s reviews and finding his favorite movies on Amazon Prime](https://www.linisnil.com/articles/scraping-roger-ebert-reviews-and-amazon/)
+- [ffscrapr](https://ffscrapr.dynastyprocess.com/): An R Client for Fantasy Football League APIs. [repo](https://github.com/dynastyprocess/ffscrapr/)
 
 #### Datasets
 
@@ -952,6 +976,8 @@
 - [climatedata](https://github.com/MirzaCengic/climatedata): Repository to hold function for retrieving climate data (currently only CHELSA clim). Migrate later to new repo.
 - [info GOV](http://infogov.enap.gov.br/): dados governamentais federais.
 - [Inside Airbnb](http://insideairbnb.com/get-the-data.html): Inside Airbnb is an independent, non-commercial set of tools and data that allows you to explore how Airbnb is really being used in cities around the world.
+- (pt-br) [Catálogos de dados abertos no Brasil](https://github.com/dadosgovbr/catalogos-dados-brasil): Mapeamento de iniciativas (e catálogos) de dados abertos governamentais no Brasil.
+- [palmerpenguins](https://github.com/allisonhorst/palmerpenguins): A great intro dataset for data exploration & visualization (alternative to iris).
 
 #### Luna
 
@@ -1002,6 +1028,9 @@
 - [roughViz](https://github.com/jwilber/roughViz): Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
 - [Novel Coronavirus (2019-nCoV)](https://www.healthmap.org/ncov2019/)
 - [Palettes for R based on the Scientific Colour-Maps](https://github.com/thomasp85/scico): This is a small package to provide access to the colour palettes developed by Fabio Crameri..
+- [How the Virus Won](https://www.nytimes.com/interactive/2020/us/coronavirus-spread.html): Invisible outbreaks sprang up everywhere. The United States ignored the warning signs. We analyzed travel patterns, hidden infections and genetic data to show how the epidemic spun out of control.
+- [Goodwill.com Hunting](https://goodwill.awardwinninghuman.com/): A Graphical Analysis of Women's Tops Sold on Goodwill's Website.
+- [see](https://github.com/easystats/see)￼ Visualisation toolbox for beautiful and publication-ready figures
 
 ### Calculus
 
@@ -1074,6 +1103,7 @@
 - [Spectrum](https://libspectrum.io/): Spectrum is a cross-platform image transcoding library that can easily be integrated into an Android or iOS project to efficiently perform common image operations.
 - [bild](https://github.com/anthonynsimon/bild): A collection of parallel image processing algorithms in pure Go
 - [jax](https://github.com/google/jax): Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- [micro](https://micro-editor.github.io/): a modern and intuitive [terminal-based text editor](https://github.com/zyedidia/micro#linux-clipboard-support).
 
 ### Fun
 
@@ -1097,6 +1127,7 @@
 - [A Mathematician's Secret: We're Not All Geniuses](https://www.bloomberg.com/view/articles/2017-06-07/a-mathematician-s-secret-we-re-not-all-geniuses)
 - [Quantum Mechanics without the maths or philosophy](http://www.articlesbyaphysicist.com/quantummechanics1.html)
 - [cheatsheet-translation](https://github.com/shervinea/cheatsheet-translation): Translation of VIP cheatsheets
+- [Street-Fighting Mathematics](https://mitpress.mit.edu/books/street-fighting-mathematics): The Art of Educated Guessing and Opportunistic Problem Solving
 
 ## Physics
 
@@ -1199,6 +1230,7 @@
 - [DeepDiveDuck](https://deepdiveduck.com/): Monitor Website Changes for Competitor Intelligence.
 - [Marketing-For-Self-Made-Experts](https://github.com/philipmorg/Marketing-For-Self-Made-Experts)
 - (pt-br) [Parlametria](https://parlametria.org/home): O Parlametria surgiu do esforço de organizações que trabalham com o monitoramento do legislativo para traduzir e dar sentido a essa massa de dados, de forma que a sociedade civil possa acompanhar e influenciar os debates que acontecem no Congresso Nacional.
+- [Postbag](https://postbag.co/): Find journalists, bloggers and webmasters covering your niche.
 
 ### Economy
 
@@ -1209,6 +1241,7 @@
 
 - [Suicide Data Reveal New Intervention Spots, Such as Motels and Animal Shelters](https://www.scientificamerican.com/article/suicide-data-reveal-new-intervention-spots-such-as-motels-and-animal-shelters/)
 - [Spinner](https://www.thespinner.net/): a basic-looking website that sells a unique, online-manipulation service.
+- [How Your Heart Influences What You Perceive and Fear](http://nautil.us/blog/how-your-heart-influences-what-you-perceive-and-fear)
 
 ## On-line Services
 
@@ -1249,6 +1282,7 @@
 - [Intel® Processor Graphics Gen11 Architecture](https://software.intel.com/sites/default/files/managed/db/88/The-Architecture-of-Intel-Processor-Graphics-Gen11_R1new.pdf)
 - [SVG Is Turing Complete](https://github.com/tom-p-reichel/svg-is-turing-complete)
 - [glChAoS.P](https://www.michelemorrone.eu/glchaosp/)(opengl Chaotic Attractor of Slight (dot) Particles): open source - multiplatform - 3D real time strange attractors scout... and hypercomplex fractals. [github](https://github.com/BrutPitt/glChAoS.P)
+- [diffsvg](https://github.com/jrsmith3/diffsvg): A diff tool for SVG files.
 
 ### CG Articles
 
@@ -1294,6 +1328,7 @@
 - [DevShop](https://secretgeek.github.io/devShop/): minimal kanban game. [DevShop!](https://github.com/secretGeek/devShop)(github), I had this idea 10 years ago for a game called DevShop and decided to implement a minimal non-viable product of it, in vanilla js, with the no-framework.
 - [netris](https://git.sr.ht/~tslocum/netris?0.1.2): Multiplayer Tetris clone. -> _ssh netris.rocketnine.space_
 - [GB-NES-PDF-HTML-ZIP](https://github.com/ViGrey/gb-nes-pdf-html-zip): A Gameboy ROM that is also an NES ROM, a PDF File, an HTML File, and a ZIP File that contains its own source code
+- [VRWorkout](https://github.com/mgschwan/VRWorkout): Virtual reality workout game for Oculus Quest.
 
 ## Writing Articles
 
@@ -1333,6 +1368,8 @@
 - [CRediT](https://www.casrai.org/credit.html): CRediT (Contributor Roles Taxonomy) is high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors to scientific scholarly output. The roles describe each contributor’s specific contribution to the scholarly output.
 - [How to learn things at 1000x the speed](http://pranay.gp/how-to-learn-things-at-1000x-the-speed)
 - The True Cost of a PhD: [Giving Up a Family for Academia](https://www.jamesgmartin.center/2019/10/the-true-cost-of-a-phd-giving-up-a-family-for-academia/)
+- CS 330: [Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/)
+- [Surgical Reading](https://superorganizers.substack.com/p/surgical-reading-how-to-read-12-books): How to Read 12 Books at Once.
 
 ### Writing
 
@@ -1354,6 +1391,8 @@
 - [4 Rules for Intuitive UX](https://learnui.design/blog/4-rules-intuitive-ux.html)
 - [Visability93](https://www.visability93.com/):  began as a design project to raise awareness for invisible disabilities. We created icons for some of the most common as a starting point, which can be downloaded as a font below.
 - [The Myths of Color Contrast Accessibility](https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/)
+- [How Zoom Works](https://builtformars.co.uk/how-zoom-works/)
+- [Laws of UX](https://lawsofux.com/)
 
 ### web
 
@@ -1388,6 +1427,11 @@
 - [Differential Privacy](https://github.com/google/differential-privacy): This project contains a C++ library of ε-differentially private algorithms, which can be used to produce aggregate statistics over numeric data sets containing private or sensitive information.
 - [I visited China’s largest surveillance tech expo with @QianerLiu this week held once every two years in Shenzhen - “the world security capital.” A thread & our story about China’s latest new surveillance craze: emotion recognition](https://twitter.com/suelinwong/status/1190194625572569093). [Emotion recognition is China’s new surveillance craze](https://www.ft.com/content/68155560-fbd1-11e9-a354-36acbbb0d9b6?sharetype=blocked)
 - [Imperiled information](https://www.seas.harvard.edu/news/2020/01/imperiled-information): Students find website data leaks pose greater risks than most people realize. [Collating Hacked Data Sets](https://www.schneier.com/blog/archives/2020/01/collating_hacke.html)
+- [Session Desktop](https://github.com/loki-project/session-desktop) - Onion routing based messenger. [An Open Source Private Messenger That Doesn’t Need Your Phone Number](https://itsfoss.com/session-messenger/)
+- [Apple declined to implement 16 Web APIs in Safari due to privacy concerns](https://www.zdnet.com/article/apple-declined-to-implement-16-web-apis-in-safari-due-to-privacy-concerns/)
+- [Cape Privacy](https://github.com/capeprivacy/cape-python): Collaborate on privacy-preserving policy for data science projects in Pandas and Apache Spark.
+- [Dark Patterns after the GDPR: Scraping Consent Pop-ups and Demonstrating their Influence](https://arxiv.org/abs/2001.02479)
+- [The TikTok War](https://stratechery.com/2020/the-tiktok-war/)
 
 ## Philosophy
 
@@ -1434,6 +1478,8 @@
 - [Things I Learnt The Hard Way (in 30 Years of Software Development)](https://blog.juliobiason.net/thoughts/things-i-learnt-the-hard-way/)
 - (pt-BR) [Comunidades.tech](https://comunidades.tech/): Espaço de visibilidade e fortalecimento das comunidades de tecnologia.
 - [No Maintenance Intended](http://unmaintained.tech/):If you’re here, that likely means a project linked you here. Thanks so much for being interested in that project! [github](https://github.com/potch/unmaintained.tech)
+- [Sourceful](https://sourceful.co.uk/): Discover the best public Google docs.
+- [Virtual Colossus](http://www.virtualcolossus.co.uk/): Bringing the world's first electronic computer to you in digital form
 
 ### Jobs
 
@@ -1485,7 +1531,9 @@
 - [buildzoom](https://jobs.lever.co/buildzoom)
 - [No CS OK](https://nocsok.com/): Developer jobs without a degree
 - [Interviews with open source maintainers and developers](https://sourcesort.com/)
-  
+- [What I Learnt From Reviewing 22 CVs](https://youknowfordevs.com/2020/07/04/what-i-learnt-from-reviewing-22-cvs.html)
+- [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't have a broken hiring process.
+
 ## General Fun
 
 - [animations with JS](https://state-animations-amsterdam.surge.sh)
@@ -1525,6 +1573,10 @@
 - [2019 was hotter than normal — but what does this even mean?](https://www.vis4.net/blog/2020/01/2019-too-warm/#/en/2019/12/31)
 - [Plastic Pollution](https://ourworldindata.org/plastic-pollution)
 - [Trust is at the Core of Software Marketing](https://tomtunguz.com/trust-core-marketing/)
+- [Abakcus](https://abakcus.com/): We believe that learning new things is crucial for happiness. Abakcus is the collection of perfect sources about mathematics and science. On Abakcus, you can actively search and discover all the best articles, books, projects, videos, and tools you’re looking for. 
+- [Divulgação Científica](https://github.com/DivulgacaoCientifica/divulgacaocientifica): Essa é apenas uma lista PT-BR, o conteúdo dos podcasts/canais é de inteira responsabilidade dos autores.
+- [Science is the belief in the ignorance of experts](https://lemire.me/blog/2020/07/12/science-is-the-belief-in-the-ignorance-of-experts/)
+- [C++ Creator Bjarne Stroustrup Weighs in on Distributed Systems, Type Safety and Rust](https://thenewstack.io/c-creator-bjarne-stroustrup-weighs-in-on-distributed-systems-type-safety-and-rust/)
 
 ### 2019
 
