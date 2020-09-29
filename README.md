@@ -569,7 +569,7 @@
 - [Unikernels](https://dl.acm.org/citation.cfm?id=3321445): The Next Stage of Linux's Dominance
 - [How the ARM32 kernel starts](https://people.kernel.org/linusw/how-the-arm32-kernel-starts)
 
-### Memmory
+### Memory
 
 - [Myths Programmers Believe about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
 - [Every 7.8μs your computer’s memory has a hiccup](https://blog.cloudflare.com/every-7-8us-your-computers-memory-has-a-hiccup/) [c program](https://github.com/cloudflare/cloudflare-blog/blob/master/2018-11-memory-refresh/measure-dram.c)
