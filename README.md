@@ -88,6 +88,7 @@
 - [IPv6@IBM](https://media.ccc.de/v/denog10-16-ipv6-ibm-an-enterprise-journey) – An enterprise journey
 - [scans of early RFCs](https://write.as/365-rfcs/update-scans-of-early-rfcs)  
 - [Programmable socket lookup with BPF](https://linuxplumbersconf.org/event/4/contributions/487/)
+- [TCP window scaling, timestamps and SACK](https://fedoramagazine.org/tcp-window-scaling-timestamps-and-sack/)
 
 ---
 
@@ -140,6 +141,9 @@
 - [Test Anything Protocol](http://testanything.org/): TAP, the Test Anything Protocol, is a simple text-based interface between testing modules in a test harness. TAP started life as part of the test harness for Perl but now has implementations in C, C++, Python, PHP, Perl, Java, JavaScript, and others.
 - [Algorithms are now commodities](http://shape-of-code.coding-guidelines.com/2020/07/05/algorithms-are-now-commodities/)
 - [Immutability we can afford](https://medium.com/@elizarov/immutability-we-can-afford-10c0dcb8351d)
+- [Quine Relay](https://github.com/mame/quine-relay): An uroboros program with 100+ programming languages.
+- [Resources for teaching programming](https://github.com/villares/Resources-for-teaching-programming) for artists, designers and architects
+- [The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
 
 #### IDEs
 
@@ -153,6 +157,7 @@
 
 - [Augmenting Agile with Formal Methods](https://www.hillelwayne.com/post/augmenting-agile/)
 - [Open Petri Nets (Part 1) | Azimuth](https://johncarlosbaez.wordpress.com/2018/08/15/open-petri-nets-part-1/)
+- [storm](https://github.com/Practical-Formal-Methods/storm): A blackbox mutational fuzzer for detecting critical bugs in SMT solvers [paper](https://numairmansur.github.io/STORM.pdf) [site](https://practical-formal-methods.github.io/storm/)
 
 #### APIs
 
@@ -217,6 +222,13 @@
 - [cnp](https://github.com/aicodix/cnp): Check Node Processor in VHDL for LDPC decoding.
 - [Clang-format tanks performance](https://travisdowns.github.io/blog/2019/11/19/toupper.html), [Benchmark supporting baseless libel against clang-format](https://github.com/travisdowns/toupper-bench)
 - [StrongOD](https://github.com/shellbombs/StrongOD)(anti anti-debug plugin) driver source code.
+- [C4Noobs](https://github.com/jpaulohe4rt/c4noobs):  Tutorial de C para iniciantes.
+- [The problem with C](https://cor3ntin.github.io/posts/c/)
+- TDD C:
+  - [Google Test](https://github.com/google/googletest): Google Testing and Mocking Framework.
+  - [Modern C++ Programming with Test-Driven Development](https://pragprog.com/titles/lotdd/modern-c-programming-with-test-driven-development/) by [Jeff Langr](https://github.com/jlangr)
+  - [The Biggest Problems of Unit Testing With C++](https://dzone.com/articles/the-biggest-problems-of-unit-testing-with-c)
+- [Modern C](https://modernc.gforge.inria.fr/) by Jens Gustedt
 
 #### Makefile
 
@@ -224,6 +236,8 @@
 - [Metaprogramming Make VI — The eval Function](http://make.mad-scientist.net/the-eval-function/)
 - [Example of a detailed Makefile](https://gist.github.com/Integralist/9e27ff5582d37ed26aef)
 - [Make and Bash Tips](https://github.com/Teradata/stampede/wiki/Make-and-Bash-Tips): Teradata/stampede Wiki
+- [How to Create a Self-Documenting Makefile](https://www.freecodecamp.org/news/self-documenting-makefile/)
+- [Quick Guide](https://www.tutorialspoint.com/makefile/makefile_quick_guide.htm)
 
 ##### KDE/Qt and GTK
 
@@ -298,6 +312,10 @@
 - [Lightweight Steering Approaches for Large Scale Physics Applications](https://www.youtube.com/watch?v=d5f9-Y3Wtbc&feature=youtu.be)
 - [leanstr](https://github.com/ramalho/leanstr): A "lean" string class for Python, using UTF-8 internally
 - [Better-Python-59-Ways](https://github.com/SigmaQuan/Better-Python-59-Ways): Code Sample of Book "Effective Python: 59 Specific Ways to Write Better Pyton" by Brett Slatkin
+- [Come test a new release of pipenv, the Python development tool](https://fedoramagazine.org/come-test-a-new-release-of-pipenv-the-python-development-tool/)
+- [FastAPI](https://github.com/tiangolo/fastapi) framework, high performance, easy to learn, fast to code, ready for production
+- cython [dtoa.c](https://github.com/python/cpython/blob/master/Python/dtoa.c)
+- [Learn to code with Wonder Woman, Smithsonian Learning Labs, and NASA](https://educationblog.microsoft.com/en-us/2020/09/learn-to-code-with-wonder-woman-smithsonian-learning-labs-and-nasa/), [Artemis](https://docs.microsoft.com/en-us/learn/modules/introduction-python-nasa/)
 
 ##### Jupyter
 
@@ -308,6 +326,8 @@
 - [How to Grow Neat Software Architecture out of Jupyter Notebooks](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks)
 - [tpqad](https://github.com/yhilpisch/tpqad): Workflow combining Asciidoctor with Codes in Jupyter Notebooks.
 - [Teaching and Learning with Jupyter](https://github.com/jupyter4edu/jupyter-edu-book) [book](https://jupyter4edu.github.io/jupyter-edu-book/)
+- [Save Jupyter Notebooks as PDF](https://betatim.github.io/posts/jupyter-notebooks-as-pdf/)
+- [nbviewer](https://github.com/jupyter/nbviewer) as a web service: Render Jupyter Notebooks as static web pages.
 
 ##### Presentations
 
@@ -362,6 +382,9 @@
 - PHP:
   - [A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem](https://github.com/chiraggude/awesome-laravel)
   - [Setup VS Code for Efficient PHP development](https://blog.theodo.com/2019/07/vscode-php-development/)
+  - [Topological Sort / Dependency resolver in PHP](https://github.com/marcj/topsort.php): High-Performance Topological Sort / Dependency resolver in PHP.
+- Ruby:
+  - [Radiation-hardened Quine](https://github.com/mame/radiation-hardened-quine): A robust quine program that works even after any one character is deleted.
 - Rust:
   - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust): A curated list of Rust code and resources.
   - [PortingCToRust](https://wiki.alopex.li/PortingCToRust)
@@ -446,6 +469,10 @@
   - [gitpod](https://www.gitpod.io/): One-Click Online IDE for GitHub
   - [forgit](https://github.com/wfxr/forgit) is a utility tool for git taking advantage of fuzzy finder fzf. [Interactive Git Commands With Previews Powered By fzf Fuzzy Finder](https://www.linuxuprising.com/2019/11/forgit-interactive-git-commands-with.html)
   - [Fedora Classroom Session: Git 101 with Pagure](https://fedoramagazine.org/fedora-classroom-session-git-101-with-pagure/)
+  - [GitGuardian Documentation and Resources](https://github.com/GitGuardian/APISecurityBestPractices)
+  - GitHub Profiles:
+    - [Awesome Readme Stats](https://github.com/anmol098/waka-readme-stats)
+  - [Git4Noobs](https://github.com/DanielHe4rt/git4noobs)
 - **Mercurial**:
   - [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos.
 - [Welcome to Pull Request Roulette](http://www.pullrequestroulette.com/).
@@ -497,6 +524,9 @@
 - [cva6](https://github.com/openhwgroup/cva6): The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux.
 - [Produce your own physical chips. For free. In the Open.](https://fossi-foundation.org/2020/06/30/skywater-pdk)
 - [The Complete 48K Disassembly](https://speccy.xyz/rom/)
+- [A Guide to the IBM 3033 Processor Complex, Attached Processor Complex, and Multiprocessor Complex of System/370](https://usermanual.wiki/Document/GC20185943033ProcessorComplexApr79.3299975525/view)
+- [vm80a](https://github.com/1801BM1/vm80a): i8080 precise replica in Verilog, based on reverse engineering of real die.
+- [DOGE Bank CICS](https://github.com/mainframed/DOGECICS/): Doge bank expensive new COBOL front end. The retail branches are gonna love this! 
 
 ### Electronics
 
@@ -531,11 +561,13 @@
 - [bootOS](https://github.com/nanochess/bootOS) is a monolithic operating system in 512 bytes of x86 machine code.
 - [A dream of an ultimate OS](http://okmij.org/ftp/papers/DreamOSPaper.html).
 - [KTF](https://github.com/awslabs/ktf)- Kernel Test Framework.
+- [A Requiem for a Dying Operating System](https://user.eng.umd.edu/~blj/funny/requium.html) or The Conquerer Has No Clothes.
 
 ### Linux Kernel
 
 - [ktask](https://lwn.net/Articles/771169/): optimizing CPU-intensive kernel work, LWN.net.
 - [Unikernels](https://dl.acm.org/citation.cfm?id=3321445): The Next Stage of Linux's Dominance
+- [How the ARM32 kernel starts](https://people.kernel.org/linusw/how-the-arm32-kernel-starts)
 
 ### Memmory
 
@@ -552,6 +584,7 @@
 - [Do It Yourself (OpenJDK) Garbage Collector](https://shipilev.net/jvm/diy-gc/)
 - [Let's Write an LLVM Specializer for Python!](http://dev.stephendiehl.com/numpile/)
 - [Compiler Explorer](https://godbolt.org/): Run compilers interactively from your web browser and interact with the assembly. [github](https://github.com/mattgodbolt/compiler-explorer), [how it works](https://xania.org/201609/how-compiler-explorer-runs-on-amazon).
+- [GraalVM](https://github.com/oracle/graal): GraalVM is a universal virtual machine for running applications written in JavaScript, Python, Ruby, R, JVM-based languages like Java, Scala, Clojure, Kotlin, and LLVM-based languages such as C and C++. [GraalVM Implementation of Python](https://github.com/graalvm/graalpython)
 
 ### API
 
@@ -608,6 +641,7 @@
 - [Attention Mechanism](https://blog.floydhub.com/attention-mechanism/): In this article, I will be covering the main concepts behind Attention, including an implementation of a sequence-to-sequence Attention model, followed by the application of Attention in Transformers and how they can be used for state-of-the-art results.
 - [Transformers](https://github.com/huggingface/transformers): State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 - [Bilingual Evaluation Understudy (BLEU)](https://leimao.github.io/blog/BLEU-Score/)
+- [Language Interpretability Tool (LIT)](https://github.com/pair-code/lit/): Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
 
 #### Dictionaries
 
@@ -688,6 +722,9 @@
 - [Machine Learning on Encrypted Data Without Decrypting It](https://juliacomputing.com/blog/2019/11/22/encrypted-machine-learning.html)
 - [Machine Learning and the Browser](https://academy.infinite.red/courses/beginning-machine-learning-with-tensorflow-js/lectures/11125772)
 - [Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/) (CS 330): stanfor ML classes.
+- [InvoiceNet](https://github.com/naiveHobo/InvoiceNet): Deep neural network to extract intelligent information from invoice documents.
+- [VoightKampff](https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff/src/master/): Beating Google ReCaptcha and the funCaptcha using AWS Rekognition.
+- [Inside TikTok's killer algorithm](https://www.axios.com/inside-tiktoks-killer-algorithm-52454fb2-6bab-405d-a407-31954ac1cf16.html)
 
 ### Machine Learning Articles
 
@@ -729,6 +766,7 @@
 - [A 2019 Guide to Speech Synthesis with Deep Learning](https://heartbeat.fritz.ai/a-2019-guide-to-speech-synthesis-with-deep-learning-630afcafb9dd)
 - [DeepPrivacy](https://arxiv.org/abs/1909.04538): A Generative Adversarial Network for Face Anonymization
 - [Image Deduplicator](https://idealo.github.io/imagededup/): [imagededup](https://github.com/idealo/imagededup) is a python package that simplifies the task of finding exact and near duplicates in an image collection.
+- [nnAudio](https://github.com/KinWaiCheuk/nnAudio): Audio processing by using pytorch 1D convolution network
 
 ### Computer Vision
 
@@ -813,6 +851,7 @@
 - [Mesh Spreadsheet](http://mesh-spreadsheet.com/): A free, [portable spreadsheet program](https://github.com/chrispsn/mesh).
 - [Metamath Zero: The Cartesian Theorem Prover](https://arxiv.org/abs/1910.10703)
 - [Free and Open-Source Textbooks](https://danaernst.com/resources/free-and-open-source-textbooks/): Here is a partial list of free and/or open-source textbooks.
+- [Computer Scientists Attempt to Corner the Collatz Conjecture](https://www.quantamagazine.org/can-computers-solve-the-collatz-conjecture-20200826/) [Collatz Conjecture](https://www.dcode.fr/collatz-conjecture)
 
 ### Theorems
 
@@ -836,6 +875,7 @@
 - [Geometry, Algebra, and Intuition](https://www.shapeoperator.com/2017/02/28/geometry-algebra-intuition/)
 - [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/): _Linear_: having to do with lines, planes, etc. _Algebra_: solving equations involving unknowns. [repo](https://github.com/QBobWatson/gt-linalg)
 - [Pattern Matching](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1371r1.pdf): Pattern matching is a widely adoptedmechanism across many programming languages to interact with algebraic data types that can help greatlysimplify C++.
+- [Graphical Linear Algebra](https://graphicallinearalgebra.net/)
 
 ### Matrices
 
@@ -962,6 +1002,10 @@
 - [Python Plotting for Exploratory Data Analysis](https://pythonplot.com/)  by [Tim Hopper](https://twitter.com/tdhopper/status/1212821555710963712) [repo](https://github.com/tdhopper/pythonplot.com)
 - [Scraping Roger Ebert’s reviews and finding his favorite movies on Amazon Prime](https://www.linisnil.com/articles/scraping-roger-ebert-reviews-and-amazon/)
 - [ffscrapr](https://ffscrapr.dynastyprocess.com/): An R Client for Fantasy Football League APIs. [repo](https://github.com/dynastyprocess/ffscrapr/)
+- [sjPlot ](https://strengejacke.github.io/sjPlot/): Data Visualization for Statistics in Social Science,[repo](https://github.com/strengejacke/sjPlot)
+- [7 common angles for data stories](https://onlinejournalismblog.com/2020/08/12/3-more-angles-most-often-used-to-tell-data-stories-explorers-relationships-and-bad-data-stories/)
+- [An Interactive 2010 Census Plotly-dash Visualization Accelerated By RAPIDS](https://news.developer.nvidia.com/an-interactive-2010-census-plotly-dash-visualization-accelerated-by-rapids/)
+- [bonecave](https://github.com/schmert/bonecave):  Miscellaneous programs and data
 
 #### Datasets
 
@@ -978,6 +1022,8 @@
 - [Inside Airbnb](http://insideairbnb.com/get-the-data.html): Inside Airbnb is an independent, non-commercial set of tools and data that allows you to explore how Airbnb is really being used in cities around the world.
 - (pt-br) [Catálogos de dados abertos no Brasil](https://github.com/dadosgovbr/catalogos-dados-brasil): Mapeamento de iniciativas (e catálogos) de dados abertos governamentais no Brasil.
 - [palmerpenguins](https://github.com/allisonhorst/palmerpenguins): A great intro dataset for data exploration & visualization (alternative to iris).
+- [Harvard Dataverse](https://dataverse.harvard.edu/)
+- [amsterdam-schema](https://github.com/Amsterdam/amsterdam-schema): Data modeling & verification for the City of Amsterdam's open data - based on JSON Schema
 
 #### Luna
 
@@ -1019,7 +1065,7 @@
 - [The Putin Exodus](https://publications.atlanticcouncil.org/putin-exodus/): The New Russian Brain Drain
 - [Analysing the Wahl-O-Mat about the 2019 EU election](https://github.com/askLubich/Wahl-O-Mat-EU-2019)
 - [NYT-style urban heat island maps](https://www.katiejolly.io/blog/2019-08-28/nyt-urban-heat)
-- [](https://www.nytimes.com/interactive/2019/08/29/opinion/hurricane-dorian-forecast-map.html)
+- [Those Hurricane Maps Don’t Mean What You Think They Mean](https://www.nytimes.com/interactive/2019/08/29/opinion/hurricane-dorian-forecast-map.html)
 - [Summer Olympics](https://gerardofurtado.com/mt/mt.html): Medal Tally
 - How to create data-driven presentations with jupyter notebooks, reveal.js, host on github, and show it to the world: [Part I — make a basic slide deck](https://towardsdatascience.com/how-to-create-data-driven-presentations-with-jupyter-notebooks-reveal-js-e7a42a1fb7d7)
 - [VR-Viz](https://www.informationisbeautifulawards.com/showcase/3884-vr-viz-visualization-system-for-virtual-reality): [Visualization System For Virtual Reality](https://vr-viz.netlify.com/?selectedKind=VR-Viz&selectedStory=Introduction&full=0&addons=1&stories=1&panelRight=1&addonPanel=kadira%2Fjsx%2Fpanel), [github](https://github.com/mustafasaifee42/vr-viz)
@@ -1031,6 +1077,7 @@
 - [How the Virus Won](https://www.nytimes.com/interactive/2020/us/coronavirus-spread.html): Invisible outbreaks sprang up everywhere. The United States ignored the warning signs. We analyzed travel patterns, hidden infections and genetic data to show how the epidemic spun out of control.
 - [Goodwill.com Hunting](https://goodwill.awardwinninghuman.com/): A Graphical Analysis of Women's Tops Sold on Goodwill's Website.
 - [see](https://github.com/easystats/see)￼ Visualisation toolbox for beautiful and publication-ready figures
+- [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)
 
 ### Calculus
 
@@ -1056,6 +1103,7 @@
 ### Discretionary Math
 
 - [Elliptic Curve Cryptography](https://www.johannes-bauer.com/compsci/ecc/)
+- [An Introduction to Higher Mathematics](http://people.whitman.edu/~gordon/higher_math.pdf)
 
 ### Signal Processing
 
@@ -1088,7 +1136,6 @@
 - [Oni](https://github.com/onivim/oni): Modern Modal Editing - powered by Neovim
 - [pyodide](https://github.com/iodide-project/pyodide): The Python scientific stack, compiled to WebAssembly
 - [My journey into fractals](https://medium.com/@bananaft/my-journey-into-fractals-d25ebc6c4dc2)
-- [vscodium](https://github.com/VSCodium/vscodium): binary releases of VS Code without MS branding/telemetry/licensing
 - [sourcegraph](https://github.com/sourcegraph/sourcegraph): Code search and intelligence, self-hosted and scalable
 - [trigonoparty](https://github.com/ramesaliyev/trigonoparty): Simple Trigonometry Visualisation with Pure JavaScript.
 - [An Intro to Integer Programming for Engineers: Simplified Bus Scheduling](https://blog.remix.com/an-intro-to-integer-programming-for-engineers-simplified-bus-scheduling-bd3d64895e92)
@@ -1117,6 +1164,7 @@
 - [Heat](https://github.com/susam/heart): My heart for Cutie Pai
 - [alcFreeliner](https://github.com/maxdee/alc_freeliner): [live geometric animation tool powerhouse](https://freeliner.xyz)
 - [hard-comp-fi-fiction-list](https://fiftysevendegreesofrad.github.io/hard-comp-fi-fiction-list/): This resource lists a bunch of stories which in some way, explore the beautiful ideas behind computer science, software engineering and even plain old programming.
+- [The International Obfuscated C Code Contest](http://ioccc.org/winners.html#Yusuke_Endoh)
 
 ### Music
 
@@ -1163,7 +1211,12 @@
 - [ipgeolocation Astronomy API](https://www.programmableweb.com/api/ipgeolocation-astronomy): The ipgeolocation Astronomy API provides timings for astronomical events including sunrise, sunset, moonrise, moonset, sun azimuth, moon azimuth, sun altitude, moon altitude, sun distance from the earth, and moon distance from the earth.
 - [The Orbital Index](https://orbitalindex.com/archive/2019-07-30-Issue-23/)
 - (pt-br) [materiais GRATUITOS para quem quer aprender astronomia sem sair de casa](https://twitter.com/geisa_ponte/status/1218921994663682049)
-
+- [Dwarf planet closest to Earth is geologically alive](https://www.nationalgeographic.com/science/2020/08/dwarf-planet-ceres-churns-briny-fluids-icy-volcanoes-nasa-dawn/)
+- [Bahtinov mask](https://en.wikipedia.org/wiki/Bahtinov_mask) and [Bahtinov Focusing Mask Generator](http://astrojargon.net/MaskGenerator.aspx?AspxAutoDetectCookieSupport=1)
+- [Report Offers Roadmap to Mitigate Effects of Large Satellite Constellations on Astronomy](https://www.noirlab.edu/public/news/noirlab2022/)
+- [AstroNames](https://astronomesetc.blogspot.com/) blog about astronomy and etimology, like [Terra]()https://astronomesetc.blogspot.com/2020/08/a-terra-de-seca-umida.html
+- [See a Satellite Tonight](https://james.darpinian.com/satellites/)
+  
 ### Astro Articles
 
 - [HST imaging of four gravitationally lensed quasars](https://arxiv.org/pdf/1807.03553.pdf)
@@ -1182,11 +1235,16 @@
 - [Open MCT](https://nasa.github.io/openmct/): is a next-generation mission control framework for visualization of data on desktop and mobile devices - [github](https://github.com/nasa/openmct)
 - [Sawppy](https://github.com/Roger-random/Sawppy_Rover): is a motorized model of Mars rovers Curiosity and Mars 2020. It faithfully reproduces the Rocker-Bogie suspension kinematics of real rovers and is intended to be a hardware platform for future software projects in autonomous operation. Go forth and boldly explore the back yard, Sawppy!
 - "[Uptime 15,364 days - The Computers of Voyager](https://www.youtube.com/watch?v=H62hZJVqs2o)" by Aaron Cummings
+- [Visible Earth](https://eyes.nasa.gov/apps/earth/#/)
 
 #### SpaceX
 
 - [SpaceX-API](https://github.com/r-spacex/SpaceX-API): Open Source REST API for rocket, core, capsule, pad, and launch data
 - [The Incredible Sounds of the Falcon Heavy Launch (BINAURAL AUDIO IMMERSION) - Smarter Every Day 189](https://www.youtube.com/watch?v=ImoQqNyRL8Y&feature=youtu.be)
+
+## Robotics
+
+- [Open problems in Robotics](https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/)
 
 ## Chemistry
 
@@ -1207,6 +1265,7 @@
 - [MNE-Python](https://github.com/mne-tools/mne-python): Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python
 - [The Precautionary Principle](https://www.fooledbyrandomness.com/PrecautionaryPrinciple.html): The PP within the statistical and probabilistic structure of “ruin” problems. Applies but not limited to transgenics(GMOs).
 - [nCoV2019](https://github.com/beoutbreakprepared/nCoV2019): Location for summaries and analyses of data related to n-CoV 2019, first reported in Wuhan, China.
+- [Quantum to Cosmos](https://quantumtocosmos.ca/), A journey through the universe
 
 ## Geography
 
@@ -1220,6 +1279,12 @@
 - [A visual map of sunlight on earth.](https://sunlight.live/)
 - Communicating Volcanoes: [Resources for Media](http://inthecompanyofvolcanoes.blogspot.com/2018/02/communicating-volcanoes-resources-for.html)
 - [Repositório de dados](https://github.com/mauriciovancine/disciplina-geoprocessamento): Introdução ao geoprocessamento para Etnobiologia e Conservação da Biodiversidade
+- [GeoPandas](https://github.com/geopandas/geopandas): Python tools for geographic data
+- [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=7&lat=-22.01945&lng=-52.42676&themeId=DEFAULT-THEME&datasetId=S2L1C&fromTime=2020-09-19T00%3A00%3A00.000Z&toTime=2020-09-19T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&visualizationUrl=https%3A%2F%2Fservices.sentinel-hub.com%2Fogc%2Fwms%2F42924c6c-257a-4d04-9b8e-36387513a99c): A complete archive of Sentinel-1, Sentinel-2, Sentinel-3, Sentinel-5P, ESA’s archive of Landsat 5, 7 and 8, global coverage of Landsat 8, Envisat Meris, MODIS, Proba-V and GIBS products in one place.
+
+## History
+
+- [China's History 101](https://www.youtube.com/watch?v=3T1tadzNNZ8)
 
 ## Humanities
 
@@ -1231,6 +1296,7 @@
 - [Marketing-For-Self-Made-Experts](https://github.com/philipmorg/Marketing-For-Self-Made-Experts)
 - (pt-br) [Parlametria](https://parlametria.org/home): O Parlametria surgiu do esforço de organizações que trabalham com o monitoramento do legislativo para traduzir e dar sentido a essa massa de dados, de forma que a sociedade civil possa acompanhar e influenciar os debates que acontecem no Congresso Nacional.
 - [Postbag](https://postbag.co/): Find journalists, bloggers and webmasters covering your niche.
+- [Here are the greatest novels ever written about every sport.](https://lithub.com/here-are-the-greatest-novels-ever-written-about-every-sport/)
 
 ### Economy
 
@@ -1242,6 +1308,9 @@
 - [Suicide Data Reveal New Intervention Spots, Such as Motels and Animal Shelters](https://www.scientificamerican.com/article/suicide-data-reveal-new-intervention-spots-such-as-motels-and-animal-shelters/)
 - [Spinner](https://www.thespinner.net/): a basic-looking website that sells a unique, online-manipulation service.
 - [How Your Heart Influences What You Perceive and Fear](http://nautil.us/blog/how-your-heart-influences-what-you-perceive-and-fear)
+- [Defining Collective Identities in Technopolitical Interaction Networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7422503/)
+- [Why Facts Don’t Change Our Minds](https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds)
+- [Social attributions from faces bias human choices](http://tlab.princeton.edu/publication_files/Social%20attributions%20from%20faces%20bias%20human%20choices.pdf)
 
 ## On-line Services
 
@@ -1283,6 +1352,7 @@
 - [SVG Is Turing Complete](https://github.com/tom-p-reichel/svg-is-turing-complete)
 - [glChAoS.P](https://www.michelemorrone.eu/glchaosp/)(opengl Chaotic Attractor of Slight (dot) Particles): open source - multiplatform - 3D real time strange attractors scout... and hypercomplex fractals. [github](https://github.com/BrutPitt/glChAoS.P)
 - [diffsvg](https://github.com/jrsmith3/diffsvg): A diff tool for SVG files.
+- [Graphics Programming Projects](http://graphicscodex.com/projects/projects/index.html)
 
 ### CG Articles
 
@@ -1293,6 +1363,7 @@
 
 - [ARKit + SceneKit Geometries Tutorial (Part 2)](https://medium.com/@maxxfrazer/arkit-scenekit-geometries-tutorial-part-2-ff315d8d7030), [github](https://github.com/maxxfrazer/SCNCustomGeometries-Part2)
 - [LIDAR MAPPING WITH OUSTER 3D SENSORS](https://www.ouster.io/blog-posts/2019/3/29/lidar-mapping-with-ouster-3d-sensors): One of the best uses of lidar technology is for mapping. With lidar, you get a 3D model of everything around you.
+- [Dynamic projection mapping onto deforming non-rigid surface using a high-speed projector](http://ishikawa-vision.org/vision/DPM/) [Video](https://www.youtube.com/watch?v=-bh1MHuA5jU&feature=youtu.be).
 
 ## 3D Modelling/Printing
 
@@ -1329,6 +1400,8 @@
 - [netris](https://git.sr.ht/~tslocum/netris?0.1.2): Multiplayer Tetris clone. -> _ssh netris.rocketnine.space_
 - [GB-NES-PDF-HTML-ZIP](https://github.com/ViGrey/gb-nes-pdf-html-zip): A Gameboy ROM that is also an NES ROM, a PDF File, an HTML File, and a ZIP File that contains its own source code
 - [VRWorkout](https://github.com/mgschwan/VRWorkout): Virtual reality workout game for Oculus Quest.
+- [Nintendo DS](https://www.copetti.org/projects/consoles/nintendo-ds/)
+- [Synfig Studio](https://github.com/synfig/synfig/): This is the Official source code repository of the Synfig project.
 
 ## Writing Articles
 
@@ -1338,6 +1411,8 @@
 - [How to Write an Abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html)
 - [Best Paper Awards in Computer Science (since 1996)](https://jeffhuang.com/best_paper_awards.html)
 - [Tips and Tricks for Writing Scientific Papers](https://github.com/Wookai/paper-tips-and-tricks): Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.
+- (pt-br) [uma TESE são “só” 5 coisas…](https://boletim.de/silvio/uma-tese-sao-so-5-coisas/)
+- [Using Microsoft Word with git](https://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/)
   
 ## Teaching
 
@@ -1370,6 +1445,7 @@
 - The True Cost of a PhD: [Giving Up a Family for Academia](https://www.jamesgmartin.center/2019/10/the-true-cost-of-a-phd-giving-up-a-family-for-academia/)
 - CS 330: [Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/)
 - [Surgical Reading](https://superorganizers.substack.com/p/surgical-reading-how-to-read-12-books): How to Read 12 Books at Once.
+- [The Hacker Way: How I taught my nephew to program](https://stopa.io/post/246)
 
 ### Writing
 
@@ -1393,6 +1469,7 @@
 - [The Myths of Color Contrast Accessibility](https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/)
 - [How Zoom Works](https://builtformars.co.uk/how-zoom-works/)
 - [Laws of UX](https://lawsofux.com/)
+- [Accessibility resources](https://github.com/ediblecode/accessibility-resources): A curated list of accessibility resources.
 
 ### web
 
@@ -1432,6 +1509,10 @@
 - [Cape Privacy](https://github.com/capeprivacy/cape-python): Collaborate on privacy-preserving policy for data science projects in Pandas and Apache Spark.
 - [Dark Patterns after the GDPR: Scraping Consent Pop-ups and Demonstrating their Influence](https://arxiv.org/abs/2001.02479)
 - [The TikTok War](https://stratechery.com/2020/the-tiktok-war/)
+- [3.5 Years of a Relationship, in Whatsapp Messages](https://medium.com/data-slice/3-5-years-of-a-relationship-in-whatsapp-messages-4f4c95073c9d)
+- [Meet the Star Witness: Your Smart Speaker](https://www.wired.com/story/star-witness-your-smart-speaker/)
+- [autodp](https://github.com/yuxiangw/autodp): Automating differential privacy computation - A flexible and easy-to-use package for differential privacy
+- [“I Have Blood on My Hands”](https://www.buzzfeednews.com/article/craigsilverman/facebook-ignore-political-manipulation-whistleblower-memo): A Whistleblower Says Facebook Ignored Global Political Manipulation
 
 ## Philosophy
 
@@ -1480,6 +1561,7 @@
 - [No Maintenance Intended](http://unmaintained.tech/):If you’re here, that likely means a project linked you here. Thanks so much for being interested in that project! [github](https://github.com/potch/unmaintained.tech)
 - [Sourceful](https://sourceful.co.uk/): Discover the best public Google docs.
 - [Virtual Colossus](http://www.virtualcolossus.co.uk/): Bringing the world's first electronic computer to you in digital form
+- [RFC8890: The Internet is for End Users](https://www.mnot.net/blog/2020/08/28/for_the_users)
 
 ### Jobs
 
@@ -1533,6 +1615,7 @@
 - [Interviews with open source maintainers and developers](https://sourcesort.com/)
 - [What I Learnt From Reviewing 22 CVs](https://youknowfordevs.com/2020/07/04/what-i-learnt-from-reviewing-22-cvs.html)
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't have a broken hiring process.
+- [Work at a Startup](https://www.workatastartup.com/)
 
 ## General Fun
 
@@ -1577,6 +1660,15 @@
 - [Divulgação Científica](https://github.com/DivulgacaoCientifica/divulgacaocientifica): Essa é apenas uma lista PT-BR, o conteúdo dos podcasts/canais é de inteira responsabilidade dos autores.
 - [Science is the belief in the ignorance of experts](https://lemire.me/blog/2020/07/12/science-is-the-belief-in-the-ignorance-of-experts/)
 - [C++ Creator Bjarne Stroustrup Weighs in on Distributed Systems, Type Safety and Rust](https://thenewstack.io/c-creator-bjarne-stroustrup-weighs-in-on-distributed-systems-type-safety-and-rust/)
+- [Gigapixel AI Accidentally Added Ryan Gosling’s Face to This Photo](https://petapixel.com/2020/08/17/gigapixel-ai-accidentally-added-ryan-goslings-face-to-this-photo/)
+- [Challenge to scientists: does your ten-year-old code still run?](https://www.nature.com/articles/d41586-020-02462-7)
+- [PDF: Still Unfit for Human Consumption, 20 Years Later](https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/): Research spanning 20 years proves PDFs are problematic for online reading. Yet they’re still prevalent and users continue to get lost in them. They’re unpleasant to read and navigate and remain unfit for digital-content display.
+- [Why a Medieval Woman Had Lapis Lazuli Hidden in Her Teeth](https://getpocket.com/explore/item/why-a-medieval-woman-had-lapis-lazuli-hidden-in-her-teeth)
+- [How Chekhov invented the modern short story](https://www.newstatesman.com/culture/books/2020/08/how-chekhov-invented-modern-short-story)
+- [this electrical transmission tower has a little problem. can you spot it? actually, it's not a small problem--it cost us 16.65 *billion* dollars and caused the deaths of 85 people.](https://threadreaderapp.com/thread/1306359385656946688.html)
+- (pt-br) [A República Precisa de Cientistas?…](https://boletim.de/silvio/a-republica-precisa-de-cientistas/)
+- [The Language of Science](https://www.scientificamerican.com/article/the-language-of-science/): How the words we use have evolved over the past 175 years
+- [Computer Search Settles 90-Year-Old Math Problem](https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/)
 
 ### 2019
 

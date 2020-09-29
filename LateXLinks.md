@@ -14,6 +14,7 @@
 
 - [LaTeX Table Generator](https://www.tablesgenerator.com/)
 - [Wide figure/table in a twocolumn/multi-column document – texblog](https://texblog.org/2012/07/30/single-column-figuretable-in-a-two-multi-column-environment/)
+- [Tables in LaTeX](https://robjhyndman.com/hyndsight/tables-in-latex/)
 
 ## Math
 
