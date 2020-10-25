@@ -144,6 +144,9 @@
 - [Quine Relay](https://github.com/mame/quine-relay): An uroboros program with 100+ programming languages.
 - [Resources for teaching programming](https://github.com/villares/Resources-for-teaching-programming) for artists, designers and architects
 - [The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
+- [My broad research goal is to help developers build more efficient software systems more efficiently.](https://sites.google.com/a/cin.ufpe.br/castor/research)
+- [Exercism](https://github.com/lambda-study-group/exercism): Exercism exercises in functional programming languages like Clojure, Elixir, Elm, Haskell Scala, Lisp, Erlang, Purescript, F# or Scheme.
+- [A review of consensus protocols](https://thomasvilhena.com/2020/10/a-review-of-consensus-protocols): The consensus problem is a fundamental problem in multi-agent systems which requires a group of processes (or agents) to reliably and timely agree on a single data value.
 
 #### IDEs
 
@@ -229,6 +232,7 @@
   - [Modern C++ Programming with Test-Driven Development](https://pragprog.com/titles/lotdd/modern-c-programming-with-test-driven-development/) by [Jeff Langr](https://github.com/jlangr)
   - [The Biggest Problems of Unit Testing With C++](https://dzone.com/articles/the-biggest-problems-of-unit-testing-with-c)
 - [Modern C](https://modernc.gforge.inria.fr/) by Jens Gustedt
+- [Dogen](https://github.com/MASD-Project/dogen): Reference implementation of the MASD Code Generator.
 
 #### Makefile
 
@@ -316,6 +320,8 @@
 - [FastAPI](https://github.com/tiangolo/fastapi) framework, high performance, easy to learn, fast to code, ready for production
 - cython [dtoa.c](https://github.com/python/cpython/blob/master/Python/dtoa.c)
 - [Learn to code with Wonder Woman, Smithsonian Learning Labs, and NASA](https://educationblog.microsoft.com/en-us/2020/09/learn-to-code-with-wonder-woman-smithsonian-learning-labs-and-nasa/), [Artemis](https://docs.microsoft.com/en-us/learn/modules/introduction-python-nasa/)
+- [BeeWare Project](https://beeware.org/project/): The BeeWare Project aims to take the power of Python as a language, and use it to enable users of all skill levels to develop applications with native user interfaces.
+- [kivy](https://github.com/kivy/kivy): Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS.
 
 ##### Jupyter
 
@@ -472,7 +478,11 @@
   - [GitGuardian Documentation and Resources](https://github.com/GitGuardian/APISecurityBestPractices)
   - GitHub Profiles:
     - [Awesome Readme Stats](https://github.com/anmol098/waka-readme-stats)
+    - [ghuser.io](https://github.com/ghuser-io/ghuser.io): Better GitHub profiles
+    - (pt-br) [Github Profile: Como fazer?](https://dev.to/dii_lua/github-profile-como-fazer-54o0)
   - [Git4Noobs](https://github.com/DanielHe4rt/git4noobs)
+  - (pt-br) [github4nondevs](https://github.com/Carolis/github4nondevs): Guia introdutório de utilização básica da interface do github para pessoas não desenvolvedoras ou não interessadas em utilizar a interface de comandos do git.
+  - [Fortunately, I don't squash my commits](https://blog.ploeh.dk/2020/10/05/fortunately-i-dont-squash-my-commits/)
 - **Mercurial**:
   - [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos.
 - [Welcome to Pull Request Roulette](http://www.pullrequestroulette.com/).
@@ -482,7 +492,7 @@
   - [awesome-social-projects](https://github.com/Jciel/awesome-social-projects)
   - [The Minimum Viable Pull-request](https://dev.to/jmfayard/the-minimum-viable-pull-request-5e7p)
 
-#### Software Engenieering
+#### Software Engineering
 
 - [UML - Class Diagram](https://www.tutorialspoint.com/uml/uml_class_diagram.htm)
 - [UML 2 Class Diagrams](http://www.agilemodeling.com/artifacts/classDiagram.htm): An Agile Introduction
@@ -490,6 +500,7 @@
 - All You Need to Know About UML Diagrams: [Types and 5+ Examples](https://tallyfy.com/uml-diagram/)
 - [Curated list of UML tools – 2018 edition](https://modeling-languages.com/uml-tools/)
 - [UML Tools for Python](http://sungsoo.github.io/2018/03/21/uml-tools-for-python.html)
+- [Monolith -> Services: Theory & Practice](https://medium.com/@kentbeck_7670/monolith-services-theory-practice-617e4546a879)
   
 ---
 
@@ -589,6 +600,7 @@
 ### API
 
 - [Useful checklist for building good Python library APIs, based on "How to make a good library API" PyCon 2017 talk](https://github.com/vintasoftware/python-api-checklist/)
+- [cookiecutter-flask-restful](https://github.com/karec/cookiecutter-flask-restful):
 
 ## Distributed Systems
 
@@ -618,6 +630,7 @@
 - [Talking AI, Art, and Entangled Realities with HeK Basel’s Director Sabine Himmelsbach](https://medium.com/digital-art-weekly-by-danae-hi/talking-ai-art-and-exhibition-entangled-realities-with-hek-basels-director-sabine-himmelsbach-654b7077c0a0)
 - [Many Experts Say We Shouldn’t Worry About Superintelligent AI. They’re Wrong](https://spectrum.ieee.org/computing/software/many-experts-say-we-shouldnt-worry-about-superintelligent-ai-theyre-wrong)
 - [Exploring how different framings of the same supervised learning task affect model performance](https://andersource.dev/2020/07/12/supervised-task-framing.html): [face-classification-problem-framing](https://github.com/andersource/face-classification-problem-framing)
+- [donkeycar](https://github.com/autorope/donkeycar): Open source hardware and software platform to build a small scale self driving car.
 
 ### Genetic Algorithms
 
@@ -725,6 +738,7 @@
 - [InvoiceNet](https://github.com/naiveHobo/InvoiceNet): Deep neural network to extract intelligent information from invoice documents.
 - [VoightKampff](https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff/src/master/): Beating Google ReCaptcha and the funCaptcha using AWS Rekognition.
 - [Inside TikTok's killer algorithm](https://www.axios.com/inside-tiktoks-killer-algorithm-52454fb2-6bab-405d-a407-31954ac1cf16.html)
+- [Audiovisual Speech Enhancement in YouTube Stories](https://ai.googleblog.com/2020/10/audiovisual-speech-enhancement-in.html)
 
 ### Machine Learning Articles
 
@@ -742,6 +756,7 @@
 - [A Differentiable Programming System to Bridge Machine Learning and Scientific Computing](https://arxiv.org/abs/1907.07587) - [github](https://github.com/MikeInnes/zygote-paper)
 - [CROKAGE](https://stackoverflow.blog/2019/08/14/crokage-a-new-way-to-search-stack-overflow/): A New Way to Search Stack Overflow. [isel on ufu](http://www.isel.ufu.br:9000/)
 - [Overton: A Data System for Monitoring and Improving Machine-Learned Products](https://arxiv.org/abs/1909.05372)
+- [Reinforcement learning is supervised learning on optimized data](https://bair.berkeley.edu/blog/2020/10/13/supervised-rl/)
   
 ### Neural Networks
 
@@ -767,6 +782,7 @@
 - [DeepPrivacy](https://arxiv.org/abs/1909.04538): A Generative Adversarial Network for Face Anonymization
 - [Image Deduplicator](https://idealo.github.io/imagededup/): [imagededup](https://github.com/idealo/imagededup) is a python package that simplifies the task of finding exact and near duplicates in an image collection.
 - [nnAudio](https://github.com/KinWaiCheuk/nnAudio): Audio processing by using pytorch 1D convolution network
+- [Making the Birds Fly with AI (or at least Flap)](https://medium.com/@peterfarrell66/making-the-birds-fly-with-ai-or-at-least-flap-87ffd57b95e3), [github repo](https://github.com/hackingmath/Neural-Net)
 
 ### Computer Vision
 
@@ -1006,6 +1022,7 @@
 - [7 common angles for data stories](https://onlinejournalismblog.com/2020/08/12/3-more-angles-most-often-used-to-tell-data-stories-explorers-relationships-and-bad-data-stories/)
 - [An Interactive 2010 Census Plotly-dash Visualization Accelerated By RAPIDS](https://news.developer.nvidia.com/an-interactive-2010-census-plotly-dash-visualization-accelerated-by-rapids/)
 - [bonecave](https://github.com/schmert/bonecave):  Miscellaneous programs and data
+- [Predicting your BMI from just a photo - a Github safari](https://www.sherpapieces.eu/overview/predicting-your-bmi-from-a-just-photo-a-github-safari), Google India [face-to-bmi](https://github.com/Google-Research-India-Health/face-to-bmi) and [Instagram Misogyny Classification and Correlation](https://github.com/aniruddhapdeshpande99/IG-Misogyny-Classification/)
 
 #### Datasets
 
@@ -1165,6 +1182,9 @@
 - [alcFreeliner](https://github.com/maxdee/alc_freeliner): [live geometric animation tool powerhouse](https://freeliner.xyz)
 - [hard-comp-fi-fiction-list](https://fiftysevendegreesofrad.github.io/hard-comp-fi-fiction-list/): This resource lists a bunch of stories which in some way, explore the beautiful ideas behind computer science, software engineering and even plain old programming.
 - [The International Obfuscated C Code Contest](http://ioccc.org/winners.html#Yusuke_Endoh)
+- Fermats Library:
+  - [The mathematical art of juggling:using mathematics to predict, describe and create](https://fermatslibrary.com/s/the-mathematical-art-of-juggling)
+  - [The Environment and Disease: Association or Causation?](https://fermatslibrary.com/s/the-environment-and-disease-association-or-causation)
 
 ### Music
 
@@ -1189,6 +1209,7 @@
 - [List of freely available physics books](https://physics.stackexchange.com/questions/6157/list-of-freely-available-physics-books)
 - [The Forgotten Solution: Superdeterminism](https://backreaction.blogspot.com/2019/07/the-forgotten-solution-superdeterminism.html)
 - [The crisis in physics is not only about physics](https://backreaction.blogspot.com/2019/10/the-crisis-in-physics-is-not-only-about.html)
+- [tsParticles](https://github.com/matteobruni/tsparticles): Easily add particles animations to your website. Compatible also with React, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno.
 
 ### Astronomy
 
@@ -1214,7 +1235,7 @@
 - [Dwarf planet closest to Earth is geologically alive](https://www.nationalgeographic.com/science/2020/08/dwarf-planet-ceres-churns-briny-fluids-icy-volcanoes-nasa-dawn/)
 - [Bahtinov mask](https://en.wikipedia.org/wiki/Bahtinov_mask) and [Bahtinov Focusing Mask Generator](http://astrojargon.net/MaskGenerator.aspx?AspxAutoDetectCookieSupport=1)
 - [Report Offers Roadmap to Mitigate Effects of Large Satellite Constellations on Astronomy](https://www.noirlab.edu/public/news/noirlab2022/)
-- [AstroNames](https://astronomesetc.blogspot.com/) blog about astronomy and etimology, like [Terra]()https://astronomesetc.blogspot.com/2020/08/a-terra-de-seca-umida.html
+- [AstroNames](https://astronomesetc.blogspot.com/) blog about astronomy and etimology, like [Terra](https://astronomesetc.blogspot.com/2020/08/a-terra-de-seca-umida.html)
 - [See a Satellite Tonight](https://james.darpinian.com/satellites/)
   
 ### Astro Articles
@@ -1266,6 +1287,9 @@
 - [The Precautionary Principle](https://www.fooledbyrandomness.com/PrecautionaryPrinciple.html): The PP within the statistical and probabilistic structure of “ruin” problems. Applies but not limited to transgenics(GMOs).
 - [nCoV2019](https://github.com/beoutbreakprepared/nCoV2019): Location for summaries and analyses of data related to n-CoV 2019, first reported in Wuhan, China.
 - [Quantum to Cosmos](https://quantumtocosmos.ca/), A journey through the universe
+- [Cells are very fast and crowded places](http://www.righto.com/2011/07/cells-are-very-fast-and-crowded-places.html)
+- [baltic](https://github.com/evogytis/baltic): backronymed adaptable lightweight tree import code for molecular phylogeny manipulation, analysis and visualisation. Development is back on the evogytis/baltic branch (i.e. here).
+- [Seraphim](http://evolve.zoo.ox.ac.uk/Evolve/Seraphim.html): Studying Environmental Rasters And PHylogenetically Informed Movements. [seraphim](https://github.com/evogytis/baltic) is a R package for studying environmental rasters and phylogenetic informed movements
 
 ## Geography
 
@@ -1281,6 +1305,7 @@
 - [Repositório de dados](https://github.com/mauriciovancine/disciplina-geoprocessamento): Introdução ao geoprocessamento para Etnobiologia e Conservação da Biodiversidade
 - [GeoPandas](https://github.com/geopandas/geopandas): Python tools for geographic data
 - [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=7&lat=-22.01945&lng=-52.42676&themeId=DEFAULT-THEME&datasetId=S2L1C&fromTime=2020-09-19T00%3A00%3A00.000Z&toTime=2020-09-19T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&visualizationUrl=https%3A%2F%2Fservices.sentinel-hub.com%2Fogc%2Fwms%2F42924c6c-257a-4d04-9b8e-36387513a99c): A complete archive of Sentinel-1, Sentinel-2, Sentinel-3, Sentinel-5P, ESA’s archive of Landsat 5, 7 and 8, global coverage of Landsat 8, Envisat Meris, MODIS, Proba-V and GIBS products in one place.
+- [ærialbot](https://github.com/doersino/aerialbot): A simple yet highly configurable bot that tweets geotagged aerial imagery of a random location in the world.
 
 ## History
 
@@ -1322,6 +1347,7 @@
 ## Filesystems
 
 - [Reproducing resuts from old papers on modern filesystems](https://github.com/danluu/fs-errors/)
+- [Petit FAT File System Module](http://elm-chan.org/fsw/ff/00index_p.html)
 
 ## Computer Graphics
 
@@ -1353,6 +1379,7 @@
 - [glChAoS.P](https://www.michelemorrone.eu/glchaosp/)(opengl Chaotic Attractor of Slight (dot) Particles): open source - multiplatform - 3D real time strange attractors scout... and hypercomplex fractals. [github](https://github.com/BrutPitt/glChAoS.P)
 - [diffsvg](https://github.com/jrsmith3/diffsvg): A diff tool for SVG files.
 - [Graphics Programming Projects](http://graphicscodex.com/projects/projects/index.html)
+- [What Color Is This?](https://multithreaded.stitchfix.com/blog/2020/09/02/what-color-is-this/) [Part 2](https://multithreaded.stitchfix.com/blog/2020/10/13/what-color-is-this-part-2/)
 
 ### CG Articles
 
@@ -1402,6 +1429,8 @@
 - [VRWorkout](https://github.com/mgschwan/VRWorkout): Virtual reality workout game for Oculus Quest.
 - [Nintendo DS](https://www.copetti.org/projects/consoles/nintendo-ds/)
 - [Synfig Studio](https://github.com/synfig/synfig/): This is the Official source code repository of the Synfig project.
+- [The Comprehensive Kerbal Archive Network (CKAN)](https://github.com/KSP-CKAN/CKAN)
+- [wick editor](https://www.wickeditor.com/): [The Wick Editor is a free](https://github.com/Wicklets/wick-editor), open-source tool for creating games, animations, and everything in-between!
 
 ## Writing Articles
 
@@ -1446,6 +1475,8 @@
 - CS 330: [Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/)
 - [Surgical Reading](https://superorganizers.substack.com/p/surgical-reading-how-to-read-12-books): How to Read 12 Books at Once.
 - [The Hacker Way: How I taught my nephew to program](https://stopa.io/post/246)
+- [DevChallenge](https://github.com/Lorenalgm/DevChallenge): A website for developers to improve their skills by doing front-end and back-end challenges
+- (pt-br) [Free IT Courses](https://github.com/alinebastos/free-courses)
 
 ### Writing
 
@@ -1455,6 +1486,7 @@
 - [Five common writing mistakes new scientists make](https://contemplativemammoth.com/2018/08/21/five-common-writing-mistakes-new-scientists-make/)
 - [WHAT IS THE MORNING WRITING EFFECT?](https://www.gwern.net/Morning-writing)
 - [A blogging style guide](https://robertheaton.com/2018/12/06/a-blogging-style-guide/)
+- [Writing a book: is it worth it?](https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html)
 
 ## UX/UI
 
@@ -1487,6 +1519,7 @@
 - (pt-br) [js-para-pessoas](https://github.com/miguelssrs/js-para-pessoas): 📒 Curadoria de conteúdos de JavaScript para mentes que não decoram coisas facilmente - ou seja, para todo mundo.
 - (pt-br) [controle-seus-tweets](https://github.com/RodrigoMenegat/controle-seus-tweets): Conjunto de scripts simples que usam o pacote tweepy para baixar todos os tweets e likes de um usuário no Twitter. Também contém scritps que permitem remover as publicações feitas e favoritadas.
 - [bot-followers](https://github.com/cuducos/bot-followers): 🍊 Find out how many bots follow any given Twitter acount.
+- [iroiro](https://github.com/antfu/iroiro): Beautiful Colors Lookup in CLI
 
 ## Privacy
 
@@ -1513,6 +1546,8 @@
 - [Meet the Star Witness: Your Smart Speaker](https://www.wired.com/story/star-witness-your-smart-speaker/)
 - [autodp](https://github.com/yuxiangw/autodp): Automating differential privacy computation - A flexible and easy-to-use package for differential privacy
 - [“I Have Blood on My Hands”](https://www.buzzfeednews.com/article/craigsilverman/facebook-ignore-political-manipulation-whistleblower-memo): A Whistleblower Says Facebook Ignored Global Political Manipulation
+- [GDP-B: Accounting for the Value of New and Free Goods in the Digital Economy](http://ide.mit.edu/sites/default/files/publications/SSRN-id3356697%20gdp2.pdf)
+- [Online avatar service Gravatar allows mass collection of user info](https://www.bleepingcomputer.com/news/security/online-avatar-service-gravatar-allows-mass-collection-of-user-info/)
 
 ## Philosophy
 
@@ -1543,7 +1578,6 @@
 - [telepost](https://telepost.io/):Grow your Telegram channel generating a blog from it
 - [pbspro](https://github.com/pbspro/pbspro): An HPC workload manager and job scheduler for desktops, clusters, and clouds.
 - (pt-br) [Lista Maravilhosa de Projetos Open-Source](https://github.com/camilatigre/listamaravilhosaopensource): Lista com links de projetos open-source para os níveis: iniciante, intermediário e avançado. Dividido por linguagem e idiomas!
-- [ghuser.io](https://github.com/ghuser-io/ghuser.io): Better GitHub profiles
 - [gh-card](https://github.com/nwtgck/gh-card), [link](https://gh-card.dev/)
 - [MagicBox](https://github.com/unicef/magicbox): A platform that uses real-time data to inform life-saving humanitarian responses to emergency situations.
 - (pt-br) a [list](https://github.com/ramalho/cdc) of code of conduct.
@@ -1616,6 +1650,7 @@
 - [What I Learnt From Reviewing 22 CVs](https://youknowfordevs.com/2020/07/04/what-i-learnt-from-reviewing-22-cvs.html)
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't have a broken hiring process.
 - [Work at a Startup](https://www.workatastartup.com/)
+- [Jobs and Tips for Remote Work](https://github.com/alinebastos/remote)
 
 ## General Fun
 
@@ -1636,7 +1671,7 @@
 - (pt-br) [Divulgação Científica](https://docs.google.com/spreadsheets/d/1qXiDGiwXEXVvPMf_Kf-t3qeUnthFGz4GLL3uoCmRQek/edit#gid=105539009), on [github](https://github.com/DivulgacaoCientifica/divulgacaocientifica).
 - [Sourcerer](https://sourcerer.io/) is a visual profile for SWEs that analyzes and derives your abilities, preferences, and habits from your commits and source code.
 
-## Articles
+## Articles and Papers
 
 - [[1811.03678] Embracing the Laws of Physics: Three Reversible Models of Computation](https://arxiv.org/abs/1811.03678)
 - [BrainNet](https://arxiv.org/abs/1809.08632): A Multi-Person Brain-to-Brain Interface for Direct Collaboration Between Brains
@@ -1648,6 +1683,8 @@
 - [Ara](https://arxiv.org/abs/1906.00478): A 1 GHz+ Scalable and Energy-Efficient RISC-V Vector Processor with Multi-Precision Floating Point Support in 22 nm FD-SOI
 - [Regional and correlative sweat analysis using high-throughput microfluidic sensing patches toward decoding sweat](https://advances.sciencemag.org/content/5/8/eaaw9906)
 - [DeepPrivacy: A Generative Adversarial Network for Face Anonymization](https://arxiv.org/abs/1909.04538)
+- [Compensatory conspicuous communication: Low status increases jargon use](https://www.sciencedirect.com/science/article/abs/pii/S0749597820303666)
+- [Papers with Code partners with arXiv](https://medium.com/paperswithcode/papers-with-code-partners-with-arxiv-ecc362883167)
 
 ## News
 
@@ -1669,6 +1706,7 @@
 - (pt-br) [A República Precisa de Cientistas?…](https://boletim.de/silvio/a-republica-precisa-de-cientistas/)
 - [The Language of Science](https://www.scientificamerican.com/article/the-language-of-science/): How the words we use have evolved over the past 175 years
 - [Computer Search Settles 90-Year-Old Math Problem](https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/)
+- [‘A Million Random Digits’ Was a Number-Cruncher’s Bible. Now One Has Exposed Flaws in the Disorder.](https://www.wsj.com/articles/rand-million-random-digits-numbers-book-error-11600893049)
 
 ### 2019
 
