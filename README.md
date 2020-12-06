@@ -73,7 +73,7 @@
 - [SeetSimilaritySearch](https://github.com/ekzhu/SetSimilaritySearch/): All-pair set similarity search on millions of sets in Python and on a laptop (faster than MinHash LSH)
 - [Introducing Scylla Open Source 3.0](https://www.scylladb.com/2019/01/17/scylla-open-source-3-0-overview/): Scylla is an open source NoSQL database that offers the horizontal scale-out and fault-tolerance of Apache Cassandra, but delivers 10X the throughput and consistent, low single-digit latencies.
 - [DBeaver](https://dbeaver.io/): Universal Database Tool
-- [￼Sequel Pro](https://www.sequelpro.com/): is a fast, easy-to-use Mac database management application for working with MySQL databases.
+- [Sequel Pro](https://www.sequelpro.com/): is a fast, easy-to-use Mac database management application for working with MySQL databases.
 - [Vertically Scaling PostgreSQL](https://pgdash.io/blog/scaling-postgres.html)
 - [eva](https://github.com/Workiva/eva/): A distributed database-system implementing an entity-attribute-value data-model that is time-aware, accumulative, and atomically consistent.
 - Introducing SLOG:[Cheating the low-latency vs. strict serializability tradeoff](http://dbmsmusings.blogspot.com/2019/10/introducing-slog-cheating-low-latency.html)
@@ -233,6 +233,7 @@
   - [The Biggest Problems of Unit Testing With C++](https://dzone.com/articles/the-biggest-problems-of-unit-testing-with-c)
 - [Modern C](https://modernc.gforge.inria.fr/) by Jens Gustedt
 - [Dogen](https://github.com/MASD-Project/dogen): Reference implementation of the MASD Code Generator.
+- [C Playground](https://cplayground.com/)
 
 #### Makefile
 
@@ -324,6 +325,9 @@
 - [kivy](https://github.com/kivy/kivy): Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS.
 - [austin](https://github.com/P403n1x87/austin): Python frame stack sampler for CPython. Austin has a [tui](https://github.com/P403n1x87/austin-tui): The top-like text-based user interface for Austin.
 - [Python Cheatsheet](https://github.com/Cheatsheet-lang/Python)
+- [Nbdev](https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/): A literate programming environment that democratizes software engineering best practices
+- [quickpython](https://timothycrosley.github.io/quickpython/)
+- [Run Python Applications Efficiently With malloc_trim - Software at Scale by Utsav](https://reliability.substack.com/p/run-python-servers-more-efficiently)
 
 ##### Jupyter
 
@@ -336,6 +340,7 @@
 - [Teaching and Learning with Jupyter](https://github.com/jupyter4edu/jupyter-edu-book) [book](https://jupyter4edu.github.io/jupyter-edu-book/)
 - [Save Jupyter Notebooks as PDF](https://betatim.github.io/posts/jupyter-notebooks-as-pdf/)
 - [nbviewer](https://github.com/jupyter/nbviewer) as a web service: Render Jupyter Notebooks as static web pages.
+- [Starboard Jupystar](https://starboard.gg/jupystar): Open any Jupyter notebook as an entirely in-browser Starboard notebook.
 
 ##### Presentations
 
@@ -745,6 +750,7 @@
 - [Inside TikTok's killer algorithm](https://www.axios.com/inside-tiktoks-killer-algorithm-52454fb2-6bab-405d-a407-31954ac1cf16.html)
 - [Audiovisual Speech Enhancement in YouTube Stories](https://ai.googleblog.com/2020/10/audiovisual-speech-enhancement-in.html)
 - [UCI Machine Learning Repository: Data Sets](https://archive.ics.uci.edu/ml/datasets.php)
+- [tinygrad](https://github.com/geohot/tinygrad): : You like pytorch? You like [micrograd](https://github.com/karpathy/micrograd)? You love tinygrad! ❤️
 
 ### Machine Learning Articles
 
@@ -821,6 +827,7 @@
 - [opencv-yolo3](https://github.com/hussanhijazi/opencv-yolov3)
 - [MobileNetv2-YOLOV3](https://github.com/dog-qiuqiu/MobileNetv2-YOLOV3#500kb%E7%9A%84yolo-face-detection): MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40: 6ms/img, YoloFace-500k:0.1Bflops500KB￼￼￼
 - [gradslam](https://github.com/gradslam/gradslam): gradslam is an open source differentiable dense SLAM library for PyTorch
+- [MobileNetv2-YOLOV3](https://github.com/dog-qiuqiu/MobileNetv2-YOLOV3#500kb%E7%9A%84yolo-face-detection): MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40: 6ms/img, YoloFace-500k:0.1Bflops500KB
 
 #### Python DL
 
@@ -1106,7 +1113,7 @@
 - [Palettes for R based on the Scientific Colour-Maps](https://github.com/thomasp85/scico): This is a small package to provide access to the colour palettes developed by Fabio Crameri..
 - [How the Virus Won](https://www.nytimes.com/interactive/2020/us/coronavirus-spread.html): Invisible outbreaks sprang up everywhere. The United States ignored the warning signs. We analyzed travel patterns, hidden infections and genetic data to show how the epidemic spun out of control.
 - [Goodwill.com Hunting](https://goodwill.awardwinninghuman.com/): A Graphical Analysis of Women's Tops Sold on Goodwill's Website.
-- [see](https://github.com/easystats/see)￼ Visualisation toolbox for beautiful and publication-ready figures
+- [see](https://github.com/easystats/see) Visualisation toolbox for beautiful and publication-ready figures
 - [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)
 - [Complements that Diverge](https://medium.com/nightingale/complements-that-diverge-fa487e843674): Using a complementary color harmony to build a diverging color scheme for data visualization
 - [The relation between color and spatial structure for interpreting colormap data visualizations](https://jov.arvojournals.org/article.aspx?articleid=2771967)
@@ -1141,6 +1148,7 @@
 
 - [Elliptic Curve Cryptography](https://www.johannes-bauer.com/compsci/ecc/)
 - [An Introduction to Higher Mathematics](http://people.whitman.edu/~gordon/higher_math.pdf)
+- [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/)
 
 ### Signal Processing
 
@@ -1462,6 +1470,7 @@
 - [Synfig Studio](https://github.com/synfig/synfig/): This is the Official source code repository of the Synfig project.
 - [The Comprehensive Kerbal Archive Network (CKAN)](https://github.com/KSP-CKAN/CKAN)
 - [wick editor](https://www.wickeditor.com/): [The Wick Editor is a free](https://github.com/Wicklets/wick-editor), open-source tool for creating games, animations, and everything in-between!
+- [anarch](https://gitlab.com/drummyfish/anarch), the suckless FPS game
 
 ## Writing Articles
 
@@ -1580,6 +1589,7 @@
 - [“I Have Blood on My Hands”](https://www.buzzfeednews.com/article/craigsilverman/facebook-ignore-political-manipulation-whistleblower-memo): A Whistleblower Says Facebook Ignored Global Political Manipulation
 - [GDP-B: Accounting for the Value of New and Free Goods in the Digital Economy](http://ide.mit.edu/sites/default/files/publications/SSRN-id3356697%20gdp2.pdf)
 - [Online avatar service Gravatar allows mass collection of user info](https://www.bleepingcomputer.com/news/security/online-avatar-service-gravatar-allows-mass-collection-of-user-info/)
+- [Facebook Is Going After Its Critics in the Name of Privacy | WIRED](https://www.wired.com/story/facebook-is-going-after-its-critics-in-the-name-of-privacy/)
 
 ## Philosophy
 
@@ -1657,7 +1667,7 @@
 - [Siemens Careers](https://jobs.siemens-info.com/)
 - [Scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
 - [We've all faced rejection.](https://rejected.us/)
-- [￼rescale](https://jobs.lever.co/rescale)
+- [rescale](https://jobs.lever.co/rescale)
 - [NYT Jobs Openings](https://nytimes.wd5.myworkdayjobs.com/Tech)
 - [globo.com](https://talentos.globo.com/#/open-source)
 - [I interviewed at six top companies in Silicon Valley in six days, and stumbled into six job offers](https://blog.usejournal.com/i-interviewed-at-six-top-companies-in-silicon-valley-in-six-days-and-stumbled-into-six-job-offers-fe9cc7bbc996)
@@ -1740,6 +1750,8 @@
 - [The Language of Science](https://www.scientificamerican.com/article/the-language-of-science/): How the words we use have evolved over the past 175 years
 - [Computer Search Settles 90-Year-Old Math Problem](https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/)
 - [‘A Million Random Digits’ Was a Number-Cruncher’s Bible. Now One Has Exposed Flaws in the Disorder.](https://www.wsj.com/articles/rand-million-random-digits-numbers-book-error-11600893049)
+- ["I spoke with @MashaBorak of @SCMPNews about how deepfakes can facilitate financial crime. Some in China are worried about huge databases of facial recognition images that have leaked online, which could fuel future deepfake fraud. https://t.co/WIvmfM8Okb"](https://twitter.com/JonKBateman/status/1328776218070708229)
+
 
 ### 2019
 
