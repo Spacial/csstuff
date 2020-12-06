@@ -323,6 +323,7 @@
 - [BeeWare Project](https://beeware.org/project/): The BeeWare Project aims to take the power of Python as a language, and use it to enable users of all skill levels to develop applications with native user interfaces.
 - [kivy](https://github.com/kivy/kivy): Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS.
 - [austin](https://github.com/P403n1x87/austin): Python frame stack sampler for CPython. Austin has a [tui](https://github.com/P403n1x87/austin-tui): The top-like text-based user interface for Austin.
+- [Python Cheatsheet](https://github.com/Cheatsheet-lang/Python)
 
 ##### Jupyter
 
@@ -484,6 +485,7 @@
   - [Git4Noobs](https://github.com/DanielHe4rt/git4noobs)
   - (pt-br) [github4nondevs](https://github.com/Carolis/github4nondevs): Guia introdutório de utilização básica da interface do github para pessoas não desenvolvedoras ou não interessadas em utilizar a interface de comandos do git.
   - [Fortunately, I don't squash my commits](https://blog.ploeh.dk/2020/10/05/fortunately-i-dont-squash-my-commits/)
+  - [github-cli](https://github.com/cli/cli):  GitHub’s official command line tool
 - **Mercurial**:
   - [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos.
 - [Welcome to Pull Request Roulette](http://www.pullrequestroulette.com/).
@@ -539,6 +541,7 @@
 - [A Guide to the IBM 3033 Processor Complex, Attached Processor Complex, and Multiprocessor Complex of System/370](https://usermanual.wiki/Document/GC20185943033ProcessorComplexApr79.3299975525/view)
 - [vm80a](https://github.com/1801BM1/vm80a): i8080 precise replica in Verilog, based on reverse engineering of real die.
 - [DOGE Bank CICS](https://github.com/mainframed/DOGECICS/): Doge bank expensive new COBOL front end. The retail branches are gonna love this! 
+- [Reverse engineering RAM storage in early Texas Instruments calculator chips](https://www.righto.com/2020/11/reverse-engineering-ram-storage-in.html)
 
 ### Electronics
 
@@ -632,6 +635,7 @@
 - [Many Experts Say We Shouldn’t Worry About Superintelligent AI. They’re Wrong](https://spectrum.ieee.org/computing/software/many-experts-say-we-shouldnt-worry-about-superintelligent-ai-theyre-wrong)
 - [Exploring how different framings of the same supervised learning task affect model performance](https://andersource.dev/2020/07/12/supervised-task-framing.html): [face-classification-problem-framing](https://github.com/andersource/face-classification-problem-framing)
 - [donkeycar](https://github.com/autorope/donkeycar): Open source hardware and software platform to build a small scale self driving car.
+- [ReBeL](https://ai.facebook.com/blog/rebel-a-general-game-playing-ai-bot-that-excels-at-poker-and-more/): A general game-playing AI bot that excels at poker and more.
 
 ### Genetic Algorithms
 
@@ -740,6 +744,7 @@
 - [VoightKampff](https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff/src/master/): Beating Google ReCaptcha and the funCaptcha using AWS Rekognition.
 - [Inside TikTok's killer algorithm](https://www.axios.com/inside-tiktoks-killer-algorithm-52454fb2-6bab-405d-a407-31954ac1cf16.html)
 - [Audiovisual Speech Enhancement in YouTube Stories](https://ai.googleblog.com/2020/10/audiovisual-speech-enhancement-in.html)
+- [UCI Machine Learning Repository: Data Sets](https://archive.ics.uci.edu/ml/datasets.php)
 
 ### Machine Learning Articles
 
@@ -758,7 +763,8 @@
 - [CROKAGE](https://stackoverflow.blog/2019/08/14/crokage-a-new-way-to-search-stack-overflow/): A New Way to Search Stack Overflow. [isel on ufu](http://www.isel.ufu.br:9000/)
 - [Overton: A Data System for Monitoring and Improving Machine-Learned Products](https://arxiv.org/abs/1909.05372)
 - [Reinforcement learning is supervised learning on optimized data](https://bair.berkeley.edu/blog/2020/10/13/supervised-rl/)
-  
+- [Real-World ADS-B signal recognition based on Radio Frequency Fingerprinting](https://icnp20.cs.ucr.edu/proceedings/aimcom2/Real-World%20ADS-B%20signal%20recognition%20based%20on%20Radio%20Frequency%20Fingerprinting.pdf)
+
 ### Neural Networks
 
 - [pytorch](https://github.com/pytorch/pytorch): Tensors and Dynamic neural networks in Python with strong GPU acceleration a ([tour](http://blog.christianperone.com/2018/03/pytorch-internal-architecture-tour/))
@@ -814,6 +820,7 @@
 - [Predicting 3D Human Dynamics from Video](https://deepai.org/publication/predicting-3d-human-dynamics-from-video)
 - [opencv-yolo3](https://github.com/hussanhijazi/opencv-yolov3)
 - [MobileNetv2-YOLOV3](https://github.com/dog-qiuqiu/MobileNetv2-YOLOV3#500kb%E7%9A%84yolo-face-detection): MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40: 6ms/img, YoloFace-500k:0.1Bflops500KB￼￼￼
+- [gradslam](https://github.com/gradslam/gradslam): gradslam is an open source differentiable dense SLAM library for PyTorch
 
 #### Python DL
 
@@ -948,12 +955,13 @@
 - [Causal](https://causal.app/) is a browser-based modelling tool. Have [Sensitivity Analysis](https://causal.app/sensitivity).
 - [Some Useful Probability Facts for Systems Programming](https://theartofmachinery.com/2020/01/27/systems_programming_probability.html)
 - [pairwiseComparisons](https://indrajeetpatil.github.io/pairwiseComparisons/). [repo](https://github.com/IndrajeetPatil/pairwiseComparisons): Pairwise comparison tests for one-way designs ￼￼
+- [Foundations of Probabilistic Programming](https://www.cambridge.org/core/books/foundations-of-probabilistic-programming/819623B1B5B33836476618AC0621F0EE)
 
 ### Linear Regression
 
 - [Linear Regression in Python from Scratch](https://medium.com/analytics-vidhya/linear-regression-in-python-from-scratch-24db98184276)
 - [Linear-Regression](https://github.com/Nimishkhurana/Linear-Regression): Implementation of Linear Regression from Scratch in Python(NumPy)
-- [Linear Regression using Gradient Descent](https://github.com/chasinginfinity/ml-from-scratch/tree/master/02%20Linear%20Regression%20using%20Gradient%20Descent).
+- [Linear Regression using Gradient Descent](https://github.com/chasinginfinity/ml-from-scratch/tree/master/02%20Linear%20Regression%20using%20Gradient%20Descent)
 
 ### Data Science
 
@@ -1024,6 +1032,9 @@
 - [An Interactive 2010 Census Plotly-dash Visualization Accelerated By RAPIDS](https://news.developer.nvidia.com/an-interactive-2010-census-plotly-dash-visualization-accelerated-by-rapids/)
 - [bonecave](https://github.com/schmert/bonecave):  Miscellaneous programs and data
 - [Predicting your BMI from just a photo - a Github safari](https://www.sherpapieces.eu/overview/predicting-your-bmi-from-a-just-photo-a-github-safari), Google India [face-to-bmi](https://github.com/Google-Research-India-Health/face-to-bmi) and [Instagram Misogyny Classification and Correlation](https://github.com/aniruddhapdeshpande99/IG-Misogyny-Classification/)
+- [Data Smellification](https://medium.com/nightingale/data-smellification-smelling-data-saved-my-life-d62166f0f831): Smelling Data Saved My Life
+- [Course materials for: Introduction to Data Science and Programming](https://github.com/mszell/introdatasci)
+- [introdatasci](https://github.com/mszell/introdatasci): Course materials for: Introduction to Data Science and Programming
 
 #### Datasets
 
@@ -1042,6 +1053,7 @@
 - [palmerpenguins](https://github.com/allisonhorst/palmerpenguins): A great intro dataset for data exploration & visualization (alternative to iris).
 - [Harvard Dataverse](https://dataverse.harvard.edu/)
 - [amsterdam-schema](https://github.com/Amsterdam/amsterdam-schema): Data modeling & verification for the City of Amsterdam's open data - based on JSON Schema
+- (pt-br) [Base dos Dados Mais](https://basedosdados.github.io/mais/): Mecanismo de busca e repositório de [bases de dados](https://github.com/basedosdados/mais/) brasileiras e internacionais.
 
 #### Luna
 
@@ -1096,6 +1108,13 @@
 - [Goodwill.com Hunting](https://goodwill.awardwinninghuman.com/): A Graphical Analysis of Women's Tops Sold on Goodwill's Website.
 - [see](https://github.com/easystats/see)￼ Visualisation toolbox for beautiful and publication-ready figures
 - [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)
+- [Complements that Diverge](https://medium.com/nightingale/complements-that-diverge-fa487e843674): Using a complementary color harmony to build a diverging color scheme for data visualization
+- [The relation between color and spatial structure for interpreting colormap data visualizations](https://jov.arvojournals.org/article.aspx?articleid=2771967)
+- [How we watched the election at Stamen: our favorite maps and charts of 2020](https://hi.stamen.com/how-we-watched-the-election-at-stamen-fd3cedae7ed9?gi=90299aa30fac)
+- [The Log-Azimuthal projection](https://observablehq.com/@fil/log-azimuthal): 
+- [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
+- [R Tutorials](https://github.com/Z3tt/R-Tutorials): R tutorials dealing with ggplot2, Rmarkdown, Ubuntu server with shiny, and NLMpy via PythonInR.
+- [ggplot2 Teaching Material](https://github.com/Z3tt/ggplot-courses)
 
 ### Calculus
 
@@ -1238,7 +1257,15 @@
 - [Report Offers Roadmap to Mitigate Effects of Large Satellite Constellations on Astronomy](https://www.noirlab.edu/public/news/noirlab2022/)
 - [AstroNames](https://astronomesetc.blogspot.com/) blog about astronomy and etimology, like [Terra](https://astronomesetc.blogspot.com/2020/08/a-terra-de-seca-umida.html)
 - [See a Satellite Tonight](https://james.darpinian.com/satellites/)
-  
+- [astroquery](https://github.com/astropy/astroquery): Functions and classes to access online data resources. Maintainers: @keflavich and @bsipocz and @ceb8
+- CDS Astro:
+  - [Aladin Lite](https://github.com/cds-astro/aladin-lite): An astronomical HiPS visualizer in the browser.
+  - [ipyaladin](https://github.com/cds-astro/ipyaladin): An IPython Widget for Aladin Lite
+  - [CDS Tutorials](https://github.com/cds-astro/tutorials)
+- [betelbot](https://github.com/hippke/betelbot): Betelgeuse Supernova Twitter Bot
+- [gaiasky](https://gitlab.com/langurmonkey/gaiasky): Real-time, cross-platform, 3D Universe desktop and VR application with support for more than a billion stars. [site](https://zah.uni-heidelberg.de/gaia/outreach/gaiasky/downloads/)
+- [Betelgeuse Brightness Tracker](https://photonicrain.space/)
+
 ### Astro Articles
 
 - [HST imaging of four gravitationally lensed quasars](https://arxiv.org/pdf/1807.03553.pdf)
@@ -1307,6 +1334,7 @@
 - [GeoPandas](https://github.com/geopandas/geopandas): Python tools for geographic data
 - [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=7&lat=-22.01945&lng=-52.42676&themeId=DEFAULT-THEME&datasetId=S2L1C&fromTime=2020-09-19T00%3A00%3A00.000Z&toTime=2020-09-19T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&visualizationUrl=https%3A%2F%2Fservices.sentinel-hub.com%2Fogc%2Fwms%2F42924c6c-257a-4d04-9b8e-36387513a99c): A complete archive of Sentinel-1, Sentinel-2, Sentinel-3, Sentinel-5P, ESA’s archive of Landsat 5, 7 and 8, global coverage of Landsat 8, Envisat Meris, MODIS, Proba-V and GIBS products in one place.
 - [ærialbot](https://github.com/doersino/aerialbot): A simple yet highly configurable bot that tweets geotagged aerial imagery of a random location in the world.
+- [uk-hex-cartograms-noncontiguous](https://github.com/houseofcommonslibrary/uk-hex-cartograms-noncontiguous): Geographical templates for non-contiguous cartograms of the UK.
 
 ## History
 
@@ -1337,6 +1365,7 @@
 - [Defining Collective Identities in Technopolitical Interaction Networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7422503/)
 - [Why Facts Don’t Change Our Minds](https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds)
 - [Social attributions from faces bias human choices](http://tlab.princeton.edu/publication_files/Social%20attributions%20from%20faces%20bias%20human%20choices.pdf)
+- [Pinning down how the brain predicts the consequence of choices](https://fchampalimaud.org/news/pinning-down-how-brain-predicts-consequence-choices)
 
 ## On-line Services
 
@@ -1399,6 +1428,7 @@
 - [BIM_Workbench](https://github.com/yorikvanhavre/BIM_Workbench): A BIM Workbench for FreeCAD
 - [Open CASCADE Technology](https://dev.opencascade.org/): The Open Source 3D Modeling Libraries
 - [hemeshgui](https://github.com/struct78/hemeshgui): A new and improved version of the visual tool for the wonderful HE_Mesh library
+- [USD Core](https://pypi.org/project/usd-core/): Universal Scene Description (USD) is a system that scalably encodes and interchanges static and time-sampled 3D geometry, shading and lighting data between Digital Content Creation applications. Domain-specific schema modules define the geometry, shading, and lighting encoding atop USD's domain-agnostic core. 
 
 ## Games
 
@@ -1443,6 +1473,7 @@
 - [Tips and Tricks for Writing Scientific Papers](https://github.com/Wookai/paper-tips-and-tricks): Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.
 - (pt-br) [uma TESE são “só” 5 coisas…](https://boletim.de/silvio/uma-tese-sao-so-5-coisas/)
 - [Using Microsoft Word with git](https://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/)
+- [ markdown-labtemplate](https://github.com/joswr1ght/markdown-labtemplate): Template for writing labs in Markdown with emphasis on print and electronic access, style.
   
 ## Teaching
 
@@ -1652,6 +1683,7 @@
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't have a broken hiring process.
 - [Work at a Startup](https://www.workatastartup.com/)
 - [Jobs and Tips for Remote Work](https://github.com/alinebastos/remote)
+- [FIND, POST & SHARE DATA VISUALIZATION JOBS](https://www.datavisualizationsociety.com/find-a-job)
 
 ## General Fun
 
