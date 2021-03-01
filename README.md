@@ -1,7 +1,7 @@
 # Awesome Computer Science Stuff [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 - **TheoryOfComputation*- : Some resources about the topic (tex files and JFLAP files).
-- **Algorithms*- : Some stuff about design, analisys and general in algorithms science.
+- **Algorithms*- : Some stuff about design, analysis and general in algorithms science.
 
 ---
 
@@ -42,6 +42,7 @@
 - [Stanford CS Education Library](http://cslibrary.stanford.edu/)
 - [Decades-Old Computer Science Conjecture Solved in Two Pages](https://www.quantamagazine.org/mathematician-solves-computer-science-conjecture-in-two-pages-20190725/)
 - (pt-br) [extensao-computacao](https://github.com/adolfont/extensao-computacao/): Iniciativas de Extensão na Área de Computação.
+- [loosely-categorized collection of links to CS textbooks](https://csgordon.github.io/books.html)
 
 ### Quantum Information Science
 
@@ -173,6 +174,7 @@
 - [CPU-instructions](https://github.com/BrunoDeBacker/CPU-instructions)
 - [x86 and amd64 instruction reference](http://www.felixcloutier.com/x86/)
 - [Rewriting Functions in Compiled Binaries](https://blog.trailofbits.com/2019/09/02/rewriting-functions-in-compiled-binaries/)
+- [PC Assembly Language book](https://github.com/pacman128/pcasm).
 
 #### C/C++
 
@@ -324,22 +326,13 @@
 - [BeeWare Project](https://beeware.org/project/): The BeeWare Project aims to take the power of Python as a language, and use it to enable users of all skill levels to develop applications with native user interfaces.
 - [kivy](https://github.com/kivy/kivy): Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS.
 - [austin](https://github.com/P403n1x87/austin): Python frame stack sampler for CPython. Austin has a [tui](https://github.com/P403n1x87/austin-tui): The top-like text-based user interface for Austin.
+- [Python Cheatsheet](https://github.com/Cheatsheet-lang/Python)
 - [Nbdev](https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/): A literate programming environment that democratizes software engineering best practices
 - [quickpython](https://timothycrosley.github.io/quickpython/)
 - [Run Python Applications Efficiently With malloc_trim - Software at Scale by Utsav](https://reliability.substack.com/p/run-python-servers-more-efficiently)
-
-##### Jupyter
-
-- [nbtutor](https://github.com/lgpage/nbtutor): Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
-- [The Jupyter Notebooks behind: "A Whirlwind Tour of Python"](https://github.com/jakevdp/WhirlwindTourOfPython)
-- [The Future of Notebooks: Lessons from JupyterCon](http://willcrichton.net/notes/lessons-from-jupytercon/)
-- (pt-br) [Violencia Rio de Janeiro](https://github.com/rogeriochaves/notebooks/blob/master/Violencia%20Rio%20de%20Janeiro.ipynb)
-- [How to Grow Neat Software Architecture out of Jupyter Notebooks](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks)
-- [tpqad](https://github.com/yhilpisch/tpqad): Workflow combining Asciidoctor with Codes in Jupyter Notebooks.
-- [Teaching and Learning with Jupyter](https://github.com/jupyter4edu/jupyter-edu-book) [book](https://jupyter4edu.github.io/jupyter-edu-book/)
-- [Save Jupyter Notebooks as PDF](https://betatim.github.io/posts/jupyter-notebooks-as-pdf/)
-- [nbviewer](https://github.com/jupyter/nbviewer) as a web service: Render Jupyter Notebooks as static web pages.
-- [Starboard Jupystar](https://starboard.gg/jupystar): Open any Jupyter notebook as an entirely in-browser Starboard notebook.
+- [Course Files for Complete Python 3 Bootcamp Course on Udemy](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)
+- [PuDB](https://documen.tician.de/pudb/):a console-based visual debugger for Python.
+- [Rich](https://github.com/willmcgugan/rich) is a Python library for rich text and beautiful formatting in the terminal. 
 
 ##### Presentations
 
@@ -376,6 +369,7 @@
   - [Getting Started with Haskell on Fedora](https://fedoramagazine.org/getting-started-with-haskell-on-fedora/)
 - JavaScript:
   - [The JavaScript Handbook](https://jshandbook.com/)
+  - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms): Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 - K:
   - [k tutorial](https://shakti.com/tutorial/)
 - Kotlin:
@@ -489,6 +483,7 @@
   - [Git4Noobs](https://github.com/DanielHe4rt/git4noobs)
   - (pt-br) [github4nondevs](https://github.com/Carolis/github4nondevs): Guia introdutório de utilização básica da interface do github para pessoas não desenvolvedoras ou não interessadas em utilizar a interface de comandos do git.
   - [Fortunately, I don't squash my commits](https://blog.ploeh.dk/2020/10/05/fortunately-i-dont-squash-my-commits/)
+  - [github-cli](https://github.com/cli/cli):  GitHub’s official command line tool
 - **Mercurial**:
   - [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos.
 - [Welcome to Pull Request Roulette](http://www.pullrequestroulette.com/).
@@ -545,6 +540,8 @@
 - [A Guide to the IBM 3033 Processor Complex, Attached Processor Complex, and Multiprocessor Complex of System/370](https://usermanual.wiki/Document/GC20185943033ProcessorComplexApr79.3299975525/view)
 - [vm80a](https://github.com/1801BM1/vm80a): i8080 precise replica in Verilog, based on reverse engineering of real die.
 - [DOGE Bank CICS](https://github.com/mainframed/DOGECICS/): Doge bank expensive new COBOL front end. The retail branches are gonna love this! 
+- [Reverse engineering RAM storage in early Texas Instruments calculator chips](https://www.righto.com/2020/11/reverse-engineering-ram-storage-in.html)
+- [VGChips](https://github.com/furrtek/VGChips): Video Game custom chips reverse-engineered from silicon.
 
 ### Electronics
 
@@ -638,6 +635,7 @@
 - [Many Experts Say We Shouldn’t Worry About Superintelligent AI. They’re Wrong](https://spectrum.ieee.org/computing/software/many-experts-say-we-shouldnt-worry-about-superintelligent-ai-theyre-wrong)
 - [Exploring how different framings of the same supervised learning task affect model performance](https://andersource.dev/2020/07/12/supervised-task-framing.html): [face-classification-problem-framing](https://github.com/andersource/face-classification-problem-framing)
 - [donkeycar](https://github.com/autorope/donkeycar): Open source hardware and software platform to build a small scale self driving car.
+- [ReBeL](https://ai.facebook.com/blog/rebel-a-general-game-playing-ai-bot-that-excels-at-poker-and-more/): A general game-playing AI bot that excels at poker and more.
 
 ### Genetic Algorithms
 
@@ -662,6 +660,9 @@
 - [Transformers](https://github.com/huggingface/transformers): State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 - [Bilingual Evaluation Understudy (BLEU)](https://leimao.github.io/blog/BLEU-Score/)
 - [Language Interpretability Tool (LIT)](https://github.com/pair-code/lit/): Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
+- [RecipeNLG](https://github.com/Glorf/recipenlg): A Cooking Recipes Dataset for Semi-Structured Text Generation
+- [Alphabetical list of part-of-speech tags used in the Penn Treebank Project](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html)
+- [POS-tagger-portuguese-nltk](https://github.com/inoueMashuu/POS-tagger-portuguese-nltk): Conjunto de POS-taggers treinados para classificação gramatical de sentenças em português.
 
 #### Dictionaries
 
@@ -746,7 +747,13 @@
 - [VoightKampff](https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff/src/master/): Beating Google ReCaptcha and the funCaptcha using AWS Rekognition.
 - [Inside TikTok's killer algorithm](https://www.axios.com/inside-tiktoks-killer-algorithm-52454fb2-6bab-405d-a407-31954ac1cf16.html)
 - [Audiovisual Speech Enhancement in YouTube Stories](https://ai.googleblog.com/2020/10/audiovisual-speech-enhancement-in.html)
-- [tinygrad](https://github.com/geohot/tinygrad): : You like pytorch? You like [micrograd](https://github.com/karpathy/micrograd)? You love tinygrad! ❤️
+- [UCI Machine Learning Repository: Data Sets](https://archive.ics.uci.edu/ml/datasets.php)
+- [tinygrad](https://github.com/geohot/tinygrad): You like pytorch? You like [micrograd](https://github.com/karpathy/micrograd)? You love tinygrad! ❤️
+- [DeepSpeech](https://github.com/mozilla/DeepSpeech): is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers. 
+- [vosk-api](https://github.com/alphacep/vosk-api): Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node.
+- [open source speech recognition toolkit](https://cmusphinx.github.io/)
+- [Transfer Learning](https://github.com/jindongwang/transferlearning): Everything about Transfer Learning and Domain Adaptation--迁移学习
+- [comma10k](https://github.com/commaai/comma10k): 10k crowdsourced images for training segnets.
 
 ### Machine Learning Articles
 
@@ -766,7 +773,8 @@
 - [Overton: A Data System for Monitoring and Improving Machine-Learned Products](https://arxiv.org/abs/1909.05372)
 - [Reinforcement learning is supervised learning on optimized data](https://bair.berkeley.edu/blog/2020/10/13/supervised-rl/)
 - [Is a Green Screen Really Necessary for Real-Time Human Matting?](https://arxiv.org/pdf/2011.11961.pdf), [repo](https://github.com/ZHKKKe/MODNet)
-  
+- [Real-World ADS-B signal recognition based on Radio Frequency Fingerprinting](https://icnp20.cs.ucr.edu/proceedings/aimcom2/Real-World%20ADS-B%20signal%20recognition%20based%20on%20Radio%20Frequency%20Fingerprinting.pdf)
+
 ### Neural Networks
 
 - [pytorch](https://github.com/pytorch/pytorch): Tensors and Dynamic neural networks in Python with strong GPU acceleration a ([tour](http://blog.christianperone.com/2018/03/pytorch-internal-architecture-tour/))
@@ -821,6 +829,8 @@
 - [A Mathematical Model Unlocks the Secrets of Vision](https://www.quantamagazine.org/a-mathematical-model-unlocks-the-secrets-of-vision-20190821/)
 - [Predicting 3D Human Dynamics from Video](https://deepai.org/publication/predicting-3d-human-dynamics-from-video)
 - [opencv-yolo3](https://github.com/hussanhijazi/opencv-yolov3)
+- [MobileNetv2-YOLOV3](https://github.com/dog-qiuqiu/MobileNetv2-YOLOV3#500kb%E7%9A%84yolo-face-detection): MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40: 6ms/img, YoloFace-500k:0.1Bflops500KB￼￼￼
+- [gradslam](https://github.com/gradslam/gradslam): gradslam is an open source differentiable dense SLAM library for PyTorch
 - [MobileNetv2-YOLOV3](https://github.com/dog-qiuqiu/MobileNetv2-YOLOV3#500kb%E7%9A%84yolo-face-detection): MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40: 6ms/img, YoloFace-500k:0.1Bflops500KB
 
 #### Python DL
@@ -877,6 +887,7 @@
 - [Metamath Zero: The Cartesian Theorem Prover](https://arxiv.org/abs/1910.10703)
 - [Free and Open-Source Textbooks](https://danaernst.com/resources/free-and-open-source-textbooks/): Here is a partial list of free and/or open-source textbooks.
 - [Computer Scientists Attempt to Corner the Collatz Conjecture](https://www.quantamagazine.org/can-computers-solve-the-collatz-conjecture-20200826/) [Collatz Conjecture](https://www.dcode.fr/collatz-conjecture)
+- [Computing Euclidean distance on 144 dimensions](https://blog.cloudflare.com/computing-euclidean-distance-on-144-dimensions/)
 
 ### Theorems
 
@@ -910,11 +921,7 @@
 ### Statistics
 
 - [Modes, Medians and Means: A Unifying Perspective](http://www.johnmyleswhite.com/notebook/2013/03/22/modes-medians-and-means-an-unifying-perspective/)
-- [Taking control of animations in R and demystifying them in the process](https://www.data-imaginist.com/2017/animating-the-logo/)
-- [hrbrmstr’s Year In Review](https://rud.is/rpubs/2017-year-in-review/) (Using R, and other stuffs)
-- [Linear regression by hand](https://dsgazette.com/2018/01/10/linear-regression-by-hand/)
 - [What's so hard about histograms?](https://tinlizzie.org/histograms/)
-- [Paradoxes of Probability and Other Statistical Strangeness](http://quillette.com/2017/05/26/paradoxes-probability-statistical-strangeness/)
 - [Kyle Walker](https://gist.github.com/walkerke) Gist, a lot of R scripts and interesting stuff [github](https://github.com/walkerke/tidycensus)
 - [I wrote some code that automatically checks visualizations for non-colorblind safe colors. Here's how it works](https://www.vis4.net/blog/2018/02/automate-colorblind-checking/)
 - [The 2017 Atlas of Sustainable Development Goals: a new visual guide to data and development](http://blogs.worldbank.org/opendata/2017-atlas-sustainable-development-goals-new-visual-guide-data-and-development?cid=ECR_TT_worldbank_EN_EXT)
@@ -922,46 +929,26 @@
   - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
   - [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - [What's the significance of 0.05 significance?](http://www.p-value.info/2013/01/whats-significance-of-005-significance_6.html)
-- [brms](https://github.com/paul-buerkner/brms): R package for Bayesian generalized multivariate non-linear multilevel models using Stan
 - [Análise questionário - tipos básicos de variáveis e gráficos](http://www.leg.ufpr.br/~paulojus/prppg/questionario/), [Validação dos Dados - Qualidade da Água](http://www.leg.ufpr.br/~paulojus/prppg/aula03-iqa.html) e [Análise questionário - tipos básicos de variáveis e gráficos](http://www.leg.ufpr.br/~paulojus/prppg/aula03-quest.html)
 - [Análises e tutoriais das bases de dados abertos da Secretaria Municipal de Educação em formato aberto](https://github.com/prefeiturasp/dados-educacao)
-- [termgraph](https://github.com/mkaz/termgraph): a python command-line tool which draws basic graphs in the terminal
 - [Markov Chains](http://setosa.io/ev/markov-chains/): Explained Visually
-- [imager](https://dahtah.github.io/imager/imager.html): an R package for image processing
-- [arviz](https://github.com/arviz-devs/arviz): Python package to plot and analyse samples from probabilistic models
 - [anomaly detection](https://github.com/shubhomoydas/ad_examples): A collection of popular anomaly detection methods (iid/point-based and time series) including active learning for anomaly detection/discovery, description for diversity/explanation/interpretability. With a deeper analysis of incorporating label feedback with ensemble and tree-based detectors. Includes results-plots and illustrations for most approaches covered.
 - [COVARIANCE](https://stats.seandolinar.com/covariance-different-ways-to-explain/): DIFFERENT WAYS TO EXPLAIN OR VISUALIZE IT
 - (pt-br) [Frequência](https://medium.com/pizzadedados/frequencia-o-que-e-e-como-calcular-f8b74e5d978a): A arte de contar observações
 - [Randomness of Correlation & Its Hacking by BigDataists](https://www.youtube.com/watch?v=D6CxfBMUf1o): This tutorial presents the intuitions of the randomness of sample correlation (spurious correlation) and the methodologies in derivations.
 - [How to Calculate the Correlation Coefficient](https://www.thoughtco.com/how-to-calculate-the-correlation-coefficient-3126228)
 - [Statistics How To](https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/correlation-coefficient-formula/)
-- [baRcodeR](https://github.com/yihanwu/baRcodeR): Project for labeling, tracking, and organizing samples based on 2D barcodes
 - [Seeing Theory](https://seeing-theory.brown.edu/index.html): was created by Daniel Kunin while an undergraduate at Brown University. The goal of this website is to make statistics more accessible through interactive visualizations (designed using Mike Bostock’s JavaScript library D3.js).
   - [Regression Analysis](https://seeing-theory.brown.edu/regression-analysis/index.html)
-- [Probability & Statistics for Data Science (Series)](https://medium.com/data-deft/probability-statistics-for-data-science-series-83b94353ca48)
 - [Explaining p-values with puppies](https://hackernoon.com/explaining-p-values-with-puppies-af63d68005d0): You’ll find p-values lurking all over data science (and all the rest of science, for that matter).
-- [tmap](https://github.com/mtennekes/tmap): R package for thematic maps.
 - [Como mentir com gráficos](https://www.nexojornal.com.br/grafico/2018/03/31/Como-mentir-com-gr%C3%A1ficos-7-detalhes-que-podem-te-enganar): [mais 7 detalhes que podem te enganar](https://www.nexojornal.com.br/grafico/2019/04/01/Como-mentir-com-gr%C3%A1ficos-mais-7-detalhes-que-podem-te-enganar)
 - [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)
 - [statrethinking_winter2019](https://github.com/rmcelreath/statrethinking_winter2019): Statistical Rethinking course at MPI-EVA from Dec 2018 through Feb 2019
-- [Logistic Regression from Bayes' Theorem](https://www.countbayesie.com/blog/2019/6/12/logistic-regression-from-bayes-theorem)
-- [Latent Dirichlet Allocation coupled with Bayesian Time Series analyses](https://github.com/weecology/LDATS). [overview](https://weecology.github.io/LDATS/)
 - [Introduction to Bayesian Filter](https://leimao.github.io/article/Introduction-to-Bayesian-Filter/)
-- [Gaussian Processes, not quite for dummies](https://yugeten.github.io/posts/2019/09/GP/)
 - [It’s not just p=0.048 vs. p=0.052](https://statmodeling.stat.columbia.edu/2019/09/06/__trashed-2/)
-- [ggeffects](https://github.com/strengejacke/ggeffects): Tidy Data Frames of Marginal Effects for ggplot2.
-- [tradestatistics](https://github.com/ropensci/tradestatistics): R package to access Open Trade Statistics API
-- [ggseg](https://github.com/LCBC-UiO/ggseg): Plotting tool for brain atlases, in ggplot.
-- [Learning Statistics with R](https://learningstatisticswithr.com/) by Danielle Navarro
 - [Causal](https://causal.app/) is a browser-based modelling tool. Have [Sensitivity Analysis](https://causal.app/sensitivity).
-- [Some Useful Probability Facts for Systems Programming](https://theartofmachinery.com/2020/01/27/systems_programming_probability.html)
-- [pairwiseComparisons](https://indrajeetpatil.github.io/pairwiseComparisons/). [repo](https://github.com/IndrajeetPatil/pairwiseComparisons): Pairwise comparison tests for one-way designs 
-
-### Linear Regression
-
-- [Linear Regression in Python from Scratch](https://medium.com/analytics-vidhya/linear-regression-in-python-from-scratch-24db98184276)
-- [Linear-Regression](https://github.com/Nimishkhurana/Linear-Regression): Implementation of Linear Regression from Scratch in Python(NumPy)
-- [Linear Regression using Gradient Descent](https://github.com/chasinginfinity/ml-from-scratch/tree/master/02%20Linear%20Regression%20using%20Gradient%20Descent).
+- [pairwiseComparisons](https://indrajeetpatil.github.io/pairwiseComparisons/). [repo](https://github.com/IndrajeetPatil/pairwiseComparisons): Pairwise comparison tests for one-way designs ￼￼
+- [Fixed-time descriptive statistics underestimate extremes of epidemic curve ensembles](https://www.nature.com/articles/s41567-020-01121-y.pdf)
 
 ### Data Science
 
@@ -970,21 +957,12 @@
 - [Knitr Engine for Neo4j](https://github.com/ThinkR-open/rmd4j)
 - [Interacting with the History of DataViz](http://infowetrust.com/scroll/)
 - [A whirlwind introduction to dataflow graphs](https://fgiesen.wordpress.com/2018/03/05/a-whirlwind-introduction-to-dataflow-graphs/)
-- [Data Science with Python](https://sandipanweb.wordpress.com/2017/12/16/data-science-with-python-exploratory-analysis-with-movie-ratings-and-fraud-detection-with-credit-card-transactions/): Exploratory Analysis with Movie-Ratings and Fraud Detection with Credit-Card Transactions
-- [A Compendium of Clean Graphs in R](http://shinyapps.org/apps/RGraphCompendium/index.php)
-- [pyjanitor](https://github.com/ericmjl/pyjanitor): Python implementation of R package Janitor
 - [Dask tutorial](https://github.com/dask/dask-tutorial)
-- [Using R with Jupyter Notebooks](http://blog.revolutionanalytics.com/2015/09/using-r-with-jupyter-notebooks.html)
 - [When Is Haskell More Useful Than R Or Python In Data Science?](https://www.forbes.com/sites/quora/2018/01/24/when-is-haskell-more-useful-than-r-or-python-in-data-science/#1daa23e69e47)
-- [Data Science with Python: Intro to Data Visualization and Matplotlib](https://towardsdatascience.com/data-science-with-python-intro-to-data-visualization-and-matplotlib-5f799b7c6d82)
-- [Linear compression in python: PCA vs unsupervised feature selection – EFavDB](http://efavdb.com/unsupervised-feature-selection-in-python-with-linselect/)
 - [Data Carpentry](https://datacarpentry.org/) develops and teaches workshops on the fundamental data skills needed to conduct research.
-- (pt-br)[genero-ruas-mapa](https://github.com/bplmp/genero-ruas-mapa): Mapa interativo de gênero de ruas brasileiras usando vector tiles
+- (pt-br) [genero-ruas-mapa](https://github.com/bplmp/genero-ruas-mapa): Mapa interativo de gênero de ruas brasileiras usando vector tiles
 - (pt-br) [code:Nation](https://www.codenation.com.br/) Uma startup de Florianópolis, Santa Catarina, apaixonada por ajudar desenvolvedores de software a darem os próximos passos de suas jornadas em direção à carreira que desejam alcançar.
-- [Learning Python for Social Scientists](https://nealcaren.github.io/python-tutorials/)
 - [How well does population density predict U.S. voting outcomes?](https://beta.observablehq.com/@jake-low/how-well-does-population-density-predict-u-s-voting-outcome)
-- [jupytext](https://github.com/mwouts/jupytext): Jupyter notebooks as Markdown documents, Julia, Python or R scripts
-- [Example @functools.wraps.ipynb](https://gist.github.com/simecek/2d74a06d75c210b750f7d1c0e6fa8f19)
 - [ferret](https://github.com/MontFerret/ferret): Declarative web scraping
 - [Redash helps you make sense of your data](https://redash.io/)
 - [spyder](https://github.com/spyder-ide/spyder): Official repository for Spyder - The Scientific Python Development Environment
@@ -996,43 +974,103 @@
 - (pt-br) [LIKE: UMA COLIGAÇÃO TIPO ASSIM](https://entrevistandodados.wordpress.com/2018/11/12/like-uma-coligacao-tipo-assim/)
 - (pt-br) [Projeto_Analise_Saude](https://github.com/matheuscosantos/Projeto_Analise_Saude/blob/master/analise_dados.ipynb)
 - [Benford’s Law for Fraud Detection with an Application to all Brazilian Presidential Elections from 2002 to 2018](https://www.r-bloggers.com/benfords-law-for-fraud-detection-with-an-application-to-all-brazilian-presidential-elections-from-2002-to-2018/)
-- [jupyter-themes](https://github.com/dunovank/jupyter-themes): Custom Jupyter Notebook Themes
-- [bonobo](https://www.bonobo-project.org/): Bonobo is a lightweight Extract-Transform-Load (ETL) framework for Python 3.5+. [github](https://github.com/python-bonobo/bonobo)
 - [The Graph of Thrones](https://neo4j.com/blog/graph-of-thrones/), a [repo](https://github.com/johnymontana/graph-of-thrones), [Analyzing the Graph of Thrones](https://www.lyonwj.com/2016/06/26/graph-of-thrones-neo4j-social-network-analysis/) and [Network of Thrones](https://www.macalester.edu/~abeverid/thrones.html)
 - [Jazz Graph](https://github.com/berinhard/jazz-graph): Graph Study of Jazz Music
-- [matrixprofile-ts](https://github.com/target/matrixprofile-ts): A Python library for detecting patterns and anomalies in massive datasets using the Matrix Profile
-- [haven](https://github.com/tidyverse/haven): Read SPSS, Stata and SAS files from R.
 - [Predicting victims on national roads in Brazil - Part II | leportella](https://leportella.com/english/2019/01/02/federal-road-accidents-II.html)
 - (pt-br) [A suspensão da Rosie no Twitter mostra como as regras para bots ainda precisam ser lapidadas](https://medium.com/serenata/a-suspens%C3%A3o-da-rosie-no-twitter-mostra-como-as-regras-para-bots-ainda-precisam-ser-lapidadas-94a0ab8b0003)
 - [ds4stats](https://github.com/rafalab/ds4stats): Data science for statisticians workshop.
 - (pt-br) [juliaCluBR](https://github.com/julia-diversity-and-inclusion/juliaCluBR): Repositório com os arquivos para o curso juliaCluBR.
 - (pt-br) [Script para tirar série história de BOs do Estado de SP (fonte: SSPSP)](https://gist.github.com/voltdatalab/0bc390e674548b9b66c4d4cf9cdb6e2f)
-- [99 ways to extend the Jupyter ecosystem](https://blog.jupyter.org/99-ways-to-extend-the-jupyter-ecosystem-11e5dab7c54?gi=697ac48d879c)
 - [The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
-- [So, how come we can use TensorFlow from R?](https://blogs.rstudio.com/tensorflow/posts/2019-08-29-using-tf-from-r/)
 - [sjmisc](https://strengejacke.github.io/sjmisc/) - Data and Variable Transformation Functions
 - [Dataframe Visualization with Pandas Plot](https://kanoki.org/2019/09/16/dataframe-visualization-with-pandas-plot/)
-- [details](https://github.com/yonicd/details): R Package to Create Details HTML Tag for Markdown and Package Documentation
 - [A Graphical Introduction to tidyr's pivot_*()](https://speakerdeck.com/yutannihilation/a-graphical-introduction-to-tidyrs-pivot-star) by Hiroaki Yuatani.
 - [pivoting](https://tidyr.tidyverse.org/articles/pivot.html)
 - [RVerbalExpressions](https://github.com/VerbalExpressions/RVerbalExpressions): 👷💬 Create regular expressions easilt. [RVerbalExpressions](https://rverbalexpressions.netlify.com/index.html): The goal of RVerbalExpressions is to make it easier to construct regular expressions using grammar and functionality inspired by VerbalExpressions.
-- [insight](https://github.com/easystats/insight):  Easy access to model information for various model objects.
-- [Clustering in R](https://blog.dominodatalab.com/clustering-in-r/): This article covers clustering including K-means and hierarchical clustering.
-- [R is a joy if you treat it like awk](http://dwrodri.blog/posts/oct-7-Rscript-snippets.html)
+- [insight](https://github.com/easystats/insight): Easy access to model information for various model objects.
 - [performance](https://easystats.github.io/performance/)
 - [easystats](https://github.com/easystats/easystats): milky_way The easyverse.
-- [Read fixed width text file in Python](https://gist.github.com/rochacbruno/059e1223f5b69d3b99b509a4962cf3aa)
 - [edibble](https://github.com/emitanaka/edibble): Grammar of Experimental Design.
-- [Static and dynamic network visualization with R](https://kateto.net/network-visualization): This is a comprehensive tutorial on network visualization with R. It covers data input and formats, visualization basics, parameters and layouts for one-mode and bipartite graphs; dealing with multiplex links, interactive and animated visualization for longitudinal networks; and visualizing networks on geographic maps.
-- [Python Plotting for Exploratory Data Analysis](https://pythonplot.com/)  by [Tim Hopper](https://twitter.com/tdhopper/status/1212821555710963712) [repo](https://github.com/tdhopper/pythonplot.com)
 - [Scraping Roger Ebert’s reviews and finding his favorite movies on Amazon Prime](https://www.linisnil.com/articles/scraping-roger-ebert-reviews-and-amazon/)
-- [ffscrapr](https://ffscrapr.dynastyprocess.com/): An R Client for Fantasy Football League APIs. [repo](https://github.com/dynastyprocess/ffscrapr/)
 - [sjPlot ](https://strengejacke.github.io/sjPlot/): Data Visualization for Statistics in Social Science,[repo](https://github.com/strengejacke/sjPlot)
 - [7 common angles for data stories](https://onlinejournalismblog.com/2020/08/12/3-more-angles-most-often-used-to-tell-data-stories-explorers-relationships-and-bad-data-stories/)
 - [An Interactive 2010 Census Plotly-dash Visualization Accelerated By RAPIDS](https://news.developer.nvidia.com/an-interactive-2010-census-plotly-dash-visualization-accelerated-by-rapids/)
-- [bonecave](https://github.com/schmert/bonecave):  Miscellaneous programs and data
+- [bonecave](https://github.com/schmert/bonecave): Miscellaneous programs and data
 - [Predicting your BMI from just a photo - a Github safari](https://www.sherpapieces.eu/overview/predicting-your-bmi-from-a-just-photo-a-github-safari), Google India [face-to-bmi](https://github.com/Google-Research-India-Health/face-to-bmi) and [Instagram Misogyny Classification and Correlation](https://github.com/aniruddhapdeshpande99/IG-Misogyny-Classification/)
 - [RipTable](https://github.com/rtosholdings/riptable): 64bit multithreaded python data analytics tools for numpy arrays and datasets
+- [Data Smellification](https://medium.com/nightingale/data-smellification-smelling-data-saved-my-life-d62166f0f831): Smelling Data Saved My Life
+- [Course materials for: Introduction to Data Science and Programming](https://github.com/mszell/introdatasci)
+- [introdatasci](https://github.com/mszell/introdatasci): Course materials for: Introduction to Data Science and Programming
+- [Luna](https://www.luna-lang.org/) is a data processing and visualization environment built on a principle that people need an immediate connection to what they are building. [github repo](https://github.com/luna/luna), [studio](https://github.com/luna/luna-studio) (IDE) and [docs](https://luna-lang.gitbooks.io/docs/content/interface.html)
+- Python:
+  - [termgraph](https://github.com/mkaz/termgraph): a python command-line tool which draws basic graphs in the terminal
+  - [arviz](https://github.com/arviz-devs/arviz): Python package to plot and analyse samples from probabilistic models
+  - [Data Science with Python](https://sandipanweb.wordpress.com/2017/12/16/data-science-with-python-exploratory-analysis-with-movie-ratings-and-fraud-detection-with-credit-card-transactions/): Exploratory Analysis with Movie-Ratings and Fraud Detection with Credit-Card Transactions.
+  - [pyjanitor](https://github.com/ericmjl/pyjanitor): Python implementation of R package Janitor
+  - [Data Science with Python: Intro to Data Visualization and Matplotlib](https://towardsdatascience.com/data-science-with-python-intro-to-data-visualization-and-matplotlib-5f799b7c6d82)
+  - [Linear compression in python: PCA vs unsupervised feature selection – EFavDB](http://efavdb.com/unsupervised-feature-selection-in-python-with-linselect/)
+  - [Learning Python for Social Scientists](https://nealcaren.github.io/python-tutorials/)
+  - [bonobo](https://www.bonobo-project.org/): Bonobo is a lightweight Extract-Transform-Load (ETL) framework for Python 3.5+. [github](https://github.com/python-bonobo/bonobo)
+  - [matrixprofile-ts](https://github.com/target/matrixprofile-ts): A Python library for detecting patterns and anomalies in massive datasets using the Matrix Profile
+  - [Python Plotting for Exploratory Data Analysis](https://pythonplot.com/)  by [Tim Hopper](https://twitter.com/tdhopper/status/1212821555710963712) [repo](https://github.com/tdhopper/pythonplot.com)
+  - [Read fixed width text file in Python](https://gist.github.com/rochacbruno/059e1223f5b69d3b99b509a4962cf3aa)
+- Jupyter:
+  - [jupyter-themes](https://github.com/dunovank/jupyter-themes): Custom Jupyter Notebook Themes
+  - [jupytext](https://github.com/mwouts/jupytext): Jupyter notebooks as Markdown documents, Julia, Python or R scripts
+  - [Example @functools.wraps.ipynb](https://gist.github.com/simecek/2d74a06d75c210b750f7d1c0e6fa8f19)
+  - [99 ways to extend the Jupyter ecosystem](https://blog.jupyter.org/99-ways-to-extend-the-jupyter-ecosystem-11e5dab7c54?gi=697ac48d879c)
+  - [nbtutor](https://github.com/lgpage/nbtutor): Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
+  - [The Jupyter Notebooks behind: "A Whirlwind Tour of Python"](https://github.com/jakevdp/WhirlwindTourOfPython)
+  - [The Future of Notebooks: Lessons from JupyterCon](http://willcrichton.net/notes/lessons-from-jupytercon/)
+  - (pt-br) [Violencia Rio de Janeiro](https://github.com/rogeriochaves/notebooks/blob/master/Violencia%20Rio%20de%20Janeiro.ipynb)
+  - [How to Grow Neat Software Architecture out of Jupyter Notebooks](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks)
+  - [tpqad](https://github.com/yhilpisch/tpqad): Workflow combining Asciidoctor with Codes in Jupyter Notebooks.
+  - [Teaching and Learning with Jupyter](https://github.com/jupyter4edu/jupyter-edu-book) [book](https://jupyter4edu.github.io/jupyter-edu-book/)
+  - [Save Jupyter Notebooks as PDF](https://betatim.github.io/posts/jupyter-notebooks-as-pdf/)
+  - [nbviewer](https://github.com/jupyter/nbviewer) as a web service: Render Jupyter Notebooks as static web pages.
+  - [Starboard Jupystar](https://starboard.gg/jupystar): Open any Jupyter notebook as an entirely in-browser Starboard notebook.
+- R Lang
+  - [imager](https://dahtah.github.io/imager/imager.html): an R package for image processing
+  - [Taking control of animations in R and demystifying them in the process](https://www.data-imaginist.com/2017/animating-the-logo/)
+  - [hrbrmstr’s Year In Review](https://rud.is/rpubs/2017-year-in-review/) (Using R, and other stuffs)
+  - [brms](https://github.com/paul-buerkner/brms): R package for Bayesian generalized multivariate non-linear multilevel models using Stan
+  - [baRcodeR](https://github.com/yihanwu/baRcodeR): Project for labeling, tracking, and organizing samples based on 2D barcodes
+  - [tmap](https://github.com/mtennekes/tmap): R package for thematic maps.
+  - [Learning Statistics with R](https://learningstatisticswithr.com/) by Danielle Navarro
+  - [A Compendium of Clean Graphs in R](http://shinyapps.org/apps/RGraphCompendium/index.php)
+  - [Using R with Jupyter Notebooks](http://blog.revolutionanalytics.com/2015/09/using-r-with-jupyter-notebooks.html)
+  - [haven](https://github.com/tidyverse/haven): Read SPSS, Stata and SAS files from R.
+  - [details](https://github.com/yonicd/details): R Package to Create Details HTML Tag for Markdown and Package Documentation
+  - [So, how come we can use TensorFlow from R?](https://blogs.rstudio.com/tensorflow/posts/2019-08-29-using-tf-from-r/)
+  - [Clustering in R](https://blog.dominodatalab.com/clustering-in-r/): This article covers clustering including K-means and hierarchical clustering.
+  - [R is a joy if you treat it like awk](http://dwrodri.blog/posts/oct-7-Rscript-snippets.html)
+  - [ffscrapr](https://ffscrapr.dynastyprocess.com/): An R Client for Fantasy Football League APIs. [repo](https://github.com/dynastyprocess/ffscrapr/)
+  - [Static and dynamic network visualization with R](https://kateto.net/network-visualization): This is a comprehensive tutorial on network visualization with R. It covers data input and formats, visualization basics, parameters and layouts for one-mode and bipartite graphs; dealing with multiplex links, interactive and animated visualization for longitudinal networks; and visualizing networks on geographic maps.
+  - [R4DS R For Data Science Book Club](https://github.com/r4ds/bookclub-R_for_Data_Science)
+- [elegant-scipy](https://github.com/elegant-scipy/elegant-scipy): 1st Edition of Elegant SciPy (O'Reilly Publishers)
+
+### Probability
+
+- [Foundations of Probabilistic Programming](https://www.cambridge.org/core/books/foundations-of-probabilistic-programming/819623B1B5B33836476618AC0621F0EE)
+- [Some Useful Probability Facts for Systems Programming](https://theartofmachinery.com/2020/01/27/systems_programming_probability.html)
+- [Probability & Statistics for Data Science (Series)](https://medium.com/data-deft/probability-statistics-for-data-science-series-83b94353ca48)
+- [Paradoxes of Probability and Other Statistical Strangeness](http://quillette.com/2017/05/26/paradoxes-probability-statistical-strangeness/)
+
+### Linear Regression
+
+- [Linear regression by hand](https://dsgazette.com/2018/01/10/linear-regression-by-hand/)
+- [Linear Regression in Python from Scratch](https://medium.com/analytics-vidhya/linear-regression-in-python-from-scratch-24db98184276)
+- [Linear-Regression](https://github.com/Nimishkhurana/Linear-Regression): Implementation of Linear Regression from Scratch in Python(NumPy)
+- [Linear Regression using Gradient Descent](https://github.com/chasinginfinity/ml-from-scratch/tree/master/02%20Linear%20Regression%20using%20Gradient%20Descent)
+- [Logistic Regression from Bayes' Theorem](https://www.countbayesie.com/blog/2019/6/12/logistic-regression-from-bayes-theorem)
+- [Gaussian Processes, not quite for dummies](https://yugeten.github.io/posts/2019/09/GP/)
+
+### Time Series
+
+- [PlotJuggler](https://github.com/facontidavide/PlotJuggler): The Time Series Visualization Tool that you deserve.
+- [Latent Dirichlet Allocation coupled with Bayesian Time Series analyses](https://github.com/weecology/LDATS). [overview](https://weecology.github.io/LDATS/)
+- [prometheus](https://github.com/prometheus/prometheus): The Prometheus monitoring system and time series database.
+>>>>>>> 97a40ab1cfbfc439db8f46f9aa5db041878f8504
 
 #### Datasets
 
@@ -1051,10 +1089,7 @@
 - [palmerpenguins](https://github.com/allisonhorst/palmerpenguins): A great intro dataset for data exploration & visualization (alternative to iris).
 - [Harvard Dataverse](https://dataverse.harvard.edu/)
 - [amsterdam-schema](https://github.com/Amsterdam/amsterdam-schema): Data modeling & verification for the City of Amsterdam's open data - based on JSON Schema
-
-#### Luna
-
-- [Luna](https://www.luna-lang.org/) is a data processing and visualization environment built on a principle that people need an immediate connection to what they are building. [github repo](https://github.com/luna/luna), [studio](https://github.com/luna/luna-studio) (IDE) and [docs](https://luna-lang.gitbooks.io/docs/content/interface.html)
+- (pt-br) [Base dos Dados Mais](https://basedosdados.github.io/mais/): Mecanismo de busca e repositório de [bases de dados](https://github.com/basedosdados/mais/) brasileiras e internacionais.
 
 #### Data Graphics
 
@@ -1086,7 +1121,6 @@
 - [World Population Visualization How-to](https://pudding.cool/2018/10/city_3d/): This project wields data from the [Global Human Settlement Layer](https://ghslsys.jrc.ec.europa.eu/index.php), which uses “satellite imagery, census data, and volunteered geographic information” to create population density maps.
 - [Optimizing colormaps with consideration for color vision deficiency to enable accurate interpretation of scientific data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0199239)
 - [How Many .com Domain Names Are Unused?](https://singaporedatacompany.com/blog/how-many-domain-names-are-unused)
-- [the ggplot flipbook](https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html): made with xaringan, by Gina Reynolds.
 - [Mistakes, we’ve drawn a few](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368?gi=9889c184c1c5): Learning from our errors in data visualisation
 - [sixel-gnuplot](https://github.com/csdvrx/sixel-gnuplot): GNUplot with sixel support
 - [The Putin Exodus](https://publications.atlanticcouncil.org/putin-exodus/): The New Russian Brain Drain
@@ -1105,6 +1139,23 @@
 - [Goodwill.com Hunting](https://goodwill.awardwinninghuman.com/): A Graphical Analysis of Women's Tops Sold on Goodwill's Website.
 - [see](https://github.com/easystats/see) Visualisation toolbox for beautiful and publication-ready figures
 - [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)
+- [Complements that Diverge](https://medium.com/nightingale/complements-that-diverge-fa487e843674): Using a complementary color harmony to build a diverging color scheme for data visualization
+- [The relation between color and spatial structure for interpreting colormap data visualizations](https://jov.arvojournals.org/article.aspx?articleid=2771967)
+- [How we watched the election at Stamen: our favorite maps and charts of 2020](https://hi.stamen.com/how-we-watched-the-election-at-stamen-fd3cedae7ed9?gi=90299aa30fac)
+- [The Log-Azimuthal projection](https://observablehq.com/@fil/log-azimuthal) 
+- [Curvestat](https://github.com/jonassjuul/curvestat): Get and plot descriptive statistics for ensembles of curves 
+- GGplot2:
+  - [the ggplot flipbook](https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html): made with xaringan, by Gina Reynolds.
+  - [ggseg](https://github.com/LCBC-UiO/ggseg): Plotting tool for brain atlases, in ggplot.
+  - [ggeffects](https://github.com/strengejacke/ggeffects): Tidy Data Frames of Marginal Effects for ggplot2.
+  - [tradestatistics](https://github.com/ropensci/tradestatistics): R package to access Open Trade Statistics API
+  - [ggplot2 Teaching Material](https://github.com/Z3tt/ggplot-courses)
+  - [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
+  - [R Tutorials](https://github.com/Z3tt/R-Tutorials): R tutorials dealing with ggplot2, Rmarkdown, Ubuntu server with shiny, and NLMpy via PythonInR.
+  - [ggcorrplot](https://github.com/kassambara/ggcorrplot)
+  - [ggalluvial](https://github.com/corybrunson/ggalluvial)
+- (pt-br) [visualizacao-com-bokeh-holoviews](https://github.com/edinhodiluviano/visualizacao-com-bokeh-holoviews)
+- [The Shape of Dreams](https://the-shape-of-dreams.com/): A visual exploration of Google searches for the interpretation of dreams.
 
 ### Calculus
 
@@ -1179,6 +1230,7 @@
 - [bild](https://github.com/anthonynsimon/bild): A collection of parallel image processing algorithms in pure Go
 - [jax](https://github.com/google/jax): Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [micro](https://micro-editor.github.io/): a modern and intuitive [terminal-based text editor](https://github.com/zyedidia/micro#linux-clipboard-support).
+- [libvips](https://github.com/libvips/libvips): A fast image processing library with low memory needs.
 
 ### Fun
 
@@ -1249,7 +1301,15 @@
 - [AstroNames](https://astronomesetc.blogspot.com/) blog about astronomy and etimology, like [Terra](https://astronomesetc.blogspot.com/2020/08/a-terra-de-seca-umida.html)
 - [See a Satellite Tonight](https://james.darpinian.com/satellites/)
 - [Amateur astronomer Alberto Caballero finds possible source of Wow! signal](https://phys.org/news/2020-11-amateur-astronomer-alberto-caballero-source.html)
-  
+- [astroquery](https://github.com/astropy/astroquery): Functions and classes to access online data resources. Maintainers: @keflavich and @bsipocz and @ceb8
+- CDS Astro:
+  - [Aladin Lite](https://github.com/cds-astro/aladin-lite): An astronomical HiPS visualizer in the browser.
+  - [ipyaladin](https://github.com/cds-astro/ipyaladin): An IPython Widget for Aladin Lite
+  - [CDS Tutorials](https://github.com/cds-astro/tutorials)
+- [betelbot](https://github.com/hippke/betelbot): Betelgeuse Supernova Twitter Bot
+- [gaiasky](https://gitlab.com/langurmonkey/gaiasky): Real-time, cross-platform, 3D Universe desktop and VR application with support for more than a billion stars. [site](https://zah.uni-heidelberg.de/gaia/outreach/gaiasky/downloads/)
+- [Betelgeuse Brightness Tracker](https://photonicrain.space/)
+
 ### Astro Articles
 
 - [HST imaging of four gravitationally lensed quasars](https://arxiv.org/pdf/1807.03553.pdf)
@@ -1318,10 +1378,13 @@
 - [GeoPandas](https://github.com/geopandas/geopandas): Python tools for geographic data
 - [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=7&lat=-22.01945&lng=-52.42676&themeId=DEFAULT-THEME&datasetId=S2L1C&fromTime=2020-09-19T00%3A00%3A00.000Z&toTime=2020-09-19T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&visualizationUrl=https%3A%2F%2Fservices.sentinel-hub.com%2Fogc%2Fwms%2F42924c6c-257a-4d04-9b8e-36387513a99c): A complete archive of Sentinel-1, Sentinel-2, Sentinel-3, Sentinel-5P, ESA’s archive of Landsat 5, 7 and 8, global coverage of Landsat 8, Envisat Meris, MODIS, Proba-V and GIBS products in one place.
 - [ærialbot](https://github.com/doersino/aerialbot): A simple yet highly configurable bot that tweets geotagged aerial imagery of a random location in the world.
+- [uk-hex-cartograms-noncontiguous](https://github.com/houseofcommonslibrary/uk-hex-cartograms-noncontiguous): Geographical templates for non-contiguous cartograms of the UK.
 
 ## History
 
 - [China's History 101](https://www.youtube.com/watch?v=3T1tadzNNZ8)
+- [What We Know of Sappho](https://www.theparisreview.org/blog/2020/12/08/what-we-know-of-sappho/)
+- [Rare Manuscript Found Reveals Massive Lost World of 16th Century Books](https://www.thevintagenews.com/2019/04/19/libro-de-los-epitomes/)
 
 ## Humanities
 
@@ -1334,6 +1397,7 @@
 - (pt-br) [Parlametria](https://parlametria.org/home): O Parlametria surgiu do esforço de organizações que trabalham com o monitoramento do legislativo para traduzir e dar sentido a essa massa de dados, de forma que a sociedade civil possa acompanhar e influenciar os debates que acontecem no Congresso Nacional.
 - [Postbag](https://postbag.co/): Find journalists, bloggers and webmasters covering your niche.
 - [Here are the greatest novels ever written about every sport.](https://lithub.com/here-are-the-greatest-novels-ever-written-about-every-sport/)
+- [Data Journalism Top 10 for 2020: COVID-19, Saving the Nile, Shape of Dreams, Visualizations for the Colorblind](https://gijn.org/2020/12/21/data-journalism-top-10-for-2020/)
 
 ### Economy
 
@@ -1348,6 +1412,7 @@
 - [Defining Collective Identities in Technopolitical Interaction Networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7422503/)
 - [Why Facts Don’t Change Our Minds](https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds)
 - [Social attributions from faces bias human choices](http://tlab.princeton.edu/publication_files/Social%20attributions%20from%20faces%20bias%20human%20choices.pdf)
+- [Pinning down how the brain predicts the consequence of choices](https://fchampalimaud.org/news/pinning-down-how-brain-predicts-consequence-choices)
 
 ## On-line Services
 
@@ -1411,6 +1476,7 @@
 - [BIM_Workbench](https://github.com/yorikvanhavre/BIM_Workbench): A BIM Workbench for FreeCAD
 - [Open CASCADE Technology](https://dev.opencascade.org/): The Open Source 3D Modeling Libraries
 - [hemeshgui](https://github.com/struct78/hemeshgui): A new and improved version of the visual tool for the wonderful HE_Mesh library
+- [USD Core](https://pypi.org/project/usd-core/): Universal Scene Description (USD) is a system that scalably encodes and interchanges static and time-sampled 3D geometry, shading and lighting data between Digital Content Creation applications. Domain-specific schema modules define the geometry, shading, and lighting encoding atop USD's domain-agnostic core. 
 
 ## Games
 
@@ -1445,6 +1511,7 @@
 - [The Comprehensive Kerbal Archive Network (CKAN)](https://github.com/KSP-CKAN/CKAN)
 - [wick editor](https://www.wickeditor.com/): [The Wick Editor is a free](https://github.com/Wicklets/wick-editor), open-source tool for creating games, animations, and everything in-between!
 - [anarch](https://gitlab.com/drummyfish/anarch), the suckless FPS game
+- [Designing 2D graphics in the Japanese industry](https://vgdensetsu.tumblr.com/post/179656817318/designing-2d-graphics-in-japan-from-the-late-70s)
 
 ## Writing Articles
 
@@ -1456,6 +1523,7 @@
 - [Tips and Tricks for Writing Scientific Papers](https://github.com/Wookai/paper-tips-and-tricks): Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.
 - (pt-br) [uma TESE são “só” 5 coisas…](https://boletim.de/silvio/uma-tese-sao-so-5-coisas/)
 - [Using Microsoft Word with git](https://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/)
+- [ markdown-labtemplate](https://github.com/joswr1ght/markdown-labtemplate): Template for writing labs in Markdown with emphasis on print and electronic access, style.
   
 ## Teaching
 
@@ -1563,6 +1631,7 @@
 - [GDP-B: Accounting for the Value of New and Free Goods in the Digital Economy](http://ide.mit.edu/sites/default/files/publications/SSRN-id3356697%20gdp2.pdf)
 - [Online avatar service Gravatar allows mass collection of user info](https://www.bleepingcomputer.com/news/security/online-avatar-service-gravatar-allows-mass-collection-of-user-info/)
 - [Facebook Is Going After Its Critics in the Name of Privacy | WIRED](https://www.wired.com/story/facebook-is-going-after-its-critics-in-the-name-of-privacy/)
+- (pt-br) [Abin e outros 27 órgãos do governo já acessam megabase de dados que o governo boslonasro coleciona sobre você](https://theintercept.com/2020/12/08/abin-e-outros-27-orgaos-do-governo-ja-acessam-megabase-de-dados-que-o-governo-bolsonaro-coleciona-sobre-voce/)
 
 ## Philosophy
 
@@ -1666,6 +1735,11 @@
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't have a broken hiring process.
 - [Work at a Startup](https://www.workatastartup.com/)
 - [Jobs and Tips for Remote Work](https://github.com/alinebastos/remote)
+- [FIND, POST & SHARE DATA VISUALIZATION JOBS](https://www.datavisualizationsociety.com/find-a-job)
+- [interview](https://github.com/Olshansk/interview): Everything you need to prepare for your technical interview.
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/): Carefully curated content to help you ace your next technical interview.
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.
 
 ## General Fun
 
@@ -1723,7 +1797,7 @@
 - [Computer Search Settles 90-Year-Old Math Problem](https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/)
 - [‘A Million Random Digits’ Was a Number-Cruncher’s Bible. Now One Has Exposed Flaws in the Disorder.](https://www.wsj.com/articles/rand-million-random-digits-numbers-book-error-11600893049)
 - ["I spoke with @MashaBorak of @SCMPNews about how deepfakes can facilitate financial crime. Some in China are worried about huge databases of facial recognition images that have leaked online, which could fuel future deepfake fraud. https://t.co/WIvmfM8Okb"](https://twitter.com/JonKBateman/status/1328776218070708229)
-
+- [Feel drained after a year of Zoom meetings? There's brain science behind that fatigue](https://www.abc.net.au/news/science/2020-12-18/zoom-meetings-video-calls-brain-fatigue-neuroscience-attention/12974106)
 
 ### 2019
 
