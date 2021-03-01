@@ -497,6 +497,7 @@
   - [Algorithmic-Pseudocode](https://github.com/Just-A-Visitor/Algorithmic-Pseudocode/issues)
   - [awesome-social-projects](https://github.com/Jciel/awesome-social-projects)
   - [The Minimum Viable Pull-request](https://dev.to/jmfayard/the-minimum-viable-pull-request-5e7p)
+- [sourcehut](https://sr.ht/) is a collection of tools useful for software development. 
 
 #### Software Engineering
 
@@ -764,6 +765,7 @@
 - [CROKAGE](https://stackoverflow.blog/2019/08/14/crokage-a-new-way-to-search-stack-overflow/): A New Way to Search Stack Overflow. [isel on ufu](http://www.isel.ufu.br:9000/)
 - [Overton: A Data System for Monitoring and Improving Machine-Learned Products](https://arxiv.org/abs/1909.05372)
 - [Reinforcement learning is supervised learning on optimized data](https://bair.berkeley.edu/blog/2020/10/13/supervised-rl/)
+- [Is a Green Screen Really Necessary for Real-Time Human Matting?](https://arxiv.org/pdf/2011.11961.pdf), [repo](https://github.com/ZHKKKe/MODNet)
   
 ### Neural Networks
 
@@ -1030,6 +1032,7 @@
 - [An Interactive 2010 Census Plotly-dash Visualization Accelerated By RAPIDS](https://news.developer.nvidia.com/an-interactive-2010-census-plotly-dash-visualization-accelerated-by-rapids/)
 - [bonecave](https://github.com/schmert/bonecave):  Miscellaneous programs and data
 - [Predicting your BMI from just a photo - a Github safari](https://www.sherpapieces.eu/overview/predicting-your-bmi-from-a-just-photo-a-github-safari), Google India [face-to-bmi](https://github.com/Google-Research-India-Health/face-to-bmi) and [Instagram Misogyny Classification and Correlation](https://github.com/aniruddhapdeshpande99/IG-Misogyny-Classification/)
+- [RipTable](https://github.com/rtosholdings/riptable): 64bit multithreaded python data analytics tools for numpy arrays and datasets
 
 #### Datasets
 
@@ -1245,6 +1248,7 @@
 - [Report Offers Roadmap to Mitigate Effects of Large Satellite Constellations on Astronomy](https://www.noirlab.edu/public/news/noirlab2022/)
 - [AstroNames](https://astronomesetc.blogspot.com/) blog about astronomy and etimology, like [Terra](https://astronomesetc.blogspot.com/2020/08/a-terra-de-seca-umida.html)
 - [See a Satellite Tonight](https://james.darpinian.com/satellites/)
+- [Amateur astronomer Alberto Caballero finds possible source of Wow! signal](https://phys.org/news/2020-11-amateur-astronomer-alberto-caballero-source.html)
   
 ### Astro Articles
 
@@ -1388,6 +1392,7 @@
 - [diffsvg](https://github.com/jrsmith3/diffsvg): A diff tool for SVG files.
 - [Graphics Programming Projects](http://graphicscodex.com/projects/projects/index.html)
 - [What Color Is This?](https://multithreaded.stitchfix.com/blog/2020/09/02/what-color-is-this/) [Part 2](https://multithreaded.stitchfix.com/blog/2020/10/13/what-color-is-this-part-2/)
+- [Open Source Design](https://opensourcedesign.net/): We are a community of designers and developers pushing more open design processes and improving the user experience and interface design of open source software.
 
 ### CG Articles
 
@@ -1834,6 +1839,7 @@
 ## Resources
 
 - [Mamont's open FTP Index](http://www.mmnt.net/): a lot of open FTPs!!!
+- [📚 Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 
 ## Catastrophes
 
