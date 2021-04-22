@@ -43,6 +43,7 @@
 - [Decades-Old Computer Science Conjecture Solved in Two Pages](https://www.quantamagazine.org/mathematician-solves-computer-science-conjecture-in-two-pages-20190725/)
 - (pt-br) [extensao-computacao](https://github.com/adolfont/extensao-computacao/): Iniciativas de Extensão na Área de Computação.
 - [loosely-categorized collection of links to CS textbooks](https://csgordon.github.io/books.html)
+- [Words Matter](https://www.acm.org/diversity-inclusion/words-matter): Alternatives for Charged Terminology in the Computing Profession
 
 ### Quantum Information Science
 
@@ -90,6 +91,7 @@
 - [scans of early RFCs](https://write.as/365-rfcs/update-scans-of-early-rfcs)  
 - [Programmable socket lookup with BPF](https://linuxplumbersconf.org/event/4/contributions/487/)
 - [TCP window scaling, timestamps and SACK](https://fedoramagazine.org/tcp-window-scaling-timestamps-and-sack/)
+- [Computer Networks](https://book.systemsapproach.org/): A Systems Approach
 
 ---
 
@@ -236,6 +238,7 @@
 - [Modern C](https://modernc.gforge.inria.fr/) by Jens Gustedt
 - [Dogen](https://github.com/MASD-Project/dogen): Reference implementation of the MASD Code Generator.
 - [C Playground](https://cplayground.com/)
+- [datatype99](https://github.com/Hirrolot/datatype99): Algebraic data types for C99
 
 #### Makefile
 
@@ -333,6 +336,9 @@
 - [Course Files for Complete Python 3 Bootcamp Course on Udemy](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)
 - [PuDB](https://documen.tician.de/pudb/):a console-based visual debugger for Python.
 - [Rich](https://github.com/willmcgugan/rich) is a Python library for rich text and beautiful formatting in the terminal. 
+- [wtfpython](https://github.com/satwikkansal/wtfpython): What the f*ck Python? ￼
+- [Creating an Among Us Bot in Python](https://www.youtube.com/watch?v=RQ5Z73kmofA), [amony_us_easy](https://github.com/aphrx/amony_us_easy)
+- [cython_list_test](https://github.com/00sapo/cython_list_test): Just a small test with lists in cython
 
 ##### Presentations
 
@@ -391,6 +397,7 @@
   - [Topological Sort / Dependency resolver in PHP](https://github.com/marcj/topsort.php): High-Performance Topological Sort / Dependency resolver in PHP.
 - Ruby:
   - [Radiation-hardened Quine](https://github.com/mame/radiation-hardened-quine): A robust quine program that works even after any one character is deleted.
+  - [Ruby Garbage Collection Deep Dive: GC::INTERNAL_CONSTANTS](https://jemma.dev/blog/gc-internal)
 - Rust:
   - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust): A curated list of Rust code and resources.
   - [PortingCToRust](https://wiki.alopex.li/PortingCToRust)
@@ -662,6 +669,10 @@
 - [RecipeNLG](https://github.com/Glorf/recipenlg): A Cooking Recipes Dataset for Semi-Structured Text Generation
 - [Alphabetical list of part-of-speech tags used in the Penn Treebank Project](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html)
 - [POS-tagger-portuguese-nltk](https://github.com/inoueMashuu/POS-tagger-portuguese-nltk): Conjunto de POS-taggers treinados para classificação gramatical de sentenças em português.
+- [I Write Like](https://iwl.me/): Check which famous writer you write like with this statistical analysis tool, which analyzes your word choice and writing style and compares them with those of the famous writers.
+- [Keywords for TextRank summarization algorithm](https://radimrehurek.com/gensim_3.8.3/summarization/keywords.html)
+- [Foldable Words](http://bit-player.org/2021/foldable-words)
+- [entity-embed](https://github.com/vintasoftware/entity-embed/): Transform entities like companies, products, etc. into vectors to support scalable Record Linkage / Entity Resolution using Approximate Nearest Neighbors.
 
 #### Dictionaries
 
@@ -753,6 +764,12 @@
 - [open source speech recognition toolkit](https://cmusphinx.github.io/)
 - [Transfer Learning](https://github.com/jindongwang/transferlearning): Everything about Transfer Learning and Domain Adaptation--迁移学习
 - [comma10k](https://github.com/commaai/comma10k): 10k crowdsourced images for training segnets.
+- K-Means:
+  - [The Most Comprehensive Guide to K-Means Clustering You’ll Ever Need](https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/)
+  - [K-Means Clustering with scikit-learn](https://towardsdatascience.com/k-means-clustering-with-scikit-learn-6b47a369a83c)
+  - [How to define the optimal number of clusters for KMeans](https://jtemporal.com/kmeans-and-elbow-method/)
+- [Process Mining Research Group @ USP](http://www.each.usp.br/processmining/)
+- [Mathematics for Machine Learning](https://mml-book.github.io/)
 
 ### Machine Learning Articles
 
@@ -772,6 +789,7 @@
 - [Overton: A Data System for Monitoring and Improving Machine-Learned Products](https://arxiv.org/abs/1909.05372)
 - [Reinforcement learning is supervised learning on optimized data](https://bair.berkeley.edu/blog/2020/10/13/supervised-rl/)
 - [Real-World ADS-B signal recognition based on Radio Frequency Fingerprinting](https://icnp20.cs.ucr.edu/proceedings/aimcom2/Real-World%20ADS-B%20signal%20recognition%20based%20on%20Radio%20Frequency%20Fingerprinting.pdf)
+- [Pervasive Label Errors in ML Datasets Destabilize Benchmarks](https://l7.curtisnorthcutt.com/label-errors), paper: [Pervasive Label Errors in Test Sets Destabilize Machine Learning Benchmarks](https://arxiv.org/abs/2103.14749)
 
 ### Neural Networks
 
@@ -798,6 +816,7 @@
 - [Image Deduplicator](https://idealo.github.io/imagededup/): [imagededup](https://github.com/idealo/imagededup) is a python package that simplifies the task of finding exact and near duplicates in an image collection.
 - [nnAudio](https://github.com/KinWaiCheuk/nnAudio): Audio processing by using pytorch 1D convolution network
 - [Making the Birds Fly with AI (or at least Flap)](https://medium.com/@peterfarrell66/making-the-birds-fly-with-ai-or-at-least-flap-87ffd57b95e3), [github repo](https://github.com/hackingmath/Neural-Net)
+- [Multimodal Neurons in Artificial Neural Networks](https://openai.com/blog/multimodal-neurons/#attacksinthewild): We’ve discovered neurons in CLIP that respond to the same concept whether presented literally, symbolically, or conceptually.
 
 ### Computer Vision
 
@@ -886,6 +905,8 @@
 - [Free and Open-Source Textbooks](https://danaernst.com/resources/free-and-open-source-textbooks/): Here is a partial list of free and/or open-source textbooks.
 - [Computer Scientists Attempt to Corner the Collatz Conjecture](https://www.quantamagazine.org/can-computers-solve-the-collatz-conjecture-20200826/) [Collatz Conjecture](https://www.dcode.fr/collatz-conjecture)
 - [Computing Euclidean distance on 144 dimensions](https://blog.cloudflare.com/computing-euclidean-distance-on-144-dimensions/)
+- Fun:
+  - [Find Your Pi Day](http://mypiday.com/): find your day on pi.
 
 ### Theorems
 
@@ -1150,8 +1171,10 @@
   - [R Tutorials](https://github.com/Z3tt/R-Tutorials): R tutorials dealing with ggplot2, Rmarkdown, Ubuntu server with shiny, and NLMpy via PythonInR.
   - [ggcorrplot](https://github.com/kassambara/ggcorrplot)
   - [ggalluvial](https://github.com/corybrunson/ggalluvial)
+  - [Redundant coding, text annotations](https://wilkelab.org/SDS375/slides/redundant-coding.html)
 - (pt-br) [visualizacao-com-bokeh-holoviews](https://github.com/edinhodiluviano/visualizacao-com-bokeh-holoviews)
 - [The Shape of Dreams](https://the-shape-of-dreams.com/): A visual exploration of Google searches for the interpretation of dreams.
+- [WSJ Guide To Information Graphics](https://twitter.com/shmcminn/status/1367218070352191490)
 
 ### Calculus
 
@@ -1227,6 +1250,7 @@
 - [jax](https://github.com/google/jax): Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [micro](https://micro-editor.github.io/): a modern and intuitive [terminal-based text editor](https://github.com/zyedidia/micro#linux-clipboard-support).
 - [libvips](https://github.com/libvips/libvips): A fast image processing library with low memory needs.
+- [Continuous Shading of Curved Surfaces](https://ieeexplore.ieee.org/abstract/document/1671906)
 
 ### Fun
 
@@ -1244,10 +1268,12 @@
 - Fermats Library:
   - [The mathematical art of juggling:using mathematics to predict, describe and create](https://fermatslibrary.com/s/the-mathematical-art-of-juggling)
   - [The Environment and Disease: Association or Causation?](https://fermatslibrary.com/s/the-environment-and-disease-association-or-causation)
+- [steer through the Suez Channel](https://edition.cnn.com/interactive/2021/03/cnnix-steership/)
 
 ### Music
 
 - [The Mystery and Music of Kaprekar Constant- 6174](http://arabale.com/blog/2014/4/29/the-mystery-and-music-of-kaprekar-constant-6174)
+- [Sonic Visualiser](https://www.sonicvisualiser.org/) is a free, open-source application for Windows, Linux, and Mac, designed to be the first program you reach for when want to study a music recording closely. It's designed for musicologists, archivists, signal-processing researchers, and anyone else looking for a friendly way to look at what lies inside the audio file. [github repo](https://github.com/sonic-visualiser/sonic-visualiser)
 
 ### General Math
 
@@ -1304,11 +1330,13 @@
 - [betelbot](https://github.com/hippke/betelbot): Betelgeuse Supernova Twitter Bot
 - [gaiasky](https://gitlab.com/langurmonkey/gaiasky): Real-time, cross-platform, 3D Universe desktop and VR application with support for more than a billion stars. [site](https://zah.uni-heidelberg.de/gaia/outreach/gaiasky/downloads/)
 - [Betelgeuse Brightness Tracker](https://photonicrain.space/)
+- [Five planets resonate to a fascinating rhythm](https://astronomy.com/news/2021/01/listen-five-planets-resonate-to-a-fascinating-rhythm). [Planets ressonance on TOI-178](https://twitter.com/astroaline/status/1384918124173185024)
 
 ### Astro Articles
 
 - [HST imaging of four gravitationally lensed quasars](https://arxiv.org/pdf/1807.03553.pdf)
 - [Dark matter nightmare: What if we are just using the wrong equations?](http://backreaction.blogspot.com/2019/10/dark-matter-nightmare-what-if-we-just.html)
+- [Searching for interstellar quantum communications](https://arxiv.org/abs/2104.06446), [A brief summary](https://twitter.com/hippke/status/1382685372296073223)
 
 ### NASA
 
@@ -1324,6 +1352,8 @@
 - [Sawppy](https://github.com/Roger-random/Sawppy_Rover): is a motorized model of Mars rovers Curiosity and Mars 2020. It faithfully reproduces the Rocker-Bogie suspension kinematics of real rovers and is intended to be a hardware platform for future software projects in autonomous operation. Go forth and boldly explore the back yard, Sawppy!
 - "[Uptime 15,364 days - The Computers of Voyager](https://www.youtube.com/watch?v=H62hZJVqs2o)" by Aaron Cummings
 - [Visible Earth](https://eyes.nasa.gov/apps/earth/#/)
+- [New NASA Visualization Probes the Light-bending Dance of Binary Black Holes](https://www.nasa.gov/feature/goddard/2021/new-nasa-visualization-probes-the-light-bending-dance-of-binary-black-holes)
+- [fprime](https://github.com/nasa/fprime): A flight software and embedded systems framework.
 
 #### SpaceX
 
@@ -1374,6 +1404,7 @@
 - [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=7&lat=-22.01945&lng=-52.42676&themeId=DEFAULT-THEME&datasetId=S2L1C&fromTime=2020-09-19T00%3A00%3A00.000Z&toTime=2020-09-19T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&visualizationUrl=https%3A%2F%2Fservices.sentinel-hub.com%2Fogc%2Fwms%2F42924c6c-257a-4d04-9b8e-36387513a99c): A complete archive of Sentinel-1, Sentinel-2, Sentinel-3, Sentinel-5P, ESA’s archive of Landsat 5, 7 and 8, global coverage of Landsat 8, Envisat Meris, MODIS, Proba-V and GIBS products in one place.
 - [ærialbot](https://github.com/doersino/aerialbot): A simple yet highly configurable bot that tweets geotagged aerial imagery of a random location in the world.
 - [uk-hex-cartograms-noncontiguous](https://github.com/houseofcommonslibrary/uk-hex-cartograms-noncontiguous): Geographical templates for non-contiguous cartograms of the UK.
+- [Acquire and Analyze Weather and Climate Data with Python and Tableau](https://towardsdatascience.com/acquire-and-analyze-weather-and-climate-data-with-python-and-tableau-4878e8759152)
 
 ## History
 
@@ -1408,6 +1439,8 @@
 - [Why Facts Don’t Change Our Minds](https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds)
 - [Social attributions from faces bias human choices](http://tlab.princeton.edu/publication_files/Social%20attributions%20from%20faces%20bias%20human%20choices.pdf)
 - [Pinning down how the brain predicts the consequence of choices](https://fchampalimaud.org/news/pinning-down-how-brain-predicts-consequence-choices)
+- [High quality audio makes you sound smarter](https://tips.ariyh.com/p/good-sound-quality-smarter): People rated a physicist’s talk as 19.3% better when they listened to it in high (vs low) audio quality. They also thought he was smarter and liked him more.
+- [First-of-its-kind study pits psilocybin against a common antidepressant](https://www.statnews.com/2021/04/14/psilocybin-depression-psychedelics-escitalopram/)
 
 ## On-line Services
 
@@ -1626,6 +1659,7 @@
 - [Online avatar service Gravatar allows mass collection of user info](https://www.bleepingcomputer.com/news/security/online-avatar-service-gravatar-allows-mass-collection-of-user-info/)
 - [Facebook Is Going After Its Critics in the Name of Privacy | WIRED](https://www.wired.com/story/facebook-is-going-after-its-critics-in-the-name-of-privacy/)
 - (pt-br) [Abin e outros 27 órgãos do governo já acessam megabase de dados que o governo boslonasro coleciona sobre você](https://theintercept.com/2020/12/08/abin-e-outros-27-orgaos-do-governo-ja-acessam-megabase-de-dados-que-o-governo-bolsonaro-coleciona-sobre-voce/)
+- [Fake Whatsapp Chat Generator](https://fakedetail.com/fake-whatsapp-chat-generator)
 
 ## Philosophy
 
@@ -1674,6 +1708,8 @@
 - [Sourceful](https://sourceful.co.uk/): Discover the best public Google docs.
 - [Virtual Colossus](http://www.virtualcolossus.co.uk/): Bringing the world's first electronic computer to you in digital form
 - [RFC8890: The Internet is for End Users](https://www.mnot.net/blog/2020/08/28/for_the_users)
+- [SelfStudyClassics is an online Latin course](https://selfstudyclassics.com/)
+- [An Introduction to Making a Box Fan Air Filter for Wildfire Smoke](https://novelistparty.com/boxfanfilter/)
 
 ### Jobs
 
@@ -1734,6 +1770,7 @@
 - [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/): Carefully curated content to help you ace your next technical interview.
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.
+- [Ninja Jobs](https://ninjajobs.org/)
 
 ## General Fun
 
@@ -1770,6 +1807,12 @@
 - [Papers with Code partners with arXiv](https://medium.com/paperswithcode/papers-with-code-partners-with-arxiv-ecc362883167)
 
 ## News
+
+### 2021
+
+- [Paper about Herbalife®-related patient death removed after company threatens to sue the journal](https://scienceintegritydigest.com/2020/12/20/paper-about-herbalife-related-patient-death-removed-after-company-threatens-to-sue-the-journal/)
+- [UCLA Researchers Create All-Optical Diffractive Deep Neural Network That is 3D Printed](https://www.photonics.com/Articles/UCLA_Researchers_Create_All-Optical_Diffractive/a63751)
+- [A New Threat to New York’s Clean Energy Goals: Bitcoin Mining](https://www.nysfocus.com/2021/04/13/new-york-bitcoin-mining-threat/)
 
 ### 2020
 
