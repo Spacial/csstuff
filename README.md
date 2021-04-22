@@ -1,7 +1,7 @@
 # Awesome Computer Science Stuff [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 - **TheoryOfComputation*- : Some resources about the topic (tex files and JFLAP files).
-- **Algorithms*- : Some stuff about design, analisys and general in algorithms science.
+- **Algorithms*- : Some stuff about design, analysis and general in algorithms science.
 
 ---
 
@@ -499,6 +499,7 @@
   - [Algorithmic-Pseudocode](https://github.com/Just-A-Visitor/Algorithmic-Pseudocode/issues)
   - [awesome-social-projects](https://github.com/Jciel/awesome-social-projects)
   - [The Minimum Viable Pull-request](https://dev.to/jmfayard/the-minimum-viable-pull-request-5e7p)
+- [sourcehut](https://sr.ht/) is a collection of tools useful for software development. 
 
 #### Software Engineering
 
@@ -788,6 +789,7 @@
 - [CROKAGE](https://stackoverflow.blog/2019/08/14/crokage-a-new-way-to-search-stack-overflow/): A New Way to Search Stack Overflow. [isel on ufu](http://www.isel.ufu.br:9000/)
 - [Overton: A Data System for Monitoring and Improving Machine-Learned Products](https://arxiv.org/abs/1909.05372)
 - [Reinforcement learning is supervised learning on optimized data](https://bair.berkeley.edu/blog/2020/10/13/supervised-rl/)
+- [Is a Green Screen Really Necessary for Real-Time Human Matting?](https://arxiv.org/pdf/2011.11961.pdf), [repo](https://github.com/ZHKKKe/MODNet)
 - [Real-World ADS-B signal recognition based on Radio Frequency Fingerprinting](https://icnp20.cs.ucr.edu/proceedings/aimcom2/Real-World%20ADS-B%20signal%20recognition%20based%20on%20Radio%20Frequency%20Fingerprinting.pdf)
 - [Pervasive Label Errors in ML Datasets Destabilize Benchmarks](https://l7.curtisnorthcutt.com/label-errors), paper: [Pervasive Label Errors in Test Sets Destabilize Machine Learning Benchmarks](https://arxiv.org/abs/2103.14749)
 
@@ -1016,6 +1018,7 @@
 - [An Interactive 2010 Census Plotly-dash Visualization Accelerated By RAPIDS](https://news.developer.nvidia.com/an-interactive-2010-census-plotly-dash-visualization-accelerated-by-rapids/)
 - [bonecave](https://github.com/schmert/bonecave): Miscellaneous programs and data
 - [Predicting your BMI from just a photo - a Github safari](https://www.sherpapieces.eu/overview/predicting-your-bmi-from-a-just-photo-a-github-safari), Google India [face-to-bmi](https://github.com/Google-Research-India-Health/face-to-bmi) and [Instagram Misogyny Classification and Correlation](https://github.com/aniruddhapdeshpande99/IG-Misogyny-Classification/)
+- [RipTable](https://github.com/rtosholdings/riptable): 64bit multithreaded python data analytics tools for numpy arrays and datasets
 - [Data Smellification](https://medium.com/nightingale/data-smellification-smelling-data-saved-my-life-d62166f0f831): Smelling Data Saved My Life
 - [Course materials for: Introduction to Data Science and Programming](https://github.com/mszell/introdatasci)
 - [introdatasci](https://github.com/mszell/introdatasci): Course materials for: Introduction to Data Science and Programming
@@ -1088,6 +1091,7 @@
 - [PlotJuggler](https://github.com/facontidavide/PlotJuggler): The Time Series Visualization Tool that you deserve.
 - [Latent Dirichlet Allocation coupled with Bayesian Time Series analyses](https://github.com/weecology/LDATS). [overview](https://weecology.github.io/LDATS/)
 - [prometheus](https://github.com/prometheus/prometheus): The Prometheus monitoring system and time series database.
+>>>>>>> 97a40ab1cfbfc439db8f46f9aa5db041878f8504
 
 #### Datasets
 
@@ -1322,6 +1326,7 @@
 - [Report Offers Roadmap to Mitigate Effects of Large Satellite Constellations on Astronomy](https://www.noirlab.edu/public/news/noirlab2022/)
 - [AstroNames](https://astronomesetc.blogspot.com/) blog about astronomy and etimology, like [Terra](https://astronomesetc.blogspot.com/2020/08/a-terra-de-seca-umida.html)
 - [See a Satellite Tonight](https://james.darpinian.com/satellites/)
+- [Amateur astronomer Alberto Caballero finds possible source of Wow! signal](https://phys.org/news/2020-11-amateur-astronomer-alberto-caballero-source.html)
 - [astroquery](https://github.com/astropy/astroquery): Functions and classes to access online data resources. Maintainers: @keflavich and @bsipocz and @ceb8
 - CDS Astro:
   - [Aladin Lite](https://github.com/cds-astro/aladin-lite): An astronomical HiPS visualizer in the browser.
@@ -1485,6 +1490,7 @@
 - [diffsvg](https://github.com/jrsmith3/diffsvg): A diff tool for SVG files.
 - [Graphics Programming Projects](http://graphicscodex.com/projects/projects/index.html)
 - [What Color Is This?](https://multithreaded.stitchfix.com/blog/2020/09/02/what-color-is-this/) [Part 2](https://multithreaded.stitchfix.com/blog/2020/10/13/what-color-is-this-part-2/)
+- [Open Source Design](https://opensourcedesign.net/): We are a community of designers and developers pushing more open design processes and improving the user experience and interface design of open source software.
 
 ### CG Articles
 
@@ -1950,6 +1956,7 @@
 ## Resources
 
 - [Mamont's open FTP Index](http://www.mmnt.net/): a lot of open FTPs!!!
+- [📚 Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 
 ## Catastrophes
 
