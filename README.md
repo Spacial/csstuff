@@ -177,6 +177,7 @@
 - [x86 and amd64 instruction reference](http://www.felixcloutier.com/x86/)
 - [Rewriting Functions in Compiled Binaries](https://blog.trailofbits.com/2019/09/02/rewriting-functions-in-compiled-binaries/)
 - [PC Assembly Language book](https://github.com/pacman128/pcasm).
+- [Polyglot Assembly](https://vojtechkral.github.io/blag/polyglot-assembly/): Writing assembly code that runs on multiple architectures.
 
 #### C/C++
 
@@ -239,6 +240,7 @@
 - [Dogen](https://github.com/MASD-Project/dogen): Reference implementation of the MASD Code Generator.
 - [C Playground](https://cplayground.com/)
 - [datatype99](https://github.com/Hirrolot/datatype99): Algebraic data types for C99
+- [Controlling GDB](https://sourceware.org/gdb/current/onlinedocs/gdb/Controlling-GDB.html)
 
 #### Makefile
 
@@ -339,6 +341,10 @@
 - [wtfpython](https://github.com/satwikkansal/wtfpython): What the f*ck Python? ￼
 - [Creating an Among Us Bot in Python](https://www.youtube.com/watch?v=RQ5Z73kmofA), [amony_us_easy](https://github.com/aphrx/amony_us_easy)
 - [cython_list_test](https://github.com/00sapo/cython_list_test): Just a small test with lists in cython
+- [Interfaces and Protocols](https://glyph.twistedmatrix.com/2021/03/interfaces-and-protocols.html)
+- [How to use Poetry to manage your Python projects on Fedora](https://fedoramagazine.org/how-to-use-poetry-to-manage-your-python-projects-on-fedora/)
+- [cinder](https://github.com/facebookincubator/cinder)
+- [10 advanced Python concepts that you want to look](https://twitter.com/svpino/status/1391332116420509696)
 
 ##### Presentations
 
@@ -418,6 +424,7 @@
   - Watch Your Language: [Our First Vyper Audit](https://blog.trailofbits.com/2019/10/24/watch-your-language-our-first-vyper-audit/)
 - Yorlang:
   - [yorlang](https://github.com/anoniscoding/yorlang): [Yorlang](https://anoniscoding.github.io/yorlang/) is an esoteric programming language designed to write small programs using yoruba language constructs. It is the first of its kind and it can carry out basic programming operations in yoruba language (a language spoken in some parts of Nigeria ).
+- [Fast Enough VMs in Fast Enough Time](https://tratt.net/laurie/blog/entries/fast_enough_vms_in_fast_enough_time.html), [Converge](https://convergepl.org/) is a dynamically typed object orientated programming language with compile-time meta-programming facilities - put simply, Converge has a macro-like facility that can embed domain specific languages with arbitrary syntaxes into source files. Find out more.
 
 #### Version Control
 
@@ -510,7 +517,8 @@
 - [Curated list of UML tools – 2018 edition](https://modeling-languages.com/uml-tools/)
 - [UML Tools for Python](http://sungsoo.github.io/2018/03/21/uml-tools-for-python.html)
 - [Monolith -> Services: Theory & Practice](https://medium.com/@kentbeck_7670/monolith-services-theory-practice-617e4546a879)
-  
+- [Why UML "Really" Died](https://buttondown.email/hillelwayne/archive/why-uml-really-died/)
+
 ---
 
 ### Hardware
@@ -584,6 +592,7 @@
 - [A dream of an ultimate OS](http://okmij.org/ftp/papers/DreamOSPaper.html).
 - [KTF](https://github.com/awslabs/ktf)- Kernel Test Framework.
 - [A Requiem for a Dying Operating System](https://user.eng.umd.edu/~blj/funny/requium.html) or The Conquerer Has No Clothes.
+- [LearnOS](https://github.com/dhavalhirdhav/LearnOS): This is one of my long awaited project on learning to develop an Operating System.
 
 ### Linux Kernel
 
@@ -643,6 +652,7 @@
 - [Exploring how different framings of the same supervised learning task affect model performance](https://andersource.dev/2020/07/12/supervised-task-framing.html): [face-classification-problem-framing](https://github.com/andersource/face-classification-problem-framing)
 - [donkeycar](https://github.com/autorope/donkeycar): Open source hardware and software platform to build a small scale self driving car.
 - [ReBeL](https://ai.facebook.com/blog/rebel-a-general-game-playing-ai-bot-that-excels-at-poker-and-more/): A general game-playing AI bot that excels at poker and more.
+- [Exploring the world of declarative programming](https://fedoramagazine.org/exploring-the-world-of-declarative-programming/)
 
 ### Genetic Algorithms
 
@@ -792,6 +802,7 @@
 - [Is a Green Screen Really Necessary for Real-Time Human Matting?](https://arxiv.org/pdf/2011.11961.pdf), [repo](https://github.com/ZHKKKe/MODNet)
 - [Real-World ADS-B signal recognition based on Radio Frequency Fingerprinting](https://icnp20.cs.ucr.edu/proceedings/aimcom2/Real-World%20ADS-B%20signal%20recognition%20based%20on%20Radio%20Frequency%20Fingerprinting.pdf)
 - [Pervasive Label Errors in ML Datasets Destabilize Benchmarks](https://l7.curtisnorthcutt.com/label-errors), paper: [Pervasive Label Errors in Test Sets Destabilize Machine Learning Benchmarks](https://arxiv.org/abs/2103.14749)
+- [DeepLabCut](http://www.mackenziemathislab.org/deeplabcut): is an efficient method for 3D markerless pose estimation based on transfer learning with deep neural networks that achieves excellent results (i.e. you can match human labeling accuracy) with minimal training data (typically 50-200 frames). [repo](https://github.com/DeepLabCut/DeepLabCut)
 
 ### Neural Networks
 
@@ -1186,6 +1197,7 @@
 - Functional Bits: [Lambda Calculus based Algorithmic Information Theory](https://tromp.github.io/cl/LC.pdf)
 - [Another orthonormal basis](https://calculus7.org/2012/01/31/another-orthonormal-basis-hermite-functions/): Hermite functions
 - [Solving Van der Pol equation](http://mathworld.wolfram.com/vanderPolEquation.html) [with ivp_solve](https://www.johndcook.com/blog/2019/12/22/van-der-pol/)
+- [FiPy](https://github.com/usnistgov/fipy): is a Finite Volume PDE solver written in Python.
 
 ### Topology
 
@@ -1255,6 +1267,7 @@
 - [micro](https://micro-editor.github.io/): a modern and intuitive [terminal-based text editor](https://github.com/zyedidia/micro#linux-clipboard-support).
 - [libvips](https://github.com/libvips/libvips): A fast image processing library with low memory needs.
 - [Continuous Shading of Curved Surfaces](https://ieeexplore.ieee.org/abstract/document/1671906)
+- [Noise in Creative Coding](https://varun.ca/noise/)
 
 ### Fun
 
@@ -1273,6 +1286,9 @@
   - [The mathematical art of juggling:using mathematics to predict, describe and create](https://fermatslibrary.com/s/the-mathematical-art-of-juggling)
   - [The Environment and Disease: Association or Causation?](https://fermatslibrary.com/s/the-environment-and-disease-association-or-causation)
 - [steer through the Suez Channel](https://edition.cnn.com/interactive/2021/03/cnnix-steership/)
+- [You have reached the very last page of the Web.](http://users.csc.calpoly.edu/~jdalbey/TheLastWebPage.html)
+- [hatetris](https://github.com/qntm/hatetris): Tetris which always gives you the worst piece 
+- [Insufficient input validation in the Marvin Minsky 1967 implementation of the Universal Turing Machine allows program users to execute arbitrary code via crafted data.](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-32471)
 
 ### Music
 
@@ -1336,6 +1352,7 @@
 - [gaiasky](https://gitlab.com/langurmonkey/gaiasky): Real-time, cross-platform, 3D Universe desktop and VR application with support for more than a billion stars. [site](https://zah.uni-heidelberg.de/gaia/outreach/gaiasky/downloads/)
 - [Betelgeuse Brightness Tracker](https://photonicrain.space/)
 - [Five planets resonate to a fascinating rhythm](https://astronomy.com/news/2021/01/listen-five-planets-resonate-to-a-fascinating-rhythm). [Planets ressonance on TOI-178](https://twitter.com/astroaline/status/1384918124173185024)
+- [Astrophotography with Fedora Astronomy Lab: setting up](https://fedoramagazine.org/astrophotography-with-fedora-astronomy-lab-setting-up/)
 
 ### Astro Articles
 
@@ -1446,6 +1463,7 @@
 - [Pinning down how the brain predicts the consequence of choices](https://fchampalimaud.org/news/pinning-down-how-brain-predicts-consequence-choices)
 - [High quality audio makes you sound smarter](https://tips.ariyh.com/p/good-sound-quality-smarter): People rated a physicist’s talk as 19.3% better when they listened to it in high (vs low) audio quality. They also thought he was smarter and liked him more.
 - [First-of-its-kind study pits psilocybin against a common antidepressant](https://www.statnews.com/2021/04/14/psilocybin-depression-psychedelics-escitalopram/)
+- [High-bandwidth wireless BCI demonstrated in humans for first time](https://arstechnica.com/science/2021/04/new-high-bandwidth-wireless-bci-helps-tetraplegics-use-tablet-computers/): BrainGate device complements Neuralink's successful test of wireless BCI in monkey. [link](https://ieeexplore.ieee.org/document/9390339/)/[doi](https://doi.org/10.1109/TBME.2021.3069119)
 
 ## On-line Services
 
@@ -1666,6 +1684,9 @@
 - [Facebook Is Going After Its Critics in the Name of Privacy | WIRED](https://www.wired.com/story/facebook-is-going-after-its-critics-in-the-name-of-privacy/)
 - (pt-br) [Abin e outros 27 órgãos do governo já acessam megabase de dados que o governo boslonasro coleciona sobre você](https://theintercept.com/2020/12/08/abin-e-outros-27-orgaos-do-governo-ja-acessam-megabase-de-dados-que-o-governo-bolsonaro-coleciona-sobre-voce/)
 - [Fake Whatsapp Chat Generator](https://fakedetail.com/fake-whatsapp-chat-generator)
+- [Computer Vision Dazzle Camouflage](https://cvdazzle.com/)
+- [Anyone can use this powerful facial-recognition tool — and that's a problem](https://edition.cnn.com/2021/05/04/tech/pimeyes-facial-recognition/index.html)
+- [The Instagram ads Facebook won't show you](https://signal.org/blog/the-instagram-ads-you-will-never-see/)
 
 ## Philosophy
 
@@ -1819,6 +1840,8 @@
 - [Paper about Herbalife®-related patient death removed after company threatens to sue the journal](https://scienceintegritydigest.com/2020/12/20/paper-about-herbalife-related-patient-death-removed-after-company-threatens-to-sue-the-journal/)
 - [UCLA Researchers Create All-Optical Diffractive Deep Neural Network That is 3D Printed](https://www.photonics.com/Articles/UCLA_Researchers_Create_All-Optical_Diffractive/a63751)
 - [A New Threat to New York’s Clean Energy Goals: Bitcoin Mining](https://www.nysfocus.com/2021/04/13/new-york-bitcoin-mining-threat/)
+- [Hungary Transfers 11 Universities to Foundations Led by Orban Allies](https://www.nytimes.com/2021/04/27/world/europe/hungary-universities-orban.html)
+- [Qualia](https://locusmag.com/2021/05/cory-doctorow-qualia/) by [Cory Doctorow](https://twitter.com/doctorow/status/1389675375207149570)
 
 ### 2020
 
