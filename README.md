@@ -844,6 +844,8 @@
 - [Writing your first Generative Adversarial Network with Keras.](https://towardsdatascience.com/writing-your-first-generative-adversarial-network-with-keras-2d16fd8d4889)
 - [GAN by Example using Keras on Tensorflow Backend](https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0)
 - [Deep Convolutional Generative Adversarial Network](https://www.tensorflow.org/tutorials/generative/dcgan) [jupyter notebook](https://github.com/tensorflow/docs/blob/master/site/en/tutorials/generative/dcgan.ipynb)
+- [GANformer](https://github.com/dorarad/gansformer): Generative Adversarial Transformers.
+- [solo-learn](https://github.com/vturrisi/solo-learn): a library of self-supervised methods for visual representation learning powered by Pytorch Lightning.
 
 ### Computer Vision
 
@@ -2041,6 +2043,7 @@
 
 - [Mamont's open FTP Index](http://www.mmnt.net/): a lot of open FTPs!!!
 - [📚 Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
+- (pt-br) [Conteúdo gratuito](https://github.com/perifacode/conteudo-gratuito).
 
 ## Catastrophes
 
