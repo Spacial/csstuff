@@ -505,6 +505,7 @@
   - (pt-br) [github4nondevs](https://github.com/Carolis/github4nondevs): Guia introdutório de utilização básica da interface do github para pessoas não desenvolvedoras ou não interessadas em utilizar a interface de comandos do git.
   - [Fortunately, I don't squash my commits](https://blog.ploeh.dk/2020/10/05/fortunately-i-dont-squash-my-commits/)
   - [github-cli](https://github.com/cli/cli):  GitHub’s official command line tool
+  - [Learn Git Branching](https://learngitbranching.js.org/): 
 - **Mercurial**:
   - [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos.
 - [Welcome to Pull Request Roulette](http://www.pullrequestroulette.com/).
@@ -1504,6 +1505,10 @@
 - [Bedrock](https://bedrockdb.com/) is a simple, modular, WAN-replicated, Blockchain-based data foundation for global-scale applications.
 - [surpriver](https://github.com/tradytics/surpriver): Find big moving stocks before they move using machine learning and anomaly detection.
 
+#### Finance
+
+- [Spreadsheet Formulas for Personal Finance](https://bou.ke/blog/formulas/)
+
 ### Psychology
 
 - [Suicide Data Reveal New Intervention Spots, Such as Motels and Animal Shelters](https://www.scientificamerican.com/article/suicide-data-reveal-new-intervention-spots-such-as-motels-and-animal-shelters/)
@@ -1905,6 +1910,7 @@
 - [Can a biologist fix a radio?—Or, what Ilearned while studying apoptosis](https://www.cell.com/cancer-cell/pdf/S1535-6108(02)00133-2.pdf)
 - [Mind-controlling parasite makes hyena cubs more reckless around lions](https://www.nationalgeographic.com/animals/article/mind-controlling-parasite-makes-hyena-cubs-more-reckless-around-lions): The parasite that causes toxoplasmosis could play a bigger role in animal behavior than we thought, according to a first-of-its-kind study in Kenya.
 - [New Research Shows Māori Traveled to Antarctica at Least 1,000 Years Before Europeans](https://www.sciencealert.com/who-were-the-first-people-to-visit-antarctica-researchers-map-maori-s-long-history-with-the-icy-continent)
+- [Crystal arrangement results in 1,000x more power from ferroelectric solar cells](https://www.pv-magazine.com/2021/08/04/crystal-arrangement-results-in-1000x-more-power-from-ferroelectric-solar-cells/)
 
 ### 2020
 
