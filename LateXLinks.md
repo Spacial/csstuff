@@ -45,6 +45,7 @@
 - [LuaTex](http://www.luatex.org/): LuaTeX is an extended version of pdfTeX using Lua as an embedded scripting language.
 - (pt-br) [Palestra "LaTeX para não-cientistas"](https://github.com/melissawm/latexnaocientistas) by melissawn
 - [ChkTeX](https://www.nongnu.org/chktex/): LaTeX semantic checker
+- [LaTex settings for embedding Python with Monokai theme](https://gist.github.com/nhtranngoc/88b72d9bfb656a3de227eea38ed80627)
 
 ## Templates
 

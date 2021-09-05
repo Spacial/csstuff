@@ -80,6 +80,7 @@
 - Introducing SLOG:[Cheating the low-latency vs. strict serializability tradeoff](http://dbmsmusings.blogspot.com/2019/10/introducing-slog-cheating-low-latency.html)
 - [Why databases use ordered indexes but programming uses hash tables](https://www.evanjones.ca/ordered-vs-unordered-indexes.html)
 - [PostgreSQL beginner guide](https://knowledgepill.it/posts/postgresql-basics-guide/)- connecting, remote access, psql CLI and troubleshooting connection
+- [Fuzzy Name Matching in Postgres](https://info.crunchydata.com/blog/fuzzy-name-matching-in-postgresql)
 
 ### Networks
 
@@ -90,8 +91,6 @@
 - [scans of early RFCs](https://write.as/365-rfcs/update-scans-of-early-rfcs)  
 - [Programmable socket lookup with BPF](https://linuxplumbersconf.org/event/4/contributions/487/)
 - [TCP window scaling, timestamps and SACK](https://fedoramagazine.org/tcp-window-scaling-timestamps-and-sack/)
-
----
 
 ### Programming
 
@@ -236,6 +235,7 @@
 - [Modern C](https://modernc.gforge.inria.fr/) by Jens Gustedt
 - [Dogen](https://github.com/MASD-Project/dogen): Reference implementation of the MASD Code Generator.
 - [C Playground](https://cplayground.com/)
+- [Checked C](https://github.com/microsoft/checkedc) is an extension to C that adds checking to detect or prevent common programming errors such as buffer overruns and out-of-bounds memory accesses. This repo has a wiki for Checked C, sample code, the specification, and test code.
 
 #### Makefile
 
@@ -331,8 +331,9 @@
 - [quickpython](https://timothycrosley.github.io/quickpython/)
 - [Run Python Applications Efficiently With malloc_trim - Software at Scale by Utsav](https://reliability.substack.com/p/run-python-servers-more-efficiently)
 - [Course Files for Complete Python 3 Bootcamp Course on Udemy](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)
-- [PuDB](https://documen.tician.de/pudb/):a console-based visual debugger for Python.
+- [PuDB](https://documen.tician.de/pudb/): a console-based visual debugger for Python.
 - [Rich](https://github.com/willmcgugan/rich) is a Python library for rich text and beautiful formatting in the terminal. 
+- [Python Prompt Toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit): Library for building powerful interactive command line applications in Python.
 
 ##### Presentations
 
@@ -542,6 +543,7 @@
 - [DOGE Bank CICS](https://github.com/mainframed/DOGECICS/): Doge bank expensive new COBOL front end. The retail branches are gonna love this! 
 - [Reverse engineering RAM storage in early Texas Instruments calculator chips](https://www.righto.com/2020/11/reverse-engineering-ram-storage-in.html)
 - [VGChips](https://github.com/furrtek/VGChips): Video Game custom chips reverse-engineered from silicon.
+- [NyuziProcessor](https://github.com/jbush001/NyuziProcessor/): GPGPU microprocessor architecture
 
 ### Electronics
 
@@ -583,6 +585,7 @@
 - [ktask](https://lwn.net/Articles/771169/): optimizing CPU-intensive kernel work, LWN.net.
 - [Unikernels](https://dl.acm.org/citation.cfm?id=3321445): The Next Stage of Linux's Dominance
 - [How the ARM32 kernel starts](https://people.kernel.org/linusw/how-the-arm32-kernel-starts)
+- [An introduction to lockless algorithms](https://lwn.net/Articles/844224/)
 
 ### Memory
 
@@ -663,6 +666,19 @@
 - [RecipeNLG](https://github.com/Glorf/recipenlg): A Cooking Recipes Dataset for Semi-Structured Text Generation
 - [Alphabetical list of part-of-speech tags used in the Penn Treebank Project](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html)
 - [POS-tagger-portuguese-nltk](https://github.com/inoueMashuu/POS-tagger-portuguese-nltk): Conjunto de POS-taggers treinados para classificação gramatical de sentenças em português.
+- Python NLTK:
+  - [A Quick Guide to Text Cleaning Using the nltk Library](https://www.analyticsvidhya.com/blog/2020/11/text-cleaning-nltk-library/)
+  - [Visualising Frequency Distributions](http://librarycarpentry.org/lc-tdm/09-frequency-distributions/index.html)
+  - [Examples for Portuguese Processing](http://www.nltk.org/howto/portuguese_en.html)
+  - [Exploratory Data Analysis of Text Data](https://towardsdatascience.com/nlp-part-3-exploratory-data-analysis-of-text-data-1caa8ab3f79d) by Kamil Mysiak
+  - [Language Processing and Python](https://www.nltk.org/book/ch01.html)
+  - [Linguateca](https://www.linguateca.pt/Floresta/)
+  - [Classificação de Textos em Python](https://pt.linkedin.com/pulse/classifica%C3%A7%C3%A3o-de-textos-em-python-luiz-felipe-araujo-nunes)
+  - [Portuguese stop words](https://gist.github.com/alopes/5358189)
+  - [Examples for Portuguese Processing](https://docs.huihoo.com/nltk/0.9.5/guides/portuguese_en.html)
+  - [WojciechMula/aspell-python: Python wrapper for aspell (C extension and python version)](https://github.com/WojciechMula/aspell-python#getmainwordlist)
+  - [ToTTo](https://github.com/google-research-datasets/totto): ToTTo is an open-domain English table-to-text dataset with over 120,000 training examples that proposes a controlled generation task: given a Wikipedia table and a set of highlighted table cells, produce a one-sentence description. We hope it can serve as a useful research benchmark for high-precision conditional text generation.
+- [LibreTranslate - Free and Open Source Machine Translation API](https://libretranslate.com/)
 
 #### Dictionaries
 
@@ -832,6 +848,7 @@
 - [MobileNetv2-YOLOV3](https://github.com/dog-qiuqiu/MobileNetv2-YOLOV3#500kb%E7%9A%84yolo-face-detection): MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40: 6ms/img, YoloFace-500k:0.1Bflops500KB￼￼￼
 - [gradslam](https://github.com/gradslam/gradslam): gradslam is an open source differentiable dense SLAM library for PyTorch
 - [MobileNetv2-YOLOV3](https://github.com/dog-qiuqiu/MobileNetv2-YOLOV3#500kb%E7%9A%84yolo-face-detection): MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40: 6ms/img, YoloFace-500k:0.1Bflops500KB
+- [sense](https://github.com/TwentyBN/sense): Enhance your application with the ability to see and interact with humans using any RGB camera.
 
 #### Python DL
 
@@ -888,6 +905,7 @@
 - [Free and Open-Source Textbooks](https://danaernst.com/resources/free-and-open-source-textbooks/): Here is a partial list of free and/or open-source textbooks.
 - [Computer Scientists Attempt to Corner the Collatz Conjecture](https://www.quantamagazine.org/can-computers-solve-the-collatz-conjecture-20200826/) [Collatz Conjecture](https://www.dcode.fr/collatz-conjecture)
 - [Computing Euclidean distance on 144 dimensions](https://blog.cloudflare.com/computing-euclidean-distance-on-144-dimensions/)
+- [Machines Are Inventing New Math We've Never Seen](https://www.vice.com/en/article/xgzkek/machines-are-inventing-new-math-weve-never-seen)
 
 ### Theorems
 
@@ -949,8 +967,9 @@
 - [Causal](https://causal.app/) is a browser-based modelling tool. Have [Sensitivity Analysis](https://causal.app/sensitivity).
 - [pairwiseComparisons](https://indrajeetpatil.github.io/pairwiseComparisons/). [repo](https://github.com/IndrajeetPatil/pairwiseComparisons): Pairwise comparison tests for one-way designs ￼￼
 - [Fixed-time descriptive statistics underestimate extremes of epidemic curve ensembles](https://www.nature.com/articles/s41567-020-01121-y.pdf)
+- [Normal Distribution](https://mccarthymat150.commons.gc.cuny.edu/units-10/normal-distribution/)
 
-### Data Science
+#### Data Science
 
 - Some thoughts about data licensing: [The CRAPL: An academic-strength open source license](http://matt.might.net/articles/crapl/)
 - [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
@@ -1047,16 +1066,19 @@
   - [ffscrapr](https://ffscrapr.dynastyprocess.com/): An R Client for Fantasy Football League APIs. [repo](https://github.com/dynastyprocess/ffscrapr/)
   - [Static and dynamic network visualization with R](https://kateto.net/network-visualization): This is a comprehensive tutorial on network visualization with R. It covers data input and formats, visualization basics, parameters and layouts for one-mode and bipartite graphs; dealing with multiplex links, interactive and animated visualization for longitudinal networks; and visualizing networks on geographic maps.
   - [R4DS R For Data Science Book Club](https://github.com/r4ds/bookclub-R_for_Data_Science)
+  - [Calculating Confidence Intervals](https://www.cyclismo.org/tutorial/R/confidence.html)
 - [elegant-scipy](https://github.com/elegant-scipy/elegant-scipy): 1st Edition of Elegant SciPy (O'Reilly Publishers)
+- [spyder](https://www.spyder-ide.org): The scientific python development environment.
 
-### Probability
+#### Probability
 
 - [Foundations of Probabilistic Programming](https://www.cambridge.org/core/books/foundations-of-probabilistic-programming/819623B1B5B33836476618AC0621F0EE)
 - [Some Useful Probability Facts for Systems Programming](https://theartofmachinery.com/2020/01/27/systems_programming_probability.html)
 - [Probability & Statistics for Data Science (Series)](https://medium.com/data-deft/probability-statistics-for-data-science-series-83b94353ca48)
 - [Paradoxes of Probability and Other Statistical Strangeness](http://quillette.com/2017/05/26/paradoxes-probability-statistical-strangeness/)
+- [Introduction to dnorm, pnorm, qnorm, and rnorm for new biostatisticians](https://seankross.com/notes/dpqr/)
 
-### Linear Regression
+#### Linear Regression
 
 - [Linear regression by hand](https://dsgazette.com/2018/01/10/linear-regression-by-hand/)
 - [Linear Regression in Python from Scratch](https://medium.com/analytics-vidhya/linear-regression-in-python-from-scratch-24db98184276)
@@ -1065,12 +1087,11 @@
 - [Logistic Regression from Bayes' Theorem](https://www.countbayesie.com/blog/2019/6/12/logistic-regression-from-bayes-theorem)
 - [Gaussian Processes, not quite for dummies](https://yugeten.github.io/posts/2019/09/GP/)
 
-### Time Series
+#### Time Series
 
 - [PlotJuggler](https://github.com/facontidavide/PlotJuggler): The Time Series Visualization Tool that you deserve.
 - [Latent Dirichlet Allocation coupled with Bayesian Time Series analyses](https://github.com/weecology/LDATS). [overview](https://weecology.github.io/LDATS/)
 - [prometheus](https://github.com/prometheus/prometheus): The Prometheus monitoring system and time series database.
->>>>>>> 97a40ab1cfbfc439db8f46f9aa5db041878f8504
 
 #### Datasets
 
@@ -1156,6 +1177,7 @@
   - [ggalluvial](https://github.com/corybrunson/ggalluvial)
 - (pt-br) [visualizacao-com-bokeh-holoviews](https://github.com/edinhodiluviano/visualizacao-com-bokeh-holoviews)
 - [The Shape of Dreams](https://the-shape-of-dreams.com/): A visual exploration of Google searches for the interpretation of dreams.
+- [500k LIVES LOST](https://graphics.reuters.com/HEALTH-CORONAVIRUS/USA-CASUALTIES-CHRONOLOGY/xklpyomnrpg/index.html): The scale of the COVID-19 death toll in the United States.
 
 ### Calculus
 
@@ -1163,6 +1185,7 @@
 - Functional Bits: [Lambda Calculus based Algorithmic Information Theory](https://tromp.github.io/cl/LC.pdf)
 - [Another orthonormal basis](https://calculus7.org/2012/01/31/another-orthonormal-basis-hermite-functions/): Hermite functions
 - [Solving Van der Pol equation](http://mathworld.wolfram.com/vanderPolEquation.html) [with ivp_solve](https://www.johndcook.com/blog/2019/12/22/van-der-pol/)
+- [Differential Equations with SciPy – odeint or solve_ivp](https://danielmuellerkomorowska.com/2021/02/16/differential-equations-with-scipy-odeint-or-solve_ivp/)
 
 ### Topology
 
@@ -1248,6 +1271,7 @@
 - Fermats Library:
   - [The mathematical art of juggling:using mathematics to predict, describe and create](https://fermatslibrary.com/s/the-mathematical-art-of-juggling)
   - [The Environment and Disease: Association or Causation?](https://fermatslibrary.com/s/the-environment-and-disease-association-or-causation)
+- [Booting the IBM 1401](https://www.righto.com/2021/02/an-ibm-1401-mainframe-computer-at.html): How a 1959 punch-card computer loads a program (and why we use the bootstrap term).
 
 ### Music
 
@@ -1362,6 +1386,7 @@
 - [Cells are very fast and crowded places](http://www.righto.com/2011/07/cells-are-very-fast-and-crowded-places.html)
 - [baltic](https://github.com/evogytis/baltic): backronymed adaptable lightweight tree import code for molecular phylogeny manipulation, analysis and visualisation. Development is back on the evogytis/baltic branch (i.e. here).
 - [Seraphim](http://evolve.zoo.ox.ac.uk/Evolve/Seraphim.html): Studying Environmental Rasters And PHylogenetically Informed Movements. [seraphim](https://github.com/evogytis/baltic) is a R package for studying environmental rasters and phylogenetic informed movements
+- [Incredible time-lapse shows a single cell transforming into a salamander](https://www.nationalgeographic.com/animals/article/time-lapse-film-shows-salamander-development)
 
 ## Geography
 
@@ -1385,6 +1410,7 @@
 - [China's History 101](https://www.youtube.com/watch?v=3T1tadzNNZ8)
 - [What We Know of Sappho](https://www.theparisreview.org/blog/2020/12/08/what-we-know-of-sappho/)
 - [Rare Manuscript Found Reveals Massive Lost World of 16th Century Books](https://www.thevintagenews.com/2019/04/19/libro-de-los-epitomes/)
+- [Red Herring](https://www.wnycstudios.org/podcasts/radiolab/articles/red-herring): It was the early 80s, the height of the Cold War, when something strange began happening off the coast of Sweden. The navy reported a mysterious sound deep below the surface of the ocean.
 
 ## Humanities
 
@@ -1512,6 +1538,7 @@
 - [wick editor](https://www.wickeditor.com/): [The Wick Editor is a free](https://github.com/Wicklets/wick-editor), open-source tool for creating games, animations, and everything in-between!
 - [anarch](https://gitlab.com/drummyfish/anarch), the suckless FPS game
 - [Designing 2D graphics in the Japanese industry](https://vgdensetsu.tumblr.com/post/179656817318/designing-2d-graphics-in-japan-from-the-late-70s)
+- [sm64](https://github.com/n64decomp/sm64): A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
 
 ## Writing Articles
 
@@ -1602,6 +1629,12 @@
 - (pt-br) [controle-seus-tweets](https://github.com/RodrigoMenegat/controle-seus-tweets): Conjunto de scripts simples que usam o pacote tweepy para baixar todos os tweets e likes de um usuário no Twitter. Também contém scritps que permitem remover as publicações feitas e favoritadas.
 - [bot-followers](https://github.com/cuducos/bot-followers): 🍊 Find out how many bots follow any given Twitter acount.
 - [iroiro](https://github.com/antfu/iroiro): Beautiful Colors Lookup in CLI
+
+#### Web python
+
+- [Vibora](https://github.com/vibora-io/vibora): Fast, asynchronous and elegant Python web framework.
+- [Sanic](https://github.com/sanic-org/sanic): Async Python 3.7+ web server/framework | Build fast. Run fast.
+- [Jápronto!](https://github.com/squeaky-pl/japronto): Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser.
 
 ## Privacy
 
@@ -1740,6 +1773,7 @@
 - [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/): Carefully curated content to help you ace your next technical interview.
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.
+- [Cloud security architect, focused in Azure](https://twitter.com/jotunvillur/status/1365355765016453121)
 
 ## General Fun
 
@@ -1759,6 +1793,7 @@
 - [awesome-scifi](https://github.com/sindresorhus/awesome-scifi): I asked on Twitter for recommendations as I want to get into reading Sci-Fi novels. The below is the result. Thanks everyone for recommending your favorites! :)
 - (pt-br) [Divulgação Científica](https://docs.google.com/spreadsheets/d/1qXiDGiwXEXVvPMf_Kf-t3qeUnthFGz4GLL3uoCmRQek/edit#gid=105539009), on [github](https://github.com/DivulgacaoCientifica/divulgacaocientifica).
 - [Sourcerer](https://sourcerer.io/) is a visual profile for SWEs that analyzes and derives your abilities, preferences, and habits from your commits and source code.
+- [blobs](https://blobs.app): [Blob shapes generator](https://github.com/lokesh-coder/blobs.app)
 
 ## Articles and Papers
 
@@ -1776,6 +1811,11 @@
 - [Papers with Code partners with arXiv](https://medium.com/paperswithcode/papers-with-code-partners-with-arxiv-ecc362883167)
 
 ## News
+
+### 2021 
+
+- [Traffic Noise Is a Silent Killer](https://www.theatlantic.com/health/archive/2021/02/how-noise-harms-heart/618091/): The ruckus of cars and planes can damage not just your ears, but also your heart.
+- [The Doctor Will Sniff You Now](https://nautil.us/issue/95/escape/the-doctor-will-sniff-you-now): Step aside, Dr. House, Deep Nose will one day be the best diagnostician in medicine.
 
 ### 2020
 
