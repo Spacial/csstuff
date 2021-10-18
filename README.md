@@ -153,6 +153,7 @@
 - [Schrödinger's Code](https://queue.acm.org/detail.cfm?id=3468263): Undefined behavior in theory and practice.
 - [How to Become a Bad Developer](https://rafaelquintanilha.com/how-to-become-a-bad-developer)
 - [Can programming be liberated from the von Neumann style?: a functional style and its algebra of programs](https://dl.acm.org/doi/10.1145/359576.359579)
+- [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
 
 #### IDEs
 
@@ -161,6 +162,7 @@
   - [awesome-vscode](https://github.com/viatsko/awesome-vscode): art A curated list of delightful VS Code packages and resources.
   - [Why I wrote 33 VSCode extensions and how I manage them](https://medium.com/@fabiospampinato/why-i-wrote-33-vscode-extensions-and-how-i-manage-them-cb61df05e154)
   - [VS Code Live Share plugin](https://fedoramagazine.org/vs-code-live-share-plugin/)
+- [Replit](https://replit.com/): Write and execute your code in your browser and host it with a single click.
 
 #### Formal Methods
 
@@ -350,6 +352,8 @@
 - [10 advanced Python concepts that you want to look](https://twitter.com/svpino/status/1391332116420509696)
 - [Clean Architectures in Python](https://leanpub.com/clean-architectures-in-python)
 - [OpenTelemetry Python](https://github.com/open-telemetry/opentelemetry-python): OpenTelemetry Python API and SDK
+- [string methods](https://twitter.com/AbzAaron/status/1434556230014541826)
+- [cookiecutter-hypermodern-python](https://github.com/cjolowicz/cookiecutter-hypermodern-python): Cookiecutter template for a Python package based on the [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-06-ci-cd/) [article series](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/).
 
 ##### Presentations
 
@@ -440,72 +444,6 @@
 - [Monorepos](https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b): Please don’t!
 - [Don't ask if a monorepo is good for you – ask if you're good enough for a monorepo](https://yosefk.com/blog/dont-ask-if-a-monorepo-is-good-for-you-ask-if-youre-good-enough-for-a-monorepo.html)
 - [Monorepo or Multirepo? Role-Based Repositories](https://blog.7mind.io/role-based-repositories.html)
-- **GIT**:
-  - [Pro Git book](https://git-scm.com/book/en/v2), written by Scott Chacon and Ben Straub ([github](https://github.com/progit/progit2) repo)
-  - [git-sizer](https://github.com/github/git-sizer/): Compute various size metrics for a Git repository, flagging those that might cause problems ( [article](https://blog.github.com/2018-03-05-measuring-the-many-sizes-of-a-git-repository/))
-  - [git-semantics](https://github.com/kewitz/git-semantics): Git hook to ensure semantic commit messages.
-  - [10 Common Git Problems and How to Fix Them](https://citizen428.net/10-common-git-problems-and-how-to-fix-them-e8d809299f08)
-  - [lazygit](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands
-  - [husky](https://github.com/typicode/husky): Git hooks made easy
-  - [lint-staged](https://github.com/okonet/lint-staged): Run linters on git staged files
-  - 6 [Github](https://www.cyberciti.biz/open-source/github-alternatives-open-source-seflt-hosted/) alternatives that are open source and self-hosted
-  - [Git Submodules vs Git Subtrees](https://codewinsarguments.co/2016/05/01/git-submodules-vs-git-subtrees/) | Code Wins Arguments
-  - Sublime Merge:[Git, done Sublime](https://www.sublimemerge.com/)
-  - [Git Cheatsheet](https://ndpsoftware.com/git-cheatsheet.html#loc=workspace;)
-  - [gitx](https://github.com/codebasesaga/GitX): GitX‐modded
-  - (pt-br) [git](http://rogerdudler.github.io/git-guide/index.pt_BR.html): guia prático - sem complicação!
-  - [gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service.
-  - [A Git Horror Story](https://mikegerwitz.com/papers/git-horror-story): Repository Integrity With Signed Commits. How to use git securely (signing commits)
-  - [gitea](https://github.com/go-gitea/gitea): Git with a cup of tea, painless self-hosted git service
-  - [Getting Started - Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
-  - [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
-  - [Learn git branching](https://learngitbranching.js.org/): An interactive git visualization to challenge and educate! [github](https://github.com/pcottle/learnGitBranching).
-  - [gitless](https://gitless.com): A version control system built on top of Git [github](https://github.com/sdg-mit/gitless).
-  - [How can I undo the last commit?](https://www.git-tower.com/learn/git/faq/undo-last-commit)
-  - [Git: “Not currently on any branch.” Is there an easy way to get back on a branch, while keeping the changes?](https://stackoverflow.com/questions/4735556/git-not-currently-on-any-branch-is-there-an-easy-way-to-get-back-on-a-branch)
-  - [.gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
-  - [24 Pull Requests](https://24pullrequests.com/): You’ve been benefiting from the use of open source projects all year. Now is the time to say thanks to the maintainers of those projects, and a little birdy tells me that they love receiving contributions!
-  - [GitHub Learning Lab](https://lab.github.com/githubtraining/)
-  - [branch - Git merge errors](https://stackoverflow.com/questions/6006737/git-merge-errors)
-  - [git - Why can I not switch branches?](https://stackoverflow.com/questions/6002732/why-can-i-not-switch-branches)
-  - [How to Fix Git Error](https://appuals.com/how-to-fix-git-error-you-need-to-resolve-your-current-index-first/): You need to resolve your current index first
-  - [devhub](https://github.com/devhubapp/devhub): DevHub: TweetDeck for GitHub - Android, iOS and Web 👉
-  - [Git Cheat Sheet](https://gist.github.com/akras14/3d242d80af8388ebca60)
-  - [Write good git commit message](https://juffalow.com/other/write-good-git-commit-message)
-  - [cz-cli](https://github.com/commitizen/cz-cli): The commitizen command line utility.
-  - [Switch branches](https://backlog.com/git-tutorial/branching/switch-branch/)
-  - [Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging): Basic Branching and Merging
-  - [How to teach Git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)
-  - [Forge](https://github.com/magit/forge/): Work with Git forges from the comfort of Magit
-  - [gita](https://github.com/nosarthur/gita): Manage multiple git repos side by side for sanity
-  - [How GitHub Classroom and Travis CI improved students’ grades](https://github.blog/2019-02-12-how-github-classroom-and-travis-ci-improved-students-grades/)
-  - [Git hacks no one tells you about](https://medium.com/devopslinks/git-hacks-no-one-tells-you-about-e841d50cb474)
-  - [An introduction to Git](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/): what it is, and how to use it
-  - [Learn the Basics of Git in Under 10 Minutes](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
-  - (pt-br) [git-beyond-the-trivial](https://github.com/drrzmr/git-beyond-the-trivial).
-  - Learning git: [Locations, Remotes, and GitHub](https://www.willingconsulting.com/post/2019-07-01-locations-and-git/)
-  - (pt-br) [4 livros grátis de Git para iniciantes (online e PDF)](https://guiainfo.net/4-livros-gratis-de-git-para-iniciantes-online-e-pdf/)
-  - (pt-br) [Github descomplicado](https://medium.com/@anarossini01/github-descomplicado-2eb7f9fb2b60)
-  - (pt-br) [Git Colinha](https://github.github.com/training-kit/downloads/pt_BR/github-git-cheat-sheet/)
-  - (pt-br) [git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
-  - Some good tips to gitconfig:
-    - [Visualizing branch topology in git](https://stackoverflow.com/questions/1838873/visualizing-branch-topology-in-git)
-  - [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else): Blame someone else for your bad code.
-  - [High-level Problems with Git and How to Fix Them](https://gregoryszorc.com/blog/2017/12/11/high-level-problems-with-git-and-how-to-fix-them/)
-  - [My favourite Git commit](https://fatbusinessman.com/2019/my-favourite-git-commit)
-  - [gitpod](https://www.gitpod.io/): One-Click Online IDE for GitHub
-  - [forgit](https://github.com/wfxr/forgit) is a utility tool for git taking advantage of fuzzy finder fzf. [Interactive Git Commands With Previews Powered By fzf Fuzzy Finder](https://www.linuxuprising.com/2019/11/forgit-interactive-git-commands-with.html)
-  - [Fedora Classroom Session: Git 101 with Pagure](https://fedoramagazine.org/fedora-classroom-session-git-101-with-pagure/)
-  - [GitGuardian Documentation and Resources](https://github.com/GitGuardian/APISecurityBestPractices)
-  - GitHub Profiles:
-    - [Awesome Readme Stats](https://github.com/anmol098/waka-readme-stats)
-    - [ghuser.io](https://github.com/ghuser-io/ghuser.io): Better GitHub profiles
-    - (pt-br) [Github Profile: Como fazer?](https://dev.to/dii_lua/github-profile-como-fazer-54o0)
-  - [Git4Noobs](https://github.com/DanielHe4rt/git4noobs)
-  - (pt-br) [github4nondevs](https://github.com/Carolis/github4nondevs): Guia introdutório de utilização básica da interface do github para pessoas não desenvolvedoras ou não interessadas em utilizar a interface de comandos do git.
-  - [Fortunately, I don't squash my commits](https://blog.ploeh.dk/2020/10/05/fortunately-i-dont-squash-my-commits/)
-  - [github-cli](https://github.com/cli/cli):  GitHub’s official command line tool
-  - [Learn Git Branching](https://learngitbranching.js.org/): 
 - **Mercurial**:
   - [Monoke](https://github.com/facebookexperimental/mononoke): A Mercurial source control server, specifically designed to support large monorepos.
 - [Welcome to Pull Request Roulette](http://www.pullrequestroulette.com/).
@@ -515,6 +453,77 @@
   - [awesome-social-projects](https://github.com/Jciel/awesome-social-projects)
   - [The Minimum Viable Pull-request](https://dev.to/jmfayard/the-minimum-viable-pull-request-5e7p)
 - [sourcehut](https://sr.ht/) is a collection of tools useful for software development. 
+
+##### git 
+
+- [Pro Git book](https://git-scm.com/book/en/v2), written by Scott Chacon and Ben Straub ([github](https://github.com/progit/progit2) repo)
+- [git-sizer](https://github.com/github/git-sizer/): Compute various size metrics for a Git repository, flagging those that might cause problems ( [article](https://blog.github.com/2018-03-05-measuring-the-many-sizes-of-a-git-repository/))
+- [git-semantics](https://github.com/kewitz/git-semantics): Git hook to ensure semantic commit messages.
+- [10 Common Git Problems and How to Fix Them](https://citizen428.net/10-common-git-problems-and-how-to-fix-them-e8d809299f08)
+- [lazygit](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands
+- [husky](https://github.com/typicode/husky): Git hooks made easy
+- [lint-staged](https://github.com/okonet/lint-staged): Run linters on git staged files
+- 6 [Github](https://www.cyberciti.biz/open-source/github-alternatives-open-source-seflt-hosted/) alternatives that are open source and self-hosted
+- [Git Submodules vs Git Subtrees](https://codewinsarguments.co/2016/05/01/git-submodules-vs-git-subtrees/) | Code Wins Arguments
+- Sublime Merge:[Git, done Sublime](https://www.sublimemerge.com/)
+- [Git Cheatsheet](https://ndpsoftware.com/git-cheatsheet.html#loc=workspace;)
+- [gitx](https://github.com/codebasesaga/GitX): GitX‐modded
+- (pt-br) [git](http://rogerdudler.github.io/git-guide/index.pt_BR.html): guia prático - sem complicação!
+- [gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service.
+- [A Git Horror Story](https://mikegerwitz.com/papers/git-horror-story): Repository Integrity With Signed Commits. How to use git securely (signing commits)
+- [gitea](https://github.com/go-gitea/gitea): Git with a cup of tea, painless self-hosted git service
+- [Getting Started - Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
+- [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
+- [Learn git branching](https://learngitbranching.js.org/): An interactive git visualization to challenge and educate! [github](https://github.com/pcottle/learnGitBranching).
+- [gitless](https://gitless.com): A version control system built on top of Git [github](https://github.com/sdg-mit/gitless).
+- [How can I undo the last commit?](https://www.git-tower.com/learn/git/faq/undo-last-commit)
+- [Git: “Not currently on any branch.” Is there an easy way to get back on a branch, while keeping the changes?](https://stackoverflow.com/questions/4735556/git-not-currently-on-any-branch-is-there-an-easy-way-to-get-back-on-a-branch)
+- [.gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
+- [24 Pull Requests](https://24pullrequests.com/): You’ve been benefiting from the use of open source projects all year. Now is the time to say thanks to the maintainers of those projects, and a little birdy tells me that they love receiving contributions!
+- [GitHub Learning Lab](https://lab.github.com/githubtraining/)
+- [branch - Git merge errors](https://stackoverflow.com/questions/6006737/git-merge-errors)
+- [git - Why can I not switch branches?](https://stackoverflow.com/questions/6002732/why-can-i-not-switch-branches)
+- [How to Fix Git Error](https://appuals.com/how-to-fix-git-error-you-need-to-resolve-your-current-index-first/): You need to resolve your current index first
+- [devhub](https://github.com/devhubapp/devhub): DevHub: TweetDeck for GitHub - Android, iOS and Web 👉
+- [Git Cheat Sheet](https://gist.github.com/akras14/3d242d80af8388ebca60)
+- [Write good git commit message](https://juffalow.com/other/write-good-git-commit-message)
+- [cz-cli](https://github.com/commitizen/cz-cli): The commitizen command line utility.
+- [Switch branches](https://backlog.com/git-tutorial/branching/switch-branch/)
+- [Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging): Basic Branching and Merging
+- [How to teach Git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)
+- [Forge](https://github.com/magit/forge/): Work with Git forges from the comfort of Magit
+- [gita](https://github.com/nosarthur/gita): Manage multiple git repos side by side for sanity
+- [How GitHub Classroom and Travis CI improved students’ grades](https://github.blog/2019-02-12-how-github-classroom-and-travis-ci-improved-students-grades/)
+- [Git hacks no one tells you about](https://medium.com/devopslinks/git-hacks-no-one-tells-you-about-e841d50cb474)
+- [An introduction to Git](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/): what it is, and how to use it
+- [Learn the Basics of Git in Under 10 Minutes](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
+- (pt-br) [git-beyond-the-trivial](https://github.com/drrzmr/git-beyond-the-trivial).
+- Learning git: [Locations, Remotes, and GitHub](https://www.willingconsulting.com/post/2019-07-01-locations-and-git/)
+- (pt-br) [4 livros grátis de Git para iniciantes (online e PDF)](https://guiainfo.net/4-livros-gratis-de-git-para-iniciantes-online-e-pdf/)
+- (pt-br) [Github descomplicado](https://medium.com/@anarossini01/github-descomplicado-2eb7f9fb2b60)
+- (pt-br) [Git Colinha](https://github.github.com/training-kit/downloads/pt_BR/github-git-cheat-sheet/)
+- (pt-br) [git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
+- Some good tips to gitconfig:
+  - [Visualizing branch topology in git](https://stackoverflow.com/questions/1838873/visualizing-branch-topology-in-git)
+- [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else): Blame someone else for your bad code.
+- [High-level Problems with Git and How to Fix Them](https://gregoryszorc.com/blog/2017/12/11/high-level-problems-with-git-and-how-to-fix-them/)
+- [My favourite Git commit](https://fatbusinessman.com/2019/my-favourite-git-commit)
+- [gitpod](https://www.gitpod.io/): One-Click Online IDE for GitHub
+- [forgit](https://github.com/wfxr/forgit) is a utility tool for git taking advantage of fuzzy finder fzf. [Interactive Git Commands With Previews Powered By fzf Fuzzy Finder](https://www.linuxuprising.com/2019/11/forgit-interactive-git-commands-with.html)
+- [Fedora Classroom Session: Git 101 with Pagure](https://fedoramagazine.org/fedora-classroom-session-git-101-with-pagure/)
+- [GitGuardian Documentation and Resources](https://github.com/GitGuardian/APISecurityBestPractices)
+- GitHub Profiles:
+  - [Awesome Readme Stats](https://github.com/anmol098/waka-readme-stats)
+  - [ghuser.io](https://github.com/ghuser-io/ghuser.io): Better GitHub profiles
+  - (pt-br) [Github Profile: Como fazer?](https://dev.to/dii_lua/github-profile-como-fazer-54o0)
+- [Git4Noobs](https://github.com/DanielHe4rt/git4noobs)
+- (pt-br) [github4nondevs](https://github.com/Carolis/github4nondevs): Guia introdutório de utilização básica da interface do github para pessoas não desenvolvedoras ou não interessadas em utilizar a interface de comandos do git.
+- [Fortunately, I don't squash my commits](https://blog.ploeh.dk/2020/10/05/fortunately-i-dont-squash-my-commits/)
+- [github-cli](https://github.com/cli/cli):  GitHub’s official command line tool
+- [Learn Git Branching](https://learngitbranching.js.org/): 
+- [Version Control Without Git](https://itoshkov.github.io/git-tutorial): In this tutorial I’ll try to describe how git works, without using git. Instead, we’ll create a simple, git-like system using just zip files diff and patch.
+- [cheatsheet do git-flow](https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html) [github repo](https://github.com/danielkummer/git-flow-cheatsheet)
+- [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 
 #### Software Engineering
 
@@ -628,7 +637,8 @@
 ### API
 
 - [Useful checklist for building good Python library APIs, based on "How to make a good library API" PyCon 2017 talk](https://github.com/vintasoftware/python-api-checklist/)
-- [cookiecutter-flask-restful](https://github.com/karec/cookiecutter-flask-restful):
+- [cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask): A flask template with Bootstrap 4, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
+- [cookiecutter-flask-restful](https://github.com/karec/cookiecutter-flask-restful): Flask cookiecutter template for builing APIs with flask-restful, including JWT auth, cli, tests, swagger, docker and more
 
 ## Distributed Systems
 
@@ -663,11 +673,13 @@
 - [Exploring the world of declarative programming](https://fedoramagazine.org/exploring-the-world-of-declarative-programming/)
 - [Jina](https://github.com/jina-ai/jina): Cloud-native neural search framework for any kind of data. 
 - [The AI Wolf That Preferred Suicide Over Eating Sheep](https://onezero.medium.com/the-ai-wolf-that-preferred-suicide-over-eating-sheep-49edced3c710)
+- [Network Protocol Classification with Random Forests](https://www.youtube.com/watch?v=YpzJ4kik8PY)
 
 ### Genetic Algorithms
 
 - [ant_sugar](https://github.com/dg92/ant_sugar): Genetic Algorithms, Mutation, Crossover, Mating, Particle Animation, Gaming, Learning, P5JS, Fun Project
 - [Introduction to Genetic Algorithms](https://blog.floydhub.com/introduction-to-genetic-algorithms/)
+- (pt-br) [A lot of stuff about Genetic Algorithms](https://www.inf.ufpr.br/aurora/disciplinas/topicosia2/aulas/) [plan](https://folivetti.github.io/courses/BioInspirada/2021/plano.pdf)
 
 ### Natural Language Processing
 
@@ -847,6 +859,7 @@
 - [Deep Convolutional Generative Adversarial Network](https://www.tensorflow.org/tutorials/generative/dcgan) [jupyter notebook](https://github.com/tensorflow/docs/blob/master/site/en/tutorials/generative/dcgan.ipynb)
 - [GANformer](https://github.com/dorarad/gansformer): Generative Adversarial Transformers.
 - [solo-learn](https://github.com/vturrisi/solo-learn): a library of self-supervised methods for visual representation learning powered by Pytorch Lightning.
+- [Pupyl](https://github.com/policratus/pupyl) is a really fast image search library which you can index your own (millions of) images and find similar images in milliseconds.
 
 ### Computer Vision
 
@@ -879,6 +892,7 @@
 - [MobileNetv2-YOLOV3](https://github.com/dog-qiuqiu/MobileNetv2-YOLOV3#500kb%E7%9A%84yolo-face-detection): MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40: 6ms/img, YoloFace-500k:0.1Bflops500KB￼￼￼
 - [gradslam](https://github.com/gradslam/gradslam): gradslam is an open source differentiable dense SLAM library for PyTorch
 - [MobileNetv2-YOLOV3](https://github.com/dog-qiuqiu/MobileNetv2-YOLOV3#500kb%E7%9A%84yolo-face-detection): MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40: 6ms/img, YoloFace-500k:0.1Bflops500KB
+- [Facial Features Recognition](https://github.com/arthurfortes/facial-features-recognition): Face Mesh is a face geometry solution that estimates 468 3D face landmarks in real-time even on mobile devices.
 
 #### Python DL
 
@@ -953,6 +967,7 @@
 - Fun:
   - [Find Your Pi Day](http://mypiday.com/): find your day on pi.
 - [Poisson's Equation is the Most Powerful Tool not yet in your Toolbox](https://mattferraro.dev/posts/poissons-equation)
+- [COMPLEX ANALYSIS](https://complex-analysis.com/), A Visual and Interactive Introduction, Juan Carlos Ponce Campuzano
 
 ### Theorems
 
@@ -1137,6 +1152,7 @@
 - [PlotJuggler](https://github.com/facontidavide/PlotJuggler): The Time Series Visualization Tool that you deserve.
 - [Latent Dirichlet Allocation coupled with Bayesian Time Series analyses](https://github.com/weecology/LDATS). [overview](https://weecology.github.io/LDATS/)
 - [prometheus](https://github.com/prometheus/prometheus): The Prometheus monitoring system and time series database.
+- [dart](https://github.com/unit8co/darts): A python library for easy manipulation and forecasting of time series.
 
 #### Datasets
 
@@ -1485,6 +1501,7 @@
 - [Rare Manuscript Found Reveals Massive Lost World of 16th Century Books](https://www.thevintagenews.com/2019/04/19/libro-de-los-epitomes/)
 - [Watch Accurate Recreations of Medieval Italian Longsword Fighting Techniques, All Based on a Manuscript from 1404](https://www.openculture.com/2021/05/watch-accurate-recreations-of-medieval-italian-longsword-fighting-techniques.html)
 - [Some Tenochtitlan and Aztec history](https://twitter.com/trasadasyu/status/1394245954501419012)
+- [Life-Size Camel Sculptures in Saudi Arabia Are Older Than Stonehenge, Pyramids of Giza](https://www.smithsonianmag.com/smart-news/life-size-camel-sculptures-in-saudi-arabia-are-older-than-stonehenge-pyramids-of-giza-180978693/): New research suggests the animal reliefs date to between 7,000 and 8,000 years ago
 
 ## Humanities
 
@@ -1624,6 +1641,7 @@
 - [Horrors of SPIR-V](https://kvark.github.io/spirv/2021/05/01/spirv-horrors.html)
 - [Clspv](https://github.com/google/clspv) is a prototype compiler for a subset of OpenCL C to Vulkan compute shaders.
 - [Chess Science in the Making](https://www.chessable.com/blog/chess-science-in-the-making/)
+- [Nintendo Switch NSP List](ziperto.com/nintendo-switch-nsp-list/) at ZIPERTO (a digital park for games)
 
 ## Writing Articles
 
