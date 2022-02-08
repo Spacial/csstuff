@@ -81,6 +81,7 @@
 - Introducing SLOG:[Cheating the low-latency vs. strict serializability tradeoff](http://dbmsmusings.blogspot.com/2019/10/introducing-slog-cheating-low-latency.html)
 - [Why databases use ordered indexes but programming uses hash tables](https://www.evanjones.ca/ordered-vs-unordered-indexes.html)
 - [PostgreSQL beginner guide](https://knowledgepill.it/posts/postgresql-basics-guide/)- connecting, remote access, psql CLI and troubleshooting connection
+- [ClickHouse](https://github.com/ClickHouse/ClickHouse): is a free analytics DBMS for big data.
 
 ### Networks
 
@@ -169,6 +170,7 @@
 - [Augmenting Agile with Formal Methods](https://www.hillelwayne.com/post/augmenting-agile/)
 - [Open Petri Nets (Part 1) | Azimuth](https://johncarlosbaez.wordpress.com/2018/08/15/open-petri-nets-part-1/)
 - [storm](https://github.com/Practical-Formal-Methods/storm): A blackbox mutational fuzzer for detecting critical bugs in SMT solvers [paper](https://numairmansur.github.io/STORM.pdf) [site](https://practical-formal-methods.github.io/storm/)
+- [Open Logic Text](https://openlogicproject.org/about/) [The OLP is an open-source, collaborative logic set of teaching materials for formal (meta)logic and formal methods. It is available for free and it is modifiable and rearrangeable depending on the teaching needs/purposes.](https://twitter.com/MxLogica/status/1452617097960431625)
 
 #### APIs
 
@@ -183,6 +185,8 @@
 - [Rewriting Functions in Compiled Binaries](https://blog.trailofbits.com/2019/09/02/rewriting-functions-in-compiled-binaries/)
 - [PC Assembly Language book](https://github.com/pacman128/pcasm).
 - [Polyglot Assembly](https://vojtechkral.github.io/blag/polyglot-assembly/): Writing assembly code that runs on multiple architectures.
+- [x86 Assembly/Control Flow](https://en.wikibooks.org/wiki/X86_Assembly/Control_Flow)
+- [Online Assembler - NASM Compiler IDE](https://www.jdoodle.com/compile-assembler-nasm-online/)
 
 #### C/C++
 
@@ -233,6 +237,7 @@
 - [C++ Creator Bjarne Stroustrup Answers Our Top Five C++ Questions](https://stackoverflow.blog/2019/10/11/c-creator-bjarne-stroustrup-answers-our-top-five-c-questions/)
 - [Intel SPMD Program Compiler](https://ispc.github.io/): ispc is a compiler for a variant of the C programming language, with extensions for "single program, multiple data" (SPMD) programming. Under the SPMD model, the programmer writes a program that generally appears to be a regular serial program, though the execution model is actually that a number of program instances execute in parallel on the hardware. [github](https://github.com/ispc/ispc/)
 - [cnp](https://github.com/aicodix/cnp): Check Node Processor in VHDL for LDPC decoding.
+- [SPI MASTER AND SLAVE FOR FPGA](https://github.com/jakubcabal/spi-fpga): SPI master and SPI slave for FPGA written in VHDL.
 - [Clang-format tanks performance](https://travisdowns.github.io/blog/2019/11/19/toupper.html), [Benchmark supporting baseless libel against clang-format](https://github.com/travisdowns/toupper-bench)
 - [StrongOD](https://github.com/shellbombs/StrongOD)(anti anti-debug plugin) driver source code.
 - [C4Noobs](https://github.com/jpaulohe4rt/c4noobs):  Tutorial de C para iniciantes.
@@ -246,6 +251,8 @@
 - [C Playground](https://cplayground.com/)
 - [datatype99](https://github.com/Hirrolot/datatype99): Algebraic data types for C99
 - [Controlling GDB](https://sourceware.org/gdb/current/onlinedocs/gdb/Controlling-GDB.html)
+- [Using Zig and Translate-C to understand weird C code](https://zig.news/sobeston/using-zig-and-translate-c-to-understand-weird-c-code-4f8)
+- [libtcod](https://github.com/libtcod/libtcod): The official repository for libtcod. A roguelike development library.
 
 #### Makefile
 
@@ -354,6 +361,10 @@
 - [OpenTelemetry Python](https://github.com/open-telemetry/opentelemetry-python): OpenTelemetry Python API and SDK
 - [string methods](https://twitter.com/AbzAaron/status/1434556230014541826)
 - [cookiecutter-hypermodern-python](https://github.com/cjolowicz/cookiecutter-hypermodern-python): Cookiecutter template for a Python package based on the [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-06-ci-cd/) [article series](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/).
+- [Awesome Python modules as script](https://github.com/cassiobotaro/awesome-python-modules-as-script): Catalogue of useful python modules that run as script.
+- [RustPython](https://github.com/RustPython/RustPython)A Python Interpreter written in Rust
+- [Arrow](https://arrow.readthedocs.io/en/latest/): Better dates & times for Python
+- [Yet Another Roguelike Tutorial - Written in Python 3 and TCOD](http://rogueliketutorials.com/tutorials/tcod/v2/). [python-tcod](https://github.com/libtcod/python-tcod): A high-performance Python port of libtcod. Includes the libtcodpy module for backwards compatibility with older projects. 
 
 ##### Presentations
 
@@ -367,6 +378,7 @@
 
 - Agda:
   - [plfa](https://github.com/plfa/plfa.github.io/): Introduction to programming language theory in Agda and [Programming Language Foundations in Agda](https://plfa.github.io/).
+  - [Agda 2](https://github.com/agda/agda)
 - Anglican:
   - [Anglican](https://probprog.github.io/anglican/index.html): A Probabilistic Programming System.
 - Answer Set Programming(ASP): offers a simple and powerful modeling language to solve combinatorial problems.
@@ -375,6 +387,8 @@
   - [Brainfuck](https://www.dcode.fr/brainfuck-language) encoder/decoder.
 - Dafny:
   - [dafny](https://github.com/Microsoft/dafny): Dafny is a verification-aware programming language.
+- Clean:
+  - [Clean](https://clean.cs.ru.nl/Clean): Clean is a general purpose, state-of-the-art, pure and lazy functional programming language designed for making real-world applications. Some of its most notable language features are uniqueness typing, dynamic typing, and generic functions.
 - Elixir:
   - [Nerves](https://github.com/nerves-project/nerves): Craft and deploy bulletproof embedded software in Elixir. [official site](http://nerves-project.org)
   - [dialyxir](https://github.com/jeremyjh/dialyxir): Mix tasks to simplify use of Dialyzer in Elixir projects.
@@ -524,6 +538,7 @@
 - [Version Control Without Git](https://itoshkov.github.io/git-tutorial): In this tutorial I’ll try to describe how git works, without using git. Instead, we’ll create a simple, git-like system using just zip files diff and patch.
 - [cheatsheet do git-flow](https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html) [github repo](https://github.com/danielkummer/git-flow-cheatsheet)
 - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+- [How to squash and rebase in git](https://www.jenweber.dev/how-to-squash-and-rebase/)
 
 #### Software Engineering
 
@@ -639,6 +654,7 @@
 - [Useful checklist for building good Python library APIs, based on "How to make a good library API" PyCon 2017 talk](https://github.com/vintasoftware/python-api-checklist/)
 - [cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask): A flask template with Bootstrap 4, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
 - [cookiecutter-flask-restful](https://github.com/karec/cookiecutter-flask-restful): Flask cookiecutter template for builing APIs with flask-restful, including JWT auth, cli, tests, swagger, docker and more
+- (pt-br) [Do zero a implantação](https://github.com/cassiobotaro/do_zero_a_implantacao): utilizando Python. [Construindo API's robustas utilizando Python](https://github.com/luizalabs/tutorial-python-brasil) []()
 
 ## Distributed Systems
 
@@ -707,6 +723,8 @@
 - [Foldable Words](http://bit-player.org/2021/foldable-words)
 - [entity-embed](https://github.com/vintasoftware/entity-embed/): Transform entities like companies, products, etc. into vectors to support scalable Record Linkage / Entity Resolution using Approximate Nearest Neighbors.
 - [OpenAI’s GPT-3 Can Now Generate The Code For You](https://analyticsindiamag.com/open-ai-gpt-3-code-generator-app-building/)
+- [PromptSource](https://github.com/bigscience-workshop/promptsource)
+- [PatrickStar](https://github.com/Tencent/PatrickStar): enables Larger, Faster, Greener Pretrained Models for NLP and democratizes AI for everyone. 
 
 #### Dictionaries
 
@@ -726,7 +744,8 @@
 - [Deep learning signal classification using rtl-sdr dongle](https://github.com/randaller/cnn-rtlsdr)
 - [This is the code](https://github.com/llSourcell/Landing-a-SpaceX-Falcon-Heavy-Rocket) for "Landing a SpaceX Falcon Heavy Rocket" By Siraj Raval on Youtube
 - [How I implemented iPhone X’s FaceID using Deep Learning in Python.](https://towardsdatascience.com/how-i-implemented-iphone-xs-faceid-using-deep-learning-in-python-d5dbaa128e1d), [repo](https://github.com/normandipalo/faceID_beta)
-- [deepmind](https://deepmind.com/blog/learning-to-generate-images/): Learning to write programs that generate images
+- [deepmind](https://deepmind.com/blog/learning-to-generate-images/): Learning to write programs that generate images.
+- [DeepMind Research](https://github.com/deepmind/deepmind-research): This repository contains implementations and illustrative code to accompany DeepMind publications.
 - [Image-OutPainting](https://github.com/bendangnuksung/Image-OutPainting): Keras Implementation of Painting outside the box
 - [Machine Learning for Drummers](http://blog.petersobot.com/machine-learning-for-drummers)
 - [Learning Dexterity](https://blog.openai.com/learning-dexterity/)
@@ -740,7 +759,6 @@
 - [MTNT](http://www.cs.cmu.edu/~pmichel1/mtnt/): Machine Translation of Noisy Text. [github](https://github.com/pmichel31415/mtnt)
 - [frugally-deep](https://github.com/Dobiasd/frugally-deep): Header-only library for using Keras models in C++.
 - [60_Days_RL_Challenge](https://github.com/andri27-ts/60_Days_RL_Challenge): Learn Deep Reinforcement Learning in depth in 60 days
-- [colorization-pytorch](https://github.com/richzhang/colorization-pytorch): PyTorch reimplementation of Interactive Deep Colorization
 - [Algorithmic Trading with ML & DL](https://gist.github.com/yhilpisch/b41d0e935128a65a611e87bcf3bff665)
 - [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition): The "Python Machine Learning (2nd edition)" book code repository and info resource
 - [hacking_slot_machines](https://github.com/tensor8/hacking_slot_machines)
@@ -753,12 +771,9 @@
 - [Automatic Differentiation in Machine Learning: a Survey](http://jmlr.org/papers/volume18/17-468/17-468.pdf)
 - [Self-Driving Pi Car](https://github.com/felipessalvatore/self_driving_pi_car): A deep neural network based self-driving car, that combines Lego Mindstorms NXT with the computational power of a Raspberry Pi 3.
 - [ergo](https://github.com/evilsocket/ergo): A tool that makes deep learning with Keras easier.
-- [GANDissect](https://github.com/CSAILVision/GANDissect): Pytorch-based tools for visualizing and understanding the neurons of a GAN. [Site](https://gandissect.csail.mit.edu/)
-- [Code snippets created for the PyTorch discussion board](https://github.com/ptrblck/pytorch_misc)
 - [reinforcement_learning](https://github.com/r0zetta/reinforcement_learning): Reinforcement learning experiments and demos.
 - [octofairy](https://github.com/evilsocket/octofairy): A machine learning based GitHub bot for Issues.
 - [A Full Hardware Guide to Deep Learning](http://timdettmers.com/2018/12/16/deep-learning-hardware-guide/)
-- [PyVacy](https://github.com/ChrisWaites/pyvacy): Privacy Algorithms for PyTorch
 - [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning): 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [Dive into Deep Learning](http://d2l.ai/): An interactive deep learning book for students, engineers, and researchers.
 - [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
@@ -783,7 +798,6 @@
 - [Inside TikTok's killer algorithm](https://www.axios.com/inside-tiktoks-killer-algorithm-52454fb2-6bab-405d-a407-31954ac1cf16.html)
 - [Audiovisual Speech Enhancement in YouTube Stories](https://ai.googleblog.com/2020/10/audiovisual-speech-enhancement-in.html)
 - [UCI Machine Learning Repository: Data Sets](https://archive.ics.uci.edu/ml/datasets.php)
-- [tinygrad](https://github.com/geohot/tinygrad): You like pytorch? You like [micrograd](https://github.com/karpathy/micrograd)? You love tinygrad! ❤️
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech): is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers. 
 - [vosk-api](https://github.com/alphacep/vosk-api): Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node.
 - [open source speech recognition toolkit](https://cmusphinx.github.io/)
@@ -798,6 +812,8 @@
 - [Adversarial Image Explanation Through Alibi](https://medium.com/@ODSC/adversarial-image-explanation-through-alibi-326bfe813066)
 - [“ai-promised-to-revolutionize-radiology-but-so-far-its-failing”](https://statmodeling.stat.columbia.edu/2021/06/07/ai-promised-to-revolutionize-radiology-but-so-far-its-failing/)
 - [Dlib](http://dlib.net/) is a modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++ to solve real world problems. 
+- [CFU Playground](https://github.com/google/CFU-Playground): Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).
+- [Grade School Math](https://github.com/openai/grade-school-math)
 
 ### Machine Learning Articles
 
@@ -823,13 +839,13 @@
 - [DatasetGAN](https://nv-tlabs.github.io/datasetGAN/): Efficient Labeled Data Factory with Minimal Human Effort
 - [AffectiveSpotlight](https://www.microsoft.com/en-us/research/publication/affectivespotlight-facilitating-the-communication-of-affective-responses-from-audience-members-during-online-presentations/): Facilitating the Communication of Affective Responses from Audience Members during Online Presentations.
 - [An Overview of Deep-Learning-Based Audio-Visual Speech Enhancement and Separation](https://arxiv.org/abs/2008.09586)
+- [Advancing mathematics by guiding human intuition with AI](https://www.nature.com/articles/s41586-021-04086-x)
+- [CIPS-3D](https://github.com/PeterouZh/CIPS-3D): 3D-aware GANs based on NeRF (arXiv). 
 
 ### Neural Networks
 
-- [pytorch](https://github.com/pytorch/pytorch): Tensors and Dynamic neural networks in Python with strong GPU acceleration a ([tour](http://blog.christianperone.com/2018/03/pytorch-internal-architecture-tour/))
 - [Handwriting Synthesis](https://github.com/sjvasquez/handwriting-synthesis)
 - [OpenNMT](https://github.com/opennmt/opennmt): Open-Source Neural Machine Translation
-- [vid2vid](https://github.com/NVIDIA/vid2vid): Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
 - [Playing Mortal Kombat with TensorFlow.js. Transfer learning and data augmentation](https://blog.mgechev.com/2018/10/20/transfer-learning-tensorflow-js-data-augmentation-mobile-net/)
 - [NEST](https://github.com/nest/nest-simulator): NEST is a simulator for spiking neural network models that focuses on the dynamics, size and structure of neural systems rather than on the exact morphology of individual neurons.
 - [NALU](https://github.com/Nilabhra/NALU): Neural Arithmetic Logic Units
@@ -841,13 +857,11 @@
 - [Random Forest vs Neural Network](https://mljar.com/blog/random-forest-vs-neural-network-classification/)(classification, tabular data) - [github](https://github.com/mljar/mljar-supervised)
 - [L2 Regularization and Batch Norm](https://blog.janestreet.com/l2-regularization-and-batch-norm/): In particular, when used together with batch normalization in a convolutional neural net with typical architectures, an L2 objective penalty no longer has its original regularizing effect. Instead it becomes essentially equivalent to an adaptive adjustment of the learning rate!
 - [Learn Neural Networks With Go, Not Math](https://www.youtube.com/watch?v=jb-12DOr5y4) by Ellen Körbes (GopherCon Europe 2019)
-- [pytorch-kaldi](https://github.com/mravanelli/pytorch-kaldi) is a project for developing state-of-the-art DNN/RNN hybrid speech recognition systems. The DNN part is managed by pytorch, while feature extraction, label computation, and decoding are performed with the kaldi toolkit.
 - [Paddle Fluid](https://www.paddlepaddle.org.cn/) with [Pre-trained and Reproduced Deep Learning Models](https://github.com/PaddlePaddle/models), [ERNIE](https://github.com/PaddlePaddle/ERNIE):  An Implementation of ERNIE For Language Understanding (including Pre-training models and Fine-tuning tools).
 - [Face Aging using Conditional GANs with Keras implementation](https://iq.opengenus.org/face-aging-cgan-keras/)
 - [A 2019 Guide to Speech Synthesis with Deep Learning](https://heartbeat.fritz.ai/a-2019-guide-to-speech-synthesis-with-deep-learning-630afcafb9dd)
 - [DeepPrivacy](https://arxiv.org/abs/1909.04538): A Generative Adversarial Network for Face Anonymization
 - [Image Deduplicator](https://idealo.github.io/imagededup/): [imagededup](https://github.com/idealo/imagededup) is a python package that simplifies the task of finding exact and near duplicates in an image collection.
-- [nnAudio](https://github.com/KinWaiCheuk/nnAudio): Audio processing by using pytorch 1D convolution network
 - [Making the Birds Fly with AI (or at least Flap)](https://medium.com/@peterfarrell66/making-the-birds-fly-with-ai-or-at-least-flap-87ffd57b95e3), [github repo](https://github.com/hackingmath/Neural-Net)
 - [Multimodal Neurons in Artificial Neural Networks](https://openai.com/blog/multimodal-neurons/#attacksinthewild): We’ve discovered neurons in CLIP that respond to the same concept whether presented literally, symbolically, or conceptually.
 - [An Interactive Node-Link Visualization of Convolutional Neural Networks](https://www.cs.ryerson.ca/~aharley/vis/conv/) by Adam W. Harley.
@@ -858,8 +872,9 @@
 - [GAN by Example using Keras on Tensorflow Backend](https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0)
 - [Deep Convolutional Generative Adversarial Network](https://www.tensorflow.org/tutorials/generative/dcgan) [jupyter notebook](https://github.com/tensorflow/docs/blob/master/site/en/tutorials/generative/dcgan.ipynb)
 - [GANformer](https://github.com/dorarad/gansformer): Generative Adversarial Transformers.
-- [solo-learn](https://github.com/vturrisi/solo-learn): a library of self-supervised methods for visual representation learning powered by Pytorch Lightning.
+- [GRaNDPapA](https://github.com/joaoperfig/GRaNDPapA): Generator of Rad Names from Decent Paper Acronyms
 - [Pupyl](https://github.com/policratus/pupyl) is a really fast image search library which you can index your own (millions of) images and find similar images in milliseconds.
+- [Neural Network From Scratch](https://sirupsen.com/napkin/neural-net)
 
 ### Computer Vision
 
@@ -889,25 +904,42 @@
 - [A Mathematical Model Unlocks the Secrets of Vision](https://www.quantamagazine.org/a-mathematical-model-unlocks-the-secrets-of-vision-20190821/)
 - [Predicting 3D Human Dynamics from Video](https://deepai.org/publication/predicting-3d-human-dynamics-from-video)
 - [opencv-yolo3](https://github.com/hussanhijazi/opencv-yolov3)
-- [MobileNetv2-YOLOV3](https://github.com/dog-qiuqiu/MobileNetv2-YOLOV3#500kb%E7%9A%84yolo-face-detection): MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40: 6ms/img, YoloFace-500k:0.1Bflops500KB￼￼￼
-- [gradslam](https://github.com/gradslam/gradslam): gradslam is an open source differentiable dense SLAM library for PyTorch
 - [MobileNetv2-YOLOV3](https://github.com/dog-qiuqiu/MobileNetv2-YOLOV3#500kb%E7%9A%84yolo-face-detection): MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40: 6ms/img, YoloFace-500k:0.1Bflops500KB
+- [YOLOv7](https://github.com/jinfagang/yolov7): YOLO with Transformers and Instance Segmentation, with TensorRT acceleration!
+- [gradslam](https://github.com/gradslam/gradslam): gradslam is an open source differentiable dense SLAM library for PyTorch
 - [Facial Features Recognition](https://github.com/arthurfortes/facial-features-recognition): Face Mesh is a face geometry solution that estimates 468 3D face landmarks in real-time even on mobile devices.
+- [fiftyone](https://github.com/voxel51/fiftyone): The open-source tool for building high-quality datasets and computer vision models
 
-#### Python DL
+### Python DL
 
 *Frameworks for Neural Networks and Deep Learning. See: [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning).*
-
 - [Caffe](https://github.com/BVLC/caffe) - A fast open framework for deep learning..
 - [Keras](https://github.com/fchollet/keras) - A high-level neural networks library and capable of running on top of either TensorFlow or Theano.
 - [MXNet](https://github.com/dmlc/mxnet) - A deep learning framework designed for both efficiency and flexibility.
 - [Neupy](http://neupy.com/pages/home.html) - Running and testing different Artificial Neural Networks algorithms.
-- [Pytorch](http://pytorch.org/) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 - [Serpent.AI](https://github.com/SerpentAI/SerpentAI) - Game agent framework. Use any video game as a deep learning sandbox.
 - [Theano](https://github.com/Theano/Theano) - A library for fast numerical computation.
 - [Approximate Models](https://github.com/LaRiffle/approximate-models): Python Library for Function Approximation in Machine Learning.
 
-##### Tensorflow
+#### PyTorch
+
+- [Pytorch](http://pytorch.org/) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+- [PyTorch](https://github.com/pytorch/pytorch): Tensors and Dynamic neural networks in Python with strong GPU acceleration a ([tour](http://blog.christianperone.com/2018/03/pytorch-internal-architecture-tour/)):
+- [colorization-pytorch](https://github.com/richzhang/colorization-pytorch): PyTorch reimplementation of Interactive Deep Colorization
+- [GANDissect](https://github.com/CSAILVision/GANDissect): Pytorch-based tools for visualizing and understanding the neurons of a GAN. [Site](https://gandissect.csail.mit.edu/)
+- [Code snippets created for the PyTorch discussion board](https://github.com/ptrblck/pytorch_misc)
+- [PyVacy](https://github.com/ChrisWaites/pyvacy): Privacy Algorithms for PyTorch
+- [tinygrad](https://github.com/geohot/tinygrad): You like pytorch? You like [micrograd](https://github.com/karpathy/micrograd)? You love tinygrad! ❤️
+- [vid2vid](https://github.com/NVIDIA/vid2vid): Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
+- [pytorch-kaldi](https://github.com/mravanelli/pytorch-kaldi) is a project for developing state-of-the-art DNN/RNN hybrid speech recognition systems. The DNN part is managed by pytorch, while feature extraction, label computation, and decoding are performed with the kaldi toolkit.
+- [nnAudio](https://github.com/KinWaiCheuk/nnAudio): Audio processing by using pytorch 1D convolution network
+- [Alias-Free Generative Adversarial Networks (StyleGAN3)](https://github.com/NVlabs/stylegan3): Official PyTorch implementation of StyleGAN3.
+- [solo-learn](https://github.com/vturrisi/solo-learn): a library of self-supervised methods for visual representation learning powered by Pytorch Lightning.
+- [Modeling uncertainty with PyTorch](https://romainstrock.com/blog/modeling-uncertainty-with-pytorch.html): Neural network parametrization of probability distributions.
+- [Deep-reinforcement-learning-with-pytorch](https://github.com/sweetice/Deep-reinforcement-learning-with-pytorch): PyTorch implementation of DQN, AC, ACER, A2C, A3C, PG, DDPG, TRPO, PPO, SAC, TD3 and ....
+- [BlueFog](https://github.com/Bluefog-Lib/bluefog): Distributed and decentralized training framework for PyTorch over graph.
+
+#### Tensorflow
 
 - [TensorFlow](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
 - [Turn TensorFlow functions into mathematical notations and diagrams](http://blog.varunajayasiri.com/ml/tf_for_beginners.html)
@@ -968,6 +1000,8 @@
   - [Find Your Pi Day](http://mypiday.com/): find your day on pi.
 - [Poisson's Equation is the Most Powerful Tool not yet in your Toolbox](https://mattferraro.dev/posts/poissons-equation)
 - [COMPLEX ANALYSIS](https://complex-analysis.com/), A Visual and Interactive Introduction, Juan Carlos Ponce Campuzano
+- [Chu are you?](http://adelelopez.com/chu-are-you): What the heck is a Chu space? And whatever it is, does it really belong with all the rich mathematical structures we know and love?
+- [Mathematicians Prove 30-Year-Old André-Oort Conjecture](https://www.quantamagazine.org/mathematicians-prove-30-year-old-andre-oort-conjecture-20220203/)
 
 ### Theorems
 
@@ -992,11 +1026,14 @@
 - [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/): _Linear_: having to do with lines, planes, etc. _Algebra_: solving equations involving unknowns. [repo](https://github.com/QBobWatson/gt-linalg)
 - [Pattern Matching](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1371r1.pdf): Pattern matching is a widely adoptedmechanism across many programming languages to interact with algebraic data types that can help greatlysimplify C++.
 - [Graphical Linear Algebra](https://graphicallinearalgebra.net/)
+- [ILLUSTRATING GEOMETRY](https://www.cs.cmu.edu/~kmcrane/IllustratingGeometry.pdf)
+- [What is the Inverse of a Vector?](https://mattferraro.dev/posts/geometric-algebra)
 
 ### Matrices
 
 - [Matrices from a geometric perspective](http://www.coranac.com/documents/geomatrix/)
 - [pycm](https://github.com/sepandhaghighi/pycm): Multi-class confusion matrix library in Python.
+- [SparseP](https://github.com/CMU-SAFARI/SparseP): is the first open-source Sparse Matrix Vector Multiplication (SpMV) software package for real-world Processing-In-Memory (PIM) architectures. SparseP is developed to evaluate and characterize the first publicly-available real-world PIM architecture, the UPMEM PIM architecture. [Described by C. Giannoula et al.](https://arxiv.org/abs/2201.05072)
 
 ### Statistics
 
@@ -1111,6 +1148,7 @@
   - [nbviewer](https://github.com/jupyter/nbviewer) as a web service: Render Jupyter Notebooks as static web pages.
   - [Starboard Jupystar](https://starboard.gg/jupystar): Open any Jupyter notebook as an entirely in-browser Starboard notebook.
   - [colab-ssh](https://github.com/WassimBenzarti/colab-ssh): Connect to Google Colab using SSH.
+  - [pyheatmagic](https://github.com/csurfer/pyheatmagic): IPython magic command to profile and view your python code as a heat map.
 - R Lang
   - [imager](https://dahtah.github.io/imager/imager.html): an R package for image processing
   - [Taking control of animations in R and demystifying them in the process](https://www.data-imaginist.com/2017/animating-the-logo/)
@@ -1129,6 +1167,7 @@
   - [ffscrapr](https://ffscrapr.dynastyprocess.com/): An R Client for Fantasy Football League APIs. [repo](https://github.com/dynastyprocess/ffscrapr/)
   - [Static and dynamic network visualization with R](https://kateto.net/network-visualization): This is a comprehensive tutorial on network visualization with R. It covers data input and formats, visualization basics, parameters and layouts for one-mode and bipartite graphs; dealing with multiplex links, interactive and animated visualization for longitudinal networks; and visualizing networks on geographic maps.
   - [R4DS R For Data Science Book Club](https://github.com/r4ds/bookclub-R_for_Data_Science)
+  - Palette
 - [elegant-scipy](https://github.com/elegant-scipy/elegant-scipy): 1st Edition of Elegant SciPy (O'Reilly Publishers)
 
 ### Probability
@@ -1153,6 +1192,7 @@
 - [Latent Dirichlet Allocation coupled with Bayesian Time Series analyses](https://github.com/weecology/LDATS). [overview](https://weecology.github.io/LDATS/)
 - [prometheus](https://github.com/prometheus/prometheus): The Prometheus monitoring system and time series database.
 - [dart](https://github.com/unit8co/darts): A python library for easy manipulation and forecasting of time series.
+- [OpenTSDB](http://opentsdb.net/): A scalable, distributed Time Series Database. [repo](https://github.com/OpenTSDB/opentsdb)
 
 #### Datasets
 
@@ -1216,7 +1256,6 @@
 - [Visualizing personal notes on the history of Western Philosophy](http://www.thefunctionalart.com/2019/10/visualizing-personal-notes-on-history.html)
 - [roughViz](https://github.com/jwilber/roughViz): Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
 - [Novel Coronavirus (2019-nCoV)](https://www.healthmap.org/ncov2019/)
-- [Palettes for R based on the Scientific Colour-Maps](https://github.com/thomasp85/scico): This is a small package to provide access to the colour palettes developed by Fabio Crameri..
 - [How the Virus Won](https://www.nytimes.com/interactive/2020/us/coronavirus-spread.html): Invisible outbreaks sprang up everywhere. The United States ignored the warning signs. We analyzed travel patterns, hidden infections and genetic data to show how the epidemic spun out of control.
 - [Goodwill.com Hunting](https://goodwill.awardwinninghuman.com/): A Graphical Analysis of Women's Tops Sold on Goodwill's Website.
 - [see](https://github.com/easystats/see) Visualisation toolbox for beautiful and publication-ready figures
@@ -1237,11 +1276,18 @@
   - [ggcorrplot](https://github.com/kassambara/ggcorrplot)
   - [ggalluvial](https://github.com/corybrunson/ggalluvial)
   - [Redundant coding, text annotations](https://wilkelab.org/SDS375/slides/redundant-coding.html)
+- Color Palettes:
+  - [Palettes for R based on the Scientific Colour-Maps](https://github.com/thomasp85/scico): This is a small package to provide access to the colour palettes developed by Fabio Crameri..
+  - [wesanderson](https://github.com/karthik/wesanderson): A Wes Anderson color palette for R.
+  - [MetBrewer](https://github.com/BlakeRMills/MetBrewer): Color palette package in R inspired by works at the Metropolitan Museum of Art in New York.
 - (pt-br) [visualizacao-com-bokeh-holoviews](https://github.com/edinhodiluviano/visualizacao-com-bokeh-holoviews)
 - [The Shape of Dreams](https://the-shape-of-dreams.com/): A visual exploration of Google searches for the interpretation of dreams.
 - [WSJ Guide To Information Graphics](https://twitter.com/shmcminn/status/1367218070352191490)
 - [When Graphs Are a Matter of Life and Death](https://www.newyorker.com/magazine/2021/06/21/when-graphs-are-a-matter-of-life-and-death)
 - [vedo](https://github.com/marcomusy/vedo): A python module for scientific analysis of 3D objects based on VTK and numpy
+- [8 things school doesn’t teach you about data visualization.](https://twitter.com/evergreendata/status/1471519676039581700)
+- [PyData Global 2021: Top 5 Highlights for the Python, Data Science and Dask Lover](https://coiled.io/blog/pydata-global-2021-top-5-highlights-for-the-python-data-science-and-dask-lover/)
+- [Lazy man's way to good looking charts](https://www.data21.io/blog/lazy-mans-way-to-good-looking-charts/)
 
 ### Calculus
 
@@ -1285,6 +1331,7 @@
 - [d3-dag](https://github.com/erikbrinkman/d3-dag): Layout algorithms for visualizing directed acylic graphs
 - [Ryanair, Hamiltonian Cycles, and using graph theory to find cheap flights](https://blog.jonlu.ca/posts/ryan-air)
 - [Pathfinding for Tower Defense](https://www.redblobgames.com/pathfinding/tower-defense/)
+- [Interactive zero knowledge 3-colorability demonstration](http://web.mit.edu/~ezyang/Public/graph/svg.html)
 
 ### Coding
 
@@ -1342,12 +1389,18 @@
 - [hatetris](https://github.com/qntm/hatetris): Tetris which always gives you the worst piece 
 - [Insufficient input validation in the Marvin Minsky 1967 implementation of the Universal Turing Machine allows program users to execute arbitrary code via crafted data.](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-32471)
 - [math puzzles](https://github.com/hackingmath/puzzles)
+- Documentation crazy things:
+  - [CNLabelContactRelationYoungerCousinMothersSiblingsDaughterOrFathersSistersDaughter](https://developer.apple.com/documentation/contacts/cnlabelcontactrelationyoungercousinmotherssiblingsdaughterorfatherssistersdaughter)
+  - [_Application.Run(Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object) Method](https://docs.microsoft.com/en-us/dotnet/api/microsoft.office.interop.excel._application.run?view=excel-pia)
+- [Wordle in 20 lines of bash](https://gist.github.com/aaronNGi/04a209b1cd17f1fa03af7a87eb14cc42)
 
 ### Music
 
 - [The Mystery and Music of Kaprekar Constant- 6174](http://arabale.com/blog/2014/4/29/the-mystery-and-music-of-kaprekar-constant-6174)
 - [Sonic Visualiser](https://www.sonicvisualiser.org/) is a free, open-source application for Windows, Linux, and Mac, designed to be the first program you reach for when want to study a music recording closely. It's designed for musicologists, archivists, signal-processing researchers, and anyone else looking for a friendly way to look at what lies inside the audio file. [github repo](https://github.com/sonic-visualiser/sonic-visualiser)
 - [WASM SYNTH, or, how music taught me the beauty of math](https://timdaub.github.io/2020/02/19/wasm-synth/#f1) [repo](https://github.com/TimDaub/wasm-synth)
+- [Hum Synthesizer](https://github.com/crbulakites/hum): A music notation language and synthesizer written in Rust.
+- [Rack](https://github.com/VCVRack/Rack): The virtual Eurorack studio
 
 ### General Math
 
@@ -1418,6 +1471,7 @@
 - [pyke](https://github.com/KeplerGO/pyke): Easy command line tools for Kepler, K2 & TESS data analysis.
 - [The Unexpected Effectiveness of Python in Science](https://www.youtube.com/watch?v=ZyjCqQEUa8o) by [Jake VanderPlas](https://speakerdeck.com/jakevdp/the-unexpected-effectiveness-of-python-in-science)
 - [astroplan](https://github.com/astropy/astroplan): Observation planning package for astronomers.
+- [Our Solar System in True Color Is Really Something Else](https://www.theatlantic.com/science/archive/2022/02/venus-true-color-solar-system/621460/)
 
 ### Astro Articles
 
@@ -1442,6 +1496,7 @@
 - [New NASA Visualization Probes the Light-bending Dance of Binary Black Holes](https://www.nasa.gov/feature/goddard/2021/new-nasa-visualization-probes-the-light-bending-dance-of-binary-black-holes)
 - [fprime](https://github.com/nasa/fprime): A flight software and embedded systems framework.
 - [Mars Helicopter Employs Advanced Control Techniques to Survive In-Flight Anomaly](https://control.com/news/mars-helicopter-employs-advanced-control-techniques-to-survive-an-in-flight-anomaly/)
+- [Apollo 11 Image Library](https://www.hq.nasa.gov/alsj/a11/images11.html)
 
 #### SpaceX
 
@@ -1458,6 +1513,7 @@
 - (pt-br) [Alquimia Cósmica](https://lumina.ufrgs.br/course/view.php?id=85): Este curso se baseia em proposta original de minicurso criada pelo proponente, em 2014, como parte de suas atividades de ensino, pesquisa e extensão realizadas no Instituto de Física da Universidade Federal do Rio Grande do Sul.
 - [The elements of algorithms](https://www.chemistryworld.com/opinion/machine-learning-mendeleevs-have-rediscovered-the-periodic-table/3010720.article): Exposing new dimensions in the relationships between elements
 - [Why the Periodic Table of Elements Is More Important Than Ever](https://www.bloomberg.com/news/features/2019-08-28/the-modern-triumph-of-the-periodic-table-of-elements): Mendeleev’s 150-year-old periodic table has become the menu for a world hungry for material benefits.
+- [3D Periodic Table by Google](https://artsexperiments.withgoogle.com/periodic-table/)
 
 ## Biology
 
@@ -1521,10 +1577,13 @@
 - [Money as a System of Control](https://thedistillery.pub/money-as-a-system-of-control-andreas-m-antonopoulos-video-transcript) – Andreas M. Antonopoulos (Video & Transcript)
 - [Bedrock](https://bedrockdb.com/) is a simple, modular, WAN-replicated, Blockchain-based data foundation for global-scale applications.
 - [surpriver](https://github.com/tradytics/surpriver): Find big moving stocks before they move using machine learning and anomaly detection.
+- [Bitcoin private key is on this website](https://playxo.com/)
+- [Awesome Blockchain](https://github.com/yjjnls/awesome-blockchain): Curated list of resources for the development and applications of blockchain.
 
 #### Finance
 
 - [Spreadsheet Formulas for Personal Finance](https://bou.ke/blog/formulas/)
+- [systematic-trader](https://github.com/thelilypad/systematic-trader)
 
 ### Psychology
 
@@ -1603,6 +1662,7 @@
 - [Open CASCADE Technology](https://dev.opencascade.org/): The Open Source 3D Modeling Libraries
 - [hemeshgui](https://github.com/struct78/hemeshgui): A new and improved version of the visual tool for the wonderful HE_Mesh library
 - [USD Core](https://pypi.org/project/usd-core/): Universal Scene Description (USD) is a system that scalably encodes and interchanges static and time-sampled 3D geometry, shading and lighting data between Digital Content Creation applications. Domain-specific schema modules define the geometry, shading, and lighting encoding atop USD's domain-agnostic core. 
+- [pymadcad](https://pymadcad.readthedocs.io/en/latest/): Simple yet powerful CAD (Computer Aided Design) library, written with Python.
 
 ## Games
 
@@ -1642,6 +1702,12 @@
 - [Clspv](https://github.com/google/clspv) is a prototype compiler for a subset of OpenCL C to Vulkan compute shaders.
 - [Chess Science in the Making](https://www.chessable.com/blog/chess-science-in-the-making/)
 - [Nintendo Switch NSP List](ziperto.com/nintendo-switch-nsp-list/) at ZIPERTO (a digital park for games)
+- [Exitlag Account Activator](https://github.com/gato-louco/exitlag-account-activator)
+- [Opendiablo2](https://github.com/OpenDiablo2/OpenDiablo2): An open source re-implementation of Diablo 2
+- [SDLPoP](https://github.com/NagyD/SDLPoP): An open-source port of Prince of Persia, based on the disassembly of the DOS version.
+- [OpenSpiel](https://github.com/deepmind/open_spiel): A Framework for Reinforcement Learning in Games.
+- [Random maze from Entombed](https://medium.com/codex/random-maze-from-entombed-8bb3b34e8f9b): A mysterious algorithm from Atari 2600 to Commodore 64.
+- [Entombed](https://programming-journal.org/2019/3/4/): An archaeological examination of an [Atari 2600 game](https://en.wikipedia.org/wiki/Entombed_(Atari_2600)).
 
 ## Writing Articles
 
@@ -1689,6 +1755,7 @@
 - [The Hacker Way: How I taught my nephew to program](https://stopa.io/post/246)
 - [DevChallenge](https://github.com/Lorenalgm/DevChallenge): A website for developers to improve their skills by doing front-end and back-end challenges
 - (pt-br) [Free IT Courses](https://github.com/alinebastos/free-courses)
+- (pt-br) [Rupturas, atuais e futuras, no Ensino Superior](https://silvio.meira.com/silvio/rupturas-atuais-e-futuras-no-ensino-superior/)
 
 ### Writing
 
@@ -1731,6 +1798,7 @@
 - (pt-br) [js-para-pessoas](https://github.com/miguelssrs/js-para-pessoas): 📒 Curadoria de conteúdos de JavaScript para mentes que não decoram coisas facilmente - ou seja, para todo mundo.
 - (pt-br) [controle-seus-tweets](https://github.com/RodrigoMenegat/controle-seus-tweets): Conjunto de scripts simples que usam o pacote tweepy para baixar todos os tweets e likes de um usuário no Twitter. Também contém scritps que permitem remover as publicações feitas e favoritadas.
 - [bot-followers](https://github.com/cuducos/bot-followers): 🍊 Find out how many bots follow any given Twitter acount.
+- [Secateur](https://secateur.app/): Use Secateur if you want to temporarily block or mute a Twitter account and all its followers.
 - [iroiro](https://github.com/antfu/iroiro): Beautiful Colors Lookup in CLI
 
 ## Privacy
@@ -1915,11 +1983,18 @@
 - [Papers with Code partners with arXiv](https://medium.com/paperswithcode/papers-with-code-partners-with-arxiv-ecc362883167)
 - [Missing data in randomisedcontrolled trials— a practical guide](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.468.9391&rep=rep1&type=pdf)
 - [The Sci-Hub effect on papers’ citations](https://link.springer.com/article/10.1007/s11192-020-03806-w)
+- [Hardened wood as a renewable alternative to steel and plastic](https://www.cell.com/matter/fulltext/S2590-2385(21)00465-3)
 
 ## News
 
+### 2022
+
+- [Euler’s 243-Year-Old ‘Impossible’ Puzzle Gets a Quantum Solution](https://www.quantamagazine.org/eulers-243-year-old-impossible-puzzle-gets-a-quantum-solution-20220110/)
+
 ### 2021
 
+- [Let us fight cancer with a little help from CBD](https://cbdihs.medium.com/let-us-fight-cancer-with-a-little-help-from-cbd-3b1cab9fb406)
+- [EndlessOS](https://www.endlessos.org/): The operating system that comes with everything your family needs. Download Endless OS to access a world of knowledge.
 - [Paper about Herbalife®-related patient death removed after company threatens to sue the journal](https://scienceintegritydigest.com/2020/12/20/paper-about-herbalife-related-patient-death-removed-after-company-threatens-to-sue-the-journal/)
 - [UCLA Researchers Create All-Optical Diffractive Deep Neural Network That is 3D Printed](https://www.photonics.com/Articles/UCLA_Researchers_Create_All-Optical_Diffractive/a63751)
 - [A New Threat to New York’s Clean Energy Goals: Bitcoin Mining](https://www.nysfocus.com/2021/04/13/new-york-bitcoin-mining-threat/)
