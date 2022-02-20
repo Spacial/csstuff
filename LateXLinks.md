@@ -85,3 +85,7 @@
 ## Tools
 
 - [Quick lookups for LaTeX code](https://latexsearch.arnavbansal.dev/) ([repo](https://github.com/lunaroyster/LaTeX-search))
+
+## Fun
+
+- [The TEX tuneup of 2021](https://tug.org/TUGboat/tb42-1/tb130knuth-tuneup21.pdf) by Donald Knuth
