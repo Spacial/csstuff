@@ -2027,9 +2027,11 @@
 
 - [Traffic Noise Is a Silent Killer](https://www.theatlantic.com/health/archive/2021/02/how-noise-harms-heart/618091/): The ruckus of cars and planes can damage not just your ears, but also your heart.
 - [The Doctor Will Sniff You Now](https://nautil.us/issue/95/escape/the-doctor-will-sniff-you-now): Step aside, Dr. House, Deep Nose will one day be the best diagnostician in medicine.
+
 ### 2022
 
 - [Euler’s 243-Year-Old ‘Impossible’ Puzzle Gets a Quantum Solution](https://www.quantamagazine.org/eulers-243-year-old-impossible-puzzle-gets-a-quantum-solution-20220110/)
+- [Psychedelic frees up depressed brain, study shows](https://www.bbc.com/news/health-61070591)
 
 ### 2021
 
