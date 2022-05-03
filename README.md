@@ -2023,18 +2023,16 @@
 
 ## News
 
-### 2021 
-
-- [Traffic Noise Is a Silent Killer](https://www.theatlantic.com/health/archive/2021/02/how-noise-harms-heart/618091/): The ruckus of cars and planes can damage not just your ears, but also your heart.
-- [The Doctor Will Sniff You Now](https://nautil.us/issue/95/escape/the-doctor-will-sniff-you-now): Step aside, Dr. House, Deep Nose will one day be the best diagnostician in medicine.
-
 ### 2022
 
 - [Euler’s 243-Year-Old ‘Impossible’ Puzzle Gets a Quantum Solution](https://www.quantamagazine.org/eulers-243-year-old-impossible-puzzle-gets-a-quantum-solution-20220110/)
 - [Psychedelic frees up depressed brain, study shows](https://www.bbc.com/news/health-61070591)
+- [What Le Corbusier got right about office space](https://timharford.com/2022/04/what-le-corbusier-got-right-about-office-space/)
 
 ### 2021
 
+- [Traffic Noise Is a Silent Killer](https://www.theatlantic.com/health/archive/2021/02/how-noise-harms-heart/618091/): The ruckus of cars and planes can damage not just your ears, but also your heart.
+- [The Doctor Will Sniff You Now](https://nautil.us/issue/95/escape/the-doctor-will-sniff-you-now): Step aside, Dr. House, Deep Nose will one day be the best diagnostician in medicine.
 - [Let us fight cancer with a little help from CBD](https://cbdihs.medium.com/let-us-fight-cancer-with-a-little-help-from-cbd-3b1cab9fb406)
 - [EndlessOS](https://www.endlessos.org/): The operating system that comes with everything your family needs. Download Endless OS to access a world of knowledge.
 - [Paper about Herbalife®-related patient death removed after company threatens to sue the journal](https://scienceintegritydigest.com/2020/12/20/paper-about-herbalife-related-patient-death-removed-after-company-threatens-to-sue-the-journal/)
