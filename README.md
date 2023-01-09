@@ -1600,6 +1600,7 @@
 - [Watch Accurate Recreations of Medieval Italian Longsword Fighting Techniques, All Based on a Manuscript from 1404](https://www.openculture.com/2021/05/watch-accurate-recreations-of-medieval-italian-longsword-fighting-techniques.html)
 - [Some Tenochtitlan and Aztec history](https://twitter.com/trasadasyu/status/1394245954501419012)
 - [Life-Size Camel Sculptures in Saudi Arabia Are Older Than Stonehenge, Pyramids of Giza](https://www.smithsonianmag.com/smart-news/life-size-camel-sculptures-in-saudi-arabia-are-older-than-stonehenge-pyramids-of-giza-180978693/): New research suggests the animal reliefs date to between 7,000 and 8,000 years ago
+- [Rosalind](https://rosalind.info/problems/) is a platform for learning bioinformatics and programming through problem solving.
 
 ## Humanities
 
