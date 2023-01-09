@@ -154,6 +154,7 @@
 - [How to Become a Bad Developer](https://rafaelquintanilha.com/how-to-become-a-bad-developer)
 - [Can programming be liberated from the von Neumann style?: a functional style and its algebra of programs](https://dl.acm.org/doi/10.1145/359576.359579)
 - [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
+- [Data Structures & Algorithms I Used Working at Tech Companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
 
 #### IDEs
 
@@ -404,6 +405,8 @@
   - [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
   - [homplexity](https://github.com/migamake/homplexity): Haskell code complexity and quality measurement.
   - [Getting Started with Haskell on Fedora](https://fedoramagazine.org/getting-started-with-haskell-on-fedora/)
+- Java:
+  - [Procyon](https://github.com/mstrobel/procyon): is a suite of Java metaprogramming tools, including a rich reflection API, a LINQ-inspired expression tree API for runtime code generation, and a Java decompiler.
 - JavaScript:
   - [The JavaScript Handbook](https://jshandbook.com/)
   - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms): Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
@@ -591,6 +594,8 @@
 - [Reverse engineering RAM storage in early Texas Instruments calculator chips](https://www.righto.com/2020/11/reverse-engineering-ram-storage-in.html)
 - [VGChips](https://github.com/furrtek/VGChips): Video Game custom chips reverse-engineered from silicon.
 - [NyuziProcessor](https://github.com/jbush001/NyuziProcessor/): GPGPU microprocessor architecture
+- [What's new in CPUs since the 80s?](https://danluu.com/new-cpu-features/)
+- [This Week in Glean: What Flips Your Bit?](https://blog.mozilla.org/data/2022/04/13/this-week-in-glean-what-flips-your-bit/)
 
 ### Electronics
 
@@ -891,6 +896,11 @@
 - [GRaNDPapA](https://github.com/joaoperfig/GRaNDPapA): Generator of Rad Names from Decent Paper Acronyms
 - [Pupyl](https://github.com/policratus/pupyl) is a really fast image search library which you can index your own (millions of) images and find similar images in milliseconds.
 - [Neural Network From Scratch](https://sirupsen.com/napkin/neural-net)
+- [It also released a technical report with some truly extraordinary findings about just how dangerous this machine can be.](https://twitter.com/WriteArthur/status/1521987954994192384)
+- [Stable Diffusion](https://github.com/CompVis/stable-diffusion): is a latent text-to-image diffusion model. Thanks to a generous compute donation from Stability AI and support from LAION, we were able to train a Latent Diffusion Model on 512x512 images from a subset of the LAION-5B database.
+- [Run Stable Diffusion on your M1 Mac’s GPU](https://replicate.com/blog/run-stable-diffusion-on-m1-mac).
+- [1 week of Stable Diffusion](https://multimodal.art/news/1-week-of-stable-diffusion)
+- [Exploring 12 Million of the 2.3 Billion Images Used to Train Stable Diffusion’s Image Generator](https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/)
 
 ### Computer Vision
 
@@ -930,6 +940,7 @@
 ### Python DL
 
 *Frameworks for Neural Networks and Deep Learning. See: [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning).*
+
 - [Caffe](https://github.com/BVLC/caffe) - A fast open framework for deep learning..
 - [Keras](https://github.com/fchollet/keras) - A high-level neural networks library and capable of running on top of either TensorFlow or Theano.
 - [MXNet](https://github.com/dmlc/mxnet) - A deep learning framework designed for both efficiency and flexibility.
@@ -1128,7 +1139,7 @@
 - [easystats](https://github.com/easystats/easystats): milky_way The easyverse.
 - [edibble](https://github.com/emitanaka/edibble): Grammar of Experimental Design.
 - [Scraping Roger Ebert’s reviews and finding his favorite movies on Amazon Prime](https://www.linisnil.com/articles/scraping-roger-ebert-reviews-and-amazon/)
-- [sjPlot ](https://strengejacke.github.io/sjPlot/): Data Visualization for Statistics in Social Science,[repo](https://github.com/strengejacke/sjPlot)
+- [sjPlot](https://strengejacke.github.io/sjPlot/): Data Visualization for Statistics in Social Science,[repo](https://github.com/strengejacke/sjPlot)
 - [7 common angles for data stories](https://onlinejournalismblog.com/2020/08/12/3-more-angles-most-often-used-to-tell-data-stories-explorers-relationships-and-bad-data-stories/)
 - [An Interactive 2010 Census Plotly-dash Visualization Accelerated By RAPIDS](https://news.developer.nvidia.com/an-interactive-2010-census-plotly-dash-visualization-accelerated-by-rapids/)
 - [bonecave](https://github.com/schmert/bonecave): Miscellaneous programs and data
@@ -1190,6 +1201,8 @@
   - Palette
 - [elegant-scipy](https://github.com/elegant-scipy/elegant-scipy): 1st Edition of Elegant SciPy (O'Reilly Publishers)
 - [spyder](https://www.spyder-ide.org): The scientific python development environment.
+- [The Future of Data Science Anthology](http://datasciencebydesign.org/book): A collection of work by data designers, scientists, and artists.
+- [Be good-argument-driven, not data-driven](http://twitchard.github.io/posts/2022-08-26-metrics-schmetrics.html)
 
 #### Probability
 
@@ -1418,6 +1431,7 @@
   - [CNLabelContactRelationYoungerCousinMothersSiblingsDaughterOrFathersSistersDaughter](https://developer.apple.com/documentation/contacts/cnlabelcontactrelationyoungercousinmotherssiblingsdaughterorfatherssistersdaughter)
   - [_Application.Run(Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object, Object) Method](https://docs.microsoft.com/en-us/dotnet/api/microsoft.office.interop.excel._application.run?view=excel-pia)
 - [Wordle in 20 lines of bash](https://gist.github.com/aaronNGi/04a209b1cd17f1fa03af7a87eb14cc42)
+- [Hot Banana](https://what-if.xkcd.com/158/): I heard that bananas are radioactive. If they are radioactive, then they radiate energy. How many bananas would you need to power a house?
 
 ### Music
 
@@ -1557,6 +1571,7 @@
 - [baltic](https://github.com/evogytis/baltic): backronymed adaptable lightweight tree import code for molecular phylogeny manipulation, analysis and visualisation. Development is back on the evogytis/baltic branch (i.e. here).
 - [Seraphim](http://evolve.zoo.ox.ac.uk/Evolve/Seraphim.html): Studying Environmental Rasters And PHylogenetically Informed Movements. [seraphim](https://github.com/evogytis/baltic) is a R package for studying environmental rasters and phylogenetic informed movements
 - [Incredible time-lapse shows a single cell transforming into a salamander](https://www.nationalgeographic.com/animals/article/time-lapse-film-shows-salamander-development)
+- [Got food cravings? What’s living in your gut may be responsible](https://www.pitt.edu/pittwire/features-articles/food-cravings-pitt-study)
 
 ## Geography
 
@@ -1606,6 +1621,7 @@
 - [surpriver](https://github.com/tradytics/surpriver): Find big moving stocks before they move using machine learning and anomaly detection.
 - [Bitcoin private key is on this website](https://playxo.com/)
 - [Awesome Blockchain](https://github.com/yjjnls/awesome-blockchain): Curated list of resources for the development and applications of blockchain.
+- [Ancient Roman Coins: How Were They Made?](https://www.thecollector.com/ancient-roman-coins-how-were-they-made/)
 
 #### Finance
 
@@ -1716,7 +1732,7 @@
   - [glam](https://github.com/EmbarkStudios/glam-rs): A simple and fast 3D math library for games and graphics
 - [ScummVM](https://www.scummvm.org): is a program which allows you to run certain classic graphical point-and-click adventure games, provided you already have their data files.
 - [DevShop](https://secretgeek.github.io/devShop/): minimal kanban game. [DevShop!](https://github.com/secretGeek/devShop)(github), I had this idea 10 years ago for a game called DevShop and decided to implement a minimal non-viable product of it, in vanilla js, with the no-framework.
-- [netris](https://git.sr.ht/~tslocum/netris?0.1.2): Multiplayer Tetris clone. -> _ssh netris.rocketnine.space_
+- [netris](https://git.sr.ht/~tslocum/netris?0.1.2): Multiplayer Tetris clone. -> ssh netris.rocketnine.space
 - [GB-NES-PDF-HTML-ZIP](https://github.com/ViGrey/gb-nes-pdf-html-zip): A Gameboy ROM that is also an NES ROM, a PDF File, an HTML File, and a ZIP File that contains its own source code
 - [VRWorkout](https://github.com/mgschwan/VRWorkout): Virtual reality workout game for Oculus Quest.
 - [Nintendo DS](https://www.copetti.org/projects/consoles/nintendo-ds/)
@@ -1736,6 +1752,7 @@
 - [OpenSpiel](https://github.com/deepmind/open_spiel): A Framework for Reinforcement Learning in Games.
 - [Random maze from Entombed](https://medium.com/codex/random-maze-from-entombed-8bb3b34e8f9b): A mysterious algorithm from Atari 2600 to Commodore 64.
 - [Entombed](https://programming-journal.org/2019/3/4/): An archaeological examination of an [Atari 2600 game](https://en.wikipedia.org/wiki/Entombed_(Atari_2600)).
+- [MarkovJunior](https://github.com/mxgmn/MarkovJunior): Probabilistic PL based on pattern matching and constraint propagation, 148 examples.
 
 ## Writing Articles
 
@@ -1809,6 +1826,7 @@
 - [How Zoom Works](https://builtformars.co.uk/how-zoom-works/)
 - [Laws of UX](https://lawsofux.com/)
 - [Accessibility resources](https://github.com/ediblecode/accessibility-resources): A curated list of accessibility resources.
+- [Insanely Useful Websites](https://www.insanelyusefulwebsites.com/)
 
 ### web
 
@@ -1869,6 +1887,7 @@
 - [Anyone can use this powerful facial-recognition tool — and that's a problem](https://edition.cnn.com/2021/05/04/tech/pimeyes-facial-recognition/index.html)
 - [The Instagram ads Facebook won't show you](https://signal.org/blog/the-instagram-ads-you-will-never-see/)
 - [Image "Cloaking" for Personal Privacy](https://sandlab.cs.uchicago.edu/fawkes/). [Fawkes: Protecting Privacy against Unauthorized Deep Learning Models](http://people.cs.uchicago.edu/~ravenben/publications/pdf/fawkes-usenix20.pdf)
+- [Your Echos are Heard: Tracking, Profiling, and Ad Targeting in the Amazon Smart Speaker Ecosystem](https://arxiv.org/abs/2204.10920)
 
 ## Philosophy
 
@@ -1982,6 +2001,7 @@
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.
 - [Cloud security architect, focused in Azure](https://twitter.com/jotunvillur/status/1365355765016453121)
 - [Ninja Jobs](https://ninjajobs.org/)
+- [GitHub Résumé](https://github.com/resume/resume.github.com)
 
 ## General Fun
 
@@ -2028,6 +2048,7 @@
 - [Euler’s 243-Year-Old ‘Impossible’ Puzzle Gets a Quantum Solution](https://www.quantamagazine.org/eulers-243-year-old-impossible-puzzle-gets-a-quantum-solution-20220110/)
 - [Psychedelic frees up depressed brain, study shows](https://www.bbc.com/news/health-61070591)
 - [What Le Corbusier got right about office space](https://timharford.com/2022/04/what-le-corbusier-got-right-about-office-space/)
+- [Regular Blood Donations Can Reduce Toxic Forever Chemicals in the Bloodstream: Study](https://theswaddle.com/regular-blood-donations-can-reduce-toxic-forever-chemicals-in-the-bloodstream-study/)
 
 ### 2021
 
@@ -2183,6 +2204,7 @@
 - [Mamont's open FTP Index](http://www.mmnt.net/): a lot of open FTPs!!!
 - [📚 Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 - (pt-br) [Conteúdo gratuito](https://github.com/perifacode/conteudo-gratuito).
+- [Over 1950 pixel-perfect icons for web design](https://tabler-icons.io/)
 
 ## Catastrophes
 
