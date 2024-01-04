@@ -83,6 +83,9 @@
 - [PostgreSQL beginner guide](https://knowledgepill.it/posts/postgresql-basics-guide/)- connecting, remote access, psql CLI and troubleshooting connection
 - [Fuzzy Name Matching in Postgres](https://info.crunchydata.com/blog/fuzzy-name-matching-in-postgresql)
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse): is a free analytics DBMS for big data.
+- [Text2SQL](https://github.com/yashbonde/text2sql): Convert natural language query to appropriate SQL, make ERPs cool again.
+- [ln2sql](https://github.com/FerreroJeremy/ln2sql): A tool to query a database in natural language.
+- [ln2sqlmodule](https://github.com/rupinder1133/ln2sqlmodule):  ln2sql as a python package.
 
 ### Networks
 
@@ -554,6 +557,7 @@
 - [UML Tools for Python](http://sungsoo.github.io/2018/03/21/uml-tools-for-python.html)
 - [Monolith -> Services: Theory & Practice](https://medium.com/@kentbeck_7670/monolith-services-theory-practice-617e4546a879)
 - [Why UML "Really" Died](https://buttondown.email/hillelwayne/archive/why-uml-really-died/)
+- [Sequence diagrams, the only good thing UML brought to software development](https://www.mermaidchart.com/blog/posts/sequence-diagrams-the-good-thing-uml-brought-to-software-development)
 
 ---
 
@@ -639,6 +643,7 @@
 - [Unikernels](https://dl.acm.org/citation.cfm?id=3321445): The Next Stage of Linux's Dominance
 - [How the ARM32 kernel starts](https://people.kernel.org/linusw/how-the-arm32-kernel-starts)
 - [An introduction to lockless algorithms](https://lwn.net/Articles/844224/)
+- [The case of the overly anonymous anon_vma](https://lwn.net/Articles/383162/)
 
 ### Memory
 
@@ -670,6 +675,7 @@
 - [FASTER](https://github.com/Microsoft/FASTER): Fast key-value store from Microsoft Research
 - [porcupine](https://github.com/anishathalye/porcupine/): A fast linearizability checker written in Go
 - [DrTLAPlus](https://github.com/tlaplus/DrTLAPlus/):  learn an algorithm and protocol, study a specification
+- [White Rabbit](https://ohwr.org/project/white-rabbit/wikis/home): White Rabbit provides sub-nanosecond accuracy and picoseconds precision of synchronization for large distributed systems.
 
 ## Pattern Recognition
 
@@ -744,8 +750,9 @@
 - [Foldable Words](http://bit-player.org/2021/foldable-words)
 - [entity-embed](https://github.com/vintasoftware/entity-embed/): Transform entities like companies, products, etc. into vectors to support scalable Record Linkage / Entity Resolution using Approximate Nearest Neighbors.
 - [OpenAI’s GPT-3 Can Now Generate The Code For You](https://analyticsindiamag.com/open-ai-gpt-3-code-generator-app-building/)
+- [nanoGPT](https://github.com/karpathy/nanoGPT): The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [PromptSource](https://github.com/bigscience-workshop/promptsource)
-- [PatrickStar](https://github.com/Tencent/PatrickStar): enables Larger, Faster, Greener Pretrained Models for NLP and democratizes AI for everyone. 
+- [PatrickStar](https://github.com/Tencent/PatrickStar): enables Larger, Faster, Greener Pretrained Models for NLP and democratizes AI for everyone.
 
 #### Dictionaries
 
@@ -819,7 +826,7 @@
 - [Inside TikTok's killer algorithm](https://www.axios.com/inside-tiktoks-killer-algorithm-52454fb2-6bab-405d-a407-31954ac1cf16.html)
 - [Audiovisual Speech Enhancement in YouTube Stories](https://ai.googleblog.com/2020/10/audiovisual-speech-enhancement-in.html)
 - [UCI Machine Learning Repository: Data Sets](https://archive.ics.uci.edu/ml/datasets.php)
-- [DeepSpeech](https://github.com/mozilla/DeepSpeech): is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers. 
+- [DeepSpeech](https://github.com/mozilla/DeepSpeech): is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [vosk-api](https://github.com/alphacep/vosk-api): Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node.
 - [open source speech recognition toolkit](https://cmusphinx.github.io/)
 - [Transfer Learning](https://github.com/jindongwang/transferlearning): Everything about Transfer Learning and Domain Adaptation--迁移学习
@@ -861,7 +868,9 @@
 - [AffectiveSpotlight](https://www.microsoft.com/en-us/research/publication/affectivespotlight-facilitating-the-communication-of-affective-responses-from-audience-members-during-online-presentations/): Facilitating the Communication of Affective Responses from Audience Members during Online Presentations.
 - [An Overview of Deep-Learning-Based Audio-Visual Speech Enhancement and Separation](https://arxiv.org/abs/2008.09586)
 - [Advancing mathematics by guiding human intuition with AI](https://www.nature.com/articles/s41586-021-04086-x)
-- [CIPS-3D](https://github.com/PeterouZh/CIPS-3D): 3D-aware GANs based on NeRF (arXiv). 
+- [CIPS-3D](https://github.com/PeterouZh/CIPS-3D): 3D-aware GANs based on NeRF (arXiv).
+- [“Low-Resource” Text Classification: A Parameter-Free Classification Method with Compressors](https://aclanthology.org/2023.findings-acl.426.pdf)
+- [NIST Identifies Types of Cyberattacks That Manipulate Behavior of AI Systems](https://www.nist.gov/news-events/news/2024/01/nist-identifies-types-cyberattacks-manipulate-behavior-ai-systems) [doi.org/10.6028/NIST.AI.100-2e2023](https://csrc.nist.gov/pubs/ai/100/2/e2023/final)
 
 ### Neural Networks
 
@@ -901,6 +910,8 @@
 - [Run Stable Diffusion on your M1 Mac’s GPU](https://replicate.com/blog/run-stable-diffusion-on-m1-mac).
 - [1 week of Stable Diffusion](https://multimodal.art/news/1-week-of-stable-diffusion)
 - [Exploring 12 Million of the 2.3 Billion Images Used to Train Stable Diffusion’s Image Generator](https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/)
+- [VALL-E](https://valle-demo.github.io/): Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.
+- [ OpenLLaMA](https://huggingface.co/openlm-research/open_llama_13b_easylm): An Open Reproduction of LLaMA.
 
 ### Computer Vision
 
@@ -936,6 +947,7 @@
 - [gradslam](https://github.com/gradslam/gradslam): gradslam is an open source differentiable dense SLAM library for PyTorch
 - [Facial Features Recognition](https://github.com/arthurfortes/facial-features-recognition): Face Mesh is a face geometry solution that estimates 468 3D face landmarks in real-time even on mobile devices.
 - [fiftyone](https://github.com/voxel51/fiftyone): The open-source tool for building high-quality datasets and computer vision models
+- [Image Stacks and iPhone Racks - Building an Internet Scale Meme Search Engine](https://findthatmeme.com/blog/2023/01/08/image-stacks-and-iphone-racks-building-an-internet-scale-meme-search-engine-Qzrz7V6T.html)
 
 ### Python DL
 
@@ -1404,6 +1416,7 @@
 - [libvips](https://github.com/libvips/libvips): A fast image processing library with low memory needs.
 - [Continuous Shading of Curved Surfaces](https://ieeexplore.ieee.org/abstract/document/1671906)
 - [Noise in Creative Coding](https://varun.ca/noise/)
+- [Notes on FFTs](https://fgiesen.wordpress.com/2023/03/19/notes-on-ffts-for-implementers/): for implementers
 
 ### Fun
 
@@ -1466,6 +1479,7 @@
 
 - [gqrx](https://gqrx.dk/): is an open source software defined radio receiver (SDR) powered by the GNU Radio and the Qt graphical toolkit. [Gqrx](https://github.com/csete/gqrx)
 - [The Galmon GNSS Monitoring Project](https://galmon.eu/): Our goals are to monitor the major Global Navigation Satellite Systems, including GPS, GLONASS, Galileo and BeiDou, but also Space Base Augmentation Systems like WAAS, EGNOS and GAGAN. [Tantalizing Galileo High Accuracy Service](https://twitter.com/GalileoSats/status/1396845558850015237)
+- [Open Source Monitoring of Navigation Systems](https://galmon.eu/). code: [galmon](https://github.com/berthubert/galmon)
 
 ### Astronomy
 
@@ -1572,6 +1586,8 @@
 - [Seraphim](http://evolve.zoo.ox.ac.uk/Evolve/Seraphim.html): Studying Environmental Rasters And PHylogenetically Informed Movements. [seraphim](https://github.com/evogytis/baltic) is a R package for studying environmental rasters and phylogenetic informed movements
 - [Incredible time-lapse shows a single cell transforming into a salamander](https://www.nationalgeographic.com/animals/article/time-lapse-film-shows-salamander-development)
 - [Got food cravings? What’s living in your gut may be responsible](https://www.pitt.edu/pittwire/features-articles/food-cravings-pitt-study)
+- [The aerodynamics of Argentavis, the world's largest flying bird from the Miocene of Argentina](https://www.pnas.org/doi/10.1073/pnas.0702040104)
+- [Weeklong improved colour contrasts sensitivity after single 670 nm exposures associated with enhanced mitochondrial function](https://www.nature.com/articles/s41598-021-02311-1): Mitochondrial decline in ageing robs cells of ATP. However, animal studies show that long wavelength exposure (650–900 nm) over weeks partially restores ATP and improves function. The likely mechanism is via long wavelengths reducing nanoscopic interfacial water viscosity around ATP rota pumps, improving their efficiency. Recently, repeated 670 nm exposures have been used on the aged human retina, which has high-energy demands and significant mitochondrial and functional decline, to improve vision. We show here that single 3 min 670 nm exposures, at much lower energies than previously used, are sufficient to significantly improve for 1 week cone mediated colour contrast thresholds (detection) in ageing populations (37–70 years) to levels associated with younger subjects. But light needs to be delivered at specific times. In environments with artificial lighting humans are rarely dark-adapted, hence cone function becomes critical. This intervention, demonstrated to improve aged mitochondrial function can be applied to enhance colour vision in old age.
 
 ## Geography
 
@@ -1590,6 +1606,8 @@
 - [ærialbot](https://github.com/doersino/aerialbot): A simple yet highly configurable bot that tweets geotagged aerial imagery of a random location in the world.
 - [uk-hex-cartograms-noncontiguous](https://github.com/houseofcommonslibrary/uk-hex-cartograms-noncontiguous): Geographical templates for non-contiguous cartograms of the UK.
 - [Acquire and Analyze Weather and Climate Data with Python and Tableau](https://towardsdatascience.com/acquire-and-analyze-weather-and-climate-data-with-python-and-tableau-4878e8759152)
+- [Europe's Lost World (And The Megaflood That Ended It)](https://everythingisamazing.substack.com/p/europes-lost-world-and-the-megaflood), [In Search Of A Flood Like No Other](https://everythingisamazing.substack.com/p/in-search-of-a-flood-like-no-other)
+- [Maps Distort How We See the World](https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world)
 
 ## History
 
@@ -1754,6 +1772,12 @@
 - [Random maze from Entombed](https://medium.com/codex/random-maze-from-entombed-8bb3b34e8f9b): A mysterious algorithm from Atari 2600 to Commodore 64.
 - [Entombed](https://programming-journal.org/2019/3/4/): An archaeological examination of an [Atari 2600 game](https://en.wikipedia.org/wiki/Entombed_(Atari_2600)).
 - [MarkovJunior](https://github.com/mxgmn/MarkovJunior): Probabilistic PL based on pattern matching and constraint propagation, 148 examples.
+- [DualShock4 Reverse Engineering - Part 1](https://blog.the.al/2023/01/01/ds4-reverse-engineering.html)
+- [Links Awakening DX Disassembly](https://github.com/zladx/LADX-Disassembly): Disassembly of Legend of Zelda: Links Awakening DX.
+- [MUNCHKIN'S RESOURCES](https://www.reddit.com/r/Munchkin/wiki/index/resources/), [Printable Character Mats](https://www.reddit.com/r/Munchkin/comments/xf1k63/printable_character_mats/)
+- [Zelda 3 in C](https://github.com/snesrev/zelda3): A reimplementation of Zelda 3.
+- [Comparative Study of Anti-cheat Methods in Video Games](https://helda.helsinki.fi/bitstream/handle/10138/313587/Anti_cheat_for_video_games_final_07_03_2020.pdf) by Samuli Lehtonen
+- [Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia): Multiplayer top-down shooter made from scratch. Comes with an in-game Editor!
 
 ## Writing Articles
 
@@ -1765,7 +1789,7 @@
 - [Tips and Tricks for Writing Scientific Papers](https://github.com/Wookai/paper-tips-and-tricks): Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.
 - (pt-br) [uma TESE são “só” 5 coisas…](https://boletim.de/silvio/uma-tese-sao-so-5-coisas/)
 - [Using Microsoft Word with git](https://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/)
-- [ markdown-labtemplate](https://github.com/joswr1ght/markdown-labtemplate): Template for writing labs in Markdown with emphasis on print and electronic access, style.
+- [markdown-labtemplate](https://github.com/joswr1ght/markdown-labtemplate): Template for writing labs in Markdown with emphasis on print and electronic access, style.
   
 ## Teaching
 
@@ -2003,6 +2027,7 @@
 - [Cloud security architect, focused in Azure](https://twitter.com/jotunvillur/status/1365355765016453121)
 - [Ninja Jobs](https://ninjajobs.org/)
 - [GitHub Résumé](https://github.com/resume/resume.github.com)
+- [OpenResume](https://www.open-resume.com/) Create a professional resume easily with this free, open-source, and powerful [resume builder](https://github.com/xitanggg/open-resume).
 
 ## General Fun
 
@@ -2043,6 +2068,11 @@
 - [Hardened wood as a renewable alternative to steel and plastic](https://www.cell.com/matter/fulltext/S2590-2385(21)00465-3)
 
 ## News
+
+### 2023
+
+- [Crisis over the Atlantic: The near crash of Air Transat flight 236](https://admiralcloudberg.medium.com/crisis-over-the-atlantic-the-near-crash-of-air-transat-flight-236-671d3a0c4b04)
+- [Exclusive: Surveillance Footage of Tesla Crash on SF’s Bay Bridge Hours After Elon Musk Announces “Self-Driving” Feature](https://theintercept.com/2023/01/10/tesla-crash-footage-autopilot/)
 
 ### 2022
 
