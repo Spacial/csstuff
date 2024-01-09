@@ -410,6 +410,7 @@
   - [Getting Started with Haskell on Fedora](https://fedoramagazine.org/getting-started-with-haskell-on-fedora/)
 - Java:
   - [Procyon](https://github.com/mstrobel/procyon): is a suite of Java metaprogramming tools, including a rich reflection API, a LINQ-inspired expression tree API for runtime code generation, and a Java decompiler.
+  - [1brc](https://github.com/gunnarmorling/1brc): [The One Billion Row Challenge](https://www.morling.dev/blog/one-billion-row-challenge/) -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
 - JavaScript:
   - [The JavaScript Handbook](https://jshandbook.com/)
   - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms): Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
@@ -2051,6 +2052,9 @@
 
 ## Articles and Papers
 
+- [The Accidental Altruist: Inferring Altruism from an Extraterrestrial Signal](https://link.springer.com/chapter/10.1007/978-3-642-37750-1_9)
+- [Interstellar communication. IX. Message decontamination is impossible](https://arxiv.org/abs/1802.02180) [Schneier post](https://www.schneier.com/blog/archives/2018/03/malware_from_sp.html)
+- [Are We Living in a Computer Simulation?](https://academic.oup.com/pq/article-abstract/53/211/243/1610975)
 - [[1811.03678] Embracing the Laws of Physics: Three Reversible Models of Computation](https://arxiv.org/abs/1811.03678)
 - [BrainNet](https://arxiv.org/abs/1809.08632): A Multi-Person Brain-to-Brain Interface for Direct Collaboration Between Brains
 - [Bullets.tech](https://bullets.tech/):Notes for busy minds. We read articles and create short notes on their basis. That's all. 🤗
