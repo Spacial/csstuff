@@ -711,6 +711,7 @@
 - [ant_sugar](https://github.com/dg92/ant_sugar): Genetic Algorithms, Mutation, Crossover, Mating, Particle Animation, Gaming, Learning, P5JS, Fun Project
 - [Introduction to Genetic Algorithms](https://blog.floydhub.com/introduction-to-genetic-algorithms/)
 - (pt-br) [A lot of stuff about Genetic Algorithms](https://www.inf.ufpr.br/aurora/disciplinas/topicosia2/aulas/) [plan](https://folivetti.github.io/courses/BioInspirada/2021/plano.pdf)
+- [HTML5 Genetic Cars](https://rednuht.org/genetic_cars_2/): The program uses a simple genetic algorithm to evolve random two-wheeled shapes into cars over generations. Loosely based on BoxCar2D, but written from scratch, only using the same physics engine (box2d). seedrandom.js written by David Bau.
 
 ### Natural Language Processing
 
@@ -1779,6 +1780,7 @@
 - [Zelda 3 in C](https://github.com/snesrev/zelda3): A reimplementation of Zelda 3.
 - [Comparative Study of Anti-cheat Methods in Video Games](https://helda.helsinki.fi/bitstream/handle/10138/313587/Anti_cheat_for_video_games_final_07_03_2020.pdf) by Samuli Lehtonen
 - [Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia): Multiplayer top-down shooter made from scratch. Comes with an in-game Editor!
+- [Inside the Super Nintendo cartridges](https://fabiensanglard.net/snes_carts/index.html)
 
 ## Writing Articles
 
