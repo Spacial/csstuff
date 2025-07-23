@@ -179,6 +179,21 @@
 
 - [public-apis](https://github.com/toddmotto/public-apis): A collective list of public JSON APIs for use in web development.
 
+#### Debbugger
+
+- GDB:
+  - [Debugging with GDB](https://sourceware.org/gdb/current/onlinedocs/gdb)
+  - [gdbgui](https://github.com/cs01/gdbgui/): Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
+  - [Controlling GDB](https://sourceware.org/gdb/current/onlinedocs/gdb/Controlling-GDB.html)
+  - [How to look at the stack with gdb](https://jvns.ca/blog/2021/05/17/how-to-look-at-the-stack-in-gdb/)
+  - [Search Memory With GDB Find](https://thachmpham.github.io/html/gdb-find.html)
+  - [Examining the Stack](https://web.mit.edu/gnu/doc/html/gdb_8.html)
+  - [GDB Breakpoints by Example](http://www.gdbtutorial.com/gdb-breakpoints-example#breakpoint-method-6)
+  - [Scripting GDB ](https://sdimitro.github.io/post/scripting-gdb/)
+  - [PEDA](https://github.com/longld/peda):  Python Exploit Development Assistance for GDB
+  - [GDB - An advanced guide](https://cotonne.github.io/gdb/2019/07/28/gdb-advanced-guide.html)
+  - pwn.college: [Debugging Refresher](https://dvvyn.medium.com/pwn-college-debugging-refresher-153ee38679b8)
+
 #### Assembly
 
 - [x86-64 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/~ed/x86.html) By Ed Jorgensen
@@ -190,6 +205,16 @@
 - [Polyglot Assembly](https://vojtechkral.github.io/blag/polyglot-assembly/): Writing assembly code that runs on multiple architectures.
 - [x86 Assembly/Control Flow](https://en.wikibooks.org/wiki/X86_Assembly/Control_Flow)
 - [Online Assembler - NASM Compiler IDE](https://www.jdoodle.com/compile-assembler-nasm-online/)
+- [syscall.sh](https://x64.syscall.sh/)
+- [Linux System Call Table for x86 64](http://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/)
+- [The Definitive Guide to Linux System Calls](https://blog.packagecloud.io/the-definitive-guide-to-linux-system-calls/)
+- Sockets:
+  - [x86 Linux Bind TCP Shellcode](https://medium.com/@pop_eip/x86-linux-bind-tcp-shellcode-1dc63635ba4f)
+  - [Creating Linux x86 bind shell in Assembly](https://mosunit.com/?p=482)
+  - [Linux Bind Shell in Assembly](https://www.scip.ch/en/?labs.20200521): A Walkthrough
+  - [Linux bind shell in assembly](https://smarinovic.github.io/posts/Bind-shell/)
+  - [Writing a Bind Shell in x86 Assembly Language](https://badbit.vc/index.php/2020/08/22/writing-a-linux-bind-shell-in-asm-x86/)
+  - [Lec. 15: Socket Programming in Assembly](http://ansonliu.com/si485-site/lec/15/lec.html)
 
 #### C/C++
 
