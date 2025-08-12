@@ -179,6 +179,21 @@
 
 - [public-apis](https://github.com/toddmotto/public-apis): A collective list of public JSON APIs for use in web development.
 
+#### Debbugger
+
+- GDB:
+  - [Debugging with GDB](https://sourceware.org/gdb/current/onlinedocs/gdb)
+  - [gdbgui](https://github.com/cs01/gdbgui/): Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
+  - [Controlling GDB](https://sourceware.org/gdb/current/onlinedocs/gdb/Controlling-GDB.html)
+  - [How to look at the stack with gdb](https://jvns.ca/blog/2021/05/17/how-to-look-at-the-stack-in-gdb/)
+  - [Search Memory With GDB Find](https://thachmpham.github.io/html/gdb-find.html)
+  - [Examining the Stack](https://web.mit.edu/gnu/doc/html/gdb_8.html)
+  - [GDB Breakpoints by Example](http://www.gdbtutorial.com/gdb-breakpoints-example#breakpoint-method-6)
+  - [Scripting GDB ](https://sdimitro.github.io/post/scripting-gdb/)
+  - [PEDA](https://github.com/longld/peda):  Python Exploit Development Assistance for GDB
+  - [GDB - An advanced guide](https://cotonne.github.io/gdb/2019/07/28/gdb-advanced-guide.html)
+  - pwn.college: [Debugging Refresher](https://dvvyn.medium.com/pwn-college-debugging-refresher-153ee38679b8)
+
 #### Assembly
 
 - [x86-64 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/~ed/x86.html) By Ed Jorgensen
@@ -190,6 +205,16 @@
 - [Polyglot Assembly](https://vojtechkral.github.io/blag/polyglot-assembly/): Writing assembly code that runs on multiple architectures.
 - [x86 Assembly/Control Flow](https://en.wikibooks.org/wiki/X86_Assembly/Control_Flow)
 - [Online Assembler - NASM Compiler IDE](https://www.jdoodle.com/compile-assembler-nasm-online/)
+- [syscall.sh](https://x64.syscall.sh/)
+- [Linux System Call Table for x86 64](http://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/)
+- [The Definitive Guide to Linux System Calls](https://blog.packagecloud.io/the-definitive-guide-to-linux-system-calls/)
+- Sockets:
+  - [x86 Linux Bind TCP Shellcode](https://medium.com/@pop_eip/x86-linux-bind-tcp-shellcode-1dc63635ba4f)
+  - [Creating Linux x86 bind shell in Assembly](https://mosunit.com/?p=482)
+  - [Linux Bind Shell in Assembly](https://www.scip.ch/en/?labs.20200521): A Walkthrough
+  - [Linux bind shell in assembly](https://smarinovic.github.io/posts/Bind-shell/)
+  - [Writing a Bind Shell in x86 Assembly Language](https://badbit.vc/index.php/2020/08/22/writing-a-linux-bind-shell-in-asm-x86/)
+  - [Lec. 15: Socket Programming in Assembly](http://ansonliu.com/si485-site/lec/15/lec.html)
 
 #### C/C++
 
@@ -200,7 +225,6 @@
   - [Persistent Memory Development Kit](https://github.com/pmem/pmdk)
   - The [memkind](https://github.com/memkind/memkind) library is a user extensible heap manager built on top of jemalloc which enables control of memory characteristics and a partitioning of the heap between kinds of memory.
 - [MODERN C++ FOR C PROGRAMMERS: PART 1](https://ds9a.nl/articles/posts/c++-1/) has [PART 5](https://ds9a.nl/articles/posts/cpp-5/) already.
-- [gdbgui](https://github.com/cs01/gdbgui/): Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines): The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 - [What’s the difference between an integer and a pointer?](https://blog.regehr.org/archives/1621)
 - [Lifetime profile v1.0 posted](https://herbsutter.com/2018/09/20/lifetime-profile-v1-0-posted/)
@@ -254,7 +278,6 @@
 - [C Playground](https://cplayground.com/)
 - [Checked C](https://github.com/microsoft/checkedc) is an extension to C that adds checking to detect or prevent common programming errors such as buffer overruns and out-of-bounds memory accesses. This repo has a wiki for Checked C, sample code, the specification, and test code.
 - [datatype99](https://github.com/Hirrolot/datatype99): Algebraic data types for C99
-- [Controlling GDB](https://sourceware.org/gdb/current/onlinedocs/gdb/Controlling-GDB.html)
 - [Using Zig and Translate-C to understand weird C code](https://zig.news/sobeston/using-zig-and-translate-c-to-understand-weird-c-code-4f8)
 - [libtcod](https://github.com/libtcod/libtcod): The official repository for libtcod. A roguelike development library.
 
@@ -705,6 +728,7 @@
 - [Jina](https://github.com/jina-ai/jina): Cloud-native neural search framework for any kind of data. 
 - [The AI Wolf That Preferred Suicide Over Eating Sheep](https://onezero.medium.com/the-ai-wolf-that-preferred-suicide-over-eating-sheep-49edced3c710)
 - [Network Protocol Classification with Random Forests](https://www.youtube.com/watch?v=YpzJ4kik8PY)
+- [Primers • AI](https://aman.ai/primers/ai/): Here’s a hand-picked selection of articles on AI fundamentals/concepts that cover the entire process of building neural nets to training them to evaluating results.
 
 ### Genetic Algorithms
 
@@ -914,6 +938,7 @@
 - [Exploring 12 Million of the 2.3 Billion Images Used to Train Stable Diffusion’s Image Generator](https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/)
 - [VALL-E](https://valle-demo.github.io/): Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.
 - [ OpenLLaMA](https://huggingface.co/openlm-research/open_llama_13b_easylm): An Open Reproduction of LLaMA.
+- [Deep Learning is Applied Topology](https://theahura.substack.com/p/deep-learning-is-applied-topology)
 
 ### Computer Vision
 
@@ -1071,6 +1096,7 @@
 - [Graphical Linear Algebra](https://graphicallinearalgebra.net/)
 - [ILLUSTRATING GEOMETRY](https://www.cs.cmu.edu/~kmcrane/IllustratingGeometry.pdf)
 - [What is the Inverse of a Vector?](https://mattferraro.dev/posts/geometric-algebra)
+- [A pilot project in universal algebra to explore new ways to collaborate and use machine assistance?](https://terrytao.wordpress.com/2024/09/25/a-pilot-project-in-universal-algebra-to-explore-new-ways-to-collaborate-and-use-machine-assistance/)
 
 ### Matrices
 
@@ -1829,6 +1855,7 @@
 - [DevChallenge](https://github.com/Lorenalgm/DevChallenge): A website for developers to improve their skills by doing front-end and back-end challenges
 - (pt-br) [Free IT Courses](https://github.com/alinebastos/free-courses)
 - (pt-br) [Rupturas, atuais e futuras, no Ensino Superior](https://silvio.meira.com/silvio/rupturas-atuais-e-futuras-no-ensino-superior/)
+- [WordPecker App](https://github.com/baturyilmaz/wordpecker-app): A personalized language-learning tool that combines Duolingo-style lessons with your own curated vocabulary lists. Seamlessly add words from books, articles, or videos, and revisit them through interactive quizzes and LLM-generated lessons. 
 
 ### Writing
 
@@ -2074,6 +2101,11 @@
 - [Hardened wood as a renewable alternative to steel and plastic](https://www.cell.com/matter/fulltext/S2590-2385(21)00465-3)
 
 ## News
+
+### 2025
+
+- [Three Netflix What-Ifs: Bezos, Arnault and Blockbuster](https://www.readtrung.com/p/three-netflix-what-ifs-bezos-arnault)
+- [Spanish mathematician Javier Gómez Serrano and Google DeepMind team up to solve the Navier-Stokes million-dollar problem](https://english.elpais.com/science-tech/2025-06-24/spanish-mathematician-javier-gomez-serrano-and-google-deepmind-team-up-to-solve-the-navier-stokes-million-dollar-problem.html)
 
 ### 2023
 
