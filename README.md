@@ -393,6 +393,7 @@
 - [RustPython](https://github.com/RustPython/RustPython)A Python Interpreter written in Rust
 - [Arrow](https://arrow.readthedocs.io/en/latest/): Better dates & times for Python
 - [Yet Another Roguelike Tutorial - Written in Python 3 and TCOD](http://rogueliketutorials.com/tutorials/tcod/v2/). [python-tcod](https://github.com/libtcod/python-tcod): A high-performance Python port of libtcod. Includes the libtcodpy module for backwards compatibility with older projects. 
+- [The future of Python web services looks GIL-free](https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free)
 
 ##### Presentations
 
@@ -660,6 +661,7 @@
 - [KTF](https://github.com/awslabs/ktf)- Kernel Test Framework.
 - [A Requiem for a Dying Operating System](https://user.eng.umd.edu/~blj/funny/requium.html) or The Conquerer Has No Clothes.
 - [LearnOS](https://github.com/dhavalhirdhav/LearnOS): This is one of my long awaited project on learning to develop an Operating System.
+- [How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)
 
 ### Linux Kernel
 
@@ -937,8 +939,10 @@
 - [1 week of Stable Diffusion](https://multimodal.art/news/1-week-of-stable-diffusion)
 - [Exploring 12 Million of the 2.3 Billion Images Used to Train Stable Diffusion’s Image Generator](https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/)
 - [VALL-E](https://valle-demo.github.io/): Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.
-- [ OpenLLaMA](https://huggingface.co/openlm-research/open_llama_13b_easylm): An Open Reproduction of LLaMA.
+- [OpenLLaMA](https://huggingface.co/openlm-research/open_llama_13b_easylm): An Open Reproduction of LLaMA.
 - [Deep Learning is Applied Topology](https://theahura.substack.com/p/deep-learning-is-applied-topology)
+- [Wan](https://github.com/Wan-Video/Wan2.2): Open and Advanced Large-Scale Video Generative Models
+- [Who invented deep residual learning?](https://people.idsia.ch/~juergen/who-invented-residual-neural-networks.html)
 
 ### Computer Vision
 
@@ -1364,6 +1368,7 @@
 - [8 things school doesn’t teach you about data visualization.](https://twitter.com/evergreendata/status/1471519676039581700)
 - [PyData Global 2021: Top 5 Highlights for the Python, Data Science and Dask Lover](https://coiled.io/blog/pydata-global-2021-top-5-highlights-for-the-python-data-science-and-dask-lover/)
 - [Lazy man's way to good looking charts](https://www.data21.io/blog/lazy-mans-way-to-good-looking-charts/)
+- [Picturing Mathematics](https://mathenchant.wordpress.com/2025/10/18/picturing-mathematics/)
 
 ### Calculus
 
@@ -1616,6 +1621,7 @@
 - [Got food cravings? What’s living in your gut may be responsible](https://www.pitt.edu/pittwire/features-articles/food-cravings-pitt-study)
 - [The aerodynamics of Argentavis, the world's largest flying bird from the Miocene of Argentina](https://www.pnas.org/doi/10.1073/pnas.0702040104)
 - [Weeklong improved colour contrasts sensitivity after single 670 nm exposures associated with enhanced mitochondrial function](https://www.nature.com/articles/s41598-021-02311-1): Mitochondrial decline in ageing robs cells of ATP. However, animal studies show that long wavelength exposure (650–900 nm) over weeks partially restores ATP and improves function. The likely mechanism is via long wavelengths reducing nanoscopic interfacial water viscosity around ATP rota pumps, improving their efficiency. Recently, repeated 670 nm exposures have been used on the aged human retina, which has high-energy demands and significant mitochondrial and functional decline, to improve vision. We show here that single 3 min 670 nm exposures, at much lower energies than previously used, are sufficient to significantly improve for 1 week cone mediated colour contrast thresholds (detection) in ageing populations (37–70 years) to levels associated with younger subjects. But light needs to be delivered at specific times. In environments with artificial lighting humans are rarely dark-adapted, hence cone function becomes critical. This intervention, demonstrated to improve aged mitochondrial function can be applied to enhance colour vision in old age.
+- [Wageningen University & Research Image Collections](https://images.wur.nl/digital/collection/coll13/search) offers an overview of image collections from Wageningen University & Research units. You can search each collection separately, or perform searches on all collections at once. Plants & Root System Drawings.
 
 ## Geography
 
