@@ -2025,6 +2025,7 @@
 - [ADIDAS](https://careers.adidas-group.com/jobs): Adidas jobs page.
 - [CodingInterviews](https://github.com/jayshah19949596/CodingInterviews): This repository contains coding interviews that I have encountered in company interviews
 - [Steve Blank How to Keep Your Job As Your Company Grows](https://steveblank.com/2018/11/13/its-not-change-you-fear-its-loss/)
+- [ResumeAI](https://withresumeai.com/): Free ATS resume checker (3/day anonymous, 10/day free account) and open [State of ATS 2026](https://github.com/Kayvan-Zahiri/state-of-ats-2026) dataset (738 employers, 704 portal-verified; Workday 37.9%).
 - [CV Compiler](https://cvcompiler.com/): We analyzed 1M tech resumes to create an online revision tool that would scan your dev resume and indicate its weak points in real time.
 - [Siemens Careers](https://jobs.siemens-info.com/)
 - [Scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
